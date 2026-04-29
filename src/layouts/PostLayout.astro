@@ -1,0 +1,63 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import Sidebar from '../components/Sidebar.astro';
+
+interface Props {
+  title: string;
+  date: string;
+  categories: string[];
+  tags: string[];
+  eyecatch?: string;
+  excerpt?: string;
+  lang?: string;
+}
+
+const { title, date, categories, tags, eyecatch, excerpt, lang = 'ja' } = Astro.props;
+
+const catNames: Record<string, string> = {
+  'blog-sidejob': 'ブログ運営と副業',
+  'life-with-momiji': 'もみじと暮らす',
+  'prepared-life': '備えと暮らし',
+  'healing-walks': '癒しと散策',
+  'society-issues-thoughts': '社会・時事・思考',
+  'shumi-taiken-etc': '趣味・体験・その他',
+  'food-nostalgia': '食と懐かしさ',
+};
+
+const formattedDate = new Date(date).toLocaleDateString('ja-JP', { year: 'numeric', month: 'long', day: 'numeric' });
+---
+<BaseLayout title={title} description={excerpt} ogImage={eyecatch} lang={lang}>
+  <div class="layout-wrap">
+    <article>
+      <header class="post-header">
+        <h1 class="post-title">{title}</h1>
+        <div class="post-meta">
+          <time datetime={date}>{formattedDate}</time>
+          {categories.map(cat => (
+            <a href={`/category/${cat}/`} class="cat-badge">{catNames[cat] || cat}</a>
+          ))}
+        </div>
+      </header>
+
+      {eyecatch && (
+        <div class="post-eyecatch">
+          <img src={eyecatch} alt={title} />
+        </div>
+      )}
+
+      <div class="post-content">
+        <slot />
+      </div>
+
+      {tags.length > 0 && (
+        <div class="tag-list">
+          {tags.map(tag => (
+            <span class="tag"><a href={`/tag/${tag}/`}>{tag}</a></span>
+          ))}
+        </div>
+      )}
+    </article>
+
+    <Sidebar />
+  </div>
+</BaseLayout>

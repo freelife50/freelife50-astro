@@ -1,0 +1,2 @@
+# WordPressのURLからAstroのURLへのリダイレクト（必要に応じて追加）
+# 例: /old-path/ /new-path/ 301

@@ -1,0 +1,57 @@
+---
+import { getCollection } from 'astro:content';
+
+const allPosts = await getCollection('blog');
+const published = allPosts.sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
+const recent = published.slice(0, 5);
+
+const categories = [
+  { slug: 'blog-sidejob', name: 'ブログ運営と副業', nameEn: 'Blogging & Side Hustles' },
+  { slug: 'life-with-momiji', name: 'もみじと暮らす', nameEn: 'Life with Momiji' },
+  { slug: 'prepared-life', name: '備えと暮らし', nameEn: 'Preparedness & Daily Life' },
+  { slug: 'healing-walks', name: '癒しと散策', nameEn: 'Healing & Walks' },
+  { slug: 'society-issues-thoughts', name: '社会・時事・思考', nameEn: 'Society, News & Reflections' },
+  { slug: 'shumi-taiken-etc', name: '趣味・体験・その他', nameEn: 'Hobbies, Experiences & More' },
+  { slug: 'food-nostalgia', name: '食と懐かしさ', nameEn: 'Food & Nostalgia' },
+];
+
+// カテゴリ別記事数
+const catCount: Record<string, number> = {};
+for (const post of published) {
+  for (const cat of post.data.categories) {
+    catCount[cat] = (catCount[cat] || 0) + 1;
+  }
+}
+---
+<aside class="sidebar">
+  <div class="sidebar-widget sidebar-search">
+    <h3>検索</h3>
+    <form action="/search/" method="get">
+      <input type="text" name="q" placeholder="キーワードを入力..." />
+    </form>
+  </div>
+
+  <div class="sidebar-widget">
+    <h3>最近の投稿</h3>
+    <ul>
+      {recent.map(post => (
+        <li>
+          <a href={`/${post.data.slug}/`}>{post.data.title}</a>
+        </li>
+      ))}
+    </ul>
+  </div>
+
+  <div class="sidebar-widget">
+    <h3>カテゴリ</h3>
+    <ul>
+      {categories.map(cat => (
+        <li>
+          <a href={`/category/${cat.slug}/`}>
+            {cat.name} ({catCount[cat.slug] || 0})
+          </a>
+        </li>
+      ))}
+    </ul>
+  </div>
+</aside>

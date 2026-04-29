@@ -1,0 +1,42 @@
+---
+interface Props {
+  title: string;
+  slug: string;
+  date: string;
+  categories: string[];
+  eyecatch?: string;
+  excerpt?: string;
+}
+
+const { title, slug, date, categories, eyecatch, excerpt } = Astro.props;
+
+const catNames: Record<string, string> = {
+  'blog-sidejob': 'ブログ運営と副業',
+  'life-with-momiji': 'もみじと暮らす',
+  'prepared-life': '備えと暮らし',
+  'healing-walks': '癒しと散策',
+  'society-issues-thoughts': '社会・時事・思考',
+  'shumi-taiken-etc': '趣味・体験・その他',
+  'food-nostalgia': '食と懐かしさ',
+};
+
+const formattedDate = new Date(date).toLocaleDateString('ja-JP', { year: 'numeric', month: 'long', day: 'numeric' });
+---
+<article class="post-card">
+  {eyecatch
+    ? <img class="post-card__thumb" src={eyecatch} alt={title} loading="lazy" />
+    : <div class="post-card__thumb-placeholder">No Image</div>
+  }
+  <div class="post-card__body">
+    <div class="post-card__meta">
+      <time datetime={date}>{formattedDate}</time>
+      {categories.map(cat => (
+        <a href={`/category/${cat}/`} class="cat-badge">{catNames[cat] || cat}</a>
+      ))}
+    </div>
+    <h2 class="post-card__title">
+      <a href={`/${slug}/`}>{title}</a>
+    </h2>
+    {excerpt && <p class="post-card__excerpt">{excerpt.slice(0, 100)}...</p>}
+  </div>
+</article>

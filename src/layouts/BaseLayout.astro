@@ -1,0 +1,72 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+  ogImage?: string;
+  lang?: string;
+}
+
+const { title, description = 'ラーメンとビールと時々ブログ | Ramen, Beer & Blog', ogImage, lang = 'ja' } = Astro.props;
+const siteTitle = 'ラーメンとビールと時々ブログ';
+const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
+
+const categories = [
+  { slug: 'blog-sidejob', name: 'ブログ運営と副業' },
+  { slug: 'life-with-momiji', name: 'もみじと暮らす' },
+  { slug: 'prepared-life', name: '備えと暮らし' },
+  { slug: 'healing-walks', name: '癒しと散策' },
+  { slug: 'society-issues-thoughts', name: '社会・時事・思考' },
+  { slug: 'shumi-taiken-etc', name: '趣味・体験・その他' },
+  { slug: 'food-nostalgia', name: '食と懐かしさ' },
+];
+---
+<!DOCTYPE html>
+<html lang={lang}>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{title === siteTitle ? title : `${title} | ${siteTitle}`}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={canonicalUrl} />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:url" content={canonicalUrl} />
+  <meta property="og:type" content="website" />
+  {ogImage && <meta property="og:image" content={new URL(ogImage, Astro.site)} />}
+  <meta name="twitter:card" content="summary_large_image" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <div class="site-title">
+        <a href="/">
+          {siteTitle}
+          <small>Ramen, Beer &amp; Blog</small>
+        </a>
+      </div>
+      <nav class="site-nav">
+        {categories.slice(0, 4).map(cat => (
+          <a href={`/category/${cat.slug}/`}>{cat.name}</a>
+        ))}
+      </nav>
+    </div>
+  </header>
+
+  <main class="page-main">
+    <div class="container">
+      <slot />
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>&copy; {new Date().getFullYear()} {siteTitle}</p>
+    </div>
+  </footer>
+</body>
+</html>
