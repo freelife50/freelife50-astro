@@ -6,12 +6,22 @@ interface Props {
   title: string;
   description?: string;
   ogImage?: string;
+  ogType?: string;
   lang?: string;
 }
 
-const { title, description = 'ラーメンとビールと時々ブログ | Ramen, Beer & Blog', ogImage, lang = 'ja' } = Astro.props;
+const {
+  title,
+  description = 'ラーメンとビールと時々ブログ | Ramen, Beer & Blog',
+  ogImage,
+  ogType = 'website',
+  lang = 'ja',
+} = Astro.props;
 const siteTitle = 'ラーメンとビールと時々ブログ';
 const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
+
+const SITE_DEFAULT_OG_IMAGE = '/images/wp-content/uploads/2025/04/8d3acb8ac16d829c946f739ad4181f54.png';
+const resolvedOgImage = new URL(ogImage ?? SITE_DEFAULT_OG_IMAGE, Astro.site).toString();
 
 const categories = [
   { slug: 'blog-sidejob', name: 'ブログ運営と副業' },
@@ -34,9 +44,12 @@ const categories = [
   <meta property="og:title" content={title} />
   <meta property="og:description" content={description} />
   <meta property="og:url" content={canonicalUrl} />
-  <meta property="og:type" content="website" />
-  {ogImage && <meta property="og:image" content={new URL(ogImage, Astro.site)} />}
+  <meta property="og:type" content={ogType} />
+  <meta property="og:image" content={resolvedOgImage} />
   <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content={resolvedOgImage} />
+  <meta name="twitter:title" content={title} />
+  <meta name="twitter:description" content={description} />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet" />

@@ -14,6 +14,7 @@ interface Props {
 
 const { title, date, categories, tags, eyecatch, excerpt, lang = 'ja' } = Astro.props;
 
+
 const catNames: Record<string, string> = {
   'blog-sidejob': 'ブログ運営と副業',
   'life-with-momiji': 'もみじと暮らす',
@@ -26,7 +27,7 @@ const catNames: Record<string, string> = {
 
 const formattedDate = new Date(date).toLocaleDateString('ja-JP', { year: 'numeric', month: 'long', day: 'numeric' });
 ---
-<BaseLayout title={title} description={excerpt} ogImage={eyecatch} lang={lang}>
+<BaseLayout title={title} description={excerpt} ogImage={eyecatch} ogType="article" lang={lang}>
   <div class="layout-wrap">
     <article>
       <header class="post-header">
