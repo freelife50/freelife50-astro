@@ -3,7 +3,7 @@ title: "Gen X vs Gen Z Values: What My Son's Generation Taught Me About Life in 
 date: "2025-09-26"
 slug: "shocked-by-my-sons-gen-z-values"
 categories: ["society-issues-thoughts"]
-tags: []
+tags: ["gen", "generation", "juniors", "gap", "different"]
 lang: "ja"
 eyecatch: "/images/wp-content/uploads/2025/09/82d5d449a721eb919fabecb3a10a14f7.jpg"
 excerpt: "── A $3,500 MacBook Pro vs. $3,500 in My Generation 📖 Estimated Reading Time: 6–7 minutes 🎯 Who Should Read This Post"

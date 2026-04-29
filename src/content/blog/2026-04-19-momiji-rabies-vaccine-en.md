@@ -3,7 +3,7 @@ title: "Momiji Knew. Taking My Shiba Inu for Her Annual Rabies Vaccine"
 date: "2026-04-19"
 slug: "momiji-rabies-vaccine-en"
 categories: ["life-with-momiji"]
-tags: []
+tags: ["柴犬もみじ", "狂犬病注射", "ビビリ柴犬", "犬のいる暮らし", "集合注射"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/04/upload_3286-1.jpg"
 excerpt: "Our Shiba Inu Momiji was perfectly happy greeting other dogs in the parking lot. But the moment our turn came? Full panic mode. Here's what happened a"

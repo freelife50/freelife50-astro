@@ -3,7 +3,7 @@ title: "Yushin Valley Autumn Hike in Kanagawa: A Reflective Walk Through Japan's
 date: "2025-11-11"
 slug: "a-50-year-olds-reflection-in-yushin-valley"
 categories: ["healing-walks"]
-tags: []
+tags: ["yushin-valley", "yushin-blue", "tanzawa-hike", "autumn-hike", "hiking-with-friends"]
 lang: "ja"
 eyecatch: "/images/wp-content/uploads/2025/11/PXL_20251108_011419317.jpg"
 excerpt: "Autumn hiking in Yushin Valley, Kanagawa. A reflective walk through Japan's hidden gorge with fall foliage, trail info, and scenic highlights."

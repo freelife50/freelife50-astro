@@ -3,7 +3,8 @@ title: "二宮果樹公園から袖ヶ浦海岸へ。愛犬ともみじ色の休
 date: "2026-04-16"
 slug: "ninomiya-sodegaura-hiking"
 categories: ["life-with-momiji", "healing-walks"]
-tags: []
+tags: ["二宮町", "地引き網", "愛犬もみじ", "海辺散歩", "犬と散歩"]
+eyecatch: "/images/wp-content/uploads/2026/04/IMG_3097.jpg"
 lang: "ja"
 excerpt: "二宮果樹公園（無料駐車場）から袖ヶ浦海岸まで、愛犬もみじと歩いた半日ハイキング。地引き網・鳶・波・神奈川県二宮町のほっとする一日。"
 ---

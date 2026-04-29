@@ -3,7 +3,7 @@ title: "Blogging Tips: What Happens When You Run Out of Ideas — I Became a Bee
 date: "2026-03-10"
 slug: "the-night-i-ran-out-of-blog-ideas-i-decided-to-become-a-beer-livestreamer"
 categories: ["blog-sidejob"]
-tags: []
+tags: ["evening-drinks", "you-tube-live", "life-in-my50s", "blogging-ideas", "content-creation-struggles"]
 lang: "ja"
 eyecatch: "/images/wp-content/uploads/2026/03/Gemini_Generated_Image_wityd4wityd4wity.jpg"
 excerpt: "Reading time: about 5 minutes Hello. I’m a guy in my 50s from Japan who writes a small blog about everyday life. Let me"

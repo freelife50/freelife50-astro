@@ -3,7 +3,7 @@ title: "Mt. Okura-takamaru & Mt. Hamaiba-maru: Two 1700m Peaks in 2.5 Hours Near
 date: "2025-12-07"
 slug: "ultra-time-efficient-a-50-year-old-guy-conquered-two-1700m-peaks-in-just-2-5-hours"
 categories: ["healing-walks"]
-tags: []
+tags: ["mount", "okurakamaru", "hamayba", "peak", "fuji"]
 lang: "ja"
 eyecatch: "/images/wp-content/uploads/2025/12/PXL_20251130_024444364.jpg"
 excerpt: "(Okura-takamaru & Hamaiba-maru / Out-and-Back Route) Estimated Reading Time: 10 minutes ( Laughs included, tears not inc"

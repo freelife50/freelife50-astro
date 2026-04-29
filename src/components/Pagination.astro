@@ -1,0 +1,21 @@
+---
+interface Props {
+  currentPage: number;
+  totalPages: number;
+  prevUrl?: string;
+  nextUrl?: string;
+}
+
+const { currentPage, totalPages, prevUrl, nextUrl } = Astro.props;
+---
+<nav class="pagination-nav" aria-label="ページナビゲーション">
+  {prevUrl
+    ? <a href={prevUrl} class="pag-btn">← 前へ</a>
+    : <span class="pag-btn pag-btn--disabled">← 前へ</span>
+  }
+  <span class="pag-info">{currentPage} / {totalPages}</span>
+  {nextUrl
+    ? <a href={nextUrl} class="pag-btn">次へ →</a>
+    : <span class="pag-btn pag-btn--disabled">次へ →</span>
+  }
+</nav>

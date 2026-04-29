@@ -3,7 +3,7 @@ title: "健康診断に向けて運動スタート！東日本国際マラソン
 date: "2025-04-17"
 slug: "health-check-running"
 categories: ["prepared-life"]
-tags: []
+tags: ["health-check-prep", "restarting-exercise", "running-in-my50s", "east-japan-marathon", "10-k-marathon-challenge"]
 lang: "ja"
 eyecatch: "/images/wp-content/uploads/2025/04/PXL_20250414_010642665-scaled.jpg"
 excerpt: "And Yes — I’m Joining the East Japan International Marathon! 🗓️ 投稿日：2025年4月16日 🕒 このブログは約1〜2分で読めます。 🎯 目的文/purpose stat"

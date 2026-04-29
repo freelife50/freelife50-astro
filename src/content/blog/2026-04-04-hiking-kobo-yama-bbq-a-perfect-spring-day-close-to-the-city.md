@@ -3,7 +3,7 @@ title: "Hiking Kobo-yama & BBQ Near Tokyo: A Perfect Spring Day Close to the Cit
 date: "2026-04-04"
 slug: "hiking-kobo-yama-bbq-a-perfect-spring-day-close-to-the-city"
 categories: ["healing-walks"]
-tags: []
+tags: ["Kobo-yama、Cherry", "blossom", "Hike、Kanagawa", "Hiking、Hadano、Tsurumaki-onsen、Midoriya", "Farm、BBQ、Sakura、Beginner"]
 lang: "ja"
 eyecatch: "/images/wp-content/uploads/2026/04/Gemini_Generated_Image_5usz3j5usz3j5usz.jpg"
 excerpt: "A complete guide to hiking Kobo-yama and BBQ near Tokyo. Cherry blossoms, beginner-friendly trails from Hadano to Tsurumaki Onsen, and Midoriya Farm B"

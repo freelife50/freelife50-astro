@@ -3,7 +3,7 @@ title: "Japan Election Problems: How a Naming Trick Steals Votes from Voters"
 date: "2025-07-19"
 slug: "who-are-these-elections-really-for-write-democratic-party-and-your-vote-goes-to-the-cdp"
 categories: ["society-issues-thoughts"]
-tags: []
+tags: ["japan-election", "upper-house2025", "abbreviation-problem", "constitutional-democratic-party", "democratic-party-for-the-people"]
 lang: "ja"
 eyecatch: "/images/wp-content/uploads/2025/07/Google_AI_Studio_2025-07-19T05_53_33.205Z.jpg"
 excerpt: "Introduction | Why This Frustrates Me So Much Japan's 2025 House of Councillors election. The official voting instructio"

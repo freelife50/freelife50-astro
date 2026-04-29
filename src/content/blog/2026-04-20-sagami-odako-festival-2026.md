@@ -3,7 +3,7 @@ title: "もみじと相模川へ行ったら、日本一の大凧が作られて
 date: "2026-04-20"
 slug: "sagami-odako-festival-2026"
 categories: ["life-with-momiji", "healing-walks"]
-tags: []
+tags: ["柴犬もみじ", "狂犬病注射", "ビビリ柴犬", "犬のいる暮らし", "集合注射"]
 lang: "ja"
 eyecatch: "/images/wp-content/uploads/2026/04/odako_3297-1.jpg"
 excerpt: "約5分で読めます こんにちは、ヒロシです。 「名前は知ってる。行ったことはない」 そういうイベントって、ないですか？ 神奈川に住んでいれば、一度は聞いたことがあるはずの「相模の大凧まつり」。 僕にとってもそれがそうやった。名前は知ってる。で"

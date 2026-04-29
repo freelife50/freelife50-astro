@@ -3,7 +3,7 @@ title: "Dog-Friendly Day Trip: Tokyo Bay Ferry to Chiba — A Rainy Day Drive wi
 date: "2025-10-14"
 slug: "dog-friendly-trip-because-i-just-wanted-to-ride-a-ferry-a-rainy-day-drive-across-tokyo-bay"
 categories: ["healing-walks"]
-tags: []
+tags: ["dog-friendly-trip", "shiba-inu-momiji", "rainy-day-drive", "tokyo-bay-ferry", "chiba-road-trip"]
 lang: "ja"
 eyecatch: "/images/wp-content/uploads/2025/10/PXL_20251013_015034524.MP_.jpg"
 excerpt: "A dog-friendly day trip from Tokyo across Tokyo Bay Ferry to Chiba. Real driving route, pet ferry rules, and tips for rainy-day adventures with your d"

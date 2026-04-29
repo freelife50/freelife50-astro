@@ -3,7 +3,7 @@ title: "PCCT Scanner Explained: The Future of Low-Radiation Health Checkups in Y
 date: "2025-09-15"
 slug: "50s-mens-health-a-new-era-in-checkups-pcct-for-low-radiation-x-high-precision"
 categories: ["society-issues-thoughts"]
-tags: []
+tags: ["health-checkup", "ctscan", "low-dose-ct", "photon-counting-ct", "pcct"]
 lang: "ja"
 eyecatch: "/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-14T21_43_32.296Z.jpg"
 excerpt: "This article will take about 8–10 minutes to read. ■ This article is recommended for people who: Feel anxious about heal"

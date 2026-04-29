@@ -3,7 +3,7 @@ title: "PAW'S GREEN DELI Review: Premium Natural Dog Food for Your Furry Family 
 date: "2025-08-04"
 slug: "because-theyre-family-too-choosing-paws-green-deli-with-care"
 categories: ["life-with-momiji"]
-tags: []
+tags: ["dog-gut-health", "additive-free-food", "human-grade-pet-food", "picky-eater-dog", "dog-food-review"]
 lang: "ja"
 eyecatch: "/images/wp-content/uploads/2025/08/PXL_20250331_212930138.jpg"
 excerpt: "PAW'S GREEN DELI natural dog food review. Why we chose premium additive-free food for our Shiba Inu and whether it's worth the price."

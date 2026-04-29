@@ -3,7 +3,7 @@ title: "Why I Finally Started Voting in Japan: A Quiet Shift Toward the Ballot B
 date: "2025-06-22"
 slug: "the-day-i-finally-chose-to-choose-a-quiet-shift-toward-the-ballot-box"
 categories: ["society-issues-thoughts"]
-tags: ["quiet-challenges-6-shifting-values"]
+tags: ["1.", "reflections", "50s", "2.", "society"]
 lang: "ja"
 eyecatch: "/images/wp-content/uploads/2025/06/Generated-Image-June-22-2025-3_42PM.jpeg"
 excerpt: "🗳️ This blog post is for you if... You've ever thought, “It doesn't matter who I vote for — nothing will change.” Elect"

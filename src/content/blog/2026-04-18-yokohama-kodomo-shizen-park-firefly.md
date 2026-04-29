@@ -3,7 +3,7 @@ title: "【横浜・こども自然公園】富士山とカモと、ゲンジホ
 date: "2026-04-18"
 slug: "yokohama-kodomo-shizen-park-firefly"
 categories: ["healing-walks"]
-tags: []
+tags: ["ゲンジホタル", "こども自然公園", "富士山ビュー", "弘法山、お花見ハイク、神奈川ハイキング、秦野、鶴巻温泉、みどりやファーム、BBQ、桜、初心者ハイキング、関東ふれあいの道、弘法大師、春のお出かけ", "愛犬もみじ"]
 lang: "ja"
 eyecatch: "/images/wp-content/uploads/2026/04/yokohama-kodomo-park-entrance-map-momiji.jpg"
 excerpt: "横浜市旭区のこども自然公園をお正月に歩いてきた。池に浮かぶカモ、雪をかぶった富士山、冬枯れの草原を走る柴犬もみじ、そして「ゲンジホタルの生息地」の看板。町中にも自然は残ってる。"

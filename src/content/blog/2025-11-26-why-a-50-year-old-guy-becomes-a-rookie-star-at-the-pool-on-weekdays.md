@@ -3,7 +3,7 @@ title: "Adult Swimming in Japan: Why This 50-Year-Old Became a \"Rookie Star\" a
 date: "2025-11-26"
 slug: "why-a-50-year-old-guy-becomes-a-rookie-star-at-the-pool-on-weekdays"
 categories: ["healing-walks"]
-tags: []
+tags: ["fitness-in-my50s", "public-pool-life", "weekday-swimming", "healthy-habits", "keep-moving"]
 lang: "ja"
 eyecatch: "/images/wp-content/uploads/2025/11/Gemini_Generated_Image_ipmpq7ipmpq7ipmp.jpg"
 excerpt: "Why swimming in your 50s is the best exercise you're not doing. How this middle-aged beginner became the pool's \"rookie star\" in Japan."

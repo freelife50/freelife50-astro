@@ -3,7 +3,7 @@ title: "Kinchakuda Manjushage Festival: When a Field of Red Spider Lilies Almost
 date: "2025-10-22"
 slug: "the-night-a-middle-aged-man-almost-cried-in-an-ocean-of-orange-light"
 categories: ["healing-walks"]
-tags: []
+tags: ["fuchinobe-park", "halloween-lantern-fest", "lantern-festival", "sagamihara-event", "light-and-warmth"]
 lang: "ja"
 eyecatch: "/images/wp-content/uploads/2025/10/PXL_20251018_093510881.jpg"
 excerpt: "── Halloween Lantern Festival 2025 at Fuchinobe Park, Sagamihara 📖 Reading Time: About 10 minutes 🎁 What You’ll Get fr"

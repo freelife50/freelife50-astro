@@ -3,7 +3,7 @@ title: "From Running Injury to Swimming: A 50-Year-Old's Comeback Story with Bac
 date: "2025-06-21"
 slug: "title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s"
 categories: ["prepared-life"]
-tags: []
+tags: ["gentle-fitness", "swimming-in-your50s", "back-pain-relief", "healthy-aging", "start-small"]
 lang: "ja"
 eyecatch: "/images/wp-content/uploads/2025/06/Generated-Image-June-21-2025-10_01AM.jpeg"
 excerpt: "Subtitle: You don’t have to push yourself to the limit. Just floating can be enough. 🕐 Estimated Reading Time: about 5–"

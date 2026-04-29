@@ -3,7 +3,7 @@ title: "妻に動物園を却下され、箱根美術館に行ったら庭師に
 date: "2026-04-21"
 slug: "hakone-museum-of-art-gardener"
 categories: ["healing-walks"]
-tags: []
+tags: ["50代の旅", "庭園", "神奈川", "箱根", "箱根美術館"]
 lang: "ja"
 eyecatch: "/images/wp-content/uploads/2026/04/01_eyecatch_window_view.jpg"
 excerpt: "平日休みに妻と箱根美術館へ。土器より庭師の手作業に感動した話。2026年5月7日から休館のため今がラストチャンス。"

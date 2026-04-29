@@ -3,7 +3,7 @@ title: "Minimalist Wallet: How Switching to a Money Clip Changed My Life at 50"
 date: "2025-10-13"
 slug: "the-minimalist-revolution-in-my-50s-how-ditching-my-wallet-made-my-life-lighter"
 categories: ["prepared-life"]
-tags: []
+tags: ["decluttering", "minimalism", "cashless", "moneyclip", "simpleliving"]
 lang: "ja"
 eyecatch: "/images/wp-content/uploads/2025/10/Gemini_Generated_Image_vcumfevcumfevcum.jpg"
 excerpt: "How ditching my wallet for a 10g money clip changed my life at 50. A minimalist revolution story about the freedom of carrying less."

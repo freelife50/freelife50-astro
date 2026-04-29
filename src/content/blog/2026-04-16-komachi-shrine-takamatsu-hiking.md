@@ -3,7 +3,8 @@ title: "小町神社から高松山ハイキング｜厚木の低山コース・
 date: "2026-04-16"
 slug: "komachi-shrine-takamatsu-hiking"
 categories: ["life-with-momiji", "healing-walks"]
-tags: []
+tags: ["ハイキング", "低山歩き", "厚木市", "小町神社", "小野小町"]
+eyecatch: "/images/wp-content/uploads/2026/04/IMG_2773.jpg"
 lang: "ja"
 excerpt: "神奈川県厚木市、小野小町ゆかりの小町神社から登る高松山（標高147m）ハイキングの記録です。駐車場の場所・コースの様子・所要時間・犬連れでの歩きやすさを、家族で実際に歩いてきた目線でまとめました。"
 ---

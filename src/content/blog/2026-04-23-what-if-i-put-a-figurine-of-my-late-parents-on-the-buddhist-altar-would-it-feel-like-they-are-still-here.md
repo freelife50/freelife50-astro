@@ -3,7 +3,7 @@ title: "What If I Put a Figurine of My Late Parents on the Buddhist Altar — Wo
 date: "2026-04-23"
 slug: "what-if-i-put-a-figurine-of-my-late-parents-on-the-buddhist-altar-would-it-feel-like-they-are-still-here"
 categories: ["life-with-momiji", "shumi-taiken-etc"]
-tags: ["customfigurine-petmemorial-shibainu-digxipop-giftideas-memorablegift-3dprinting-50s-japan"]
+tags: ["customfigurine", "petmemorial", "shiba-inu", "digxipop", "giftideas"]
 lang: "ja"
 eyecatch: "/images/wp-content/uploads/2026/04/digxipop-eyecatch.jpg"
 excerpt: "About 7 min read Hi, I'm Hiroshi. Every time I stand in front of the family altar, something lingers. The photos of my l"

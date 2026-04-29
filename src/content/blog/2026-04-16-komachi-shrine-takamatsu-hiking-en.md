@@ -3,7 +3,7 @@ title: "Takamatsu-yama Hiking from Komachi Shrine | Atsugi, Kanagawa (Parking, T
 date: "2026-04-16"
 slug: "komachi-shrine-takamatsu-hiking-en"
 categories: ["life-with-momiji", "healing-walks"]
-tags: []
+tags: ["ハイキング", "低山歩き", "厚木市", "小町神社", "小野小町"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/04/IMG_2773.jpg"
 excerpt: "A short hike up Takamatsu-yama (147m / 482 ft) from Komachi Shrine in Atsugi, Kanagawa Prefecture, birthplace of poet Ono no Komachi. Notes on parking"

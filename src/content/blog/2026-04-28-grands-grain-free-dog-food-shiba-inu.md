@@ -3,7 +3,7 @@ title: "もみじのごはん、これでいいんやろか。GRANDSグレイン
 date: "2026-04-28"
 slug: "grands-grain-free-dog-food-shiba-inu"
 categories: ["life-with-momiji"]
-tags: ["grands"]
+tags: ["grands", "50代の暮らし", "グレインフリー", "ドッグフード", "ペットフード"]
 lang: "ja"
 eyecatch: "/images/wp-content/uploads/2026/04/grands_01_eyecatch.jpg"
 excerpt: "約5分で読めます。 もみじのごはんを皿に入れるたびに、ふと思う。 「これ、本当にもみじのためになってるんやろか」 毎日与えてるのに、正直よくわかってない。成分表示は見ても意味不明やし、どれが良いフードなんか判断できんまま今日も続けてる……そ"

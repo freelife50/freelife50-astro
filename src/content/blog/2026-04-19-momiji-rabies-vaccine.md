@@ -3,7 +3,8 @@ title: "もみじ、察してたんやろな。狂犬病注射に行ってきた
 date: "2026-04-19"
 slug: "momiji-rabies-vaccine"
 categories: ["life-with-momiji"]
-tags: []
+tags: ["柴犬もみじ", "狂犬病注射", "ビビリ柴犬", "犬のいる暮らし", "集合注射"]
+eyecatch: "/images/wp-content/uploads/2026/04/upload_3286-1.jpg"
 lang: "ja"
 excerpt: "今年もやってきた、もみじの狂犬病注射。駐車場ではほかの犬とクンクンご機嫌だったのに、順番が近づくにつれてソワソワ……察してたんやろな。体験談と、飼い主が知っておきたい基礎知識をまとめました。"
 ---

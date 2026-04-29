@@ -3,7 +3,7 @@ title: "$1,700 Car Inspection in Japan: 15 Years of Family Memories with One Car
 date: "2025-10-26"
 slug: "1700-car-inspection-and-15-years-of-family-memories"
 categories: ["prepared-life"]
-tags: []
+tags: ["prius", "car-inspection", "car-maintenance", "family-memories", "life-with-car"]
 lang: "ja"
 eyecatch: "/images/wp-content/uploads/2025/10/Image_fx-2.jpg"
 excerpt: "── Reflecting on “Fixed Costs” and “The Value of Time” 📖 Reading time: about 12 minutes 🎯 What You’ll Learn (Summary)"

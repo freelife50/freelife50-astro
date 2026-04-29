@@ -3,7 +3,7 @@ title: "Eating at Ramen Jiro: Can a 50-Year-Old Finish a Full Toppings Large Bow
 date: "2025-08-22"
 slug: "a-50-year-old-guy-vs-the-wall-of-jiro-ramen-finishing-a-giant-bowl-with-all-the-toppings"
 categories: ["food-nostalgia"]
-tags: []
+tags: ["ramen-jiro", "ramen-dai", "zen-mashi", "food-challenge", "big-eater"]
 lang: "ja"
 eyecatch: "/images/wp-content/uploads/2025/08/PXL_20250819_024110182.MP_.jpg"
 excerpt: "Can a 50-year-old finish a Ramen Jiro large bowl with all toppings? A first-timer's honest experience at Japan's most intimidating ramen chain."
