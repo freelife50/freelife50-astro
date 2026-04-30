@@ -352,7 +352,7 @@ excerpt: "A complete guide to hiking Kobo-yama and BBQ near Tokyo. Cherry blosso
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3348,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/IMG_3155-766x1024.jpg" alt="" class="wp-image-3348"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/IMG_3155.jpg" alt="" class="wp-image-3348"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
