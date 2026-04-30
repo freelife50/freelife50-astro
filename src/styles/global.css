@@ -193,3 +193,71 @@ img { max-width: 100%; height: auto; display: block; }
 
 /* Category badge */
 .cat-badge { display: inline-block; background: var(--color-primary); color: #fff; font-size: .72rem; padding: 1px 7px; border-radius: 3px; margin-right: 4px; }
+
+/* ============================================================
+   WordPress Gutenberg Columns / Gallery Layout
+   記事内の wp-block-columns（多段組み）を横並び表示にする
+   ============================================================ */
+
+/* columns ブロック：flexbox コンテナ */
+.post-content .wp-block-columns {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin: 1.2em 0;
+  align-items: flex-start;
+}
+
+/* 各カラム：等幅が基本、inline style の flex-basis で上書き可 */
+.post-content .wp-block-column {
+  flex: 1;
+  min-width: 0;
+}
+
+/* カラム内の画像は横幅いっぱい・余白なし */
+.post-content .wp-block-column img {
+  width: 100%;
+  margin: 0;
+}
+
+/* wp-block-group ラッパー */
+.post-content .wp-block-group {
+  margin: 1em 0;
+}
+
+/* gallery ブロック（has-nested-images） */
+.post-content .wp-block-gallery.has-nested-images {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin: 1.2em 0;
+  align-items: flex-start;
+}
+
+.post-content .wp-block-gallery.has-nested-images .wp-block-image {
+  flex: 1;
+  min-width: 0;
+}
+
+.post-content .wp-block-gallery.has-nested-images .wp-block-image img {
+  width: 100%;
+  margin: 0;
+}
+
+/* スマホ：1列に折り返し */
+@media (max-width: 600px) {
+  .post-content .wp-block-columns {
+    flex-direction: column;
+    gap: 8px;
+  }
+  .post-content .wp-block-column {
+    flex-basis: 100% !important;
+    width: 100%;
+  }
+  .post-content .wp-block-gallery.has-nested-images {
+    flex-direction: column;
+  }
+  .post-content .wp-block-gallery.has-nested-images .wp-block-image {
+    flex-basis: 100% !important;
+  }
+}
