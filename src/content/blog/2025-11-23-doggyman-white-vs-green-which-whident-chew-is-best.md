@@ -80,7 +80,7 @@ excerpt: "DoggyMan White vs Green Whident chew comparison. Which dental treat do
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2767,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/image-1-1002x1024.jpg" alt="" class="wp-image-2767"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/image-1.jpg" alt="" class="wp-image-2767"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -322,7 +322,7 @@ excerpt: "DoggyMan White vs Green Whident chew comparison. Which dental treat do
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2778,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_s5nhr9s5nhr9s5nh-1024x535.jpg" alt="" class="wp-image-2778"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_s5nhr9s5nhr9s5nh.jpg" alt="" class="wp-image-2778"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -386,7 +386,7 @@ excerpt: "DoggyMan White vs Green Whident chew comparison. Which dental treat do
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2777,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_e58clwe58clwe58c-1024x558.jpg" alt="" class="wp-image-2777"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_e58clwe58clwe58c.jpg" alt="" class="wp-image-2777"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

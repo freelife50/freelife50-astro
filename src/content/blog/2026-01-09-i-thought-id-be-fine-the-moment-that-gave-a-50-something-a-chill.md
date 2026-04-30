@@ -58,7 +58,7 @@ excerpt: "Reading time: About 5 minutes Who this is for People in their 50s who 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3029,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_2ykpa52ykpa52ykp-1024x558.jpg" alt="" class="wp-image-3029"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_2ykpa52ykpa52ykp.jpg" alt="" class="wp-image-3029"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -122,7 +122,7 @@ excerpt: "Reading time: About 5 minutes Who this is for People in their 50s who 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3030,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_9u96b79u96b79u96-1024x558.jpg" alt="" class="wp-image-3030"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_9u96b79u96b79u96.jpg" alt="" class="wp-image-3030"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -162,7 +162,7 @@ excerpt: "Reading time: About 5 minutes Who this is for People in their 50s who 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3031,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_4qsuqb4qsuqb4qsu-1024x558.jpg" alt="" class="wp-image-3031"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_4qsuqb4qsuqb4qsu.jpg" alt="" class="wp-image-3031"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -206,7 +206,7 @@ excerpt: "Reading time: About 5 minutes Who this is for People in their 50s who 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3032,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_grrmmjgrrmmjgrrm-1024x558.jpg" alt="" class="wp-image-3032"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_grrmmjgrrmmjgrrm.jpg" alt="" class="wp-image-3032"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -260,7 +260,7 @@ excerpt: "Reading time: About 5 minutes Who this is for People in their 50s who 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3033,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_dzqmvldzqmvldzqm-1024x558.jpg" alt="" class="wp-image-3033"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_dzqmvldzqmvldzqm.jpg" alt="" class="wp-image-3033"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -296,7 +296,7 @@ excerpt: "Reading time: About 5 minutes Who this is for People in their 50s who 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3034,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_keqlyekeqlyekeql-1024x558.jpg" alt="" class="wp-image-3034"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_keqlyekeqlyekeql.jpg" alt="" class="wp-image-3034"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -328,7 +328,7 @@ excerpt: "Reading time: About 5 minutes Who this is for People in their 50s who 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3035,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_i6icoci6icoci6ic-1024x558.jpg" alt="" class="wp-image-3035"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_i6icoci6icoci6ic.jpg" alt="" class="wp-image-3035"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

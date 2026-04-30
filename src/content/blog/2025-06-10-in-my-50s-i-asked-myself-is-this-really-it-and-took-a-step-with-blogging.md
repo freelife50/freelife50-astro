@@ -86,7 +86,7 @@ excerpt: "”Even with More Free Time, Something Felt Missing — Why I Chose to
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":1638} -->
-<figure class="wp-block-image"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_mnoqrmmnoqrmmnoq-1024x1024.png" alt="" class="wp-image-1638"/></figure>
+<figure class="wp-block-image"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_mnoqrmmnoqrmmnoq.png" alt="" class="wp-image-1638"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -106,7 +106,7 @@ excerpt: "”Even with More Free Time, Something Felt Missing — Why I Chose to
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":1640,"align":"center"} -->
-<figure class="wp-block-image aligncenter"><img src="/images/wp-content/uploads/2025/06/56bfacb4256e792a6a12dd00c52ecd9a-683x1024.png" alt="" class="wp-image-1640"/></figure>
+<figure class="wp-block-image aligncenter"><img src="/images/wp-content/uploads/2025/06/56bfacb4256e792a6a12dd00c52ecd9a.png" alt="" class="wp-image-1640"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -126,7 +126,7 @@ excerpt: "”Even with More Free Time, Something Felt Missing — Why I Chose to
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":1641} -->
-<figure class="wp-block-image"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_w3bsuhw3bsuhw3bs-1024x1024.png" alt="" class="wp-image-1641"/></figure>
+<figure class="wp-block-image"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_w3bsuhw3bsuhw3bs.png" alt="" class="wp-image-1641"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

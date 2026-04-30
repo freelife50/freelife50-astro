@@ -126,7 +126,7 @@ excerpt: "Is Kinchakuda Manjushage Park dog-friendly? A first-hand walking guide
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3291,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2964-766x1024.jpg" alt="" class="wp-image-3291"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2964.jpg" alt="" class="wp-image-3291"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -262,7 +262,7 @@ excerpt: "Is Kinchakuda Manjushage Park dog-friendly? A first-hand walking guide
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3292,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2983-766x1024.jpg" alt="" class="wp-image-3292"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2983.jpg" alt="" class="wp-image-3292"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -338,7 +338,7 @@ excerpt: "Is Kinchakuda Manjushage Park dog-friendly? A first-hand walking guide
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3293,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/image-1024x613.jpg" alt="" class="wp-image-3293"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/image.jpg" alt="" class="wp-image-3293"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -402,7 +402,7 @@ excerpt: "Is Kinchakuda Manjushage Park dog-friendly? A first-hand walking guide
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3294,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/image-1-1024x628.jpg" alt="" class="wp-image-3294"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/image-1.jpg" alt="" class="wp-image-3294"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -458,7 +458,7 @@ excerpt: "Is Kinchakuda Manjushage Park dog-friendly? A first-hand walking guide
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3297,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/Gemini_Generated_Image_w0xifnw0xifnw0xi-1024x572.jpg" alt="" class="wp-image-3297"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/Gemini_Generated_Image_w0xifnw0xifnw0xi.jpg" alt="" class="wp-image-3297"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -562,7 +562,7 @@ excerpt: "Is Kinchakuda Manjushage Park dog-friendly? A first-hand walking guide
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3298,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2971-766x1024.jpg" alt="" class="wp-image-3298"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2971.jpg" alt="" class="wp-image-3298"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

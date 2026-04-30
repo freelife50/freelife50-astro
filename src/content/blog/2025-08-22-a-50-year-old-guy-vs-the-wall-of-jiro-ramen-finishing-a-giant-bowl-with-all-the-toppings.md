@@ -66,7 +66,7 @@ excerpt: "Can a 50-year-old finish a Ramen Jiro large bowl with all toppings? A 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2143,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250819_025310134-769x1024.jpg" alt="" class="wp-image-2143"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250819_025310134.jpg" alt="" class="wp-image-2143"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -118,7 +118,7 @@ excerpt: "Can a 50-year-old finish a Ramen Jiro large bowl with all toppings? A 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2145,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250819_021959939-769x1024.jpg" alt="" class="wp-image-2145"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250819_021959939.jpg" alt="" class="wp-image-2145"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -142,7 +142,7 @@ excerpt: "Can a 50-year-old finish a Ramen Jiro large bowl with all toppings? A 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2147,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250819_022330983-769x1024.jpg" alt="" class="wp-image-2147"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250819_022330983.jpg" alt="" class="wp-image-2147"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -180,7 +180,7 @@ excerpt: "Can a 50-year-old finish a Ramen Jiro large bowl with all toppings? A 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2148,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250819_024110182.MP_-1024x769.jpg" alt="" class="wp-image-2148"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250819_024110182.MP_.jpg" alt="" class="wp-image-2148"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -232,7 +232,7 @@ excerpt: "Can a 50-year-old finish a Ramen Jiro large bowl with all toppings? A 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2149,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250819_023020594-769x1024.jpg" alt="" class="wp-image-2149"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250819_023020594.jpg" alt="" class="wp-image-2149"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -266,7 +266,7 @@ excerpt: "Can a 50-year-old finish a Ramen Jiro large bowl with all toppings? A 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2150,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250819_025118497-1024x769.jpg" alt="" class="wp-image-2150"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250819_025118497.jpg" alt="" class="wp-image-2150"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -312,17 +312,17 @@ excerpt: "Can a 50-year-old finish a Ramen Jiro large bowl with all toppings? A 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2151,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250819_025212187-1024x769.jpg" alt="" class="wp-image-2151"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250819_025212187.jpg" alt="" class="wp-image-2151"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":2153,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250819_025224854-1024x769.jpg" alt="" class="wp-image-2153"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250819_025224854.jpg" alt="" class="wp-image-2153"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2152,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250819_025352253-769x1024.jpg" alt="" class="wp-image-2152"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250819_025352253.jpg" alt="" class="wp-image-2152"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->

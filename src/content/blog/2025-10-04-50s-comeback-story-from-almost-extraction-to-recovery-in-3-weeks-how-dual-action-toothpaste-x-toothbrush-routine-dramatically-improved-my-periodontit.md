@@ -482,7 +482,7 @@ excerpt: "How I recovered from severe gum disease in just 3 weeks using a dual t
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2412,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/Gemini_Generated_Image_u5mzdru5mzdru5mz-747x1024.jpg" alt="" class="wp-image-2412"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/Gemini_Generated_Image_u5mzdru5mzdru5mz.jpg" alt="" class="wp-image-2412"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->

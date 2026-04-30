@@ -124,13 +124,13 @@ excerpt: "Reading Time: about 8 minutes This article is for people who… Feel b
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2199,"width":"346px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2025/08/image-9-1024x541.png" alt="" class="wp-image-2199" style="width:346px;height:auto"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2025/08/image-9.png" alt="" class="wp-image-2199" style="width:346px;height:auto"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2198,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/08/image-8-1024x477.png" alt="" class="wp-image-2198"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/08/image-8.png" alt="" class="wp-image-2198"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -162,13 +162,13 @@ excerpt: "Reading Time: about 8 minutes This article is for people who… Feel b
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2200,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/08/image-10-1024x469.jpg" alt="" class="wp-image-2200"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/08/image-10.jpg" alt="" class="wp-image-2200"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2201,"width":"285px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2025/08/image-10-1-1024x804.jpg" alt="" class="wp-image-2201" style="width:285px;height:auto"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2025/08/image-10-1.jpg" alt="" class="wp-image-2201" style="width:285px;height:auto"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->

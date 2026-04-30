@@ -112,19 +112,19 @@ excerpt: "Hachioji Castle Ruins hiking guide near Tokyo. What to expect on this 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3111,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2419-766x1024.jpg" alt="" class="wp-image-3111"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2419.jpg" alt="" class="wp-image-3111"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3112,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2452-766x1024.jpg" alt="" class="wp-image-3112"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2452.jpg" alt="" class="wp-image-3112"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3113,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2473-766x1024.jpg" alt="" class="wp-image-3113"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2473.jpg" alt="" class="wp-image-3113"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -188,13 +188,13 @@ excerpt: "Hachioji Castle Ruins hiking guide near Tokyo. What to expect on this 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3114,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2420-766x1024.jpg" alt="" class="wp-image-3114"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2420.jpg" alt="" class="wp-image-3114"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3115,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2505-766x1024.jpg" alt="" class="wp-image-3115"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2505.jpg" alt="" class="wp-image-3115"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -250,19 +250,19 @@ excerpt: "Hachioji Castle Ruins hiking guide near Tokyo. What to expect on this 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3116,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2422-766x1024.jpg" alt="" class="wp-image-3116"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2422.jpg" alt="" class="wp-image-3116"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3117,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2412-766x1024.jpg" alt="" class="wp-image-3117"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2412.jpg" alt="" class="wp-image-3117"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3118,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2478-766x1024.jpg" alt="" class="wp-image-3118"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2478.jpg" alt="" class="wp-image-3118"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -310,7 +310,7 @@ excerpt: "Hachioji Castle Ruins hiking guide near Tokyo. What to expect on this 
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3114,"width":"223px","height":"auto","aspectRatio":"0.7480664916885389","sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/02/IMG_2420-766x1024.jpg" alt="" class="wp-image-3114" style="aspect-ratio:0.7480664916885389;width:223px;height:auto"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/02/IMG_2420.jpg" alt="" class="wp-image-3114" style="aspect-ratio:0.7480664916885389;width:223px;height:auto"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -318,7 +318,7 @@ excerpt: "Hachioji Castle Ruins hiking guide near Tokyo. What to expect on this 
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3120,"width":"229px","height":"auto","aspectRatio":"0.7480475018722584","sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/02/IMG_2436-766x1024.jpg" alt="" class="wp-image-3120" style="aspect-ratio:0.7480475018722584;width:229px;height:auto"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/02/IMG_2436.jpg" alt="" class="wp-image-3120" style="aspect-ratio:0.7480475018722584;width:229px;height:auto"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -326,7 +326,7 @@ excerpt: "Hachioji Castle Ruins hiking guide near Tokyo. What to expect on this 
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3121,"width":"243px","height":"auto","aspectRatio":"0.7480570344532158","sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/02/IMG_2446-766x1024.jpg" alt="" class="wp-image-3121" style="aspect-ratio:0.7480570344532158;width:243px;height:auto"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/02/IMG_2446.jpg" alt="" class="wp-image-3121" style="aspect-ratio:0.7480570344532158;width:243px;height:auto"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:separator -->
@@ -342,7 +342,7 @@ excerpt: "Hachioji Castle Ruins hiking guide near Tokyo. What to expect on this 
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3122,"width":"266px","height":"auto","aspectRatio":"0.7480551972166842","sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/02/IMG_2448-766x1024.jpg" alt="" class="wp-image-3122" style="aspect-ratio:0.7480551972166842;width:266px;height:auto"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/02/IMG_2448.jpg" alt="" class="wp-image-3122" style="aspect-ratio:0.7480551972166842;width:266px;height:auto"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -350,7 +350,7 @@ excerpt: "Hachioji Castle Ruins hiking guide near Tokyo. What to expect on this 
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3123,"width":"273px","height":"auto","aspectRatio":"0.748062015503876","sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/02/IMG_2455-766x1024.jpg" alt="" class="wp-image-3123" style="aspect-ratio:0.748062015503876;width:273px;height:auto"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/02/IMG_2455.jpg" alt="" class="wp-image-3123" style="aspect-ratio:0.748062015503876;width:273px;height:auto"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -358,7 +358,7 @@ excerpt: "Hachioji Castle Ruins hiking guide near Tokyo. What to expect on this 
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3124,"width":"254px","height":"auto","aspectRatio":"0.7500074928817623","sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/02/IMG_2457-768x1024.jpg" alt="" class="wp-image-3124" style="aspect-ratio:0.7500074928817623;width:254px;height:auto"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/02/IMG_2457.jpg" alt="" class="wp-image-3124" style="aspect-ratio:0.7500074928817623;width:254px;height:auto"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -374,7 +374,7 @@ excerpt: "Hachioji Castle Ruins hiking guide near Tokyo. What to expect on this 
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3125,"width":"295px","height":"auto","aspectRatio":"0.7480556419714679","sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/02/IMG_2462-766x1024.jpg" alt="" class="wp-image-3125" style="aspect-ratio:0.7480556419714679;width:295px;height:auto"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/02/IMG_2462.jpg" alt="" class="wp-image-3125" style="aspect-ratio:0.7480556419714679;width:295px;height:auto"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -382,7 +382,7 @@ excerpt: "Hachioji Castle Ruins hiking guide near Tokyo. What to expect on this 
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3127,"width":"304px","height":"auto","aspectRatio":"0.7480519480519481","sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/02/IMG_2467-766x1024.jpg" alt="" class="wp-image-3127" style="aspect-ratio:0.7480519480519481;width:304px;height:auto"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/02/IMG_2467.jpg" alt="" class="wp-image-3127" style="aspect-ratio:0.7480519480519481;width:304px;height:auto"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:separator -->
@@ -398,7 +398,7 @@ excerpt: "Hachioji Castle Ruins hiking guide near Tokyo. What to expect on this 
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3128,"width":"275px","height":"auto","aspectRatio":"0.7480627726769551","sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/02/IMG_2470-766x1024.jpg" alt="" class="wp-image-3128" style="aspect-ratio:0.7480627726769551;width:275px;height:auto"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/02/IMG_2470.jpg" alt="" class="wp-image-3128" style="aspect-ratio:0.7480627726769551;width:275px;height:auto"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -406,7 +406,7 @@ excerpt: "Hachioji Castle Ruins hiking guide near Tokyo. What to expect on this 
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3129,"width":"290px","height":"auto","aspectRatio":"0.7480494823340947","sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/02/IMG_2475-766x1024.jpg" alt="" class="wp-image-3129" style="aspect-ratio:0.7480494823340947;width:290px;height:auto"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/02/IMG_2475.jpg" alt="" class="wp-image-3129" style="aspect-ratio:0.7480494823340947;width:290px;height:auto"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:separator -->
@@ -422,7 +422,7 @@ excerpt: "Hachioji Castle Ruins hiking guide near Tokyo. What to expect on this 
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3130,"width":"285px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/02/IMG_2481-766x1024.jpg" alt="" class="wp-image-3130" style="width:285px;height:auto"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/02/IMG_2481.jpg" alt="" class="wp-image-3130" style="width:285px;height:auto"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -430,7 +430,7 @@ excerpt: "Hachioji Castle Ruins hiking guide near Tokyo. What to expect on this 
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3118,"width":"256px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/02/IMG_2478-766x1024.jpg" alt="" class="wp-image-3118" style="width:256px;height:auto"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/02/IMG_2478.jpg" alt="" class="wp-image-3118" style="width:256px;height:auto"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -438,7 +438,7 @@ excerpt: "Hachioji Castle Ruins hiking guide near Tokyo. What to expect on this 
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3134,"width":"242px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/02/IMG_2488-766x1024.jpg" alt="" class="wp-image-3134" style="width:242px;height:auto"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/02/IMG_2488.jpg" alt="" class="wp-image-3134" style="width:242px;height:auto"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -446,7 +446,7 @@ excerpt: "Hachioji Castle Ruins hiking guide near Tokyo. What to expect on this 
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3132,"width":"254px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/02/IMG_2491-766x1024.jpg" alt="" class="wp-image-3132" style="width:254px;height:auto"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/02/IMG_2491.jpg" alt="" class="wp-image-3132" style="width:254px;height:auto"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -454,7 +454,7 @@ excerpt: "Hachioji Castle Ruins hiking guide near Tokyo. What to expect on this 
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3135,"width":"260px","height":"auto","aspectRatio":"0.7480577136514983","sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/02/IMG_2493-766x1024.jpg" alt="" class="wp-image-3135" style="aspect-ratio:0.7480577136514983;width:260px;height:auto"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/02/IMG_2493.jpg" alt="" class="wp-image-3135" style="aspect-ratio:0.7480577136514983;width:260px;height:auto"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -462,7 +462,7 @@ excerpt: "Hachioji Castle Ruins hiking guide near Tokyo. What to expect on this 
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3136,"width":"269px","height":"auto","aspectRatio":"0.7480477605924731","sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/02/IMG_2495-766x1024.jpg" alt="" class="wp-image-3136" style="aspect-ratio:0.7480477605924731;width:269px;height:auto"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/02/IMG_2495.jpg" alt="" class="wp-image-3136" style="aspect-ratio:0.7480477605924731;width:269px;height:auto"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -472,13 +472,13 @@ excerpt: "Hachioji Castle Ruins hiking guide near Tokyo. What to expect on this 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3137,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2500-766x1024.jpg" alt="" class="wp-image-3137"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2500.jpg" alt="" class="wp-image-3137"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3138,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2501-766x1024.jpg" alt="" class="wp-image-3138"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2501.jpg" alt="" class="wp-image-3138"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -494,19 +494,19 @@ excerpt: "Hachioji Castle Ruins hiking guide near Tokyo. What to expect on this 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3139,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2432-766x1024.jpg" alt="" class="wp-image-3139"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2432.jpg" alt="" class="wp-image-3139"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3120,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2436-766x1024.jpg" alt="" class="wp-image-3120"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2436.jpg" alt="" class="wp-image-3120"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3140,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2437-766x1024.jpg" alt="" class="wp-image-3140"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2437.jpg" alt="" class="wp-image-3140"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -530,19 +530,19 @@ excerpt: "Hachioji Castle Ruins hiking guide near Tokyo. What to expect on this 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3141,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2416-766x1024.jpg" alt="" class="wp-image-3141"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2416.jpg" alt="" class="wp-image-3141"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3142,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2414-766x1024.jpg" alt="" class="wp-image-3142"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2414.jpg" alt="" class="wp-image-3142"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3144,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2422-1-766x1024.jpg" alt="" class="wp-image-3144"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2422-1.jpg" alt="" class="wp-image-3144"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -570,13 +570,13 @@ excerpt: "Hachioji Castle Ruins hiking guide near Tokyo. What to expect on this 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3145,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2430-766x1024.jpg" alt="" class="wp-image-3145"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2430.jpg" alt="" class="wp-image-3145"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3146,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2428-766x1024.jpg" alt="" class="wp-image-3146"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2428.jpg" alt="" class="wp-image-3146"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -598,7 +598,7 @@ excerpt: "Hachioji Castle Ruins hiking guide near Tokyo. What to expect on this 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3147,"width":"283px","height":"auto","aspectRatio":"0.7500154197249121","sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/02/IMG_2499-768x1024.jpg" alt="" class="wp-image-3147" style="aspect-ratio:0.7500154197249121;width:283px;height:auto"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/02/IMG_2499.jpg" alt="" class="wp-image-3147" style="aspect-ratio:0.7500154197249121;width:283px;height:auto"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:list -->
@@ -628,7 +628,7 @@ excerpt: "Hachioji Castle Ruins hiking guide near Tokyo. What to expect on this 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3135,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2493-766x1024.jpg" alt="" class="wp-image-3135"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2493.jpg" alt="" class="wp-image-3135"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

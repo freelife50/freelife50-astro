@@ -192,7 +192,7 @@ excerpt: "⏱ This blog takes about 7 minutes to read What This Story Is About T
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":2095,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250628_050135471-1024x769.jpg" alt="" class="wp-image-2095"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250628_050135471.jpg" alt="" class="wp-image-2095"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -212,7 +212,7 @@ excerpt: "⏱ This blog takes about 7 minutes to read What This Story Is About T
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":2096,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250628_051251439-1024x769.jpg" alt="" class="wp-image-2096"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250628_051251439.jpg" alt="" class="wp-image-2096"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -248,7 +248,7 @@ excerpt: "⏱ This blog takes about 7 minutes to read What This Story Is About T
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":2097,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250701_033127329-1024x769.jpg" alt="" class="wp-image-2097"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250701_033127329.jpg" alt="" class="wp-image-2097"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -268,7 +268,7 @@ excerpt: "⏱ This blog takes about 7 minutes to read What This Story Is About T
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":2098,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250701_034031646-1024x769.jpg" alt="" class="wp-image-2098"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250701_034031646.jpg" alt="" class="wp-image-2098"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

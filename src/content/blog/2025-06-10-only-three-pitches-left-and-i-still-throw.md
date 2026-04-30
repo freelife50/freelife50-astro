@@ -74,7 +74,7 @@ excerpt: "A Story of Midlife, Hope, and a Manga That Helped Me Begin Again 🕐 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":1664,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_t3h3txt3h3txt3h3-1024x1024.png" alt="" class="wp-image-1664"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_t3h3txt3h3txt3h3.png" alt="" class="wp-image-1664"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -146,7 +146,7 @@ excerpt: "A Story of Midlife, Hope, and a Manga That Helped Me Begin Again 🕐 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":1666,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_uozn0duozn0duozn-1024x1024.png" alt="" class="wp-image-1666"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_uozn0duozn0duozn.png" alt="" class="wp-image-1666"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -190,7 +190,7 @@ excerpt: "A Story of Midlife, Hope, and a Manga That Helped Me Begin Again 🕐 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":1668,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/06/734d911fcfdc79c35b7d88d35baaf3e0-683x1024.png" alt="" class="wp-image-1668"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/06/734d911fcfdc79c35b7d88d35baaf3e0.png" alt="" class="wp-image-1668"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -254,7 +254,7 @@ excerpt: "A Story of Midlife, Hope, and a Manga That Helped Me Begin Again 🕐 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":1669,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_b921ydb921ydb921-1024x1024.png" alt="" class="wp-image-1669"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_b921ydb921ydb921.png" alt="" class="wp-image-1669"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

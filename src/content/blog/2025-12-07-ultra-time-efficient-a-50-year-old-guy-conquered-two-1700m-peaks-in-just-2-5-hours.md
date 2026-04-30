@@ -64,7 +64,7 @@ excerpt: "(Okura-takamaru & Hamaiba-maru / Out-and-Back Route) Estimated Reading
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":2844,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251130_021334134.NIGHT_-769x1024.jpg" alt="" class="wp-image-2844"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251130_021334134.NIGHT_.jpg" alt="" class="wp-image-2844"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -130,13 +130,13 @@ excerpt: "(Okura-takamaru & Hamaiba-maru / Out-and-Back Route) Estimated Reading
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2850,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251130_021211127-769x1024.jpg" alt="" class="wp-image-2850"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251130_021211127.jpg" alt="" class="wp-image-2850"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2852,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251130_021045744.MP_-769x1024.jpg" alt="" class="wp-image-2852"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251130_021045744.MP_.jpg" alt="" class="wp-image-2852"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -180,13 +180,13 @@ excerpt: "(Okura-takamaru & Hamaiba-maru / Out-and-Back Route) Estimated Reading
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2846,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251130_024454406-769x1024.jpg" alt="" class="wp-image-2846"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251130_024454406.jpg" alt="" class="wp-image-2846"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2843,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251130_024444364-769x1024.jpg" alt="" class="wp-image-2843"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251130_024444364.jpg" alt="" class="wp-image-2843"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -220,13 +220,13 @@ excerpt: "(Okura-takamaru & Hamaiba-maru / Out-and-Back Route) Estimated Reading
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2848,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251130_031540694-769x1024.jpg" alt="" class="wp-image-2848"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251130_031540694.jpg" alt="" class="wp-image-2848"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2849,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251130_031700524-769x1024.jpg" alt="" class="wp-image-2849"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251130_031700524.jpg" alt="" class="wp-image-2849"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -326,19 +326,19 @@ excerpt: "(Okura-takamaru & Hamaiba-maru / Out-and-Back Route) Estimated Reading
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2853,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251130_015714705-769x1024.jpg" alt="" class="wp-image-2853"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251130_015714705.jpg" alt="" class="wp-image-2853"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2854,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251130_042125415-769x1024.jpg" alt="" class="wp-image-2854"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251130_042125415.jpg" alt="" class="wp-image-2854"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2855,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251130_041957719-769x1024.jpg" alt="" class="wp-image-2855"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251130_041957719.jpg" alt="" class="wp-image-2855"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -364,13 +364,13 @@ excerpt: "(Okura-takamaru & Hamaiba-maru / Out-and-Back Route) Estimated Reading
 <div class="wp-block-column"><!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2857,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251130_021434657-769x1024.jpg" alt="" class="wp-image-2857"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251130_021434657.jpg" alt="" class="wp-image-2857"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2851,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251130_021102076-769x1024.jpg" alt="" class="wp-image-2851"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251130_021102076.jpg" alt="" class="wp-image-2851"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
@@ -402,7 +402,7 @@ excerpt: "(Okura-takamaru & Hamaiba-maru / Out-and-Back Route) Estimated Reading
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":2847,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251130_024444364-1-769x1024.jpg" alt="" class="wp-image-2847"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251130_024444364-1.jpg" alt="" class="wp-image-2847"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:separator -->
@@ -426,7 +426,7 @@ excerpt: "(Okura-takamaru & Hamaiba-maru / Out-and-Back Route) Estimated Reading
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":2849,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251130_031700524-769x1024.jpg" alt="" class="wp-image-2849"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251130_031700524.jpg" alt="" class="wp-image-2849"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:separator -->
@@ -516,13 +516,13 @@ excerpt: "(Okura-takamaru & Hamaiba-maru / Out-and-Back Route) Estimated Reading
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2858,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251130_020937547-769x1024.jpg" alt="" class="wp-image-2858"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251130_020937547.jpg" alt="" class="wp-image-2858"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2859,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251130_020346672.MP_-769x1024.jpg" alt="" class="wp-image-2859"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251130_020346672.MP_.jpg" alt="" class="wp-image-2859"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -554,7 +554,7 @@ excerpt: "(Okura-takamaru & Hamaiba-maru / Out-and-Back Route) Estimated Reading
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2845,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251130_024314515-769x1024.jpg" alt="" class="wp-image-2845"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251130_024314515.jpg" alt="" class="wp-image-2845"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

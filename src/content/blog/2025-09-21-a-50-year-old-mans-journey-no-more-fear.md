@@ -104,7 +104,7 @@ excerpt: "A 50-year-old Japanese man's honest experience with colon CT scan. Wha
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2306,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/09/PXL_20250921_054451209-769x1024.jpg" alt="" class="wp-image-2306"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/09/PXL_20250921_054451209.jpg" alt="" class="wp-image-2306"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -136,13 +136,13 @@ excerpt: "A 50-year-old Japanese man's honest experience with colon CT scan. Wha
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2307,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/09/PXL_20250921_054457776-769x1024.jpg" alt="" class="wp-image-2307"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/09/PXL_20250921_054457776.jpg" alt="" class="wp-image-2307"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2308,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/09/PXL_20250921_054936558-769x1024.jpg" alt="" class="wp-image-2308"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/09/PXL_20250921_054936558.jpg" alt="" class="wp-image-2308"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -178,7 +178,7 @@ excerpt: "A 50-year-old Japanese man's honest experience with colon CT scan. Wha
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2309,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/09/PXL_20250921_054946294-769x1024.jpg" alt="" class="wp-image-2309"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/09/PXL_20250921_054946294.jpg" alt="" class="wp-image-2309"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -406,7 +406,7 @@ excerpt: "A 50-year-old Japanese man's honest experience with colon CT scan. Wha
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2305,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/09/PXL_20250921_054612533-769x1024.jpg" alt="" class="wp-image-2305"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/09/PXL_20250921_054612533.jpg" alt="" class="wp-image-2305"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

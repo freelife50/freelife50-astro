@@ -157,15 +157,19 @@ excerpt: "1年前に書いた「IIJmioで家族4人月4,500円」の答え合わ
 <!-- /wp:paragraph -->
 
 <!-- wp:table -->
-<figure class="wp-block-table"><table><thead><tr><th>プラン</th><th>月額</th></tr></thead><tbody><tr><td>5GBプラン</td><td>990円</td></tr><tr><td>25GBプラン</td><td>2,000円</td></tr><tr><td>35GBプラン</td><td>2,700円</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table><thead><tr><th>プラン</th><th>月額</th></tr></thead><tbody><tr><td>5GBプラン</td><td>990円</td></tr><tr><td>25GBプラン</td><td>2,000円</td></tr><tr><td>35GBプラン</td><td>2,400円</td></tr></tbody></table></figure>
 <!-- /wp:table -->
 
 <!-- wp:paragraph -->
-<p>5GB×3人で2,970円の固定部分に、大容量の1人分が2,000〜2,700円で動く。</p>
+<p>5GB×3人で2,970円の固定部分に、大容量の1人分が2,000〜2,400円で動く。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>「今月は外出多そうやから35GBにしとこう」と切り替えると、25GBより700円高い。これだけで月の請求が跳ね上がる。</p>
+<p>「今月は外出多そうやから35GBにしとこう」と切り替えると、25GBより400円高い。これだけで月の請求が跳ね上がる。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>もう一つの変動要因は<strong>通話料金</strong>。IIJmioは国内通話が11円/30秒で別途かかるため、電話をよくする月はその分だけ請求が増える。病院や役所への電話が重なった月は、やっぱり高くなっていた。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -281,7 +285,7 @@ excerpt: "1年前に書いた「IIJmioで家族4人月4,500円」の答え合わ
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>一番データを使う家族が、月末に翌月の使い方を考えてプランを決める。来月は出かけることが多いなら35GBへ、在宅が多そうなら25GBに戻す。これだけで月に700円の差が生まれる。</p>
+<p>一番データを使う家族が、月末に翌月の使い方を考えてプランを決める。来月は出かけることが多いなら35GBへ、在宅が多そうなら25GBに戻す。これだけで月に400円の差が生まれる。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

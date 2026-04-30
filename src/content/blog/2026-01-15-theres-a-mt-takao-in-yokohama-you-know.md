@@ -70,7 +70,7 @@ excerpt: "Discover Yokohama's hidden \"Mt. Takao\" — a 13km hike from Enkaisan
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3048,"width":"626px","height":"auto","sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/images/wp-content/uploads/2026/01/image-1024x832.jpg" alt="" class="wp-image-3048" style="width:626px;height:auto"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/images/wp-content/uploads/2026/01/image.jpg" alt="" class="wp-image-3048" style="width:626px;height:auto"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -110,7 +110,7 @@ excerpt: "Discover Yokohama's hidden \"Mt. Takao\" — a 13km hike from Enkaisan
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3046,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/image-1-1024x598.jpg" alt="" class="wp-image-3046"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/image-1.jpg" alt="" class="wp-image-3046"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -172,7 +172,7 @@ excerpt: "Discover Yokohama's hidden \"Mt. Takao\" — a 13km hike from Enkaisan
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3049,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/F25C7512-B859-4DE8-AD02-B31C0FDDDDFF-1024x768.jpeg" alt="" class="wp-image-3049"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/F25C7512-B859-4DE8-AD02-B31C0FDDDDFF.jpeg" alt="" class="wp-image-3049"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -200,7 +200,7 @@ excerpt: "Discover Yokohama's hidden \"Mt. Takao\" — a 13km hike from Enkaisan
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3051,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/AFCF826A-AD01-4D8C-957B-F63684FD3B72-768x1024.jpeg" alt="" class="wp-image-3051"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/AFCF826A-AD01-4D8C-957B-F63684FD3B72.jpeg" alt="" class="wp-image-3051"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -232,7 +232,7 @@ excerpt: "Discover Yokohama's hidden \"Mt. Takao\" — a 13km hike from Enkaisan
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3052,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/82A6520A-E7D4-4B29-B1E2-D980AF451044-1024x768.jpeg" alt="" class="wp-image-3052"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/82A6520A-E7D4-4B29-B1E2-D980AF451044.jpeg" alt="" class="wp-image-3052"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -280,7 +280,7 @@ excerpt: "Discover Yokohama's hidden \"Mt. Takao\" — a 13km hike from Enkaisan
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3055,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/73C0A3C9-2BF2-4005-9112-5DE12E4F08A6-1024x768.jpeg" alt="" class="wp-image-3055"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/73C0A3C9-2BF2-4005-9112-5DE12E4F08A6.jpeg" alt="" class="wp-image-3055"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -348,7 +348,7 @@ excerpt: "Discover Yokohama's hidden \"Mt. Takao\" — a 13km hike from Enkaisan
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3054,"width":"560px","height":"auto","sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/images/wp-content/uploads/2026/01/DEC965D6-7F2E-487E-9F3A-AAB404741983-768x1024.jpeg" alt="" class="wp-image-3054" style="width:560px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/images/wp-content/uploads/2026/01/DEC965D6-7F2E-487E-9F3A-AAB404741983.jpeg" alt="" class="wp-image-3054" style="width:560px;height:auto"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

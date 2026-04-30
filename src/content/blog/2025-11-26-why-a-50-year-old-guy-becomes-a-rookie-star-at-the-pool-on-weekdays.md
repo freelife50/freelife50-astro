@@ -84,7 +84,7 @@ excerpt: "Why swimming in your 50s is the best exercise you're not doing. How th
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2828,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_olw9l3olw9l3olw9-1024x585.jpg" alt="" class="wp-image-2828"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_olw9l3olw9l3olw9.jpg" alt="" class="wp-image-2828"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -142,7 +142,7 @@ excerpt: "Why swimming in your 50s is the best exercise you're not doing. How th
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2830,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_3cezto3cezto3cez-1024x535.jpg" alt="" class="wp-image-2830"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_3cezto3cezto3cez.jpg" alt="" class="wp-image-2830"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -192,7 +192,7 @@ excerpt: "Why swimming in your 50s is the best exercise you're not doing. How th
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2831,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_y4zupey4zupey4zu-1024x585.jpg" alt="" class="wp-image-2831"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_y4zupey4zupey4zu.jpg" alt="" class="wp-image-2831"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -446,7 +446,7 @@ excerpt: "Why swimming in your 50s is the best exercise you're not doing. How th
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2836,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/Image_fx-3-1-1024x576.jpg" alt="" class="wp-image-2836"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/Image_fx-3-1.jpg" alt="" class="wp-image-2836"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

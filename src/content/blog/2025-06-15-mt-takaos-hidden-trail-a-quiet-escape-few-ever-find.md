@@ -80,13 +80,13 @@ excerpt: "A peaceful hike guide from Ura-Takao to Mt. Kobotoke-Shiroyama near To
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"width":"66.66%"} -->
 <div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:image {"id":1738,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250613_005246010-1024x769.jpg" alt="" class="wp-image-1738"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250613_005246010-scaled.jpg" alt="" class="wp-image-1738"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"width":"33.33%"} -->
 <div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"id":1737,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250613_032804256.MP_-769x1024.jpg" alt="" class="wp-image-1737"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250613_032804256.MP_-scaled.jpg" alt="" class="wp-image-1737"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -116,7 +116,7 @@ excerpt: "A peaceful hike guide from Ura-Takao to Mt. Kobotoke-Shiroyama near To
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":1728,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250613_010352998-769x1024.jpg" alt="" class="wp-image-1728"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250613_010352998-scaled.jpg" alt="" class="wp-image-1728"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -150,13 +150,13 @@ excerpt: "A peaceful hike guide from Ura-Takao to Mt. Kobotoke-Shiroyama near To
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"width":"33.33%"} -->
 <div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"id":1729,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250613_020320759-769x1024.jpg" alt="" class="wp-image-1729"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250613_020320759-scaled.jpg" alt="" class="wp-image-1729"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"width":"66.66%"} -->
 <div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:image {"id":1730,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250613_012831546-1024x769.jpg" alt="" class="wp-image-1730"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250613_012831546-scaled.jpg" alt="" class="wp-image-1730"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -186,7 +186,7 @@ excerpt: "A peaceful hike guide from Ura-Takao to Mt. Kobotoke-Shiroyama near To
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":1731,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250613_022627647-769x1024.jpg" alt="" class="wp-image-1731"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250613_022627647-scaled.jpg" alt="" class="wp-image-1731"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -220,17 +220,17 @@ excerpt: "A peaceful hike guide from Ura-Takao to Mt. Kobotoke-Shiroyama near To
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"width":"33.33%"} -->
 <div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"id":1736,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250613_010344520-769x1024.jpg" alt="" class="wp-image-1736"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250613_010344520-scaled.jpg" alt="" class="wp-image-1736"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":1727,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250613_005950535.MP_-769x1024.jpg" alt="" class="wp-image-1727"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250613_005950535.MP_-scaled.jpg" alt="" class="wp-image-1727"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"width":"66.66%"} -->
 <div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:image {"id":1733,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250613_010240121-769x1024.jpg" alt="" class="wp-image-1733"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250613_010240121-scaled.jpg" alt="" class="wp-image-1733"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -260,7 +260,7 @@ excerpt: "A peaceful hike guide from Ura-Takao to Mt. Kobotoke-Shiroyama near To
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":1725,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250613_003819009-1024x769.jpg" alt="" class="wp-image-1725"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250613_003819009-scaled.jpg" alt="" class="wp-image-1725"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

@@ -56,7 +56,7 @@ excerpt: "Reading time: about 4 minutes Who this is for People who feel uncomfor
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3013,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_z1muu5z1muu5z1mu-1024x558.jpg" alt="" class="wp-image-3013"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_z1muu5z1muu5z1mu.jpg" alt="" class="wp-image-3013"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -104,7 +104,7 @@ excerpt: "Reading time: about 4 minutes Who this is for People who feel uncomfor
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3014,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_t78y20t78y20t78y-1024x558.jpg" alt="" class="wp-image-3014"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_t78y20t78y20t78y.jpg" alt="" class="wp-image-3014"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -148,7 +148,7 @@ excerpt: "Reading time: about 4 minutes Who this is for People who feel uncomfor
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3015,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_8e48rc8e48rc8e48-1024x558.jpg" alt="" class="wp-image-3015"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_8e48rc8e48rc8e48.jpg" alt="" class="wp-image-3015"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -190,7 +190,7 @@ excerpt: "Reading time: about 4 minutes Who this is for People who feel uncomfor
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3016,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_2nb29a2nb29a2nb2-1024x558.jpg" alt="" class="wp-image-3016"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_2nb29a2nb29a2nb2.jpg" alt="" class="wp-image-3016"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -246,7 +246,7 @@ excerpt: "Reading time: about 4 minutes Who this is for People who feel uncomfor
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3017,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_c4e0msc4e0msc4e0-1024x558.jpg" alt="" class="wp-image-3017"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_c4e0msc4e0msc4e0.jpg" alt="" class="wp-image-3017"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -270,7 +270,7 @@ excerpt: "Reading time: about 4 minutes Who this is for People who feel uncomfor
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3018,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_b9jczlb9jczlb9jc-1024x558.jpg" alt="" class="wp-image-3018"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_b9jczlb9jczlb9jc.jpg" alt="" class="wp-image-3018"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -312,7 +312,7 @@ excerpt: "Reading time: about 4 minutes Who this is for People who feel uncomfor
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3019,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_m0mmtpm0mmtpm0mm-1024x558.jpg" alt="" class="wp-image-3019"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_m0mmtpm0mmtpm0mm.jpg" alt="" class="wp-image-3019"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -364,7 +364,7 @@ excerpt: "Reading time: about 4 minutes Who this is for People who feel uncomfor
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3020,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_z2rsfqz2rsfqz2rs-1024x558.jpg" alt="" class="wp-image-3020"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_z2rsfqz2rsfqz2rs.jpg" alt="" class="wp-image-3020"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

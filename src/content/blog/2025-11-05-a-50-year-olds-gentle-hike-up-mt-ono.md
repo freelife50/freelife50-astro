@@ -56,13 +56,13 @@ excerpt: "Mt. Ono hiking guide in Kanagawa, Japan. An easy beginner-friendly tra
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2661,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_031812268.MP_-769x1024.jpg" alt="" class="wp-image-2661"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_031812268.MP_.jpg" alt="" class="wp-image-2661"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2663,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_031002187-769x1024.jpg" alt="" class="wp-image-2663"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_031002187.jpg" alt="" class="wp-image-2663"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -88,7 +88,7 @@ excerpt: "Mt. Ono hiking guide in Kanagawa, Japan. An easy beginner-friendly tra
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2651,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_052024629.MP_-769x1024.jpg" alt="" class="wp-image-2651"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_052024629.MP_.jpg" alt="" class="wp-image-2651"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -122,19 +122,19 @@ excerpt: "Mt. Ono hiking guide in Kanagawa, Japan. An easy beginner-friendly tra
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2653,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_033541936-769x1024.jpg" alt="" class="wp-image-2653"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_033541936.jpg" alt="" class="wp-image-2653"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2655,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_030342257-769x1024.jpg" alt="" class="wp-image-2655"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_030342257.jpg" alt="" class="wp-image-2655"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2656,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_030552499-769x1024.jpg" alt="" class="wp-image-2656"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_030552499.jpg" alt="" class="wp-image-2656"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -158,19 +158,19 @@ excerpt: "Mt. Ono hiking guide in Kanagawa, Japan. An easy beginner-friendly tra
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2657,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_030500392-769x1024.jpg" alt="" class="wp-image-2657"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_030500392.jpg" alt="" class="wp-image-2657"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2658,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_030525337-769x1024.jpg" alt="" class="wp-image-2658"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_030525337.jpg" alt="" class="wp-image-2658"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2659,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_030531444-769x1024.jpg" alt="" class="wp-image-2659"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_030531444.jpg" alt="" class="wp-image-2659"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -210,7 +210,7 @@ excerpt: "Mt. Ono hiking guide in Kanagawa, Japan. An easy beginner-friendly tra
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2660,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_032958586.MP_-769x1024.jpg" alt="" class="wp-image-2660"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_032958586.MP_.jpg" alt="" class="wp-image-2660"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -234,7 +234,7 @@ excerpt: "Mt. Ono hiking guide in Kanagawa, Japan. An easy beginner-friendly tra
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2664,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_032618898-1024x769.jpg" alt="" class="wp-image-2664"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_032618898.jpg" alt="" class="wp-image-2664"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -258,7 +258,7 @@ excerpt: "Mt. Ono hiking guide in Kanagawa, Japan. An easy beginner-friendly tra
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2665,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_040131142-769x1024.jpg" alt="" class="wp-image-2665"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_040131142.jpg" alt="" class="wp-image-2665"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -284,19 +284,19 @@ excerpt: "Mt. Ono hiking guide in Kanagawa, Japan. An easy beginner-friendly tra
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2666,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_040538124-769x1024.jpg" alt="" class="wp-image-2666"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_040538124.jpg" alt="" class="wp-image-2666"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2668,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/original_41dcaf91-26f6-450b-b3e4-8f90bac5d401_PXL_20251102_040700934-848x1024.jpg" alt="" class="wp-image-2668"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/original_41dcaf91-26f6-450b-b3e4-8f90bac5d401_PXL_20251102_040700934.jpg" alt="" class="wp-image-2668"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2669,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/original_22b5ae8d-6742-44d1-bb0d-0be9ce811b10_PXL_20251102_040246547-945x1024.jpg" alt="" class="wp-image-2669"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/original_22b5ae8d-6742-44d1-bb0d-0be9ce811b10_PXL_20251102_040246547.jpg" alt="" class="wp-image-2669"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -360,19 +360,19 @@ excerpt: "Mt. Ono hiking guide in Kanagawa, Japan. An easy beginner-friendly tra
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2670,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_040637575-769x1024.jpg" alt="" class="wp-image-2670"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_040637575.jpg" alt="" class="wp-image-2670"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2671,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_040117814.MP_-769x1024.jpg" alt="" class="wp-image-2671"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_040117814.MP_.jpg" alt="" class="wp-image-2671"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2672,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_044826207-769x1024.jpg" alt="" class="wp-image-2672"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_044826207.jpg" alt="" class="wp-image-2672"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -398,7 +398,7 @@ excerpt: "Mt. Ono hiking guide in Kanagawa, Japan. An easy beginner-friendly tra
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2673,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_040159865-1024x769.jpg" alt="" class="wp-image-2673"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_040159865.jpg" alt="" class="wp-image-2673"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

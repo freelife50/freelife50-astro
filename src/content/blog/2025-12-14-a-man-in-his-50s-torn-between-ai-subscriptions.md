@@ -70,7 +70,7 @@ excerpt: "ChatGPT vs Gemini vs Claude — which AI subscription is worth paying 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2898,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_qoutmxqoutmxqout-1024x558.jpg" alt="" class="wp-image-2898"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_qoutmxqoutmxqout.jpg" alt="" class="wp-image-2898"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -114,7 +114,7 @@ excerpt: "ChatGPT vs Gemini vs Claude — which AI subscription is worth paying 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2899,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_j4fh2dj4fh2dj4fh-1024x558.jpg" alt="" class="wp-image-2899"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_j4fh2dj4fh2dj4fh.jpg" alt="" class="wp-image-2899"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -178,7 +178,7 @@ excerpt: "ChatGPT vs Gemini vs Claude — which AI subscription is worth paying 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2900,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_57wbk957wbk957wb-1024x558.jpg" alt="" class="wp-image-2900"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_57wbk957wbk957wb.jpg" alt="" class="wp-image-2900"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -218,7 +218,7 @@ excerpt: "ChatGPT vs Gemini vs Claude — which AI subscription is worth paying 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2901,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_5bn9ap5bn9ap5bn9-1024x558.jpg" alt="" class="wp-image-2901"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_5bn9ap5bn9ap5bn9.jpg" alt="" class="wp-image-2901"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -272,7 +272,7 @@ excerpt: "ChatGPT vs Gemini vs Claude — which AI subscription is worth paying 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2902,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_4pufh84pufh84puf-1024x558.jpg" alt="" class="wp-image-2902"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_4pufh84pufh84puf.jpg" alt="" class="wp-image-2902"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -320,7 +320,7 @@ excerpt: "ChatGPT vs Gemini vs Claude — which AI subscription is worth paying 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2903,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_a8q2ca8q2ca8q2ca-1024x558.jpg" alt="" class="wp-image-2903"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_a8q2ca8q2ca8q2ca.jpg" alt="" class="wp-image-2903"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -360,7 +360,7 @@ excerpt: "ChatGPT vs Gemini vs Claude — which AI subscription is worth paying 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2904,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_cnswfgcnswfgcnsw-1024x558.jpg" alt="" class="wp-image-2904"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_cnswfgcnswfgcnsw.jpg" alt="" class="wp-image-2904"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -394,7 +394,7 @@ excerpt: "ChatGPT vs Gemini vs Claude — which AI subscription is worth paying 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2905,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_avgwc6avgwc6avgw-1024x558.jpg" alt="" class="wp-image-2905"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_avgwc6avgwc6avgw.jpg" alt="" class="wp-image-2905"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:quote -->
@@ -428,7 +428,7 @@ excerpt: "ChatGPT vs Gemini vs Claude — which AI subscription is worth paying 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2906,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_a3iku9a3iku9a3ik-1024x558.jpg" alt="" class="wp-image-2906"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_a3iku9a3iku9a3ik.jpg" alt="" class="wp-image-2906"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -478,7 +478,7 @@ excerpt: "ChatGPT vs Gemini vs Claude — which AI subscription is worth paying 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2907,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_hn7jn5hn7jn5hn7j-1024x558.jpg" alt="" class="wp-image-2907"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_hn7jn5hn7jn5hn7j.jpg" alt="" class="wp-image-2907"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -510,7 +510,7 @@ excerpt: "ChatGPT vs Gemini vs Claude — which AI subscription is worth paying 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2908,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_mopefhmopefhmope-1024x558.jpg" alt="" class="wp-image-2908"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_mopefhmopefhmope.jpg" alt="" class="wp-image-2908"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

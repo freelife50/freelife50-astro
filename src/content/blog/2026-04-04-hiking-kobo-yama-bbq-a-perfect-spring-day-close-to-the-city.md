@@ -98,7 +98,7 @@ excerpt: "A complete guide to hiking Kobo-yama and BBQ near Tokyo. Cherry blosso
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3341,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/Gemini_Generated_Image_m84bzwm84bzwm84b-768x1024.jpg" alt="" class="wp-image-3341"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/Gemini_Generated_Image_m84bzwm84bzwm84b.jpg" alt="" class="wp-image-3341"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -166,7 +166,7 @@ excerpt: "A complete guide to hiking Kobo-yama and BBQ near Tokyo. Cherry blosso
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3340,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/IMG_3121-766x1024.jpg" alt="" class="wp-image-3340"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/IMG_3121.jpg" alt="" class="wp-image-3340"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -190,7 +190,7 @@ excerpt: "A complete guide to hiking Kobo-yama and BBQ near Tokyo. Cherry blosso
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3342,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/IMG_3144-766x1024.jpg" alt="" class="wp-image-3342"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/IMG_3144.jpg" alt="" class="wp-image-3342"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -258,13 +258,13 @@ excerpt: "A complete guide to hiking Kobo-yama and BBQ near Tokyo. Cherry blosso
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3343,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/IMG_3141-1024x768.jpg" alt="" class="wp-image-3343"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/IMG_3141.jpg" alt="" class="wp-image-3343"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3344,"width":"221px","height":"auto","aspectRatio":"0.7480644675402922","sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/04/IMG_3139-766x1024.jpg" alt="" class="wp-image-3344" style="aspect-ratio:0.7480644675402922;width:221px;height:auto"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/04/IMG_3139.jpg" alt="" class="wp-image-3344" style="aspect-ratio:0.7480644675402922;width:221px;height:auto"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -290,7 +290,7 @@ excerpt: "A complete guide to hiking Kobo-yama and BBQ near Tokyo. Cherry blosso
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3345,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/image-771x1024.jpg" alt="" class="wp-image-3345"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/image.jpg" alt="" class="wp-image-3345"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -316,13 +316,13 @@ excerpt: "A complete guide to hiking Kobo-yama and BBQ near Tokyo. Cherry blosso
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3346,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/IMG_3147-768x1024.jpg" alt="" class="wp-image-3346"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/IMG_3147.jpg" alt="" class="wp-image-3346"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3349,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/IMG_3150-766x1024.jpg" alt="" class="wp-image-3349"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/IMG_3150.jpg" alt="" class="wp-image-3349"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -346,7 +346,7 @@ excerpt: "A complete guide to hiking Kobo-yama and BBQ near Tokyo. Cherry blosso
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3347,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/IMG_3154-766x1024.jpg" alt="" class="wp-image-3347"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/IMG_3154.jpg" alt="" class="wp-image-3347"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -380,13 +380,13 @@ excerpt: "A complete guide to hiking Kobo-yama and BBQ near Tokyo. Cherry blosso
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3350,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/IMG_3153-766x1024.jpg" alt="" class="wp-image-3350"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/IMG_3153.jpg" alt="" class="wp-image-3350"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3351,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/image-1-765x1024.jpg" alt="" class="wp-image-3351"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/image-1.jpg" alt="" class="wp-image-3351"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->

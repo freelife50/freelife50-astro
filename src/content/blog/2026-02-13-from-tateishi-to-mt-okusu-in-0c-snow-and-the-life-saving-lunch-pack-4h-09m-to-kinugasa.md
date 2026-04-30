@@ -220,7 +220,7 @@ excerpt: "Winter hiking report from Tateishi to Mt. Okusu in 0°C snow. A 4-hour
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3162,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2549-766x1024.jpg" alt="" class="wp-image-3162"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2549.jpg" alt="" class="wp-image-3162"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -246,7 +246,7 @@ excerpt: "Winter hiking report from Tateishi to Mt. Okusu in 0°C snow. A 4-hour
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3159,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2548-766x1024.jpg" alt="" class="wp-image-3159"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2548.jpg" alt="" class="wp-image-3159"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -276,13 +276,13 @@ excerpt: "Winter hiking report from Tateishi to Mt. Okusu in 0°C snow. A 4-hour
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3163,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2550-766x1024.jpg" alt="" class="wp-image-3163"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2550.jpg" alt="" class="wp-image-3163"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3164,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2552-766x1024.jpg" alt="" class="wp-image-3164"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2552.jpg" alt="" class="wp-image-3164"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -330,19 +330,19 @@ excerpt: "Winter hiking report from Tateishi to Mt. Okusu in 0°C snow. A 4-hour
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3165,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2561-766x1024.jpg" alt="" class="wp-image-3165"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2561.jpg" alt="" class="wp-image-3165"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3167,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2565-766x1024.jpg" alt="" class="wp-image-3167"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2565.jpg" alt="" class="wp-image-3167"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3168,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2566-768x1024.jpg" alt="" class="wp-image-3168"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2566.jpg" alt="" class="wp-image-3168"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -408,7 +408,7 @@ excerpt: "Winter hiking report from Tateishi to Mt. Okusu in 0°C snow. A 4-hour
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3169,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2570-766x1024.jpg" alt="" class="wp-image-3169"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2570.jpg" alt="" class="wp-image-3169"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -454,13 +454,13 @@ excerpt: "Winter hiking report from Tateishi to Mt. Okusu in 0°C snow. A 4-hour
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3171,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2574-766x1024.jpg" alt="" class="wp-image-3171"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2574.jpg" alt="" class="wp-image-3171"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3172,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2578-768x1024.jpg" alt="" class="wp-image-3172"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2578.jpg" alt="" class="wp-image-3172"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -496,13 +496,13 @@ excerpt: "Winter hiking report from Tateishi to Mt. Okusu in 0°C snow. A 4-hour
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3173,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2583-766x1024.jpg" alt="" class="wp-image-3173"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2583.jpg" alt="" class="wp-image-3173"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3174,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2584-766x1024.jpg" alt="" class="wp-image-3174"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2584.jpg" alt="" class="wp-image-3174"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -522,19 +522,19 @@ excerpt: "Winter hiking report from Tateishi to Mt. Okusu in 0°C snow. A 4-hour
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3175,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2587-766x1024.jpg" alt="" class="wp-image-3175"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2587.jpg" alt="" class="wp-image-3175"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3176,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2590-766x1024.jpg" alt="" class="wp-image-3176"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2590.jpg" alt="" class="wp-image-3176"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3177,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2593-766x1024.jpg" alt="" class="wp-image-3177"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2593.jpg" alt="" class="wp-image-3177"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -570,19 +570,19 @@ excerpt: "Winter hiking report from Tateishi to Mt. Okusu in 0°C snow. A 4-hour
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3178,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2599-1-766x1024.jpg" alt="" class="wp-image-3178"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2599-1.jpg" alt="" class="wp-image-3178"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3180,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2600-766x1024.jpg" alt="" class="wp-image-3180"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2600.jpg" alt="" class="wp-image-3180"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3179,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2605-766x1024.jpg" alt="" class="wp-image-3179"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2605.jpg" alt="" class="wp-image-3179"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -618,23 +618,23 @@ excerpt: "Winter hiking report from Tateishi to Mt. Okusu in 0°C snow. A 4-hour
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3181,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2613-576x1024.jpg" alt="" class="wp-image-3181"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2613.jpg" alt="" class="wp-image-3181"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3183,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2617-766x1024.jpg" alt="" class="wp-image-3183"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2617.jpg" alt="" class="wp-image-3183"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3182,"width":"175px","height":"auto","aspectRatio":"0.7499766245909304","sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/02/IMG_2615-768x1024.jpg" alt="" class="wp-image-3182" style="aspect-ratio:0.7499766245909304;width:175px;height:auto"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/02/IMG_2615.jpg" alt="" class="wp-image-3182" style="aspect-ratio:0.7499766245909304;width:175px;height:auto"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":3184,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2616-768x1024.jpg" alt="" class="wp-image-3184"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2616.jpg" alt="" class="wp-image-3184"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -662,7 +662,7 @@ excerpt: "Winter hiking report from Tateishi to Mt. Okusu in 0°C snow. A 4-hour
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3185,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2618-768x1024.jpg" alt="" class="wp-image-3185"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2618.jpg" alt="" class="wp-image-3185"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -690,13 +690,13 @@ excerpt: "Winter hiking report from Tateishi to Mt. Okusu in 0°C snow. A 4-hour
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3186,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2623-766x1024.jpg" alt="" class="wp-image-3186"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2623.jpg" alt="" class="wp-image-3186"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3187,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2627-766x1024.jpg" alt="" class="wp-image-3187"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2627.jpg" alt="" class="wp-image-3187"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -756,7 +756,7 @@ excerpt: "Winter hiking report from Tateishi to Mt. Okusu in 0°C snow. A 4-hour
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3188,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2632-766x1024.jpg" alt="" class="wp-image-3188"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2632.jpg" alt="" class="wp-image-3188"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -792,13 +792,13 @@ excerpt: "Winter hiking report from Tateishi to Mt. Okusu in 0°C snow. A 4-hour
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3190,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2635-766x1024.jpg" alt="" class="wp-image-3190"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2635.jpg" alt="" class="wp-image-3190"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3189,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2634-768x1024.jpg" alt="" class="wp-image-3189"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2634.jpg" alt="" class="wp-image-3189"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -816,7 +816,7 @@ excerpt: "Winter hiking report from Tateishi to Mt. Okusu in 0°C snow. A 4-hour
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3191,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/Gemini_Generated_Image_a6m72ca6m72ca6m7-1024x1024.jpg" alt="" class="wp-image-3191"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/Gemini_Generated_Image_a6m72ca6m72ca6m7.jpg" alt="" class="wp-image-3191"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

@@ -138,7 +138,7 @@ excerpt: "Subtitle: You don’t have to push yourself to the limit. Just floatin
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":1792,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/06/2867bf29d796098d808b9eb71251fddb-683x1024.png" alt="" class="wp-image-1792"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/06/2867bf29d796098d808b9eb71251fddb.png" alt="" class="wp-image-1792"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

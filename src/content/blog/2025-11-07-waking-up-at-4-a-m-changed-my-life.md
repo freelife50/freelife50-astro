@@ -58,7 +58,7 @@ excerpt: "How waking up at 4 AM transformed my life in my 50s. The morning routi
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2689,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_rmonj0rmonj0rmon-747x1024.jpg" alt="" class="wp-image-2689"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_rmonj0rmonj0rmon.jpg" alt="" class="wp-image-2689"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -134,7 +134,7 @@ excerpt: "How waking up at 4 AM transformed my life in my 50s. The morning routi
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2696,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_raxjzmraxjzmraxj-747x1024.jpg" alt="" class="wp-image-2696"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_raxjzmraxjzmraxj.jpg" alt="" class="wp-image-2696"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -194,7 +194,7 @@ excerpt: "How waking up at 4 AM transformed my life in my 50s. The morning routi
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2702,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_jposkojposkojpos-747x1024.jpg" alt="" class="wp-image-2702"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_jposkojposkojpos.jpg" alt="" class="wp-image-2702"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -238,7 +238,7 @@ excerpt: "How waking up at 4 AM transformed my life in my 50s. The morning routi
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2703,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_gqnow1gqnow1gqno-747x1024.jpg" alt="" class="wp-image-2703"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_gqnow1gqnow1gqno.jpg" alt="" class="wp-image-2703"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -266,7 +266,7 @@ excerpt: "How waking up at 4 AM transformed my life in my 50s. The morning routi
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2706,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/Image_fx-3-1024x559.jpg" alt="" class="wp-image-2706"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/Image_fx-3.jpg" alt="" class="wp-image-2706"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -294,7 +294,7 @@ excerpt: "How waking up at 4 AM transformed my life in my 50s. The morning routi
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2710,"width":"800px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_40cs0z40cs0z40cs-747x1024.jpg" alt="" class="wp-image-2710" style="width:800px;height:auto"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_40cs0z40cs0z40cs.jpg" alt="" class="wp-image-2710" style="width:800px;height:auto"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -326,7 +326,7 @@ excerpt: "How waking up at 4 AM transformed my life in my 50s. The morning routi
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2711,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_x0r2ntx0r2ntx0r2-747x1024.jpg" alt="" class="wp-image-2711"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_x0r2ntx0r2ntx0r2.jpg" alt="" class="wp-image-2711"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

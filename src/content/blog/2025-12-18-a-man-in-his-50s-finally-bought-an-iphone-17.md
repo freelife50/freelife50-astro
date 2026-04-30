@@ -60,7 +60,7 @@ excerpt: "iPhone 17 honest review from a 50-year-old first-time buyer in Japan. 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2915,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_4ssq6m4ssq6m4ssq-1024x558.jpg" alt="" class="wp-image-2915"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_4ssq6m4ssq6m4ssq.jpg" alt="" class="wp-image-2915"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -144,7 +144,7 @@ excerpt: "iPhone 17 honest review from a 50-year-old first-time buyer in Japan. 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2916,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_xp7gr3xp7gr3xp7g-1024x558.jpg" alt="" class="wp-image-2916"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_xp7gr3xp7gr3xp7g.jpg" alt="" class="wp-image-2916"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -214,7 +214,7 @@ excerpt: "iPhone 17 honest review from a 50-year-old first-time buyer in Japan. 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2917,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_3jnjlh3jnjlh3jnj-1024x558.jpg" alt="" class="wp-image-2917"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_3jnjlh3jnjlh3jnj.jpg" alt="" class="wp-image-2917"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -282,7 +282,7 @@ excerpt: "iPhone 17 honest review from a 50-year-old first-time buyer in Japan. 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2918,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_p3dyuop3dyuop3dy-1024x558.jpg" alt="" class="wp-image-2918"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_p3dyuop3dyuop3dy.jpg" alt="" class="wp-image-2918"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -358,7 +358,7 @@ excerpt: "iPhone 17 honest review from a 50-year-old first-time buyer in Japan. 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2919,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_elyejcelyejcelye-1024x558.jpg" alt="" class="wp-image-2919"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_elyejcelyejcelye.jpg" alt="" class="wp-image-2919"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -390,7 +390,7 @@ excerpt: "iPhone 17 honest review from a 50-year-old first-time buyer in Japan. 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2920,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_xei2zixei2zixei2-1024x558.jpg" alt="" class="wp-image-2920"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_xei2zixei2zixei2.jpg" alt="" class="wp-image-2920"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

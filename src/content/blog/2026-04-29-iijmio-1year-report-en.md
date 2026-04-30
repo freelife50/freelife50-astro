@@ -141,15 +141,19 @@ excerpt: "A year ago, I wrote that our family of four pays around $30/month for 
 <!-- /wp:list -->
 
 <!-- wp:table -->
-<figure class="wp-block-table"><table><thead><tr><th>Plan</th><th>Monthly cost (USD)</th></tr></thead><tbody><tr><td>5GB plan</td><td>$6.63</td></tr><tr><td>25GB plan</td><td>$13.40</td></tr><tr><td>35GB plan</td><td>$18.09</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table><thead><tr><th>Plan</th><th>Monthly cost (USD)</th></tr></thead><tbody><tr><td>5GB plan</td><td>$6.63</td></tr><tr><td>25GB plan</td><td>$13.40</td></tr><tr><td>35GB plan</td><td>$16.11</td></tr></tbody></table></figure>
 <!-- /wp:table -->
 
 <!-- wp:paragraph -->
-<p>The base for 3 people on 5GB is about $19.89/month. The one high-usage person accounts for the remaining $13–$18, depending on the month.</p>
+<p>The base for 3 people on 5GB is about $19.89/month. The one high-usage person accounts for the remaining $13–$16, depending on the month.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>When they switch up to the 35GB plan, the bill jumps by about $4.70. That's the entire "mystery gap" explained.</p>
+<p>When they switch up to the 35GB plan, the bill jumps by about $2.71. That's part of the "mystery gap" explained.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The other variable is <strong>voice call charges</strong>. IIJmio bills calls separately at ¥11 per 30 seconds. Months with more phone calls — doctor's offices, government offices — show up clearly in the bill.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

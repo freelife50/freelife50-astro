@@ -118,7 +118,7 @@ excerpt: "A 50-year-old dad solves a mysterious PC wallpaper glitch. Dual monito
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2081,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/08/image-3-1024x1002.jpg" alt="" class="wp-image-2081"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/08/image-3.jpg" alt="" class="wp-image-2081"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

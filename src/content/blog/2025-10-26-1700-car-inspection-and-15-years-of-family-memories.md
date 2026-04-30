@@ -76,7 +76,7 @@ excerpt: "── Reflecting on “Fixed Costs” and “The Value of Time” �
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2617,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/cfc1d329d104cd9748f9c13c8fd015f5-1024x559.jpg" alt="" class="wp-image-2617"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/cfc1d329d104cd9748f9c13c8fd015f5.jpg" alt="" class="wp-image-2617"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

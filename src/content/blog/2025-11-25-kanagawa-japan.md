@@ -64,7 +64,7 @@ excerpt: "Just 15 minutes from the parking lot to the summit. Fall colors, quiet
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":2791,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251123_031239433-769x1024.jpg" alt="" class="wp-image-2791"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251123_031239433.jpg" alt="" class="wp-image-2791"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -106,7 +106,7 @@ excerpt: "Just 15 minutes from the parking lot to the summit. Fall colors, quiet
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2792,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251123_034829286-769x1024.jpg" alt="" class="wp-image-2792"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251123_034829286.jpg" alt="" class="wp-image-2792"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -160,13 +160,13 @@ excerpt: "Just 15 minutes from the parking lot to the summit. Fall colors, quiet
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2794,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251123_042732443-769x1024.jpg" alt="" class="wp-image-2794"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251123_042732443.jpg" alt="" class="wp-image-2794"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2795,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251123_040418935-769x1024.jpg" alt="" class="wp-image-2795"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251123_040418935.jpg" alt="" class="wp-image-2795"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -206,7 +206,7 @@ excerpt: "Just 15 minutes from the parking lot to the summit. Fall colors, quiet
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":2818,"width":"375px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2025/11/image-3-806x1024.jpg" alt="" class="wp-image-2818" style="width:375px;height:auto"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2025/11/image-3.jpg" alt="" class="wp-image-2818" style="width:375px;height:auto"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -286,7 +286,7 @@ excerpt: "Just 15 minutes from the parking lot to the summit. Fall colors, quiet
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2796,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251123_034317939.MP_-769x1024.jpg" alt="" class="wp-image-2796"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251123_034317939.MP_.jpg" alt="" class="wp-image-2796"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -306,7 +306,7 @@ excerpt: "Just 15 minutes from the parking lot to the summit. Fall colors, quiet
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2804,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251123_034646591.NIGHT_-769x1024.jpg" alt="" class="wp-image-2804"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251123_034646591.NIGHT_.jpg" alt="" class="wp-image-2804"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:list -->
@@ -374,7 +374,7 @@ excerpt: "Just 15 minutes from the parking lot to the summit. Fall colors, quiet
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2797,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251123_034738119-769x1024.jpg" alt="" class="wp-image-2797"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251123_034738119.jpg" alt="" class="wp-image-2797"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -388,13 +388,13 @@ excerpt: "Just 15 minutes from the parking lot to the summit. Fall colors, quiet
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2798,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251123_040756066-1024x769.jpg" alt="" class="wp-image-2798"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251123_040756066.jpg" alt="" class="wp-image-2798"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2799,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251123_040646706.MP_-1024x769.jpg" alt="" class="wp-image-2799"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251123_040646706.MP_.jpg" alt="" class="wp-image-2799"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -434,7 +434,7 @@ excerpt: "Just 15 minutes from the parking lot to the summit. Fall colors, quiet
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2790,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251123_035024152.NIGHT_-769x1024.jpg" alt="" class="wp-image-2790"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251123_035024152.NIGHT_.jpg" alt="" class="wp-image-2790"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:list -->
@@ -486,7 +486,7 @@ excerpt: "Just 15 minutes from the parking lot to the summit. Fall colors, quiet
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2801,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251123_034857239-1024x769.jpg" alt="" class="wp-image-2801"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251123_034857239.jpg" alt="" class="wp-image-2801"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -528,7 +528,7 @@ excerpt: "Just 15 minutes from the parking lot to the summit. Fall colors, quiet
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2802,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_qeoto1qeoto1qeot-1024x718.jpg" alt="" class="wp-image-2802"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_qeoto1qeoto1qeot.jpg" alt="" class="wp-image-2802"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -554,19 +554,19 @@ excerpt: "Just 15 minutes from the parking lot to the summit. Fall colors, quiet
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2803,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251123_031529164.MP_-769x1024.jpg" alt="" class="wp-image-2803"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251123_031529164.MP_.jpg" alt="" class="wp-image-2803"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2806,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251123_034621826.NIGHT_-769x1024.jpg" alt="" class="wp-image-2806"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251123_034621826.NIGHT_.jpg" alt="" class="wp-image-2806"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2805,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251123_031736310.MP_-769x1024.jpg" alt="" class="wp-image-2805"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251123_031736310.MP_.jpg" alt="" class="wp-image-2805"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->

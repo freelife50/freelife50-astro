@@ -72,7 +72,7 @@ excerpt: "PAW'S GREEN DELI natural dog food review. Why we chose premium additiv
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2039,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20240302_102503346-768x1024.jpg" alt="" class="wp-image-2039"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20240302_102503346.jpg" alt="" class="wp-image-2039"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -96,7 +96,7 @@ excerpt: "PAW'S GREEN DELI natural dog food review. Why we chose premium additiv
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2040,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250503_054349956-769x1024.jpg" alt="" class="wp-image-2040"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250503_054349956.jpg" alt="" class="wp-image-2040"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -124,7 +124,7 @@ excerpt: "PAW'S GREEN DELI natural dog food review. Why we chose premium additiv
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2041,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250528_013021476-769x1024.jpg" alt="" class="wp-image-2041"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250528_013021476.jpg" alt="" class="wp-image-2041"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -162,7 +162,7 @@ excerpt: "PAW'S GREEN DELI natural dog food review. Why we chose premium additiv
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2042,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250511_015939262-769x1024.jpg" alt="" class="wp-image-2042"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250511_015939262.jpg" alt="" class="wp-image-2042"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -202,7 +202,7 @@ excerpt: "PAW'S GREEN DELI natural dog food review. Why we chose premium additiv
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2043,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250427_053856229-769x1024.jpg" alt="" class="wp-image-2043"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250427_053856229.jpg" alt="" class="wp-image-2043"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -236,7 +236,7 @@ excerpt: "PAW'S GREEN DELI natural dog food review. Why we chose premium additiv
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2045,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20240229_174955836-1024x768.jpg" alt="" class="wp-image-2045"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20240229_174955836.jpg" alt="" class="wp-image-2045"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -272,7 +272,7 @@ excerpt: "PAW'S GREEN DELI natural dog food review. Why we chose premium additiv
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2046,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20241204_024617342-769x1024.jpg" alt="" class="wp-image-2046"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20241204_024617342.jpg" alt="" class="wp-image-2046"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

@@ -56,7 +56,7 @@ excerpt: "── Halloween Lantern Festival 2025 at Fuchinobe Park, Sagamihara �
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2588,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251018_084307298-769x1024.jpg" alt="" class="wp-image-2588"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251018_084307298.jpg" alt="" class="wp-image-2588"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -84,7 +84,7 @@ excerpt: "── Halloween Lantern Festival 2025 at Fuchinobe Park, Sagamihara �
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2589,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251018_093455114-769x1024.jpg" alt="" class="wp-image-2589"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251018_093455114.jpg" alt="" class="wp-image-2589"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -112,7 +112,7 @@ excerpt: "── Halloween Lantern Festival 2025 at Fuchinobe Park, Sagamihara �
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2590,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251018_084700238.MP_-769x1024.jpg" alt="" class="wp-image-2590"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251018_084700238.MP_.jpg" alt="" class="wp-image-2590"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -140,7 +140,7 @@ excerpt: "── Halloween Lantern Festival 2025 at Fuchinobe Park, Sagamihara �
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2591,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251018_092610569-1024x769.jpg" alt="" class="wp-image-2591"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251018_092610569.jpg" alt="" class="wp-image-2591"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -168,7 +168,7 @@ excerpt: "── Halloween Lantern Festival 2025 at Fuchinobe Park, Sagamihara �
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2593,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251018_093229609-769x1024.jpg" alt="" class="wp-image-2593"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251018_093229609.jpg" alt="" class="wp-image-2593"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:quote -->
@@ -206,7 +206,7 @@ excerpt: "── Halloween Lantern Festival 2025 at Fuchinobe Park, Sagamihara �
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2594,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/Image_fx-1024x559.jpg" alt="" class="wp-image-2594"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/Image_fx.jpg" alt="" class="wp-image-2594"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -242,7 +242,7 @@ excerpt: "── Halloween Lantern Festival 2025 at Fuchinobe Park, Sagamihara �
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2595,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251018_093741156.NIGHT_-769x1024.jpg" alt="" class="wp-image-2595"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251018_093741156.NIGHT_.jpg" alt="" class="wp-image-2595"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -282,7 +282,7 @@ excerpt: "── Halloween Lantern Festival 2025 at Fuchinobe Park, Sagamihara �
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2598,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/Image_fx-1-1024x559.jpg" alt="" class="wp-image-2598"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/Image_fx-1.jpg" alt="" class="wp-image-2598"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

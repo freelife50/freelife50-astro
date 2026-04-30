@@ -66,19 +66,19 @@ excerpt: "Mountain Hut Feast & the True Power of Workman’s XShelter Jacket A b
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2532,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251015_233153019-769x1024.jpg" alt="" class="wp-image-2532"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251015_233153019.jpg" alt="" class="wp-image-2532"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2533,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251016_032029515-769x1024.jpg" alt="" class="wp-image-2533"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251016_032029515.jpg" alt="" class="wp-image-2533"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2534,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251016_041340021-769x1024.jpg" alt="" class="wp-image-2534"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251016_041340021.jpg" alt="" class="wp-image-2534"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -86,19 +86,19 @@ excerpt: "Mountain Hut Feast & the True Power of Workman’s XShelter Jacket A b
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2535,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251016_205734209.MP_-769x1024.jpg" alt="" class="wp-image-2535"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251016_205734209.MP_.jpg" alt="" class="wp-image-2535"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2536,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251016_222319009-769x1024.jpg" alt="" class="wp-image-2536"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251016_222319009.jpg" alt="" class="wp-image-2536"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2538,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251016_225647604-769x1024.jpg" alt="" class="wp-image-2538"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251016_225647604.jpg" alt="" class="wp-image-2538"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -174,13 +174,13 @@ excerpt: "Mountain Hut Feast & the True Power of Workman’s XShelter Jacket A b
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2539,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251016_004854849-769x1024.jpg" alt="" class="wp-image-2539"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251016_004854849.jpg" alt="" class="wp-image-2539"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2540,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251016_033754081-769x1024.jpg" alt="" class="wp-image-2540"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251016_033754081.jpg" alt="" class="wp-image-2540"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -214,7 +214,7 @@ excerpt: "Mountain Hut Feast & the True Power of Workman’s XShelter Jacket A b
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2555,"width":"523px","height":"auto","sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/images/wp-content/uploads/2025/10/image-1-760x1024.jpg" alt="" class="wp-image-2555" style="width:523px;height:auto"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/images/wp-content/uploads/2025/10/image-1.jpg" alt="" class="wp-image-2555" style="width:523px;height:auto"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -260,19 +260,19 @@ excerpt: "Mountain Hut Feast & the True Power of Workman’s XShelter Jacket A b
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2541,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251016_054109633-769x1024.jpg" alt="" class="wp-image-2541"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251016_054109633.jpg" alt="" class="wp-image-2541"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2544,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251016_061208079-769x1024.jpg" alt="" class="wp-image-2544"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251016_061208079.jpg" alt="" class="wp-image-2544"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2542,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251016_053731353-769x1024.jpg" alt="" class="wp-image-2542"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251016_053731353.jpg" alt="" class="wp-image-2542"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -306,7 +306,7 @@ excerpt: "Mountain Hut Feast & the True Power of Workman’s XShelter Jacket A b
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2545,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251016_084826413-1024x769.jpg" alt="" class="wp-image-2545"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251016_084826413.jpg" alt="" class="wp-image-2545"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -326,7 +326,7 @@ excerpt: "Mountain Hut Feast & the True Power of Workman’s XShelter Jacket A b
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2546,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251016_200644288-1024x769.jpg" alt="" class="wp-image-2546"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251016_200644288.jpg" alt="" class="wp-image-2546"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -346,7 +346,7 @@ excerpt: "Mountain Hut Feast & the True Power of Workman’s XShelter Jacket A b
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2547,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251016_201748767-1024x769.jpg" alt="" class="wp-image-2547"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251016_201748767.jpg" alt="" class="wp-image-2547"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -368,13 +368,13 @@ excerpt: "Mountain Hut Feast & the True Power of Workman’s XShelter Jacket A b
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2548,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251016_210613692-769x1024.jpg" alt="" class="wp-image-2548"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251016_210613692.jpg" alt="" class="wp-image-2548"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2549,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251016_212924663-769x1024.jpg" alt="" class="wp-image-2549"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251016_212924663.jpg" alt="" class="wp-image-2549"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -398,13 +398,13 @@ excerpt: "Mountain Hut Feast & the True Power of Workman’s XShelter Jacket A b
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2551,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251017_003456725-769x1024.jpg" alt="" class="wp-image-2551"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251017_003456725.jpg" alt="" class="wp-image-2551"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2553,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251017_014957485-769x1024.jpg" alt="" class="wp-image-2553"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251017_014957485.jpg" alt="" class="wp-image-2553"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->

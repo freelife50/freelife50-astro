@@ -66,19 +66,19 @@ excerpt: "A food tour of Shin-Yokohama Ramen Museum with honest reviews of 3 bow
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":1702,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250611_062649851-1024x769.jpg" alt="" class="wp-image-1702"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250611_062649851-scaled.jpg" alt="" class="wp-image-1702"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":1703,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250611_064439569-1024x769.jpg" alt="" class="wp-image-1703"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250611_064439569-scaled.jpg" alt="" class="wp-image-1703"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":1704,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250611_065615173.MP_-1024x769.jpg" alt="" class="wp-image-1704"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250611_065615173.MP_-scaled.jpg" alt="" class="wp-image-1704"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -118,13 +118,13 @@ excerpt: "A food tour of Shin-Yokohama Ramen Museum with honest reviews of 3 bow
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"width":"33.33%"} -->
 <div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"id":1705,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250611_062723156-769x1024.jpg" alt="" class="wp-image-1705"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250611_062723156-scaled.jpg" alt="" class="wp-image-1705"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"width":"66.66%"} -->
 <div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:image {"id":1706,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250611_062230430-1024x769.jpg" alt="" class="wp-image-1706"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250611_062230430-scaled.jpg" alt="" class="wp-image-1706"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -180,13 +180,13 @@ excerpt: "A food tour of Shin-Yokohama Ramen Museum with honest reviews of 3 bow
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"width":"33.33%"} -->
 <div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"id":1707,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250611_064528869-769x1024.jpg" alt="" class="wp-image-1707"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250611_064528869-scaled.jpg" alt="" class="wp-image-1707"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"width":"66.66%"} -->
 <div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:image {"id":1708,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250611_064116055-1024x769.jpg" alt="" class="wp-image-1708"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250611_064116055-scaled.jpg" alt="" class="wp-image-1708"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -238,13 +238,13 @@ excerpt: "A food tour of Shin-Yokohama Ramen Museum with honest reviews of 3 bow
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"width":"33.33%"} -->
 <div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"id":1709,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250611_064645979-769x1024.jpg" alt="" class="wp-image-1709"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250611_064645979-scaled.jpg" alt="" class="wp-image-1709"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"width":"66.66%"} -->
 <div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:image {"id":1710,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250611_065253785-1024x769.jpg" alt="" class="wp-image-1710"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250611_065253785-scaled.jpg" alt="" class="wp-image-1710"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->

@@ -78,7 +78,7 @@ excerpt: "■ What This Article Is About In Japan, vending machines are everywhe
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2119,"sizeSlug":"thumbnail","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-thumbnail"><img src="/images/wp-content/uploads/2025/08/PXL_20250817_091031283.MP_-150x150.jpg" alt="" class="wp-image-2119"/></figure>
+<figure class="wp-block-image aligncenter size-thumbnail"><img src="/images/wp-content/uploads/2025/08/PXL_20250817_091031283.MP_.jpg" alt="" class="wp-image-2119"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -130,7 +130,7 @@ excerpt: "■ What This Article Is About In Japan, vending machines are everywhe
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2120,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250817_091312968-769x1024.jpg" alt="" class="wp-image-2120"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250817_091312968.jpg" alt="" class="wp-image-2120"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -174,7 +174,7 @@ excerpt: "■ What This Article Is About In Japan, vending machines are everywhe
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2130,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250417_211906292-769x1024.jpg" alt="" class="wp-image-2130"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250417_211906292.jpg" alt="" class="wp-image-2130"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

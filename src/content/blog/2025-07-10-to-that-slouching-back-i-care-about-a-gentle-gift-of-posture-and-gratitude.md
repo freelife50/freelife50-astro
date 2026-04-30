@@ -208,7 +208,7 @@ excerpt: "⏳ Reading Time This blog takes about 8 minutes to read. 🧑‍💼 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":1922,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/07/b1058e082eee677fb63ff4a8e7600dd5-683x1024.jpg" alt="" class="wp-image-1922"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/07/b1058e082eee677fb63ff4a8e7600dd5.jpg" alt="" class="wp-image-1922"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -406,7 +406,7 @@ excerpt: "⏳ Reading Time This blog takes about 8 minutes to read. 🧑‍💼 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":1927,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/07/96fb2d660f41d2f9fa5733a5850c5b6c-683x1024.jpg" alt="" class="wp-image-1927"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/07/96fb2d660f41d2f9fa5733a5850c5b6c.jpg" alt="" class="wp-image-1927"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

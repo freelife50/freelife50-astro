@@ -30,7 +30,7 @@ excerpt: "Autumn hiking in Yushin Valley, Kanagawa. A reflective walk through Ja
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2730,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251108_020918309.MP_-769x1024.jpg" alt="" class="wp-image-2730"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251108_020918309.MP_.jpg" alt="" class="wp-image-2730"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -62,7 +62,7 @@ excerpt: "Autumn hiking in Yushin Valley, Kanagawa. A reflective walk through Ja
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2720,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251108_004538941.MP_-769x1024.jpg" alt="" class="wp-image-2720"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251108_004538941.MP_.jpg" alt="" class="wp-image-2720"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -128,13 +128,13 @@ excerpt: "Autumn hiking in Yushin Valley, Kanagawa. A reflective walk through Ja
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2722,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251108_011600537-769x1024.jpg" alt="" class="wp-image-2722"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251108_011600537.jpg" alt="" class="wp-image-2722"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2721,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251108_011533092.MP_-769x1024.jpg" alt="" class="wp-image-2721"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251108_011533092.MP_.jpg" alt="" class="wp-image-2721"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -246,7 +246,7 @@ excerpt: "Autumn hiking in Yushin Valley, Kanagawa. A reflective walk through Ja
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2724,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251108_021041861-1024x769.jpg" alt="" class="wp-image-2724"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251108_021041861.jpg" alt="" class="wp-image-2724"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -264,13 +264,13 @@ excerpt: "Autumn hiking in Yushin Valley, Kanagawa. A reflective walk through Ja
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2725,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251108_083728648-769x1024.jpg" alt="" class="wp-image-2725"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251108_083728648.jpg" alt="" class="wp-image-2725"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2726,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251108_074153874.MP_-769x1024.jpg" alt="" class="wp-image-2726"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251108_074153874.MP_.jpg" alt="" class="wp-image-2726"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -304,7 +304,7 @@ excerpt: "Autumn hiking in Yushin Valley, Kanagawa. A reflective walk through Ja
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2729,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_m83t79m83t79m83t-1024x747.jpg" alt="" class="wp-image-2729"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_m83t79m83t79m83t.jpg" alt="" class="wp-image-2729"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -328,7 +328,7 @@ excerpt: "Autumn hiking in Yushin Valley, Kanagawa. A reflective walk through Ja
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2727,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_rybxq7rybxq7rybx-1024x747.jpg" alt="" class="wp-image-2727"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_rybxq7rybxq7rybx.jpg" alt="" class="wp-image-2727"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -360,7 +360,7 @@ excerpt: "Autumn hiking in Yushin Valley, Kanagawa. A reflective walk through Ja
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2733,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251108_021037640-1024x769.jpg" alt="" class="wp-image-2733"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251108_021037640.jpg" alt="" class="wp-image-2733"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

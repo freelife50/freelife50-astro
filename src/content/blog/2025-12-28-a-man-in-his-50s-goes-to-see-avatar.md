@@ -84,7 +84,7 @@ excerpt: "Less emotion, more experience. Reading time: about 3 minutes Who this 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2943,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_iv9j3civ9j3civ9j-1024x558.jpg" alt="" class="wp-image-2943"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_iv9j3civ9j3civ9j.jpg" alt="" class="wp-image-2943"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -112,7 +112,7 @@ excerpt: "Less emotion, more experience. Reading time: about 3 minutes Who this 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2945,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_wsyxw3wsyxw3wsyx-1024x558.jpg" alt="" class="wp-image-2945"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_wsyxw3wsyxw3wsyx.jpg" alt="" class="wp-image-2945"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -136,7 +136,7 @@ excerpt: "Less emotion, more experience. Reading time: about 3 minutes Who this 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2947,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_8d24yz8d24yz8d24-1024x558.jpg" alt="" class="wp-image-2947"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_8d24yz8d24yz8d24.jpg" alt="" class="wp-image-2947"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -180,7 +180,7 @@ excerpt: "Less emotion, more experience. Reading time: about 3 minutes Who this 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2949,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_w3of99w3of99w3of-1024x558.jpg" alt="" class="wp-image-2949"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_w3of99w3of99w3of.jpg" alt="" class="wp-image-2949"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -212,7 +212,7 @@ excerpt: "Less emotion, more experience. Reading time: about 3 minutes Who this 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2951,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_iflvvwiflvvwiflv-1024x558.jpg" alt="" class="wp-image-2951"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_iflvvwiflvvwiflv.jpg" alt="" class="wp-image-2951"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

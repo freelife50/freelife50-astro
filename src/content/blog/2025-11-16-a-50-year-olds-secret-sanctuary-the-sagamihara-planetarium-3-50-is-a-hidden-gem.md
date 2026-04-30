@@ -62,7 +62,7 @@ excerpt: "🌟 For the Tired Adults Out There Work drains you. Smartphones drain
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2741,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_m31gesm31gesm31g-747x1024.jpg" alt="" class="wp-image-2741"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_m31gesm31gesm31g.jpg" alt="" class="wp-image-2741"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -198,13 +198,13 @@ excerpt: "🌟 For the Tired Adults Out There Work drains you. Smartphones drain
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2746,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251026_012225347.MP_-769x1024.jpg" alt="" class="wp-image-2746"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251026_012225347.MP_.jpg" alt="" class="wp-image-2746"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2747,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251026_012239751-769x1024.jpg" alt="" class="wp-image-2747"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251026_012239751.jpg" alt="" class="wp-image-2747"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -334,13 +334,13 @@ excerpt: "🌟 For the Tired Adults Out There Work drains you. Smartphones drain
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2744,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251026_011118955-769x1024.jpg" alt="" class="wp-image-2744"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251026_011118955.jpg" alt="" class="wp-image-2744"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2745,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251026_011638988-769x1024.jpg" alt="" class="wp-image-2745"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251026_011638988.jpg" alt="" class="wp-image-2745"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->

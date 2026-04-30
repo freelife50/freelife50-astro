@@ -60,7 +60,7 @@ excerpt: "A farewell visit to the legendary Hachioji Taishoken ramen shop. Why I
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2929,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_q38mvmq38mvmq38m-1024x825.jpg" alt="" class="wp-image-2929"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_q38mvmq38mvmq38m.jpg" alt="" class="wp-image-2929"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -80,7 +80,7 @@ excerpt: "A farewell visit to the legendary Hachioji Taishoken ramen shop. Why I
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2926,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251214_083741949-1024x769.jpg" alt="" class="wp-image-2926"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251214_083741949.jpg" alt="" class="wp-image-2926"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -132,7 +132,7 @@ excerpt: "A farewell visit to the legendary Hachioji Taishoken ramen shop. Why I
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":2927,"width":"398px","height":"auto","aspectRatio":"0.7509870901912071","sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/images/wp-content/uploads/2025/12/PXL_20251214_084600179.MP_-769x1024.jpg" alt="" class="wp-image-2927" style="aspect-ratio:0.7509870901912071;width:398px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/images/wp-content/uploads/2025/12/PXL_20251214_084600179.MP_.jpg" alt="" class="wp-image-2927" style="aspect-ratio:0.7509870901912071;width:398px;height:auto"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -156,7 +156,7 @@ excerpt: "A farewell visit to the legendary Hachioji Taishoken ramen shop. Why I
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2931,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_k5pdxrk5pdxrk5pd-1024x825.jpg" alt="" class="wp-image-2931"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_k5pdxrk5pdxrk5pd.jpg" alt="" class="wp-image-2931"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -204,7 +204,7 @@ excerpt: "A farewell visit to the legendary Hachioji Taishoken ramen shop. Why I
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2932,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_iipepxiipepxiipe-1024x558.jpg" alt="" class="wp-image-2932"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_iipepxiipepxiipe.jpg" alt="" class="wp-image-2932"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

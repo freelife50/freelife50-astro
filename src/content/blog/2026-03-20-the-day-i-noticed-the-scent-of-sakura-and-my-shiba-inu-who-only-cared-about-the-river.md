@@ -94,7 +94,7 @@ excerpt: "A cherry blossom walk with a Shiba Inu in Kanagawa, Japan. Dog-friendl
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3314,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_3024-766x1024.jpg" alt="" class="wp-image-3314"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_3024.jpg" alt="" class="wp-image-3314"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -156,13 +156,13 @@ excerpt: "A cherry blossom walk with a Shiba Inu in Kanagawa, Japan. Dog-friendl
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"width":"66.66%"} -->
 <div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:image {"id":3309,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_3006-766x1024.jpg" alt="" class="wp-image-3309"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_3006.jpg" alt="" class="wp-image-3309"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"width":"33.33%"} -->
 <div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"id":3310,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_3004-766x1024.jpg" alt="" class="wp-image-3310"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_3004.jpg" alt="" class="wp-image-3310"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -220,7 +220,7 @@ excerpt: "A cherry blossom walk with a Shiba Inu in Kanagawa, Japan. Dog-friendl
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3311,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_3010-768x1024.jpg" alt="" class="wp-image-3311"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_3010.jpg" alt="" class="wp-image-3311"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -258,13 +258,13 @@ excerpt: "A cherry blossom walk with a Shiba Inu in Kanagawa, Japan. Dog-friendl
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3312,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_3014-766x1024.jpg" alt="" class="wp-image-3312"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_3014.jpg" alt="" class="wp-image-3312"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3313,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_3013-768x1024.jpg" alt="" class="wp-image-3313"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_3013.jpg" alt="" class="wp-image-3313"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -306,11 +306,11 @@ excerpt: "A cherry blossom walk with a Shiba Inu in Kanagawa, Japan. Dog-friendl
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3317,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/image-2-1024x707.jpg" alt="" class="wp-image-3317"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/image-2.jpg" alt="" class="wp-image-3317"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":3319,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/image-3-1024x885.jpg" alt="" class="wp-image-3319"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/image-3.jpg" alt="" class="wp-image-3319"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -366,7 +366,7 @@ excerpt: "A cherry blossom walk with a Shiba Inu in Kanagawa, Japan. Dog-friendl
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3315,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_3028-766x1024.jpg" alt="" class="wp-image-3315"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_3028.jpg" alt="" class="wp-image-3315"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

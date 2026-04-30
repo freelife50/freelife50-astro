@@ -70,7 +70,7 @@ excerpt: "This post will take you about 5 minutes to read—perfect for a coffee
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="769" height="1024" src="/images/wp-content/uploads/2025/08/PXL_20250812_030921300-769x1024.jpg" alt="" class="wp-image-2055" srcset="/images/wp-content/uploads/2025/08/PXL_20250812_030921300-769x1024.jpg 769w, /images/wp-content/uploads/2025/08/PXL_20250812_030921300-225x300.jpg 225w, /images/wp-content/uploads/2025/08/PXL_20250812_030921300-768x1023.jpg 768w, /images/wp-content/uploads/2025/08/PXL_20250812_030921300-1153x1536.jpg 1153w, /images/wp-content/uploads/2025/08/PXL_20250812_030921300-1538x2048.jpg 1538w, /images/wp-content/uploads/2025/08/PXL_20250812_030921300-376x501.jpg 376w, /images/wp-content/uploads/2025/08/PXL_20250812_030921300.jpg 1922w" sizes="(max-width: 769px) 100vw, 769px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="769" height="1024" src="/images/wp-content/uploads/2025/08/PXL_20250812_030921300.jpg" alt="" class="wp-image-2055" srcset="/images/wp-content/uploads/2025/08/PXL_20250812_030921300.jpg 769w, /images/wp-content/uploads/2025/08/PXL_20250812_030921300.jpg 225w, /images/wp-content/uploads/2025/08/PXL_20250812_030921300.jpg 768w, /images/wp-content/uploads/2025/08/PXL_20250812_030921300.jpg 1153w, /images/wp-content/uploads/2025/08/PXL_20250812_030921300.jpg 1538w, /images/wp-content/uploads/2025/08/PXL_20250812_030921300.jpg 376w, /images/wp-content/uploads/2025/08/PXL_20250812_030921300.jpg 1922w" sizes="(max-width: 769px) 100vw, 769px" /></figure>
 
 
 
@@ -106,7 +106,7 @@ excerpt: "This post will take you about 5 minutes to read—perfect for a coffee
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1024" height="1024" src="/images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-12T03_38_41.511Z.jpg" alt="" class="wp-image-2057" srcset="/images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-12T03_38_41.511Z.jpg 1024w, /images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-12T03_38_41.511Z-300x300.jpg 300w, /images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-12T03_38_41.511Z-150x150.jpg 150w, /images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-12T03_38_41.511Z-768x768.jpg 768w, /images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-12T03_38_41.511Z-376x376.jpg 376w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1024" height="1024" src="/images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-12T03_38_41.511Z.jpg" alt="" class="wp-image-2057" srcset="/images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-12T03_38_41.511Z.jpg 1024w, /images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-12T03_38_41.511Z.jpg 300w, /images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-12T03_38_41.511Z.jpg 150w, /images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-12T03_38_41.511Z.jpg 768w, /images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-12T03_38_41.511Z.jpg 376w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -170,7 +170,7 @@ excerpt: "This post will take you about 5 minutes to read—perfect for a coffee
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1024" height="1024" src="/images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-12T03_43_09.746Z.jpg" alt="" class="wp-image-2058" srcset="/images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-12T03_43_09.746Z.jpg 1024w, /images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-12T03_43_09.746Z-300x300.jpg 300w, /images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-12T03_43_09.746Z-150x150.jpg 150w, /images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-12T03_43_09.746Z-768x768.jpg 768w, /images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-12T03_43_09.746Z-376x376.jpg 376w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1024" height="1024" src="/images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-12T03_43_09.746Z.jpg" alt="" class="wp-image-2058" srcset="/images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-12T03_43_09.746Z.jpg 1024w, /images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-12T03_43_09.746Z.jpg 300w, /images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-12T03_43_09.746Z.jpg 150w, /images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-12T03_43_09.746Z.jpg 768w, /images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-12T03_43_09.746Z.jpg 376w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -214,7 +214,7 @@ excerpt: "This post will take you about 5 minutes to read—perfect for a coffee
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="769" height="1024" src="/images/wp-content/uploads/2025/08/PXL_20250812_031234383.MP_-769x1024.jpg" alt="" class="wp-image-2056" srcset="/images/wp-content/uploads/2025/08/PXL_20250812_031234383.MP_-769x1024.jpg 769w, /images/wp-content/uploads/2025/08/PXL_20250812_031234383.MP_-225x300.jpg 225w, /images/wp-content/uploads/2025/08/PXL_20250812_031234383.MP_-768x1023.jpg 768w, /images/wp-content/uploads/2025/08/PXL_20250812_031234383.MP_-1153x1536.jpg 1153w, /images/wp-content/uploads/2025/08/PXL_20250812_031234383.MP_-1538x2048.jpg 1538w, /images/wp-content/uploads/2025/08/PXL_20250812_031234383.MP_-376x501.jpg 376w, /images/wp-content/uploads/2025/08/PXL_20250812_031234383.MP_.jpg 1922w" sizes="(max-width: 769px) 100vw, 769px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="769" height="1024" src="/images/wp-content/uploads/2025/08/PXL_20250812_031234383.MP_.jpg" alt="" class="wp-image-2056" srcset="/images/wp-content/uploads/2025/08/PXL_20250812_031234383.MP_.jpg 769w, /images/wp-content/uploads/2025/08/PXL_20250812_031234383.MP_.jpg 225w, /images/wp-content/uploads/2025/08/PXL_20250812_031234383.MP_.jpg 768w, /images/wp-content/uploads/2025/08/PXL_20250812_031234383.MP_.jpg 1153w, /images/wp-content/uploads/2025/08/PXL_20250812_031234383.MP_.jpg 1538w, /images/wp-content/uploads/2025/08/PXL_20250812_031234383.MP_.jpg 376w, /images/wp-content/uploads/2025/08/PXL_20250812_031234383.MP_.jpg 1922w" sizes="(max-width: 769px) 100vw, 769px" /></figure>
 
 
 

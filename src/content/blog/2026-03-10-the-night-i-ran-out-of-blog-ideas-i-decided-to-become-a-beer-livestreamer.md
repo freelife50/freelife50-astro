@@ -100,7 +100,7 @@ excerpt: "Reading time: about 5 minutes Hello. I’m a guy in my 50s from Japan 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3284,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/Gemini_Generated_Image_qb8nqqqb8nqqqb8n-1024x558.jpg" alt="" class="wp-image-3284"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/Gemini_Generated_Image_qb8nqqqb8nqqqb8n.jpg" alt="" class="wp-image-3284"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -224,7 +224,7 @@ excerpt: "Reading time: about 5 minutes Hello. I’m a guy in my 50s from Japan 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3279,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/Gemini_Generated_Image_bsjb16bsjb16bsjb-1024x558.jpg" alt="" class="wp-image-3279"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/Gemini_Generated_Image_bsjb16bsjb16bsjb.jpg" alt="" class="wp-image-3279"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -292,7 +292,7 @@ excerpt: "Reading time: about 5 minutes Hello. I’m a guy in my 50s from Japan 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3280,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/Gemini_Generated_Image_t6xlfct6xlfct6xl-1024x583.jpg" alt="" class="wp-image-3280"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/Gemini_Generated_Image_t6xlfct6xlfct6xl.jpg" alt="" class="wp-image-3280"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -340,7 +340,7 @@ excerpt: "Reading time: about 5 minutes Hello. I’m a guy in my 50s from Japan 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3269,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/Gemini_Generated_Image_k45dxak45dxak45d-1024x558.jpg" alt="" class="wp-image-3269"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/Gemini_Generated_Image_k45dxak45dxak45d.jpg" alt="" class="wp-image-3269"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -424,7 +424,7 @@ excerpt: "Reading time: about 5 minutes Hello. I’m a guy in my 50s from Japan 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3286,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/Gemini_Generated_Image_4d1xlq4d1xlq4d1x-1024x558.jpg" alt="" class="wp-image-3286"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/Gemini_Generated_Image_4d1xlq4d1xlq4d1x.jpg" alt="" class="wp-image-3286"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -484,7 +484,7 @@ excerpt: "Reading time: about 5 minutes Hello. I’m a guy in my 50s from Japan 
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3282,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/Gemini_Generated_Image_cu6lwxcu6lwxcu6l-1024x558.jpg" alt="" class="wp-image-3282"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/Gemini_Generated_Image_cu6lwxcu6lwxcu6l.jpg" alt="" class="wp-image-3282"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

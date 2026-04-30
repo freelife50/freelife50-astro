@@ -158,7 +158,7 @@ excerpt: "A father-son hike on Mt. Takao via the Inariyama Trail to Yakuo-in tem
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3209,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/Gemini_Generated_Image_kfccydkfccydkfcc-1024x558.jpg" alt="" class="wp-image-3209"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/Gemini_Generated_Image_kfccydkfccydkfcc.jpg" alt="" class="wp-image-3209"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -206,7 +206,7 @@ excerpt: "A father-son hike on Mt. Takao via the Inariyama Trail to Yakuo-in tem
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3210,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/Gemini_Generated_Image_s4rmh3s4rmh3s4rm-1024x1024.jpg" alt="" class="wp-image-3210"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/Gemini_Generated_Image_s4rmh3s4rmh3s4rm.jpg" alt="" class="wp-image-3210"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -240,19 +240,19 @@ excerpt: "A father-son hike on Mt. Takao via the Inariyama Trail to Yakuo-in tem
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3211,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2686-766x1024.jpg" alt="" class="wp-image-3211"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2686.jpg" alt="" class="wp-image-3211"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3212,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2687-766x1024.jpg" alt="" class="wp-image-3212"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2687.jpg" alt="" class="wp-image-3212"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3213,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2688-766x1024.jpg" alt="" class="wp-image-3213"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2688.jpg" alt="" class="wp-image-3213"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -272,13 +272,13 @@ excerpt: "A father-son hike on Mt. Takao via the Inariyama Trail to Yakuo-in tem
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3215,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2690-766x1024.jpg" alt="" class="wp-image-3215"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2690.jpg" alt="" class="wp-image-3215"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3216,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2693-766x1024.jpg" alt="" class="wp-image-3216"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2693.jpg" alt="" class="wp-image-3216"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -306,13 +306,13 @@ excerpt: "A father-son hike on Mt. Takao via the Inariyama Trail to Yakuo-in tem
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3217,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2694-766x1024.jpg" alt="" class="wp-image-3217"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2694.jpg" alt="" class="wp-image-3217"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3218,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2695-766x1024.jpg" alt="" class="wp-image-3218"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2695.jpg" alt="" class="wp-image-3218"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -344,7 +344,7 @@ excerpt: "A father-son hike on Mt. Takao via the Inariyama Trail to Yakuo-in tem
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3219,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2696-766x1024.jpg" alt="" class="wp-image-3219"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2696.jpg" alt="" class="wp-image-3219"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -376,7 +376,7 @@ excerpt: "A father-son hike on Mt. Takao via the Inariyama Trail to Yakuo-in tem
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"width":"66.66%"} -->
 <div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:image {"id":3221,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2698-766x1024.jpg" alt="" class="wp-image-3221"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2698.jpg" alt="" class="wp-image-3221"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -410,7 +410,7 @@ excerpt: "A father-son hike on Mt. Takao via the Inariyama Trail to Yakuo-in tem
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3223,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2704-766x1024.jpg" alt="" class="wp-image-3223"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2704.jpg" alt="" class="wp-image-3223"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -432,13 +432,13 @@ excerpt: "A father-son hike on Mt. Takao via the Inariyama Trail to Yakuo-in tem
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"width":"66.66%"} -->
 <div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:image {"id":3224,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2713-766x1024.jpg" alt="" class="wp-image-3224"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2713.jpg" alt="" class="wp-image-3224"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"width":"33.33%"} -->
 <div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"id":3225,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2714-768x1024.jpg" alt="" class="wp-image-3225"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2714.jpg" alt="" class="wp-image-3225"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -470,13 +470,13 @@ excerpt: "A father-son hike on Mt. Takao via the Inariyama Trail to Yakuo-in tem
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3227,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2712-766x1024.jpg" alt="" class="wp-image-3227"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2712.jpg" alt="" class="wp-image-3227"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3226,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2718-766x1024.jpg" alt="" class="wp-image-3226"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2718.jpg" alt="" class="wp-image-3226"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -508,7 +508,7 @@ excerpt: "A father-son hike on Mt. Takao via the Inariyama Trail to Yakuo-in tem
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3228,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2720-766x1024.jpg" alt="" class="wp-image-3228"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2720.jpg" alt="" class="wp-image-3228"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -552,7 +552,7 @@ excerpt: "A father-son hike on Mt. Takao via the Inariyama Trail to Yakuo-in tem
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"width":"66.66%"} -->
 <div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:image {"id":3229,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2721-766x1024.jpg" alt="" class="wp-image-3229"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2721.jpg" alt="" class="wp-image-3229"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -600,13 +600,13 @@ excerpt: "A father-son hike on Mt. Takao via the Inariyama Trail to Yakuo-in tem
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3230,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2723-766x1024.jpg" alt="" class="wp-image-3230"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2723.jpg" alt="" class="wp-image-3230"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3231,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2722-766x1024.jpg" alt="" class="wp-image-3231"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2722.jpg" alt="" class="wp-image-3231"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -630,13 +630,13 @@ excerpt: "A father-son hike on Mt. Takao via the Inariyama Trail to Yakuo-in tem
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3232,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2730-766x1024.jpg" alt="" class="wp-image-3232"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2730.jpg" alt="" class="wp-image-3232"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3233,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2731-766x1024.jpg" alt="" class="wp-image-3233"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2731.jpg" alt="" class="wp-image-3233"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -656,13 +656,13 @@ excerpt: "A father-son hike on Mt. Takao via the Inariyama Trail to Yakuo-in tem
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"width":"66.66%"} -->
 <div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:image {"id":3234,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2729-766x1024.jpg" alt="" class="wp-image-3234"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2729.jpg" alt="" class="wp-image-3234"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"width":"33.33%"} -->
 <div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"id":3246,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2735-766x1024.jpg" alt="" class="wp-image-3246"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2735.jpg" alt="" class="wp-image-3246"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -712,7 +712,7 @@ excerpt: "A father-son hike on Mt. Takao via the Inariyama Trail to Yakuo-in tem
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3236,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/Gemini_Generated_Image_9k3e719k3e719k3e-1024x558.jpg" alt="" class="wp-image-3236"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/Gemini_Generated_Image_9k3e719k3e719k3e.jpg" alt="" class="wp-image-3236"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -742,13 +742,13 @@ excerpt: "A father-son hike on Mt. Takao via the Inariyama Trail to Yakuo-in tem
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"width":"66.66%"} -->
 <div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:image {"id":3237,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/Gemini_Generated_Image_l6d5d9l6d5d9l6d5-590x1024.jpg" alt="" class="wp-image-3237"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/Gemini_Generated_Image_l6d5d9l6d5d9l6d5.jpg" alt="" class="wp-image-3237"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"width":"33.33%"} -->
 <div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"id":3238,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/Gemini_Generated_Image_nn01lunn01lunn01-590x1024.jpg" alt="" class="wp-image-3238"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/Gemini_Generated_Image_nn01lunn01lunn01.jpg" alt="" class="wp-image-3238"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -812,19 +812,19 @@ excerpt: "A father-son hike on Mt. Takao via the Inariyama Trail to Yakuo-in tem
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3239,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2741-766x1024.jpg" alt="" class="wp-image-3239"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2741.jpg" alt="" class="wp-image-3239"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3240,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2739-766x1024.jpg" alt="" class="wp-image-3240"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2739.jpg" alt="" class="wp-image-3240"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3241,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2742-768x1024.jpg" alt="" class="wp-image-3241"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2742.jpg" alt="" class="wp-image-3241"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -852,7 +852,7 @@ excerpt: "A father-son hike on Mt. Takao via the Inariyama Trail to Yakuo-in tem
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"width":"66.66%"} -->
 <div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:image {"id":3242,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2747-766x1024.jpg" alt="" class="wp-image-3242"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2747.jpg" alt="" class="wp-image-3242"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -884,7 +884,7 @@ excerpt: "A father-son hike on Mt. Takao via the Inariyama Trail to Yakuo-in tem
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3243,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2751-766x1024.jpg" alt="" class="wp-image-3243"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2751.jpg" alt="" class="wp-image-3243"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -926,7 +926,7 @@ excerpt: "A father-son hike on Mt. Takao via the Inariyama Trail to Yakuo-in tem
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":3245,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/Gemini_Generated_Image_1kp06h1kp06h1kp0-1024x558.jpg" alt="" class="wp-image-3245"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/Gemini_Generated_Image_1kp06h1kp06h1kp0.jpg" alt="" class="wp-image-3245"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
