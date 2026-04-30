@@ -326,3 +326,35 @@ img { max-width: 100%; height: auto; display: block; }
 
 /* ez-toc section span（見出しアンカー）は非表示 */
 .ez-toc-section, .ez-toc-section-end { display: none; }
+
+/* ============================================================
+   WordPress 整列・テキスト配置・テーブル・キャプション
+   ============================================================ */
+
+/* aligncenter：画像・figure の中央揃え */
+.post-content figure.aligncenter,
+.post-content .wp-block-image.aligncenter {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+/* has-text-align-center：テキスト中央揃え */
+.post-content .has-text-align-center {
+  text-align: center;
+}
+
+/* has-fixed-layout：テーブルの固定レイアウト */
+.post-content table.has-fixed-layout {
+  table-layout: fixed;
+}
+
+/* wp-element-caption：図のキャプション */
+.post-content .wp-element-caption,
+.post-content figcaption {
+  font-size: .82rem;
+  color: var(--color-text-light);
+  text-align: center;
+  margin-top: 4px;
+  font-style: italic;
+}
