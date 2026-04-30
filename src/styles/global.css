@@ -261,3 +261,68 @@ img { max-width: 100%; height: auto; display: block; }
     flex-basis: 100% !important;
   }
 }
+
+/* ============================================================
+   WordPress その他ブロック・Cocoon カスタムスタイル
+   ============================================================ */
+
+/* 区切り線（hr / wp-block-separator）
+   CSS リセットで消えるためスタイルを明示 */
+.post-content hr,
+.post-content .wp-block-separator {
+  border: none;
+  border-top: 1px solid var(--color-border);
+  margin: 2em auto;
+  width: 100%;
+}
+.post-content .wp-block-separator.is-style-wide {
+  width: 100%;
+}
+
+/* Cocoon テーマ bold-red クラス（読了時間など） */
+.post-content .bold-red,
+.post-content span.bold-red {
+  color: #e74c3c;
+  font-weight: bold;
+}
+
+/* ボタンブロック（wp-block-buttons / wp-block-button） */
+.post-content .wp-block-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 1.5em 0;
+}
+.post-content .wp-block-buttons.is-content-justification-center {
+  justify-content: center;
+}
+.post-content .wp-block-button__link {
+  display: inline-block;
+  text-decoration: none;
+}
+
+/* 目次プラグイン ez-toc スタイル */
+#ez-toc-container {
+  background: var(--color-bg-light);
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+  padding: 1em 1.2em;
+  margin: 1.5em 0;
+  font-size: .9rem;
+}
+#ez-toc-container .ez-toc-title {
+  font-weight: 700;
+  margin-bottom: .5em;
+  font-size: 1rem;
+}
+#ez-toc-container .ez-toc-title-toggle { float: right; }
+#ez-toc-container nav { clear: both; }
+#ez-toc-container ul { list-style: none; margin: 0; padding: 0; }
+#ez-toc-container li { padding: 3px 0; }
+#ez-toc-container ul ul { padding-left: 1em; }
+#ez-toc-container a { color: var(--color-primary); text-decoration: none; }
+#ez-toc-container a:hover { text-decoration: underline; }
+.ez-toc-title-toggle { display: none; }
+
+/* ez-toc section span（見出しアンカー）は非表示 */
+.ez-toc-section, .ez-toc-section-end { display: none; }
