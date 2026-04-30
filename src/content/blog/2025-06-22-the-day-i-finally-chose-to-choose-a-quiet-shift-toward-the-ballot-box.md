@@ -405,11 +405,7 @@ excerpt: "🗳️ This blog post is for you if... You've ever thought, “It doe
 <p>How conversations with AI helped me rediscover parts of myself.&nbsp;&nbsp;</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:embed {"url":"https://freelife50.com/%f0%9f%91%89-even-if-i-forget-youre-still-here-can-chatgpt-be-our-future-companion/","type":"wp-embed","providerNameSlug":"50-ramen-beer-and-a-bit-of-blogging-a-relaxed-side-job-diary-from-a-gen-x-039-er-in-his-50-s"} -->
-<figure class="wp-block-embed is-type-wp-embed is-provider-50-ramen-beer-and-a-bit-of-blogging-a-relaxed-side-job-diary-from-a-gen-x-039-er-in-his-50-s wp-block-embed-50-ramen-beer-and-a-bit-of-blogging-a-relaxed-side-job-diary-from-a-gen-x-039-er-in-his-50-s"><div class="wp-block-embed__wrapper">
-https://freelife50.com/%f0%9f%91%89-even-if-i-forget-youre-still-here-can-chatgpt-be-our-future-companion/
-</div></figure>
-<!-- /wp:embed -->
+<p><a href="https://freelife50.com/%f0%9f%91%89-even-if-i-forget-youre-still-here-can-chatgpt-be-our-future-companion/" target="_blank" rel="noopener noreferrer">https://freelife50.com/%f0%9f%91%89-even-if-i-forget-youre-still-here-can-chatgpt-be-our-future-companion/</a></p>
 
 <!-- wp:paragraph -->
 <p>▶️ Only three pitches left – and I still throw&nbsp;&nbsp;</p>
@@ -419,11 +415,7 @@ https://freelife50.com/%f0%9f%91%89-even-if-i-forget-youre-still-here-can-chatgp
 <p>It’s never too late to take action, even if it’s just one more pitch.&nbsp;&nbsp;</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:embed {"url":"https://freelife50.com/%f0%9f%a5%8e-only-three-pitches-left-and-i-still-throw/","type":"wp-embed","providerNameSlug":"50-ramen-beer-and-a-bit-of-blogging-a-relaxed-side-job-diary-from-a-gen-x-039-er-in-his-50-s"} -->
-<figure class="wp-block-embed is-type-wp-embed is-provider-50-ramen-beer-and-a-bit-of-blogging-a-relaxed-side-job-diary-from-a-gen-x-039-er-in-his-50-s wp-block-embed-50-ramen-beer-and-a-bit-of-blogging-a-relaxed-side-job-diary-from-a-gen-x-039-er-in-his-50-s"><div class="wp-block-embed__wrapper">
-https://freelife50.com/%f0%9f%a5%8e-only-three-pitches-left-and-i-still-throw/
-</div></figure>
-<!-- /wp:embed -->
+<p><a href="https://freelife50.com/%f0%9f%a5%8e-only-three-pitches-left-and-i-still-throw/" target="_blank" rel="noopener noreferrer">https://freelife50.com/%f0%9f%a5%8e-only-three-pitches-left-and-i-still-throw/</a></p>
 
 <!-- wp:paragraph -->
 <p>▶️ Mt. Takao’s hidden trail – a quiet escape few ever find&nbsp;&nbsp;</p>
@@ -433,8 +425,4 @@ https://freelife50.com/%f0%9f%a5%8e-only-three-pitches-left-and-i-still-throw/
 <p>Sometimes clarity comes not from shouting, but from walking in silence.&nbsp;&nbsp;</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:embed {"url":"https://freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/","type":"wp-embed","providerNameSlug":"50-ramen-beer-and-a-bit-of-blogging-a-relaxed-side-job-diary-from-a-gen-x-039-er-in-his-50-s"} -->
-<figure class="wp-block-embed is-type-wp-embed is-provider-50-ramen-beer-and-a-bit-of-blogging-a-relaxed-side-job-diary-from-a-gen-x-039-er-in-his-50-s wp-block-embed-50-ramen-beer-and-a-bit-of-blogging-a-relaxed-side-job-diary-from-a-gen-x-039-er-in-his-50-s"><div class="wp-block-embed__wrapper">
-https://freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/
-</div></figure>
-<!-- /wp:embed -->
+<p><a href="https://freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/" target="_blank" rel="noopener noreferrer">https://freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/</a></p>

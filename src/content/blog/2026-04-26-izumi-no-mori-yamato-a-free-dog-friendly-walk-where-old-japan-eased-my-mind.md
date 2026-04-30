@@ -167,11 +167,7 @@ excerpt: "Hi, I&#8217;m Hiroshi. Lately, I&#8217;ve been dealing with some frict
 <p>Not far away &#8212; near the small stream by the wooden bridge &#8212; there was a wooden water wheel, slowly turning in the current.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:embed {"url":"https://youtube.com/shorts/TiTNtNvRAkk","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-9-16 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-9-16 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://youtube.com/shorts/TiTNtNvRAkk
-</div></figure>
-<!-- /wp:embed -->
+<div style="position:relative;padding-bottom:177.78%;height:0;overflow:hidden;"><iframe src="https://www.youtube.com/embed/TiTNtNvRAkk" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>
 
 <!-- wp:paragraph -->
 <p>I filmed 17 seconds of it. Just watching felt meditative.</p>

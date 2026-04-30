@@ -17,11 +17,7 @@ excerpt: "— Water, Magnet, and a Little Bit of Drum 📖 Reading time: 12–15
 <p>📖 <strong>Reading time: 12–15 min (one coffee + a refill encouraged)</strong></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:embed {"url":"https://www.youtube.com/embed/F-IBJhI4RL0","type":"rich","providerNameSlug":"","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed is-type-rich wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://www.youtube.com/embed/F-IBJhI4RL0
-</div></figure>
-<!-- /wp:embed -->
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"><iframe src="https://www.youtube.com/embed/F-IBJhI4RL0" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>
 
 <!-- wp:paragraph -->
 <p>👉 In a hurry? Watch the short video here</p>
