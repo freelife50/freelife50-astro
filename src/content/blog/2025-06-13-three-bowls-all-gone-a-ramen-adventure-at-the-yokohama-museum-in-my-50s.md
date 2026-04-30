@@ -215,5 +215,5 @@ excerpt: "A food tour of Shin-Yokohama Ramen Museum with honest reviews of 3 bow
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}}} -->
+
 <p class="has-text-align-center" style="font-size:18px">🇯🇵 <a href="https://freelife50.com/%f0%9f%8d%9c-%e3%82%b9%e3%83%bc%e3%83%97%e3%81%be%e3%81%a7%e9%a3%b2%e3%81%bf%e5%b9%b2%e3%81%97%e3%81%9f3%e6%9d%af%ef%bc%81%e6%a8%aa%e6%b5%9c%e3%83%a9%e3%83%bc%e3%83%a1%e3%83%b3%e5%8d%9a%e7%89%a9/">この記事を日本語で読む / Read in Japanese</a></p>

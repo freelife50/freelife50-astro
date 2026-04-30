@@ -215,5 +215,5 @@ excerpt: "– Point-based returns will end in September 2025, quietly stripped f
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}}} -->
+
 <p class="has-text-align-center" style="font-size:18px">🇯🇵 <a href="https://freelife50.com/%e3%80%8e%e6%94%b9%e9%9d%a9%e3%81%ae%e3%81%b5%e3%82%8a%e3%82%92%e3%81%97%e3%81%9f%e6%90%be%e5%8f%96%e2%94%80%e2%94%80%e3%81%b5%e3%82%8b%e3%81%95%e3%81%a8%e7%b4%8d%e7%a8%8e%e3%83%9d%e3%82%a4/">この記事を日本語で読む / Read in Japanese</a></p>

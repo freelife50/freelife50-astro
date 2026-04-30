@@ -309,5 +309,5 @@ excerpt: "In-depth review of the Akamaru 44-piece emergency survival kit, chosen
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}}} -->
+
 <p class="has-text-align-center" style="font-size:18px">🇯🇵 <a href="https://freelife50.com/%e9%98%b2%e7%81%bd%e5%a3%ab%e3%81%a8%e6%b6%88%e9%98%b2%e5%a3%ab%e3%81%8c%e9%81%b8%e3%82%93%e3%81%a0%e6%9c%ac%e6%b0%97%e3%81%ae%e5%82%99%e3%81%88%e2%94%80%e2%94%80%e3%81%82%e3%81%8b%e3%81%be%e3%82%8b/">この記事を日本語で読む / Read in Japanese</a></p>

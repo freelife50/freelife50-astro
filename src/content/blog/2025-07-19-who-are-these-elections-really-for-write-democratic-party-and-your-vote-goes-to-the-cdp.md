@@ -114,5 +114,5 @@ excerpt: "Introduction | Why This Frustrates Me So Much Japan's 2025 House of Co
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}}} -->
+
 <p class="has-text-align-center" style="font-size:18px">🇯🇵 <a href="https://freelife50.com/%e5%9b%bd%e6%b0%91%e3%83%95%e3%82%a1%e3%83%bc%e3%82%b9%e3%83%88%e3%81%aa%e3%82%93%e3%81%a6%e5%98%98%e3%82%84%e3%82%93%e2%94%80%e2%94%80%e7%95%a5%e7%a7%b0%e3%80%8c%e6%b0%91%e4%b8%bb%e5%85%9a%e3%80%8d/">この記事を日本語で読む / Read in Japanese</a></p>

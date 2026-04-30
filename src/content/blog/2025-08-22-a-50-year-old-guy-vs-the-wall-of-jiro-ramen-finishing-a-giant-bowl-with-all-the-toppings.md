@@ -203,5 +203,5 @@ excerpt: "Can a 50-year-old finish a Ramen Jiro large bowl with all toppings? A 
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}}} -->
+
 <p class="has-text-align-center" style="font-size:18px">🇯🇵 <a href="https://freelife50.com/50%e4%bb%a3%e3%81%8a%e3%81%98%e3%81%95%e3%82%93%e3%80%81%e3%83%a9%e3%83%bc%e3%83%a1%e3%83%b3%e4%ba%8c%e9%83%8e%e3%81%ae%e5%a3%81%e3%81%ab%e6%8c%91%e3%82%80%ef%bc%81%e3%83%a9%e3%83%bc%e3%83%a1%e3%83%b3/">この記事を日本語で読む / Read in Japanese</a></p>

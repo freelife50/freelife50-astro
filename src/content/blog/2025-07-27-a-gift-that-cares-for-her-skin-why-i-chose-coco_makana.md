@@ -9,7 +9,7 @@ eyecatch: "/images/wp-content/uploads/2025/07/Google_AI_Studio_2025-07-27T05_16_
 excerpt: "📌 Note The affiliate program for \"coco_Makana\" introduced in this article ended in December 2025. The product itself is"
 ---
 
-<!-- wp:group {"style":{"color":{"background":"#fff8e1"},"spacing":{"padding":{"all":"1.2em"}},"border":{"radius":"8px"}}} -->
+
 <div class="wp-block-group has-background" style="border-radius:8px;background-color:#fff8e1;padding:1.2em;margin-bottom:1.5em"><p style="margin:0">📌 <strong>Note</strong><br>The affiliate program for "coco_Makana" introduced in this article ended in December 2025. The product itself is still available through the official website. We are keeping this article as a personal review.</p>
 </div>
 

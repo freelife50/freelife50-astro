@@ -126,5 +126,5 @@ excerpt: "A 50-year-old dad solves a mysterious PC wallpaper glitch. Dual monito
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}}} -->
+
 <p class="has-text-align-center" style="font-size:18px">🇯🇵 <a href="https://freelife50.com/%ef%bc%95%ef%bc%90%e4%bb%a3%e3%81%8a%e3%81%98%e3%81%95%e3%82%93%e3%80%81%e6%8e%a2%e5%81%b5%e3%81%ab%e3%81%aa%e3%82%8b%e3%80%82%e2%94%80%e2%94%80%e3%83%a2%e3%83%8b%e3%82%bf%e3%83%bc%e3%81%a8%e5%a3%81/">この記事を日本語で読む / Read in Japanese</a></p>

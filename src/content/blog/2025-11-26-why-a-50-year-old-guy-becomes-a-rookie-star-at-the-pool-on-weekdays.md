@@ -258,5 +258,5 @@ excerpt: "Why swimming in your 50s is the best exercise you're not doing. How th
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}}} -->
+
 <p class="has-text-align-center" style="font-size:18px">🇯🇵 <a href="https://freelife50.com/50%e4%bb%a3%e3%81%8a%e3%81%98%e3%81%95%e3%82%93%e3%80%81%e5%b9%b3%e6%97%a5%e3%83%97%e3%83%bc%e3%83%ab%e3%81%a7%e3%80%8c%e6%9c%9f%e5%be%85%e3%81%ae%e6%96%b0%e4%ba%ba%e3%80%8d%e6%89%b1%e3%81%84%e3%81%95/">この記事を日本語で読む / Read in Japanese</a></p>

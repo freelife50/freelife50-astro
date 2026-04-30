@@ -230,5 +230,5 @@ excerpt: "Discover Yokohama's hidden \"Mt. Takao\" — a 13km hike from Enkaisan
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}}} -->
+
 <p class="has-text-align-center" style="font-size:18px">🇯🇵 <a href="https://freelife50.com/%e3%80%90%e4%bf%9d%e5%ad%98%e7%89%88%e3%80%91%e6%a8%aa%e6%b5%9c%e3%81%ab%e3%82%82%e3%80%8c%e9%ab%98%e5%b0%be%e5%b1%b1%e3%80%8d%e3%81%8c%e3%81%82%e3%82%8b%e3%82%93%e3%82%84%e3%81%a7%e3%80%82%e6%ad%b4/">この記事を日本語で読む / Read in Japanese</a></p>

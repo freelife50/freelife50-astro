@@ -238,5 +238,5 @@ excerpt: "A 50-year-old Japanese man's honest experience with colon CT scan. Wha
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}}} -->
+
 <p class="has-text-align-center" style="font-size:18px">🇯🇵 <a href="https://freelife50.com/%ef%bc%95%ef%bc%90%e4%bb%a3%e3%81%8a%e3%81%98%e3%81%95%e3%82%93%e3%83%bc%e3%82%82%e3%81%86%e6%80%96%e3%81%8f%e3%81%aa%e3%81%84%ef%bc%81%e4%b8%8b%e5%89%a4%e3%82%82%e6%a5%bd%e3%81%a1%e3%82%93%ef%bc%81/">この記事を日本語で読む / Read in Japanese</a></p>

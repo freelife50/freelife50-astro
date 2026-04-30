@@ -156,5 +156,5 @@ excerpt: "A farewell visit to the legendary Hachioji Taishoken ramen shop. Why I
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}}} -->
+
 <p class="has-text-align-center" style="font-size:18px">🇯🇵 <a href="https://freelife50.com/%e3%80%90%e9%96%89%e5%ba%97%e3%80%91%e5%85%ab%e7%8e%8b%e5%ad%90%e5%a4%a7%e5%8b%9d%e8%bb%92%e3%80%82%e6%9c%80%e5%be%8c%e3%81%ae%e4%b8%80%e6%9d%af%e3%81%ab%e3%80%81%e3%81%82%e3%81%88%e3%81%a6%e3%80%8c/">この記事を日本語で読む / Read in Japanese</a></p>

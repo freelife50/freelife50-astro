@@ -151,5 +151,5 @@ excerpt: "How ditching my wallet for a 10g money clip changed my life at 50. A m
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}}} -->
+
 <p class="has-text-align-center" style="font-size:18px">🇯🇵 <a href="https://freelife50.com/%e3%80%9050%e4%bb%a3%e3%81%ae%e6%96%ad%e6%8d%a8%e9%9b%a2%e9%9d%a9%e5%91%bd%e3%80%91%e8%b2%a1%e5%b8%83%e3%82%92%e6%8d%a8%e3%81%a6%e3%81%9f%e3%82%89%e3%80%81%e4%ba%ba%e7%94%9f%e3%81%be%e3%81%a7%e8%bb%bd/">この記事を日本語で読む / Read in Japanese</a></p>

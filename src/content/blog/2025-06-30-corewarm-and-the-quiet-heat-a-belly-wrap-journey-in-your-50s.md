@@ -217,5 +217,5 @@ excerpt: "CoreWarm belly wrap (haramaki) review for men. Japanese thermal underw
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}}} -->
+
 <p class="has-text-align-center" style="font-size:18px">🇯🇵 <a href="https://freelife50.com/%e3%80%8e%e5%a4%8f%e3%81%a7%e3%82%82%e8%85%b9%e5%b7%bb%e3%81%8d%e3%81%af%e3%82%a2%e3%83%aa%e3%81%8b%ef%bc%9f%e2%94%80%e2%94%80corewarm%e3%81%a7%e5%a7%8b%e3%82%81%e3%82%8b%e3%80%8150%e4%bb%a3%e3%81%ae/">この記事を日本語で読む / Read in Japanese</a></p>

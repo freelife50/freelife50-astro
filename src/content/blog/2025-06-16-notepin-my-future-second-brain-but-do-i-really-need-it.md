@@ -191,5 +191,5 @@ excerpt: "Memory glasses for the mind? Or just another shiny gadget? 🟦 This a
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}}} -->
+
 <p class="has-text-align-center" style="font-size:18px">🇯🇵 <a href="https://freelife50.com/%e3%80%8cnotepin%e3%81%8c%e6%ac%b2%e3%81%97%e3%81%8f%e3%81%a6%e3%81%9f%e3%81%be%e3%82%89%e3%82%93%e3%80%82%e3%81%a7%e3%82%82%e3%80%81%e3%81%be%e3%81%a0%e3%83%9d%e3%83%81%e3%81%a3%e3%81%a6%e3%81%aa/">この記事を日本語で読む / Read in Japanese</a></p>

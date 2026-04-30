@@ -9,7 +9,7 @@ eyecatch: "/images/wp-content/uploads/2025/07/Google_AI_Studio_2025-07-27T05_16_
 excerpt: "📌 ご案内 本記事で紹介していた「coco_Makana」のアフィリエイトプログラムは2025年12月に終了しました。商品自体は公式サイト等で引き続き入手可能です。体験レビューとしての記事はそのまま残しております。 📖 読了目安：10〜"
 ---
 
-<!-- wp:group {"style":{"color":{"background":"#fff8e1"},"spacing":{"padding":{"all":"1.2em"}},"border":{"radius":"8px"}}} -->
+
 <div class="wp-block-group has-background" style="border-radius:8px;background-color:#fff8e1;padding:1.2em;margin-bottom:1.5em"><p style="margin:0">📌 <strong>ご案内</strong><br>本記事で紹介していた「coco_Makana」のアフィリエイトプログラムは2025年12月に終了しました。商品自体は公式サイト等で引き続き入手可能です。体験レビューとしての記事はそのまま残しております。</p>
 </div>
 

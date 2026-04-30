@@ -236,5 +236,5 @@ excerpt: "⏳ Reading Time This blog takes about 8 minutes to read. 🧑‍💼 
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}}} -->
+
 <p class="has-text-align-center" style="font-size:18px">🇯🇵 <a href="https://freelife50.com/%e7%8c%ab%e8%83%8c%e3%81%8c%e6%b0%97%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%9f%e3%80%81%e3%81%82%e3%81%ae%e8%83%8c%e4%b8%ad%e3%81%b8%e3%80%82%e2%94%80%e2%94%80%e6%95%b4%e4%bd%93%e3%82%b7%e3%83%a7%e3%83%bc/">この記事を日本語で読む / Read in Japanese</a></p>

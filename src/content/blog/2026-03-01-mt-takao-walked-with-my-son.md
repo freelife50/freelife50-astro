@@ -540,5 +540,5 @@ excerpt: "A father-son hike on Mt. Takao via the Inariyama Trail to Yakuo-in tem
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}}} -->
+
 <p class="has-text-align-center" style="font-size:18px">🇯🇵 <a href="https://freelife50.com/%e6%81%af%e5%ad%90%e3%81%a8%e6%ad%a9%e3%81%84%e3%81%9f%e9%ab%98%e5%b0%be%e5%b1%b1%e3%80%82%e7%a8%b2%e8%8d%b7%e5%b1%b1%e3%82%b3%e3%83%bc%e3%82%b9%e3%81%8b%e3%82%89%e8%96%ac%e7%8e%8b%e9%99%a2%e3%80%81/">この記事を日本語で読む / Read in Japanese</a></p>

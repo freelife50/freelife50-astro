@@ -239,5 +239,5 @@ excerpt: "Mountain Hut Feast & the True Power of Workman’s XShelter Jacket A b
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}}} -->
+
 <p class="has-text-align-center" style="font-size:18px">🇯🇵 <a href="https://freelife50.com/%e9%9b%a8%e3%81%ae%e4%b8%b9%e6%b2%a2%e3%81%a7%e8%a8%bc%e6%98%8e%e3%81%95%e3%82%8c%e3%81%9f50%e4%bb%a3%e3%81%ae%e6%8c%91%e6%88%a6%e2%94%80%e2%94%80%e5%b1%b1%e8%8d%98%e3%81%ae%e7%b5%b6%e5%93%81%e3%83%a1/">この記事を日本語で読む / Read in Japanese</a></p>

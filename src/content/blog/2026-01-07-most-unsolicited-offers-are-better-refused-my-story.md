@@ -217,5 +217,5 @@ excerpt: "Reading time: about 4 minutes Who this is for People who feel uncomfor
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}}} -->
+
 <p class="has-text-align-center" style="font-size:18px">🇯🇵 <a href="https://freelife50.com/%e5%90%91%e3%81%93%e3%81%86%e3%81%8b%e3%82%89%e3%82%84%e3%81%a3%e3%81%a6%e6%9d%a5%e3%82%8b%e8%a9%b1%e3%81%af%e3%80%81%e3%81%a0%e3%81%84%e3%81%9f%e3%81%84%e6%96%ad%e3%81%a3%e3%81%a6%e6%ad%a3%e8%a7%a3/">この記事を日本語で読む / Read in Japanese</a></p>

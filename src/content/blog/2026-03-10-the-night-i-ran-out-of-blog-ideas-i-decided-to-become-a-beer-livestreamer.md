@@ -307,5 +307,5 @@ excerpt: "Reading time: about 5 minutes Hello. I’m a guy in my 50s from Japan 
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}}} -->
+
 <p class="has-text-align-center" style="font-size:18px">🇯🇵 <a href="https://freelife50.com/%e3%83%96%e3%83%ad%e3%82%b0%e3%83%8d%e3%82%bf%e5%88%87%e3%82%8c%e3%81%ab%e8%a9%b0%e3%82%93%e3%81%a0%e5%a4%9c%e3%80%81%e5%83%95%e3%81%af%e6%99%a9%e9%85%8c%e3%83%a9%e3%82%a4%e3%83%90%e3%83%bc/">この記事を日本語で読む</a></p>

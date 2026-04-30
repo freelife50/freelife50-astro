@@ -284,5 +284,5 @@ excerpt: "ChatGPT vs Gemini vs Claude — which AI subscription is worth paying 
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}}} -->
+
 <p class="has-text-align-center" style="font-size:18px">🇯🇵 <a href="https://freelife50.com/50%e4%bb%a3%e3%81%8a%e3%81%98%e3%81%95%e3%82%93%e3%80%81ai%e8%aa%b2%e9%87%91%e3%81%a9%e3%81%a3%e3%81%a1%ef%bc%9f%e8%bf%b7%e8%b5%b0%e3%81%ae%e6%9c%ab%e3%81%ab%e8%a6%8b%e3%81%a4%e3%81%91%e3%81%9f/">この記事を日本語で読む / Read in Japanese</a></p>

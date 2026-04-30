@@ -165,5 +165,5 @@ excerpt: "Subtitle: You don’t have to push yourself to the limit. Just floatin
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}}} -->
+
 <p class="has-text-align-center" style="font-size:18px">🇯🇵 <a href="https://freelife50.com/%e3%80%8c%e8%85%b0%e3%81%8c%e7%97%9b%e3%81%8f%e3%81%a6%e3%80%81%e8%b5%b0%e3%82%8c%e3%81%aa%e3%81%8f%e3%81%aa%e3%81%a3%e3%81%9f%e3%80%82%e3%81%a7%e3%82%82%e3%80%81%e6%b3%b3%e3%81%90%e3%81%93%e3%81%a8/">この記事を日本語で読む / Read in Japanese</a></p>

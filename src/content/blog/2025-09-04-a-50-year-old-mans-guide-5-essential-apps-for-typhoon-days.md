@@ -171,5 +171,5 @@ excerpt: "📖 Estimated Reading Time: 7–8 minutes ■ What This Article Deliv
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}}} -->
+
 <p class="has-text-align-center" style="font-size:18px">🇯🇵 <a href="https://freelife50.com/50%e4%bb%a3%e3%81%8a%e3%81%98%e3%81%95%e3%82%93%e3%80%81%e5%8f%b0%e9%a2%a8%e3%81%ae%e6%97%a5%e3%81%ab%e5%bd%b9%e7%ab%8b%e3%81%a4%e3%82%a2%e3%83%97%e3%83%aa5%e9%81%b8/">この記事を日本語で読む / Read in Japanese</a></p>

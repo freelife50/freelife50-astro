@@ -315,5 +315,5 @@ excerpt: "A winter dog walk at Ishigakiyama (Ichiyajo) castle ruins in Odawara, 
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}}} -->
+
 <p class="has-text-align-center" style="font-size:18px">🇯🇵 <a href="https://freelife50.com/50%e4%bb%a3%e3%81%8a%e3%81%98%e3%81%95%e3%82%93%e3%80%810%e2%84%83%e3%81%ae%e4%b8%80%e5%a4%9c%e5%9f%8e%e3%81%b8%e3%80%82%e7%8a%ac%e3%81%a8%e6%ad%a9%e3%81%84%e3%81%a6%e5%bf%83%e3%81%8c%e6%95%b4/">この記事を日本語で読む / Read in Japanese</a></p>

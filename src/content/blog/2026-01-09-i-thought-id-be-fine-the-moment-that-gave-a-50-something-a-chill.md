@@ -196,5 +196,5 @@ excerpt: "Reading time: About 5 minutes Who this is for People in their 50s who 
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}}} -->
+
 <p class="has-text-align-center" style="font-size:18px">🇯🇵 <a href="https://freelife50.com/%e3%80%8c%e8%87%aa%e5%88%86%e3%81%af%e5%a4%a7%e4%b8%88%e5%a4%ab%e3%80%8d%e3%81%a3%e3%81%a6%e6%80%9d%e3%81%a3%e3%81%a6%e3%81%9f50%e4%bb%a3%e3%81%8c%e3%80%81%e4%b8%80%e7%95%aa%e3%83%92%e3%83%a4%e3%83%83/">この記事を日本語で読む / Read in Japanese</a></p>

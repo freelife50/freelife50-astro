@@ -196,5 +196,5 @@ excerpt: "A Quiet Story About Where to Keep Your Money Estimated reading time: a
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}}} -->
+
 <p class="has-text-align-center" style="font-size:18px">🇯🇵 <a href="https://freelife50.com/%e3%82%b9%e3%83%bc%e3%83%91%e3%83%bc%e3%81%ae%e5%80%a4%e6%9c%ad%e3%81%ae%e5%89%8d%e3%81%a7%e7%ab%8b%e3%81%a1%e6%ad%a2%e3%81%be%e3%81%a3%e3%81%9f%e3%80%8250%e4%bb%a3%e3%81%ae%e3%81%8a%e3%81%98%e3%81%95/">この記事を日本語で読む / Read in Japanese</a></p>

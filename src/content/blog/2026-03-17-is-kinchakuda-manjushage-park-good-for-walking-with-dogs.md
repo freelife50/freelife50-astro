@@ -331,5 +331,5 @@ excerpt: "Is Kinchakuda Manjushage Park dog-friendly? A first-hand walking guide
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}}} -->
+
 <p class="has-text-align-center" style="font-size:18px">🇯🇵 <a href="https://freelife50.com/%e5%b7%be%e7%9d%80%e7%94%b0%e6%9b%bc%e7%8f%a0%e6%b2%99%e8%8f%af%e5%85%ac%e5%9c%92%e3%81%af%e7%8a%ac%e9%80%a3%e3%82%8c%e6%95%a3%e6%ad%a9%e3%81%ab%e3%81%8a%e3%81%99%e3%81%99%e3%82%81%ef%bc%9f/">この記事を日本語で読む / Read in Japanese</a></p>

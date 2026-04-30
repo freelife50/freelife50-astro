@@ -106,5 +106,5 @@ excerpt: "── A $3,500 MacBook Pro vs. $3,500 in My Generation 📖 Estimated
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}}} -->
+
 <p class="has-text-align-center" style="font-size:18px">🇯🇵 <a href="https://freelife50.com/50%e4%bb%a3%e3%81%8a%e3%81%98%e3%81%95%e3%82%93%e3%80%81%e6%81%af%e5%ad%90%e4%b8%96%e4%bb%a3z%e4%b8%96%e4%bb%a3%e3%81%ae%e4%be%a1%e5%80%a4%e8%a6%b3%e3%81%ab%e9%a9%9a%e3%81%84%e3%81%9f%e3%80%82/">この記事を日本語で読む / Read in Japanese</a></p>

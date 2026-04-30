@@ -270,5 +270,5 @@ excerpt: "Why you should skip the bra top for medical imaging. A Japanese radiol
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}}} -->
+
 <p class="has-text-align-center" style="font-size:18px">🇯🇵 <a href="https://freelife50.com/%e3%80%90%e7%b7%8a%e6%80%a5%e3%80%91%e3%83%96%e3%83%a9%e3%83%88%e3%83%83%e3%83%97%e3%81%af%e6%9c%80%e5%bc%b7ng/">この記事を日本語で読む / Read in Japanese</a></p>

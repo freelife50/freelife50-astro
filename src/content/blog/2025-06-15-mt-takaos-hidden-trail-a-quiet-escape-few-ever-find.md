@@ -186,5 +186,5 @@ excerpt: "A peaceful hike guide from Ura-Takao to Mt. Kobotoke-Shiroyama near To
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}}} -->
+
 <p class="has-text-align-center" style="font-size:18px">🇯🇵 <a href="https://freelife50.com/%e3%80%8c%e9%9d%99%e3%81%91%e3%81%95%e3%82%92%e6%ad%a9%e3%81%8f%e3%80%82%e8%a3%8f%e9%ab%98%e5%b0%be%e3%81%8b%e3%82%89%e5%b0%8f%e4%bb%8f%e5%9f%8e%e5%b1%b1%e3%81%b8%e2%94%80%e2%94%80%e3%81%bb/">この記事を日本語で読む / Read in Japanese</a></p>

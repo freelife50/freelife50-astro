@@ -150,5 +150,5 @@ excerpt: "Less emotion, more experience. Reading time: about 3 minutes Who this 
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}}} -->
+
 <p class="has-text-align-center" style="font-size:18px">🇯🇵 <a href="https://freelife50.com/50%e4%bb%a3%e3%81%8a%e3%81%98%e3%81%95%e3%82%93%e3%80%81%e3%82%a2%e3%83%90%e3%82%bf%e3%83%bc%e3%82%92%e8%a6%b3%e3%81%ab%e8%a1%8c%e3%81%8f%e3%80%82%e6%84%9f%e5%8b%95%e3%81%af%e8%96%84%e3%82%81%e3%80%81/">この記事を日本語で読む / Read in Japanese</a></p>

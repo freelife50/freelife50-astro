@@ -57,4 +57,4 @@ excerpt: "And Yes — I’m Joining the East Japan International Marathon! 🗓�
 <li><a href="https://freelife50.com/%f0%9f%8c%8a%e5%b1%b1%e3%81%a8%e6%b5%b7%e3%81%a8%e3%80%81%e3%82%82%e3%81%bf%e3%81%98%e3%81%a8%e5%a6%bb%e3%81%a8%e3%80%82%e3%81%9d%e3%81%97%e3%81%a6%e3%80%81%e3%82%a2%e3%82%b8%e3%83%95%e3%83%a9/">山と海と、もみじと妻と。そして、アジフライとビール。</a></li>
 </ul>
 
-<!-- wp:block {"ref":594} /-->
+

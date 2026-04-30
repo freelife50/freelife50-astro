@@ -269,5 +269,5 @@ excerpt: "MF Ghost and Initial D connection explained. Two Subarus across genera
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}}} -->
+
 <p class="has-text-align-center" style="font-size:18px">🇯🇵 <a href="https://freelife50.com/%e3%80%8e%e6%98%b4%e3%81%a8%e5%bd%97%e6%98%9f%e3%80%8f%e3%81%ab%e8%a8%97%e3%81%95%e3%82%8c%e3%81%9fmf%e3%82%b4%e3%83%bc%e3%82%b9%e3%83%88%e3%81%ae%e7%b3%bb%e8%ad%9c%e2%94%80%e2%94%80%e6%8b%93%e6%b5%b7/">この記事を日本語で読む / Read in Japanese</a></p>

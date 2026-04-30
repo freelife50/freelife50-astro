@@ -268,5 +268,5 @@ excerpt: "Why a 50-Something Man Like Me Is Finally Considering At-Home Laser Ha
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}}} -->
+
 <p class="has-text-align-center" style="font-size:18px">🇯🇵 <a href="https://freelife50.com/%e3%83%92%e3%82%b2%e5%89%83%e3%82%8a%e3%81%8c%e9%9d%a2%e5%80%92%e3%80%82%e3%81%a7%e3%82%82%e3%81%93%e3%82%8c%e3%80%81%e7%be%8e%e5%ae%b9%e3%81%a0%e3%81%91%e3%81%a1%e3%82%83%e3%81%86%e3%82%84%e3%82%93/">この記事を日本語で読む / Read in Japanese</a></p>

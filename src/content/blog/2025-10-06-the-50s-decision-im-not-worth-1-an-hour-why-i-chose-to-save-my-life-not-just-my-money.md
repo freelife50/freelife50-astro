@@ -180,5 +180,5 @@ excerpt: "From saving money to saving time, mental energy, and peace of mind. �
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}}} -->
+
 <p class="has-text-align-center" style="font-size:18px">🇯🇵 <a href="https://freelife50.com/%e3%80%9050%e4%bb%a3%e3%81%ae%e6%b1%ba%e6%96%ad%e3%80%91%e3%80%8c%e8%87%aa%e5%88%86%e3%81%af%e6%99%82%e7%b5%a6100%e5%86%86%e3%81%98%e3%82%83%e3%81%aa%e3%81%84%e3%80%8d%e2%94%80%e2%94%80%e3%81%8a/">この記事を日本語で読む / Read in Japanese</a></p>

@@ -246,5 +246,5 @@ excerpt: "Honest review of a premium Japanese pillow for stiff necks and better 
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}}} -->
+
 <p class="has-text-align-center" style="font-size:18px">🇯🇵 <a href="https://freelife50.com/%e3%80%9050%e4%bb%a3%e3%81%ae%e5%bf%ab%e7%9c%a0%e6%8a%95%e8%b3%87%e3%80%91%e3%80%8c%e6%9e%95%e3%81%ab4%e4%b8%87%e5%86%86%e3%81%a7%e3%82%82%e3%80%81%e3%81%bb%e3%82%93%e3%81%be%e3%81%ab/">この記事を日本語で読む / Read in Japanese</a></p>

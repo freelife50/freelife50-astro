@@ -245,5 +245,5 @@ excerpt: "iPhone 17 honest review from a 50-year-old first-time buyer in Japan. 
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}}} -->
+
 <p class="has-text-align-center" style="font-size:18px">🇯🇵 <a href="https://freelife50.com/50%e4%bb%a3%e3%81%8a%e3%81%98%e3%81%95%e3%82%93%e3%80%81%e3%81%a4%e3%81%84%e3%81%abiphone-17%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc/">この記事を日本語で読む / Read in Japanese</a></p>

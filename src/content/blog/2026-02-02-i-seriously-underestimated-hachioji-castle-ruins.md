@@ -347,5 +347,5 @@ excerpt: "Hachioji Castle Ruins hiking guide near Tokyo. What to expect on this 
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}}} -->
+
 <p class="has-text-align-center" style="font-size:18px">🇯🇵 <a href="https://freelife50.com/%e5%85%ab%e7%8e%8b%e5%ad%90%e5%9f%8e%e8%b7%a1%e3%82%92%e3%80%81%e6%ad%a3%e7%9b%b4%e3%81%a1%e3%82%87%e3%81%a3%e3%81%a8%e8%88%90%e3%82%81%e3%81%a6%e3%81%9f%e3%80%82%e2%94%80%e2%94%80%e6%bb%91%e8%90%bd/">この記事を日本語で読む / Read in Japanese</a></p>
