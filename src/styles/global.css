@@ -202,7 +202,7 @@ img { max-width: 100%; height: auto; display: block; }
 /* columns ブロック：flexbox コンテナ */
 .post-content .wp-block-columns {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   gap: 12px;
   margin: 1.2em 0;
   align-items: flex-start;
