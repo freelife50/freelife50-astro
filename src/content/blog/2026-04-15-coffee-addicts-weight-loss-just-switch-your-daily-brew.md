@@ -9,9 +9,7 @@ eyecatch: "/images/wp-content/uploads/2026/04/image-2.jpg"
 excerpt: "Read time: About 4 minutes *This article contains affiliate links. &#8220;I want to lose weight, but I can&#8217;t stick"
 ---
 
-<!-- wp:paragraph -->
 <p><strong>Read time:</strong> About 4 minutes</p>
-<!-- /wp:paragraph -->
 
 <p class="pr-notice">*This article contains affiliate links.</p>
 <p>&#8220;I want to lose weight, but I can&#8217;t stick to a d</p>

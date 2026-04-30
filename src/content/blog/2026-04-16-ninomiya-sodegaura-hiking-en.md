@@ -9,9 +9,7 @@ eyecatch: "/images/wp-content/uploads/2026/04/IMG_3097.jpg"
 excerpt: "Read time: About 10 minutes Feeling a little worn out lately? Staring at your phone all day until your shoulders lock up"
 ---
 
-<!-- wp:paragraph -->
 <p><strong>Read time:</strong> About 10 minutes</p>
-<!-- /wp:paragraph -->
 
 <p>Feeling a little worn out lately?</p>
 <p>Staring at your phone all day until your shoulders lock up, your head feels heavy, and your heart gets tired before your body does. I&#8217;ve been there too.</p>

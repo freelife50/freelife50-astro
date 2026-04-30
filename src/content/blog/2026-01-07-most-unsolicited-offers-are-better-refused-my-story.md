@@ -9,422 +9,213 @@ eyecatch: "/images/wp-content/uploads/2026/01/Gemini_Generated_Image_tmb5gmtmb5g
 excerpt: "Reading time: about 4 minutes Who this is for People who feel uncomfortable with door-to-door sales or phone solicitatio"
 ---
 
-<!-- wp:paragraph -->
 <p><strong>Reading time:</strong> about 4 minutes</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p><strong>Who this is for</strong></p>
-<!-- /wp:paragraph -->
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>People who feel uncomfortable with door-to-door sales or phone solicitations</li>
-<!-- /wp:list-item -->
+<ul class="wp-block-list"><li>People who feel uncomfortable with door-to-door sales or phone solicitations</li>
 
-<!-- wp:list-item -->
 <li>Those who regret not being able to say no when they were younger</li>
-<!-- /wp:list-item -->
 
-<!-- wp:list-item -->
 <li>Anyone concerned about recent home repair scams</li>
-<!-- /wp:list-item -->
 
-<!-- wp:list-item -->
 <li>People who want to avoid unnecessary trouble involving their home or money</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
+</ul>
 
-<!-- wp:separator -->
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
-<!-- /wp:separator -->
 
-<!-- wp:paragraph -->
 <p><strong>Conclusion</strong></p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>When someone suddenly comes to you with an offer,<br><strong>ignoring it is usually the right choice.</strong></p>
-<!-- /wp:paragraph -->
 
-<!-- wp:separator -->
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
-<!-- /wp:separator -->
 
-<!-- wp:heading -->
 <h2 class="wp-block-heading">Something felt off about “We’re working nearby…”</h2>
-<!-- /wp:heading -->
 
-<!-- wp:image {"id":3013,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_z1muu5z1muu5z1mu.jpg" alt="" class="wp-image-3013"/></figure>
-<!-- /wp:image -->
 
-<!-- wp:paragraph -->
 <p>Not long ago, a man suddenly came to my house in Sagamihara.<br>He said he was doing roof painting work nearby.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>“Your roof looks a little damaged.<br>Since we’re close, I could take a look for you.”</p>
-<!-- /wp:paragraph --></blockquote>
-<!-- /wp:quote -->
+<blockquote class="wp-block-quote"><p>“Your roof looks a little damaged.<br>Since we’re close, I could take a look for you.”</p>
+</blockquote>
 
-<!-- wp:paragraph -->
 <p>I was honestly startled.<br>You don’t usually stare at your own roof, do you?<br>Part of me thought, <em>“Is it really broken?”</em><br>and another part panicked, <em>“What if it is?”</em></p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>He sounded kind, but something didn’t sit right.<br>To be honest, he looked a bit intimidating.<br>Work clothes, strong tone — not necessarily a bad person,<br>but I didn’t feel comfortable letting him inside.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>Also…<br><em>Were they really working “nearby”?</em><br>Sagamihara is big.<br>It felt too much like a <strong>convenient excuse</strong>.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>So I said,</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>“I need to talk to my wife before deciding.”</p>
-<!-- /wp:paragraph --></blockquote>
-<!-- /wp:quote -->
+<blockquote class="wp-block-quote"><p>“I need to talk to my wife before deciding.”</p>
+</blockquote>
 
-<!-- wp:paragraph -->
 <p>A weak excuse, maybe — but it worked.<br>Looking back, I’m convinced that was the right decision.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:separator -->
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
-<!-- /wp:separator -->
 
-<!-- wp:heading -->
 <h2 class="wp-block-heading">When I couldn’t say no to newspaper sales</h2>
-<!-- /wp:heading -->
 
-<!-- wp:image {"id":3014,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_t78y20t78y20t78y.jpg" alt="" class="wp-image-3014"/></figure>
-<!-- /wp:image -->
 
-<!-- wp:paragraph -->
 <p>This wasn’t my first experience.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>When I was younger, a newspaper salesman came to my door.<br>I opened it just a little — chain still on.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>The moment I loosened it,<br>he shoved his foot between the door.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>Two intimidating men stood there.<br>I froze.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>Before I knew it,<br>I had signed contracts for <strong>two newspapers</strong>.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>Two.<br>Even now I laugh bitterly and think,<br><em>“How many newspapers did they think I could read?”</em></p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>I had just moved to the Kanto area back then.<br>Not even Tokyo proper — but still,<br>I remember thinking, <em>“Wow… this place is scary.”</em></p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>Every morning when two papers arrived,<br>my mood sank a little more.<br>I canceled them quickly,<br>but that fear is still vivid.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:separator -->
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
-<!-- /wp:separator -->
 
-<!-- wp:heading -->
 <h2 class="wp-block-heading"> “Just listen” — a religious solicitation</h2>
-<!-- /wp:heading -->
 
-<!-- wp:image {"id":3015,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_8e48rc8e48rc8e48.jpg" alt="" class="wp-image-3015"/></figure>
-<!-- /wp:image -->
 
-<!-- wp:paragraph -->
 <p>There was also a religious invitation.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>“Just listen.”<br>“There’ll be snacks and videos.”</p>
-<!-- /wp:paragraph --></blockquote>
-<!-- /wp:quote -->
+<blockquote class="wp-block-quote"><p>“Just listen.”<br>“There’ll be snacks and videos.”</p>
+</blockquote>
 
-<!-- wp:paragraph -->
 <p>Looking back, it was obviously suspicious.<br>But I was young, alone, and new to the area.<br>Honestly… I was bored.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>Yes — a single man lured by snacks and videos.<br>Pretty innocent, right? (laughs)</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>I don’t remember the content of the video at all.<br>What I do remember is sitting in a small room thinking,</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p><em>“Am I actually going to get home?”</em></p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>After that, people kept coming to my apartment.<br>Every time the intercom rang,<br>I felt exhausted just hearing it.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:separator -->
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
-<!-- /wp:separator -->
 
-<!-- wp:heading -->
 <h2 class="wp-block-heading">“Come to Shinjuku” — the phone call I’ll never forget</h2>
-<!-- /wp:heading -->
 
-<!-- wp:image {"id":3016,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_2nb29a2nb29a2nb2.jpg" alt="" class="wp-image-3016"/></figure>
-<!-- /wp:image -->
 
-<!-- wp:paragraph -->
 <p>One phone solicitation stands out.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>I don’t even remember what it was about.<br>But I clearly remember this:</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>“Could you come to Shinjuku once?”</p>
-<!-- /wp:paragraph --></blockquote>
-<!-- /wp:quote -->
+<blockquote class="wp-block-quote"><p>“Could you come to Shinjuku once?”</p>
+</blockquote>
 
-<!-- wp:paragraph -->
 <p>I was living in Sagamihara,<br>so technically it wasn’t that far.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>But why would I go somewhere<br>without even knowing what it was about?</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>I didn’t go.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>When I finally said,</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>“I’ve decided not to go,”</p>
-<!-- /wp:paragraph --></blockquote>
-<!-- /wp:quote -->
+<blockquote class="wp-block-quote"><p>“I’ve decided not to go,”</p>
+</blockquote>
 
-<!-- wp:paragraph -->
 <p>the caller suddenly exploded in anger<br>and hung up.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>That moment genuinely scared me.<br>Once again, I thought: <em>Tokyo is terrifying.</em></p>
-<!-- /wp:paragraph -->
 
-<!-- wp:separator -->
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
-<!-- /wp:separator -->
 
-<!-- wp:heading -->
 <h2 class="wp-block-heading">From phone books to smartphones</h2>
-<!-- /wp:heading -->
 
-<!-- wp:image {"id":3017,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_c4e0msc4e0msc4e0.jpg" alt="" class="wp-image-3017"/></figure>
-<!-- /wp:image -->
 
-<!-- wp:paragraph -->
 <p>Before smartphones were common,<br>every house had a landline.<br>Phone books with names, addresses, and numbers<br>were freely distributed.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>During dinner — <em>always during dinner</em> —<br>unknown numbers would ring.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>Looking back,<br>we were incredibly exposed.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:separator -->
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
-<!-- /wp:separator -->
 
-<!-- wp:heading -->
 <h2 class="wp-block-heading">Different forms, same pattern</h2>
-<!-- /wp:heading -->
 
-<!-- wp:image {"id":3018,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_b9jczlb9jczlb9jc.jpg" alt="" class="wp-image-3018"/></figure>
-<!-- /wp:image -->
 
-<!-- wp:paragraph -->
 <p>Roof inspections.<br>Newspaper sales.<br>Religious visits.<br>Mysterious phone calls.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>Different forms — but the same tactics:</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>They create anxiety</li>
-<!-- /wp:list-item -->
+<ul class="wp-block-list"><li>They create anxiety</li>
 
-<!-- wp:list-item -->
 <li>They pressure you to decide immediately</li>
-<!-- /wp:list-item -->
 
-<!-- wp:list-item -->
 <li>Their attitude changes when you refuse</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
+</ul>
 
-<!-- wp:paragraph -->
 <p>I’ve never had a good experience<br>with something that came to me unsolicited.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>If anything,<br>I just got better at saying no. (laughs)</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:separator -->
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
-<!-- /wp:separator -->
 
-<!-- wp:heading -->
 <h2 class="wp-block-heading">What I think now, in my 50s</h2>
-<!-- /wp:heading -->
 
-<!-- wp:image {"id":3019,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_m0mmtpm0mmtpm0mm.jpg" alt="" class="wp-image-3019"/></figure>
-<!-- /wp:image -->
 
-<!-- wp:paragraph -->
 <p>When I was younger, I worried:</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>“Is it rude to refuse?”</li>
-<!-- /wp:list-item -->
+<ul class="wp-block-list"><li>“Is it rude to refuse?”</li>
 
-<!-- wp:list-item -->
 <li>“Am I being unkind?”</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
+</ul>
 
-<!-- wp:paragraph -->
 <p>Now I know:<br><strong>protecting yourself matters more.</strong></p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>Anyone who suddenly shows up saying,</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>“You need this right now,”</p>
-<!-- /wp:paragraph --></blockquote>
-<!-- /wp:quote -->
+<blockquote class="wp-block-quote"><p>“You need this right now,”</p>
+</blockquote>
 
-<!-- wp:paragraph -->
 <p>has <em>never</em> been right in my life.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>Scams are increasing.<br>And sometimes, just knowing about them helps.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>When you think,<br><em>“Ah, this is one of those,”</em><br>you can step back and stay calm.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:separator -->
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
-<!-- /wp:separator -->
 
-<!-- wp:heading -->
 <h2 class="wp-block-heading">Final thoughts</h2>
-<!-- /wp:heading -->
 
-<!-- wp:image {"id":3020,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_z2rsfqz2rsfqz2rs.jpg" alt="" class="wp-image-3020"/></figure>
-<!-- /wp:image -->
 
-<!-- wp:paragraph -->
 <p>If I could speak to my younger self, I’d say:</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>“It’s okay to say no.”</li>
-<!-- /wp:list-item -->
+<ul class="wp-block-list"><li>“It’s okay to say no.”</li>
 
-<!-- wp:list-item -->
 <li>“It’s okay not to answer.”</li>
-<!-- /wp:list-item -->
 
-<!-- wp:list-item -->
 <li>“It’s okay not to open the door.”</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
+</ul>
 
-<!-- wp:paragraph -->
 <p>If you feel scared, that feeling is already your answer.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>And one more thing:<br><strong>You don’t need to go to Shinjuku.</strong> (laughs)</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>Staying home, doing nothing,<br>and having a quiet day —<br>that’s happiness.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>Thank you for reading.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p><strong>🔗 Related Articles</strong></p>
-<!-- /wp:paragraph -->
+<blockquote class="wp-block-quote"><p><strong>🔗 Related Articles</strong></p>
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li><a href="https://freelife50.com/%e4%bf%9d%e9%99%ba%e3%80%81%e5%85%a8%e9%83%a8%e3%82%84%e3%82%81%e3%81%be%e3%81%97%e3%81%9f%e3%80%82%e4%bb%8a%e6%80%9d%e3%81%86%e6%9c%ac%e5%bd%93%e3%81%ab%e5%bf%85%e8%a6%81%e3%81%aa%e5%82%99/">I Quit All My Insurance — What I Believe Is Truly Necessary Now</a><br>→ A personal reflection on preparedness —<br><strong>not driven by fear, but by conscious choice.</strong></li>
-<!-- /wp:list-item -->
+<ul class="wp-block-list"><li><a href="https://freelife50.com/%e4%bf%9d%e9%99%ba%e3%80%81%e5%85%a8%e9%83%a8%e3%82%84%e3%82%81%e3%81%be%e3%81%97%e3%81%9f%e3%80%82%e4%bb%8a%e6%80%9d%e3%81%86%e6%9c%ac%e5%bd%93%e3%81%ab%e5%bf%85%e8%a6%81%e3%81%aa%e5%82%99/">I Quit All My Insurance — What I Believe Is Truly Necessary Now</a><br>→ A personal reflection on preparedness —<br><strong>not driven by fear, but by conscious choice.</strong></li>
 
-<!-- wp:list-item -->
 <li><a href="https://freelife50.com/a-50-something-man-pauses-in-front-of-a-supermarket-price-tag/">A 50-Something Man Pauses in Front of a Supermarket Price Tag</a><br>→ A quiet moment in everyday life that led me to<br><strong>stop, think, and reconsider money in an age of inflation.</strong></li>
-<!-- /wp:list-item -->
 
-<!-- wp:list-item -->
 <li><a href="https://freelife50.com/%e5%ae%b6%e6%97%8f4%e4%ba%ba%e3%81%a7%e6%9c%884500%e5%86%86%ef%bc%81%e3%82%b9%e3%83%9e%e3%83%9b%e4%bb%a3%e3%82%92%e8%b3%a2%e3%81%8f%e7%af%80%e7%b4%84%e3%81%97%e3%81%a6%e6%9c%aa%e6%9d%a5%e3%81%ab/">A Family of Four Pays Just ¥4,500 a Month — Cutting Smartphone Costs to Prepare for the Future</a><br>→ A practical example of reducing fixed expenses<br>to <strong>protect everyday life and long-term stability.</strong></li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list --></blockquote>
-<!-- /wp:quote -->
+</ul>
+</blockquote>
 
-<!-- wp:separator {"className":"is-style-wide"} -->
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
-<!-- /wp:separator -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}}} -->
 <p class="has-text-align-center" style="font-size:18px">🇯🇵 <a href="https://freelife50.com/%e5%90%91%e3%81%93%e3%81%86%e3%81%8b%e3%82%89%e3%82%84%e3%81%a3%e3%81%a6%e6%9d%a5%e3%82%8b%e8%a9%b1%e3%81%af%e3%80%81%e3%81%a0%e3%81%84%e3%81%9f%e3%81%84%e6%96%ad%e3%81%a3%e3%81%a6%e6%ad%a3%e8%a7%a3/">この記事を日本語で読む / Read in Japanese</a></p>
-<!-- /wp:paragraph -->
