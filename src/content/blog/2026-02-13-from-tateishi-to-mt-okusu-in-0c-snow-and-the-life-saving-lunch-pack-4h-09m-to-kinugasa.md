@@ -5,7 +5,7 @@ slug: "from-tateishi-to-mt-okusu-in-0c-snow-and-the-life-saving-lunch-pack-4h-09
 categories: ["healing-walks"]
 tags: ["japan-hiking", "yokosuka", "miura-peninsula", "mt-okusu", "winter-hike"]
 lang: "en"
-eyecatch: "/images/wp-content/uploads/2025/04/8d3acb8ac16d829c946f739ad4181f54.png"
+eyecatch: "/images/wp-content/uploads/2026/02/image-1.jpg"
 excerpt: "Winter hiking report from Tateishi to Mt. Okusu in 0°C snow. A 4-hour trail guide through the Miura Peninsula with gear tips and survival lessons for "
 ---
 
