@@ -61,7 +61,8 @@ export default {
       const slug = path.replace(/^\\//, '').replace(/\\/$/, '');
       const isArticleSlug = slug &&
         !slug.includes('/') &&
-        !['category', 'tag', 'en', 'images', 'rss'].includes(slug.split('/')[0]);
+        !/\\.\\w+$/.test(slug) &&  // .xml/.txt/.css 等の静的ファイルは除外
+        !['category', 'tag', 'en', 'images', 'rss', '_astro'].includes(slug.split('/')[0]);
       if (isArticleSlug && !EN_SLUGS.has(slug)) {
         return Response.redirect('https://freelife50.com' + path, 301);
       }

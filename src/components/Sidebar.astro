@@ -3,7 +3,8 @@ import { getCollection } from 'astro:content';
 
 const allPosts = await getCollection('blog');
 const published = allPosts.sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
-const recent = published.slice(0, 5);
+// 「最近の投稿」は日本語記事のみ（英語記事は en.freelife50.com に分離済み）
+const recent = published.filter(p => p.data.lang !== 'en').slice(0, 5);
 
 const categories = [
   { slug: 'blog-sidejob', name: 'ブログ運営と副業', nameEn: 'Blogging & Side Hustles' },

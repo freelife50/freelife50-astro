@@ -4,7 +4,7 @@ date: "2026-04-29"
 slug: "iijmio-1year-report-en"
 categories: ["blog-sidejob"]
 tags: ["IIJmio", "MVNO", "Japan", "phone-bill", "family-plan", "save-money", "fixed-costs", "frugal-living", "life-in-50s"]
-lang: "ja"
+lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/04/iijmio-1year-eyecatch.jpg"
 sns_image_url: "/images/wp-content/uploads/2026/04/iijmio-1year-sns.jpg"
 excerpt: "A year ago, I wrote that our family of four pays around $30/month for phones with IIJmio. The real 12-month average? $34. Here's the honest data — and why I still think it's the best decision we ever made."
