@@ -6,10 +6,22 @@ categories: ["life-with-momiji"]
 tags: ["memories-of-sakura", "shiba-inu-momiji", "beyond-pet-loss", "cycle-of-life-and-love", "quiet-new-beginning"]
 eyecatch: "/images/wp-content/uploads/2025/04/image-19.png"
 lang: "en"
-excerpt: ""
+excerpt: "Through loss comes new light.This is a quiet story of parting, healing, and the warmth that returns with time."
 ---
 
+<blockquote class="wp-block-quote"><p><strong>Through loss comes new light.</strong><br>This is a quiet story of parting, healing, and the warmth that returns with time.</p></blockquote>
+
+<p>🕒 This article takes about 2 to 3 minutes to read in Japanese.</strong></span></p>
+
+<blockquote class="wp-block-quote"><p>But sometimes, within that silence, a new encounter gently finds its way into our hearts.</p></blockquote>
+
 <h2>body</h2>
+
+<p>We used to have a Shiba Inu named Sakura.</p>
+
+<p>She grew up with our children like a younger sister — playing, laughing, and sometimes crying together.</p>
+
+<p>In 2023, she passed away at the age of 19.</p>
 
 <div class="wp-block-group"><div class="wp-block-columns"><div class="wp-block-column" style="flex-basis:100%"><div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/04/image-19.png" alt="" class="wp-image-106"/></figure>
 </div>
@@ -21,7 +33,11 @@ excerpt: ""
 </div>
 </div>
 
+<p>She had been by our side every single day since she was born. Her absence left a void in our home — a silence too deep for words.</p>
+
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<p>A few weeks after saying goodbye to Sakura, we came across a discounted Shiba Inu left unsold at a pet store.</p>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/04/image-21.png" alt="" class="wp-image-108"/></figure>
 </div>
@@ -30,7 +46,13 @@ excerpt: ""
 </div>
 </div>
 
+<p>There was something lonely about her, and without much thought, we brought her home.</p>
+
+<p>We named her Momiji. Like a falling autumn leaf, she quietly fluttered into our lives.</p>
+
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<p>Her first walk was in one of our favorite parks. She was nervous, tugging gently on the leash — it was all so new for her.</p>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/04/image-23.png" alt="" class="wp-image-110"/></figure>
 </div>
@@ -50,4 +72,16 @@ excerpt: ""
 </div>
 </div>
 
+<p>Now, she’s truly one of us. She naps peacefully on her favorite beanbag, completely at ease.</p>
+
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/04/image-27.png" alt="" class="wp-image-114"/></figure>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<p>For those grieving the loss of a pet, opening their hearts again can feel difficult. But sometimes, fate quietly brings a new beginning.</p>
+
+<p>Through life with Momiji, we've rediscovered warmth, healing, and the quiet strength to move forward again.</p>
+
+<p>I hope this little story gently touches someone’s heart, and perhaps helps them take a small step forward.</p>
+
+<p>I’ll continue to write, gently and quietly, about our days together with Momiji.</p>
