@@ -10,9 +10,17 @@ interface Props {
   eyecatch?: string;
   excerpt?: string;
   lang?: string;
+  slug?: string;
 }
 
-const { title, date, categories, tags, eyecatch, excerpt, lang = 'ja' } = Astro.props;
+const { title, date, categories, tags, eyecatch, excerpt, lang = 'ja', slug } = Astro.props;
+
+// 英語記事の場合は hreflang を設定（日本語版同士の対応記事は今のところなし）
+const EN_SITE = 'https://en.freelife50.com';
+const JA_SITE = 'https://freelife50.com';
+// 英語記事 → hreflangJaUrl を省略（対応日本語版がないため）
+// BaseLayout 側で hreflangEnUrl のみ渡す形にする
+const hreflangEnUrl = lang === 'en' && slug ? `${EN_SITE}/${slug}/` : undefined;
 
 
 const catNames: Record<string, string> = {
@@ -27,7 +35,7 @@ const catNames: Record<string, string> = {
 
 const formattedDate = new Date(date).toLocaleDateString('ja-JP', { year: 'numeric', month: 'long', day: 'numeric' });
 ---
-<BaseLayout title={title} description={excerpt} ogImage={eyecatch} ogType="article" lang={lang}>
+<BaseLayout title={title} description={excerpt} ogImage={eyecatch} ogType="article" lang={lang} hreflangEnUrl={hreflangEnUrl}>
   <div class="layout-wrap">
     <article>
       <header class="post-header">

@@ -8,7 +8,9 @@ import Pagination from '../components/Pagination.astro';
 const PAGE_SIZE = 10;
 
 const allPosts = await getCollection('blog');
+// freelife50.com は日本語記事のみ（lang: en を除外）
 const sorted = allPosts
+  .filter(p => p.data.lang !== 'en')
   .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
 
 const posts = sorted.slice(0, PAGE_SIZE);
