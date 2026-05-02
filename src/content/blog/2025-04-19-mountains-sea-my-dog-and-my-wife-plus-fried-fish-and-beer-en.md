@@ -15,8 +15,6 @@ excerpt: "A quiet day with my wife and our Shiba Inu Momiji — surrounded by mo
 
 <blockquote class="wp-block-quote"><p>When life feels a bit heavy, a quiet spring day with mountains, the sea, and loved ones can lighten your heart.<br>That’s exactly what we went looking for—just my wife, Momiji, and me.</p></blockquote>
 
-<h2>body</h2>
-
 <p><em>Lately, I’ve been craving somewhere that offers both the sea and the mountains. So we visited Azumayama Park in Ninomiya, just the three of us: my wife, our Shiba Inu Momiji, and me.</em></p>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/04/image-14.png" alt="" class="wp-image-85"/></figure>

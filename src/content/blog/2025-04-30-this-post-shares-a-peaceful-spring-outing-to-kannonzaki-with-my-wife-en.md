@@ -22,8 +22,6 @@ excerpt: "This post shares a peaceful spring outing to Kannonzaki with my wife a
 </div>
 </div></blockquote>
 
-<h2>BODY</h2>
-
 <p>The first thing that greeted us was the scent of the sea. That briny aroma tickled my nose. "Isn’t this the smell of seaweed soup?" I thought—and suddenly I was hungry. I was reminded how comforting the smell of the ocean can be.</p>
 
 <p>Momiji was excited from the very start—running across the sand, splashing along the shoreline, and fixating on a grasshopper in the brush. A guy passing by even mistook her for "Don-chan." It made us laugh, and now it’s just another fun memory.</p>

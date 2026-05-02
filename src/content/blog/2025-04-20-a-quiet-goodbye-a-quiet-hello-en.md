@@ -15,8 +15,6 @@ excerpt: "Through loss comes new light.This is a quiet story of parting, healing
 
 <blockquote class="wp-block-quote"><p>But sometimes, within that silence, a new encounter gently finds its way into our hearts.</p></blockquote>
 
-<h2>body</h2>
-
 <p>We used to have a Shiba Inu named Sakura.</p>
 
 <p>She grew up with our children like a younger sister — playing, laughing, and sometimes crying together.</p>

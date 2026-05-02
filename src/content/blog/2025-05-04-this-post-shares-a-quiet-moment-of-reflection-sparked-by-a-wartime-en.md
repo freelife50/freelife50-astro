@@ -15,8 +15,6 @@ excerpt: "📘 English Reflection:This post shares a quiet moment of reflection 
 
 <blockquote class="wp-block-quote"><p>A smiling face in a wartime photo—<br>It wasn’t just a story from the past.<br>It felt like a quiet question for those of us living today.</p></blockquote>
 
-<h2>BODY</h2>
-
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 <p><strong>May 3rd, 2025 – Constitution Memorial Day. A headline on Yahoo! News caught my eye.</strong></p>
