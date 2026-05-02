@@ -4,7 +4,7 @@ date: "2025-07-07"
 slug: "a-black-swiss-beauty-in-your-bathroom-when-a-toothbrush-feels-like-a-rolex"
 categories: ["prepared-life"]
 tags: ["luxury-toothbrush", "swiss-design", "black-is-white", "curaprox", "electric-toothbrush"]
-lang: "ja"
+lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/07/compressed_dog_toothbrush.jpg"
 excerpt: "（ For those who value design, daily rituals, and tools that lift your spirit. ） 🧑‍ Target readers This article is for p"
 ---

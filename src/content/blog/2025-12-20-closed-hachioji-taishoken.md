@@ -4,7 +4,7 @@ date: "2025-12-20"
 slug: "closed-hachioji-taishoken"
 categories: ["food-nostalgia"]
 tags: ["food-and-life", "hachioji-gourmet", "hachioji-taishoken", "life-in-your-50s", "local-ramen-shop", "ramen", "ramen-shop-closure", "taishoken", "taste-of-the-showa-era"]
-lang: "ja"
+lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/12/PXL_20251214_083741949.jpg"
 excerpt: "A farewell visit to the legendary Hachioji Taishoken ramen shop. Why I chose miso for my last bowl at this beloved Tokyo-area ramen institution."
 ---

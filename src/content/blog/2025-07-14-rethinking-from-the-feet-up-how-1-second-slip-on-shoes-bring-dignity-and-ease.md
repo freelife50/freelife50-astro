@@ -4,7 +4,7 @@ date: "2025-07-14"
 slug: "rethinking-from-the-feet-up-how-1-second-slip-on-shoes-bring-dignity-and-ease"
 categories: ["prepared-life"]
 tags: ["aging-society", "caregiving-tools", "easy-shoes", "independence-support"]
-lang: "ja"
+lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/07/Google_AI_Studio_2025-07-13T08_43_02.786Z.jpg"
 excerpt: "The estimated reading time for this entire article is 8 to 10 minutes . ✅ Purpose This article is written for: ✔ Those w"
 ---

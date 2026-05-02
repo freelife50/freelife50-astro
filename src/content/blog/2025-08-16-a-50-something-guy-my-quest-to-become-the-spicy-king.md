@@ -4,7 +4,7 @@ date: "2025-08-16"
 slug: "a-50-something-guy-my-quest-to-become-the-spicy-king"
 categories: ["food-nostalgia"]
 tags: ["ramen", "mouko-tanmen-nakamoto", "hokkyoku-ramen", "spicychallenge", "50schallenge"]
-lang: "ja"
+lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-16T12_45_13.534Z.jpg"
 excerpt: "⏱ This blog takes about 7 minutes to read What This Story Is About The theme is simple: “Even in your 50s, you can still"
 ---

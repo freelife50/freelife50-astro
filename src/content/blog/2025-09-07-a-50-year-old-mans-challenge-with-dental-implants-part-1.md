@@ -4,7 +4,7 @@ date: "2025-09-07"
 slug: "a-50-year-old-mans-challenge-with-dental-implants-part-1"
 categories: ["prepared-life"]
 tags: ["dental-implant", "dental-treatment-experience", "health-in-your-50s", "wisdom-tooth-extraction"]
-lang: "ja"
+lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/09/9b2cb386802d6cbc075cf1f4fc1bd508.jpg"
 excerpt: "─ A Journey Beginning with Wisdom Tooth Extraction ─ 📖 Estimated reading time: 7–8 minutes This article is for people w"
 ---

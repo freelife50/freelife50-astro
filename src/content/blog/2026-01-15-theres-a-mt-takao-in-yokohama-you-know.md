@@ -4,7 +4,7 @@ date: "2026-01-15"
 slug: "theres-a-mt-takao-in-yokohama-you-know"
 categories: ["healing-walks"]
 tags: ["beer-after-hike", "hidden-gem", "hiking-in-japan", "kanagawa-nature", "low-mountain-hike", "nature-walk", "off-the-beaten-path", "outdoor-activity", "over-50-hiker", "satoyama", "yokohama-hiking", "yokohama-travel"]
-lang: "ja"
+lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/01/Gemini_Generated_Image_hii4vhii4vhii4vh.jpg"
 excerpt: "Discover Yokohama's hidden \"Mt. Takao\" — a 13km hike from Enkaisan to Kamakura with history, ocean views, and tower blocks. Complete trail guide for b"
 ---

@@ -4,7 +4,7 @@ date: "2025-10-04"
 slug: "50s-comeback-story-from-almost-extraction-to-recovery-in-3-weeks-how-dual-action-toothpaste-x-toothbrush-routine-dramatically-improved-my-periodontit"
 categories: ["prepared-life"]
 tags: ["50s-health", "dental-hygiene", "gum-care", "oral-care", "periodontal-care", "self-care", "shoyo-ex", "systema-sp-t", "toothbrush", "toothpaste"]
-lang: "ja"
+lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/10/20251004_1707_Cosmic-Oral-Cleansing_simple_compose_01k6q437yte0684jtj3qbkj3s8.jpg"
 excerpt: "How I recovered from severe gum disease in just 3 weeks using a dual toothpaste and toothbrush routine. A 50-year-old's honest dental health recovery "
 ---

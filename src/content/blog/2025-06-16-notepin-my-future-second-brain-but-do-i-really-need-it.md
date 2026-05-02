@@ -4,7 +4,7 @@ date: "2025-06-16"
 slug: "notepin-my-future-second-brain-but-do-i-really-need-it"
 categories: ["prepared-life"]
 tags: ["note-pin", "ai-voice-recorder", "transcription-gadget", "ai-summary-tool", "memory-aid"]
-lang: "ja"
+lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/06/Generated-Image-June-16-2025-3_32PM.jpeg"
 excerpt: "Memory glasses for the mind? Or just another shiny gadget? 🟦 This article is for you if... You're curious about AI gadg"
 ---

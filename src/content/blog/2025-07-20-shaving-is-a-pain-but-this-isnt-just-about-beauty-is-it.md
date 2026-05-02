@@ -4,7 +4,7 @@ date: "2025-07-20"
 slug: "shaving-is-a-pain-but-this-isnt-just-about-beauty-is-it"
 categories: ["prepared-life"]
 tags: ["mens-grooming", "laser-hair-removal", "tria", "beard-removal", "clean-lifestyle"]
-lang: "ja"
+lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/07/82d5d449a721eb919fabecb3a10a14f7.jpg"
 excerpt: "Why a 50-Something Man Like Me Is Finally Considering At-Home Laser Hair Removal [TRIA] A Small Choice for an Easier Lif"
 ---

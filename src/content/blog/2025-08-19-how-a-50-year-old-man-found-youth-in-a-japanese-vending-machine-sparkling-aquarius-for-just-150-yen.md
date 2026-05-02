@@ -4,7 +4,7 @@ date: "2025-08-19"
 slug: "how-a-50-year-old-man-found-youth-in-a-japanese-vending-machine-sparkling-aquarius-for-just-150-yen"
 categories: ["food-nostalgia"]
 tags: ["afterswimming", "aquarius", "aquariussparkling", "beerlover", "carbonateddrink", "nostalgicsummer", "sportsdrink", "supercub", "youthin50s"]
-lang: "ja"
+lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/08/PXL_20250817_090721923.jpg"
 excerpt: "■ What This Article Is About In Japan, vending machines are everywhere — on street corners, by rivers, even in quiet nei"
 ---

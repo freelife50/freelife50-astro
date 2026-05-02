@@ -4,7 +4,7 @@ date: "2025-08-15"
 slug: "a-50-something-guy-becomes-a-detective-the-mystery-of-the-monitor-and-the-wallpaper"
 categories: ["society-issues-thoughts"]
 tags: ["50s-office-life", "funny-work-stories", "how-to-handle-trouble", "workplace-relationships", "workplace-trouble"]
-lang: "ja"
+lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-15T10_37_38.090Z.jpg"
 excerpt: "A 50-year-old dad solves a mysterious PC wallpaper glitch. Dual monitors, display settings detective work, and tech troubleshooting tips for everyday "
 ---

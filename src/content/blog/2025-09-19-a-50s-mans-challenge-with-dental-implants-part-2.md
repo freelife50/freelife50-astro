@@ -4,7 +4,7 @@ date: "2025-09-19"
 slug: "a-50s-mans-challenge-with-dental-implants-part-2"
 categories: ["prepared-life"]
 tags: ["dental-anxiety", "dental-cost", "dental-implant", "health-in-your-50s", "medical-expense-deduction-japan", "non-clasp-denture", "partial-denture", "periodontitis", "wisdom-tooth-extraction"]
-lang: "ja"
+lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-19T08_04_36.221Z.jpg"
 excerpt: "─ The Day I Almost Cried During Wisdom Tooth Extraction ─ 📖 Reading Time: ~10 minutes ■ Who This Blog Is For Anyone abo"
 ---

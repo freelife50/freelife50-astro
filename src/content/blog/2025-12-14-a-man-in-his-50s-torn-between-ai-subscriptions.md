@@ -4,7 +4,7 @@ date: "2025-12-14"
 slug: "a-man-in-his-50s-torn-between-ai-subscriptions"
 categories: ["blog-sidejob"]
 tags: ["ai-comparison", "chatgpt", "gemini", "life-over-50", "lifelong-learning"]
-lang: "ja"
+lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/12/Gemini_Generated_Image_ej00cwej00cwej00-1.jpg"
 excerpt: "ChatGPT vs Gemini vs Claude — which AI subscription is worth paying for? A 50-year-old's honest comparison and the best way to split your AI budget."
 ---

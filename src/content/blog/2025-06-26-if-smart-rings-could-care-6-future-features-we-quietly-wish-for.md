@@ -4,7 +4,7 @@ date: "2025-06-26"
 slug: "if-smart-rings-could-care-6-future-features-we-quietly-wish-for"
 categories: ["prepared-life"]
 tags: ["smart-ring", "wearable-tech", "health-monitoring", "fall-detection", "future-gadgets"]
-lang: "ja"
+lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/06/image-2.png"
 excerpt: "Not just tech — a gentle wishlist from someone in his 50s, written with a bit of imagination and a lot of heart. 🌱 Who"
 ---

@@ -4,7 +4,7 @@ date: "2026-03-17"
 slug: "is-kinchakuda-manjushage-park-good-for-walking-with-dogs"
 categories: ["healing-walks"]
 tags: ["dog-friendly-park", "dog-walk-japan", "hidaka-saitama", "japanese-countryside-walk", "kinchakuda-manjushage-park", "nature-walk-japan", "peaceful-walk-japan", "red-spider-lily", "relaxing-walk-japan", "saitama-japan", "shiba-inu", "shiba-inu-japan", "shiba-inu-life", "shiba-inu-momiji", "walking-with-dog"]
-lang: "ja"
+lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/03/Gemini_Generated_Image_p1df1ip1df1ip1df.jpg"
 excerpt: "Is Kinchakuda Manjushage Park dog-friendly? A first-hand walking guide with a Shiba Inu. Access info, rules for dogs, and what to expect at this popul"
 ---

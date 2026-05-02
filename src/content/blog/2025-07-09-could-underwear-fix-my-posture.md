@@ -4,7 +4,7 @@ date: "2025-07-09"
 slug: "could-underwear-fix-my-posture"
 categories: ["prepared-life"]
 tags: ["pelvic-support", "back-pain-relief", "mens-health-over50", "easy-wellness", "support-underwear"]
-lang: "ja"
+lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/07/image-1-1.jpg"
 excerpt: "— A Skeptical 50s Guy’s Honest Take on “Pelvic Support Shorts” Estimated Reading Time: 8 minutes 👤 Who This Blog Is For"
 ---

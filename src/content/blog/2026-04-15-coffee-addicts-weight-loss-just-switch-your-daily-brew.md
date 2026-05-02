@@ -4,7 +4,7 @@ date: "2026-04-15"
 slug: "coffee-addicts-weight-loss-just-switch-your-daily-brew"
 categories: ["prepared-life"]
 tags: ["diet-coffee", "functional-food", "hiking-over-50", "slim-stone-coffee", "weight-loss"]
-lang: "ja"
+lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/04/image-2.jpg"
 excerpt: "Read time: About 4 minutes *This article contains affiliate links. &#8220;I want to lose weight, but I can&#8217;t stick"
 ---

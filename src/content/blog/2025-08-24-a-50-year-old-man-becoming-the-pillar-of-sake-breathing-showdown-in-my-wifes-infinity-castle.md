@@ -4,7 +4,7 @@ date: "2025-08-24"
 slug: "a-50-year-old-man-becoming-the-pillar-of-sake-breathing-showdown-in-my-wifes-infinity-castle"
 categories: ["shumi-taiken-etc"]
 tags: ["50s-challenge", "amazon-impulse-buy", "anime-in-everyday-life", "breath-of-sake", "demon-slayer", "evening-drink", "family-struggles", "generation-x-japan", "middle-aged-life", "nichirin-sword-dx", "wifes-infinite-castle"]
-lang: "ja"
+lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-24T00_50_49.100Z.jpg"
 excerpt: "⏱️ Estimated reading time: 10 min This post is for you if... You’re in your 50s and still feel like challenging yourself"
 ---

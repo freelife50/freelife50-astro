@@ -1,0 +1,57 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import PostCard from '../../../components/PostCard.astro';
+import Sidebar from '../../../components/Sidebar.astro';
+import Pagination from '../../../components/Pagination.astro';
+
+export async function getStaticPaths({ paginate }: { paginate: Function }) {
+  const allPosts = await getCollection('blog');
+  // en.freelife50.com は英語記事のみ（lang: en）
+  const sorted = allPosts
+    .filter(p => p.data.lang === 'en')
+    .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
+
+  // paginate() が /en/page/1, /en/page/2 ... を生成するが、
+  // 1ページ目は en/index.astro が担当するので除外
+  return paginate(sorted, { pageSize: 10 })
+    .filter(({ params }: { params: { page: string } }) => params.page !== '1');
+}
+
+const { page } = Astro.props as { page: any };
+
+// 2ページ目の「前へ」はルートURL「/en/」に向ける
+const prevUrl = page.currentPage === 2 ? '/en/' : page.url.prev;
+const nextUrl = page.url.next;
+
+// en.freelife50.com 用の canonical
+const canonicalUrl = `https://en.freelife50.com/en/page/${page.currentPage}/`;
+---
+<BaseLayout
+  title={`Latest Articles — Page ${page.currentPage} | Ramen, Beer & Blog`}
+  lang="en"
+  canonicalOverride={canonicalUrl}
+>
+  <div class="layout-wrap">
+    <div>
+      <h1 style="font-size:1.1rem;color:#666;margin-bottom:20px;">Latest Articles</h1>
+      {page.data.map((post: any) => (
+        <PostCard
+          title={post.data.title}
+          slug={post.data.slug}
+          date={post.data.date}
+          categories={post.data.categories}
+          eyecatch={post.data.eyecatch}
+          excerpt={post.data.excerpt}
+        />
+      ))}
+      <Pagination
+        currentPage={page.currentPage}
+        totalPages={page.lastPage}
+        prevUrl={prevUrl}
+        nextUrl={nextUrl}
+      />
+    </div>
+    <Sidebar />
+  </div>
+</BaseLayout>

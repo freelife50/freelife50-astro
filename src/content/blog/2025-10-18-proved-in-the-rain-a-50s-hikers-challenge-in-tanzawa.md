@@ -4,7 +4,7 @@ date: "2025-10-18"
 slug: "proved-in-the-rain-a-50s-hikers-challenge-in-tanzawa"
 categories: ["healing-walks"]
 tags: ["丹沢登山", "みやま山荘", "ワークマン", "xshelter", "50代の挑戦"]
-lang: "ja"
+lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/10/PXL_20251016_200652211.jpg"
 excerpt: "Mountain Hut Feast & the True Power of Workman’s XShelter Jacket A body tested by wind and rain, a heart filled with mou"
 ---

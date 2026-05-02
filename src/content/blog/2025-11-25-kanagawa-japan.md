@@ -4,7 +4,7 @@ date: "2025-11-25"
 slug: "kanagawa-japan"
 categories: ["healing-walks"]
 tags: ["hiking50s", "easyhike", "gentlehike", "lowmountain", "beginners-hike"]
-lang: "ja"
+lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/11/PXL_20251123_035024152.NIGHT_-1.jpg"
 excerpt: "Just 15 minutes from the parking lot to the summit. Fall colors, quiet trails, and a touch of history. Visited: November"
 ---

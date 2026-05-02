@@ -4,7 +4,7 @@ date: "2026-04-18"
 slug: "could-i-quietly-gift-this-to-my-wife-researching-the-magic-brush-from-reiwa-no-tora"
 categories: ["prepared-life", "shumi-taiken-etc"]
 tags: ["gift-for-wife", "hair-care", "hairstar", "ionic-star-brush-pro", "maquia", "over-50", "reiwa-no-tora", "thoughtful-gift"]
-lang: "ja"
+lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/04/hairstar_eyecatch.jpg"
 excerpt: "Read time: About 10 minutes Every week, I watch a Japanese show called Reiwa no Tora (Tiger Funding). Honestly, it's gri"
 ---
