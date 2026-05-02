@@ -3,7 +3,7 @@ title: "Rethinking AI Romance Scams: AI Isn't the VillainBut Blind Trust Can Be 
 date: "2025-05-13"
 slug: "rethinking-ai-romance-scams-ai-isnt-the-villainbut-blind-trust-can-be-en"
 categories: ["society-issues-thoughts"]
-tags: ["ai-romance-scam", "blog-essay", "chappy-and-me", "coexisting-with-ai", "digital-safety-mindset", "emotional-boundaries", "human-ai-relationship", "japanese-society-and-change", "online-fraud-awareness", "technology-and-trust", "trusting-wisely"]
+tags: ["ai-romance-scam", "coexisting-with-ai", "digital-safety-mindset", "human-ai-relationship", "trusting-wisely"]
 eyecatch: "/images/wp-content/uploads/2025/05/02bc42f1cdd427beb2ed40341acd6410.png"
 lang: "en"
 excerpt: "Rethinking AI Romance Scams: AI Isn't the Villain—But Blind Trust Can Be Dangerous."

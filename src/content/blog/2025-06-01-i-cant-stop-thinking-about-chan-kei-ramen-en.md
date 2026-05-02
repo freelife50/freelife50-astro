@@ -3,7 +3,7 @@ title: "🍜 I Can’t Stop Thinking About “Chan-Kei” Ramen!"
 date: "2025-06-01"
 slug: "i-cant-stop-thinking-about-chan-kei-ramen-en"
 categories: ["food-nostalgia"]
-tags: ["a-life-with-integrity", "chan-kei-ramen", "changing-values", "living-honestly", "morning-ramen", "nostalgia", "overflowing-broth", "ramen", "showa-style-ramen", "taste-of-showa"]
+tags: ["chan-kei-ramen", "ramen", "showa-style-ramen", "nostalgia", "morning-ramen"]
 eyecatch: "/images/wp-content/uploads/2025/06/Gemini_Generated_Image_ujglssujglssujgl.png"
 lang: "en"
 excerpt: "I thought I knew ramen. But seeing photos of Chan-Kei Ramen made something inside me jump—like my taste buds had memories I hadn’t lived yet.It wasn’t just the..."

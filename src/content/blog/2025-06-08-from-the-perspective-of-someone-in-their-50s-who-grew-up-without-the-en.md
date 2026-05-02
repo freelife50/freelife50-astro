@@ -3,7 +3,7 @@ title: "From the perspective of someone in their 50s who grew up without the int
 date: "2025-06-08"
 slug: "from-the-perspective-of-someone-in-their-50s-who-grew-up-without-the-en"
 categories: ["society-issues-thoughts"]
-tags: ["authentic-online-presence", "gen-x-on-social-media", "no-filter-lifestyle", "real-connections", "sns-culture", "social-media-and-validation", "social-media-fatigue", "what-is-bereal", "z-generation-values"]
+tags: ["sns-culture", "gen-x-on-social-media", "authentic-online-presence", "social-media-fatigue", "z-generation-values"]
 eyecatch: "/images/wp-content/uploads/2025/05/e107fc29eb554a9a3ef7f82b8148868f.png"
 lang: "en"
 excerpt: "This article explores the rising popularity of BeReal, a no-filter social media app embraced by Gen Z.From the perspective of someone in their 50s who grew up..."

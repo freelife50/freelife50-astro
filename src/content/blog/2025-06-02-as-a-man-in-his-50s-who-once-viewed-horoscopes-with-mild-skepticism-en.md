@@ -3,7 +3,7 @@ title: "As a man in his 50s who once viewed horoscopes with mild skepticism, Id 
 date: "2025-06-02"
 slug: "as-a-man-in-his-50s-who-once-viewed-horoscopes-with-mild-skepticism-en"
 categories: ["society-issues-thoughts"]
-tags: ["empathetic-blogging", "gen-x-perspective", "gentle-horoscope", "healing-words", "philosophical-words", "shiitake-uranai"]
+tags: ["shiitake-uranai", "gentle-horoscope", "healing-words", "empathetic-blogging", "gen-x-perspective"]
 eyecatch: "/images/wp-content/uploads/2025/06/Gemini_Generated_Image_wqmut6wqmut6wqmu.png"
 lang: "en"
 excerpt: "This article is for those who’ve ever wondered, “What exactly is Shiitake Uranai?”As a man in his 50s who once viewed horoscopes with mild skepticism, I’d like..."

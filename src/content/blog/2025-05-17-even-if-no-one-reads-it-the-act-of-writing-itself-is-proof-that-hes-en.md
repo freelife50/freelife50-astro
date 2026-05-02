@@ -3,7 +3,7 @@ title: "Even if no one reads it, the act of writing itself is proof that he's al
 date: "2025-05-17"
 slug: "even-if-no-one-reads-it-the-act-of-writing-itself-is-proof-that-hes-en"
 categories: ["blog-sidejob"]
-tags: ["bloggingjourney", "lifestyle", "noonereadsbutiwrite", "over50blogger", "quietblogging", "sidehustlestart", "startblogging", "writingtolive"]
+tags: ["bloggingjourney", "over50blogger", "startblogging", "quietblogging", "writingtolive"]
 eyecatch: "/images/wp-content/uploads/2025/05/00c0e6ec3ce30beaae5dcf92557d47bc.png"
 lang: "en"
 excerpt: "I just wanted to start something."

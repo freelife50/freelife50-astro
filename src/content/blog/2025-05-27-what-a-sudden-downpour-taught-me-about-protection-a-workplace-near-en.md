@@ -3,7 +3,7 @@ title: "What a Sudden Downpour Taught Me About Protection  A Workplace Near Miss
 date: "2025-05-27"
 slug: "what-a-sudden-downpour-taught-me-about-protection-a-workplace-near-en"
 categories: ["prepared-life"]
-tags: ["actions-that-protect-life", "disaster-experience", "disaster-preparedness", "heavy-rain", "importance-of-preparedness", "insights-in-my-50s", "learning-from-experience", "workplace-crisis-response"]
+tags: ["disaster-preparedness", "disaster-experience", "heavy-rain", "workplace-crisis-response", "actions-that-protect-life"]
 eyecatch: "/images/wp-content/uploads/2025/05/c3691aa9fd90b27e241d2994f549d6ba.png"
 lang: "en"
 excerpt: "What a Sudden Downpour Taught Me About Protection — A Workplace Near Miss and Today's Weather Warnings"
