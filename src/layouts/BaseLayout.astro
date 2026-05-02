@@ -8,6 +8,15 @@ interface Props {
   ogImage?: string;
   ogType?: string;
   lang?: string;
+  /** 英語記事の対応する日本語スラッグ（hreflang 用）。未設定なら出力しない */
+  hreflangJaUrl?: string;
+  /** 日本語記事の対応する英語スラッグ（hreflang 用）。未設定なら出力しない */
+  hreflangEnUrl?: string;
+  /**
+   * canonical URL を手動で上書きする（例: en/index.astro → "https://en.freelife50.com/"）。
+   * Worker のリライトで実際の URL と Astro の pathname がずれる場合に使用。
+   */
+  canonicalOverride?: string;
 }
 
 const {
@@ -16,12 +25,21 @@ const {
   ogImage,
   ogType = 'website',
   lang = 'ja',
+  hreflangJaUrl,
+  hreflangEnUrl,
+  canonicalOverride,
 } = Astro.props;
 const siteTitle = 'ラーメンとビールと時々ブログ';
-const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
+
+// 言語によって canonical のベース URL を切り替える
+const JA_SITE = 'https://freelife50.com';
+const EN_SITE = 'https://en.freelife50.com';
+const canonicalBase = lang === 'en' ? EN_SITE : JA_SITE;
+// en/index.astro など、Worker リライトで実際 URL が変わるケースは手動上書き
+const canonicalUrl = canonicalOverride ?? new URL(Astro.url.pathname, canonicalBase).toString();
 
 const SITE_DEFAULT_OG_IMAGE = '/images/wp-content/uploads/2025/04/8d3acb8ac16d829c946f739ad4181f54.png';
-const resolvedOgImage = new URL(ogImage ?? SITE_DEFAULT_OG_IMAGE, Astro.site).toString();
+const resolvedOgImage = new URL(ogImage ?? SITE_DEFAULT_OG_IMAGE, canonicalBase).toString();
 
 const categories = [
   { slug: 'blog-sidejob', name: 'ブログ運営と副業' },
@@ -50,6 +68,21 @@ const categories = [
   <meta name="twitter:image" content={resolvedOgImage} />
   <meta name="twitter:title" content={title} />
   <meta name="twitter:description" content={description} />
+  <!-- hreflang: 英語記事には ja/en/x-default を付与 -->
+  {hreflangEnUrl && (
+    <>
+      <link rel="alternate" hreflang="ja" href={`${JA_SITE}${Astro.url.pathname}`} />
+      <link rel="alternate" hreflang="en" href={hreflangEnUrl} />
+      <link rel="alternate" hreflang="x-default" href={`${JA_SITE}${Astro.url.pathname}`} />
+    </>
+  )}
+  {hreflangJaUrl && (
+    <>
+      <link rel="alternate" hreflang="en" href={`${EN_SITE}${Astro.url.pathname}`} />
+      <link rel="alternate" hreflang="ja" href={hreflangJaUrl} />
+      <link rel="alternate" hreflang="x-default" href={hreflangJaUrl} />
+    </>
+  )}
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet" />

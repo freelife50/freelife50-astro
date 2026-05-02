@@ -1,0 +1,48 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
+import Sidebar from '../../components/Sidebar.astro';
+import Pagination from '../../components/Pagination.astro';
+
+const PAGE_SIZE = 10;
+
+const allPosts = await getCollection('blog');
+// en.freelife50.com は英語記事のみ（lang: en）
+const sorted = allPosts
+  .filter(p => p.data.lang === 'en')
+  .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
+
+const posts = sorted.slice(0, PAGE_SIZE);
+const totalPages = Math.ceil(sorted.length / PAGE_SIZE);
+---
+<BaseLayout
+  title="Ramen, Beer &amp; Blog — English Articles"
+  description="Life stories from a 50s Japanese blogger — hiking, dogs, family, and more."
+  lang="en"
+  canonicalOverride="https://en.freelife50.com/"
+>
+  <div class="layout-wrap">
+    <div>
+      <h1 style="font-size:1.1rem;color:#666;margin-bottom:20px;">Latest Articles</h1>
+      {posts.map(post => (
+        <PostCard
+          title={post.data.title}
+          slug={post.data.slug}
+          date={post.data.date}
+          categories={post.data.categories}
+          eyecatch={post.data.eyecatch}
+          excerpt={post.data.excerpt}
+        />
+      ))}
+      {totalPages > 1 && (
+        <Pagination
+          currentPage={1}
+          totalPages={totalPages}
+          nextUrl={totalPages > 1 ? '/en/page/2/' : undefined}
+        />
+      )}
+    </div>
+    <Sidebar />
+  </div>
+</BaseLayout>
