@@ -4,7 +4,7 @@ date: "2025-12-10"
 slug: "urgent-bra-tops-are-the-ultimate-no-go"
 categories: ["prepared-life"]
 tags: ["chest", "x-ray", "health", "checkup", "tips"]
-lang: "ja"
+lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/12/Image_fx-1.jpg"
 excerpt: "Why you should skip the bra top for medical imaging. A Japanese radiologic technologist explains what to wear for CT scans, X-rays, and MRI in a fun, "
 ---

@@ -4,7 +4,7 @@ date: "2025-09-04"
 slug: "a-50-year-old-mans-guide-5-essential-apps-for-typhoon-days"
 categories: ["prepared-life"]
 tags: ["disaster-apps", "disaster-awareness", "emergency-information", "evacuation-info", "life-in-your-50s", "protecting-family", "smartphone-tips", "typhoon-preparedness"]
-lang: "ja"
+lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-04T08_50_25.992Z.jpg"
 excerpt: "📖 Estimated Reading Time: 7–8 minutes ■ What This Article Delivers “When a typhoon approaches, TV and the internet over"
 ---

@@ -4,7 +4,7 @@ date: "2026-03-20"
 slug: "the-day-i-noticed-the-scent-of-sakura-and-my-shiba-inu-who-only-cared-about-the-river"
 categories: ["healing-walks"]
 tags: ["cherryblossoms", "dogfriendlyjapan", "hanami", "harumeki", "kanagawatrip", "minamiashigara", "offthebeatenpathjapan", "sakura", "shibainu", "travelwithdog"]
-lang: "ja"
+lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/03/IMG_3007.jpg"
 excerpt: "A cherry blossom walk with a Shiba Inu in Kanagawa, Japan. Dog-friendly spring outing guide with trail tips, scenic spots, and practical info for pet "
 ---

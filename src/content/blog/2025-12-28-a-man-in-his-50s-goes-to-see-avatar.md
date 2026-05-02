@@ -4,7 +4,7 @@ date: "2025-12-28"
 slug: "a-man-in-his-50s-goes-to-see-avatar"
 categories: ["shumi-taiken-etc"]
 tags: ["3d-movie", "50s", "avatar", "bathroom-issues", "cinema", "day-off", "middle-aged", "movie-review", "solo-movie"]
-lang: "ja"
+lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/12/Gemini_Generated_Image_dx8hyidx8hyidx8h.jpg"
 excerpt: "Less emotion, more experience. Reading time: about 3 minutes Who this is for People wondering what to do on a rainy week"
 ---

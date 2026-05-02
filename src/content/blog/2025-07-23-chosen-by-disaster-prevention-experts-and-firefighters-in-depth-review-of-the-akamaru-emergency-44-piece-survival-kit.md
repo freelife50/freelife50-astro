@@ -4,7 +4,7 @@ date: "2025-07-23"
 slug: "chosen-by-disaster-prevention-experts-and-firefighters-in-depth-review-of-the-akamaru-emergency-44-piece-survival-kit"
 categories: ["prepared-life"]
 tags: ["44-piece-set", "72-hour-rule", "akamru-disaster-kit", "disaster-preparedness", "disaster-prevention", "emergency-backpack", "emergency-kit-for-beginners", "portable-toilet", "portable-water-purifier", "protecting-your-family"]
-lang: "ja"
+lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/07/Google_AI_Studio_2025-07-22T19_21_07.296Z.jpg"
 excerpt: "In-depth review of the Akamaru 44-piece emergency survival kit, chosen by disaster prevention experts and firefighters. Quality, practicality, and val"
 ---

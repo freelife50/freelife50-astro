@@ -4,7 +4,7 @@ date: "2025-07-26"
 slug: "the-illusion-of-reform-the-hidden-truth-behind-the-ban-on-furusato-tax-points"
 categories: ["society-issues-thoughts"]
 tags: ["bureaucracy-in-japan", "commission-business", "fake-reforms", "furusato-tax", "hidden-taxation", "japanese-politics", "ldp-liberal-democratic-party", "ministry-of-internal-affairs", "points-termination", "political-responsibility", "public-burden", "quiet-exploitation", "structural-inequality", "system-reform"]
-lang: "ja"
+lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/07/Google_AI_Studio_2025-07-26T01_16_44.817Z.jpg"
 excerpt: "– Point-based returns will end in September 2025, quietly stripped from us. 🎯 Purpose of This Article This article is f"
 ---

@@ -4,7 +4,7 @@ date: "2025-09-28"
 slug: "pain-relief-tips-why-mammogram-compression-matters"
 categories: ["prepared-life"]
 tags: ["breast-cancer-screening", "health-in-50s", "mammography", "pain-relief-tips", "radiation-dose"]
-lang: "ja"
+lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-27T19_11_45.960Z.jpg"
 excerpt: "Why mammogram compression is necessary and tips to reduce pain. A radiologist explains what to expect during breast screening in simple terms."
 ---

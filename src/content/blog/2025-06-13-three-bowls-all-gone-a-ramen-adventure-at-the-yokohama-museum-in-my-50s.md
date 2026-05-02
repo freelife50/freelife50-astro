@@ -4,7 +4,7 @@ date: "2025-06-13"
 slug: "three-bowls-all-gone-a-ramen-adventure-at-the-yokohama-museum-in-my-50s"
 categories: ["food-nostalgia"]
 tags: ["yokohama-ramen-museum", "ramen-tasting", "mini-ramen-challenge", "healthy-eating-in50s", "soup-all-gone"]
-lang: "ja"
+lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/06/PXL_20250611_060605020-scaled.jpg"
 excerpt: "A food tour of Shin-Yokohama Ramen Museum with honest reviews of 3 bowls. Tips for visiting this unique ramen theme park near Tokyo."
 ---

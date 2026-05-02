@@ -4,7 +4,7 @@ date: "2026-04-26"
 slug: "izumi-no-mori-yamato-a-free-dog-friendly-walk-where-old-japan-eased-my-mind"
 categories: ["life-with-momiji", "healing-walks"]
 tags: ["dog-friendly-japan", "izumi-no-mori", "japan-hiking", "kanagawa", "shiba-inu", "yamato-city"]
-lang: "ja"
+lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/04/izumi_momiji_eyecatch-1.jpg"
 excerpt: "Hi, I&#8217;m Hiroshi. Lately, I&#8217;ve been dealing with some friction at work &#8212; not the job itself, but the pe"
 ---

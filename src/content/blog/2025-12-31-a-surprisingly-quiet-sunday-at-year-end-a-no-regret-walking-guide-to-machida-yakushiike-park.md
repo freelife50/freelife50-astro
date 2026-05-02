@@ -4,7 +4,7 @@ date: "2025-12-31"
 slug: "a-surprisingly-quiet-sunday-at-year-end-a-no-regret-walking-guide-to-machida-yakushiike-park"
 categories: ["healing-walks"]
 tags: ["dog-friendly-walk", "hidden-gem", "japan", "life-in-my-50s", "machida", "new-year-holidays", "park-walking", "parking-information", "tokyo", "yakushiike-park"]
-lang: "ja"
+lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/12/Gemini_Generated_Image_sx2fzesx2fzesx2f.jpg"
 excerpt: "(Parking / Lunch / Footwear / Dog-Friendly Tips) Reading time: About 12 minutes Who This Article Is For First-time visit"
 ---

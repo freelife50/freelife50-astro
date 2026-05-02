@@ -4,7 +4,7 @@ date: "2025-06-19"
 slug: "two-subarus-one-legacy-what-mf-ghost-inherits-from-initial-d"
 categories: ["shumi-taiken-etc"]
 tags: ["mfghost", "initial-d", "takumi-legacy", "car-manga", "street-racing-culture"]
-lang: "ja"
+lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/06/Generated-Image-June-19-2025-7_38PM.jpeg"
 excerpt: "MF Ghost and Initial D connection explained. Two Subarus across generations, the legacy of Takumi Fujiwara, and why 50-year-old car fans love this ani"
 ---

@@ -4,7 +4,7 @@ date: "2026-01-26"
 slug: "a-50-something-guy-visits-ichiyajo-at-0c-walking-with-my-dog-to-clear-my-mind"
 categories: ["healing-walks"]
 tags: ["dog-friendly", "hiking", "history", "ishigakiyama-castle", "japan", "kanagawa", "odawara", "over-50", "yoroizuka-farm"]
-lang: "ja"
+lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/01/IMG_2342.jpg"
 excerpt: "A winter dog walk at Ishigakiyama (Ichiyajo) castle ruins in Odawara, Japan. Dog-friendly trail guide with tips for cold-weather hiking with pets."
 ---

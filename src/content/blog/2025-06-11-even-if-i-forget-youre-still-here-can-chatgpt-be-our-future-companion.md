@@ -4,7 +4,7 @@ date: "2025-06-11"
 slug: "even-if-i-forget-youre-still-here-can-chatgpt-be-our-future-companion"
 categories: ["society-issues-thoughts"]
 tags: ["100-year-life-era", "aging-society", "chatgpt-usage", "coping-with-loneliness", "emotional-support", "future-companion", "insights-in-your-50s", "living-with-ai", "memory-support", "technology-and-human-connection"]
-lang: "ja"
+lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/06/Generated-Image-June-11-2025-1_22PM.jpeg"
 excerpt: "👉 Estimated reading time: about ８ minutes ⛳ Purpose of This Article In Japan’s rapidly aging society, how will our rela"
 ---

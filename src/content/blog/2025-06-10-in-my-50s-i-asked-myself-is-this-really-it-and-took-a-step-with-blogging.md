@@ -4,7 +4,7 @@ date: "2025-06-10"
 slug: "in-my-50s-i-asked-myself-is-this-really-it-and-took-a-step-with-blogging"
 categories: ["blog-sidejob", "society-issues-thoughts"]
 tags: ["blogging-with-ai", "emotional-wellness", "life-in-your-50s", "living-with-chatgpt", "midlife-reflection", "purpose-after-parenting", "rediscovering-myself", "side-hustle-journey", "starting-a-blog-at-50", "taking-small-steps", "time-management"]
-lang: "ja"
+lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/06/Gemini_Generated_Image_v9fhnsv9fhnsv9fh.png"
 excerpt: "”Even with More Free Time, Something Felt Missing — Why I Chose to Take Action in My 50s” 🕐 This article takes about 6"
 ---

@@ -4,7 +4,7 @@ date: "2025-06-15"
 slug: "mt-takaos-hidden-trail-a-quiet-escape-few-ever-find"
 categories: ["healing-walks"]
 tags: ["dog-friendly-hiking", "hidden-takao", "hikers-japan-guide", "michelin-takao", "mt-takao-alternative-route", "nature-walks-near-tokyo", "over-50-hiking", "quiet-hiking-trail-japan", "shiba-inu-adventures", "tokyo-hiking-spot"]
-lang: "ja"
+lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/06/PXL_20250613_004320163-scaled.jpg"
 excerpt: "A peaceful hike guide from Ura-Takao to Mt. Kobotoke-Shiroyama near Tokyo. Escape the crowds on this hidden trail that reveals the real Mt. Takao."
 ---
