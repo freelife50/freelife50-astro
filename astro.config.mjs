@@ -134,7 +134,7 @@ const EN_SLUGS = [
   'this-post-reflects-on-the-flower-moon-of-maynot-a-dazzling-moon-but-a-en',
   'the-night-a-red-book-stirred-my-heart-what-a-first-gen-fan-thinks-of-en',
   'tanzawa-trail-quiet-beauty-from-yataro-forest-road-to-fudo-falls-en',
-  'hanazakari-no-kimitachi-e-anime-2025-en',
+  'hanakimi-anime-2025-en',
   'a-famicom-kid-dives-into-the-world-of-esports-in-2025-en',
   'what-began-as-a-mix-up-about-chicken-skin-led-to-unexpected-en',
   'even-if-no-one-reads-it-the-act-of-writing-itself-is-proof-that-hes-en',
