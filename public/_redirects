@@ -1,2 +1,5 @@
 # WordPressのURLからAstroのURLへのリダイレクト（必要に応じて追加）
 # 例: /old-path/ /new-path/ 301
+
+# 誤抽出によるslug修正リダイレクト（2026-05-03）
+/yahoo-japan-en/ /hanakimi-anime-2025-en/ 301
