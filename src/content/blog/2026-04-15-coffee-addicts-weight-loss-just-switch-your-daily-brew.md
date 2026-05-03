@@ -95,6 +95,6 @@ excerpt: "Read time: About 4 minutes *This article contains affiliate links. &#8
 <p>At this age, I&#8217;ve learned: <strong>the best diet is the one you don&#8217;t even notice you&#8217;re doing.</strong> Swapping your daily coffee requires no willpower at all. The smart move is choosing something you can actually keep doing.</p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 <h3 class="wp-block-heading">Related Posts</h3>
-<p>🏊 <a href="https://freelife50.com/why-a-50-year-old-guy-becomes-a-rookie-star-at-the-pool-on-weekdays/">Swimming at 50: The Pool Guys Called Me &#8220;The Promising Newcomer&#8221;</a></p>
+<p>🏊 <a href="https://en.freelife50.com/why-a-50-year-old-guy-becomes-a-rookie-star-at-the-pool-on-weekdays/">Swimming at 50: The Pool Guys Called Me &#8220;The Promising Newcomer&#8221;</a></p>
 <p>🌊 <a href="https://freelife50.com/%f0%9f%8c%8a%e5%b1%b1%e3%81%a8%e6%b5%b7%e3%81%a8%e3%80%81%e3%82%82%e3%81%bf%e3%81%98%e3%81%a8%e5%a6%bb%e3%81%a8%e3%80%82%e3%81%9d%e3%81%97%e3%81%a6%e3%80%81%e3%82%a2%e3%82%b8%e3%83%95%e3%83%a9/">Mountains, Sea, Momiji &amp; My Wife — Plus Fried Horse Mackerel and Beer</a></p>
 <p>🦷 <a href="https://freelife50.com/%e3%80%9050s-comeback-story%e3%80%91-from-almost-extraction-to-recovery-in-3-weeks-how-dual-action-toothpaste-x-toothbrush-routine-dramatically-improved-my-periodontit/">Reversing Gum Disease at 50: From Near-Extraction to Recovery in 3 Weeks</a></p>

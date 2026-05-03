@@ -261,9 +261,9 @@ excerpt: "A complete guide to hiking Kobo-yama and BBQ near Tokyo. Cherry blosso
 
 <ul class="wp-block-list"><li><a href="https://freelife50.com/%f0%9f%8d%81-kanagawa-japan/">🍁 A Perfect Easy Hike for Beginners — My Relaxed 50s Getaway to Mt. Zukkō</a> 　→ Another beginner-friendly trail in the same Hadano area. A natural next step after Kōbō-yama.</li>
 
-<li><a href="https://freelife50.com/proved-in-the-rain-a-50s-hikers-challenge-in-tanzawa/">Proved in the Rain — A 50s Hiker's Challenge in Tanzawa</a> 　→ For those ready to level up. Also a great reference for rainy-day gear.</li>
+<li><a href="https://en.freelife50.com/proved-in-the-rain-a-50s-hikers-challenge-in-tanzawa/">Proved in the Rain — A 50s Hiker's Challenge in Tanzawa</a> 　→ For those ready to level up. Also a great reference for rainy-day gear.</li>
 
-<li><a href="https://freelife50.com/mt-takao-walked-with-my-son/">Mt. Takao Walked with My Son. From the Inariyama Trail to Yakuo-in — and a Strange Reunion</a> 　→ Another "walking with someone" story. Beginner-friendly course too.</li>
+<li><a href="https://en.freelife50.com/mt-takao-walked-with-my-son/">Mt. Takao Walked with My Son. From the Inariyama Trail to Yakuo-in — and a Strange Reunion</a> 　→ Another "walking with someone" story. Beginner-friendly course too.</li>
 </ul>
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>

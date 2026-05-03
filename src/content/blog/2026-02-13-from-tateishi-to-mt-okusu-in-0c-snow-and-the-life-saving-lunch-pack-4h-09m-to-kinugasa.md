@@ -448,7 +448,7 @@ excerpt: "Winter hiking report from Tateishi to Mt. Okusu in 0°C snow. A 4-hour
 
 <blockquote class="wp-block-quote"><p><strong>■ You Might Also Enjoy</strong></p>
 
-<p><a href="https://freelife50.com/a-50-something-guy-visits-ichiyajo-at-0c-walking-with-my-dog-to-clear-my-mind/">A 50-Something Guy Visits Ichiyajo at 0°C — Walking with My Dog to Clear My Mind</a><br>Another real walk in freezing weather. The quiet warmth that grows inside despite the cold echoes this Mt. Ōgusu story.</p>
+<p><a href="https://en.freelife50.com/a-50-something-guy-visits-ichiyajo-at-0c-walking-with-my-dog-to-clear-my-mind/">A 50-Something Guy Visits Ichiyajo at 0°C — Walking with My Dog to Clear My Mind</a><br>Another real walk in freezing weather. The quiet warmth that grows inside despite the cold echoes this Mt. Ōgusu story.</p>
 
 <p><a href="https://freelife50.com/%f0%9f%8d%82-a-50-year-olds-reflection-in-yushin-valley/">🍂 A 50-Year-Old’s Reflection in Yushin Valley</a><br>Less about dramatic views, more about the quiet feeling that remains after a long walk. A natural companion to today’s story.</p>
 

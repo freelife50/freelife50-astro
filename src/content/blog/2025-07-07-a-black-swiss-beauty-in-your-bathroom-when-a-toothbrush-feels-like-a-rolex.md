@@ -324,10 +324,10 @@ excerpt: "（ For those who value design, daily rituals, and tools that lift you
 
 <blockquote class="wp-block-quote"><p>📚 <strong>You might also enjoy these articles:</strong></p>
 
-<ul class="wp-block-list"><li><a href="https://freelife50.com/crafted-in-japan-the-250-pillow-that-changed-how-i-sleep-in-my-50s/">🌙 One-Third of Your Life Is Spent Sleeping – Why Not Invest in It?<br></a> If we spend a third of our lives asleep, shouldn't our pillow be more than just average? Here's how I chose to invest in better rest.<br></li>
+<ul class="wp-block-list"><li><a href="https://en.freelife50.com/crafted-in-japan-the-250-pillow-that-changed-how-i-sleep-in-my-50s/">🌙 One-Third of Your Life Is Spent Sleeping – Why Not Invest in It?<br></a> If we spend a third of our lives asleep, shouldn't our pillow be more than just average? Here's how I chose to invest in better rest.<br></li>
 
-<li><a href="https://freelife50.com/corewarm-and-the-quiet-heat-a-belly-wrap-journey-in-your-50s/">🔥 CoreWarm and the Quiet Heat — A Belly Wrap Journey in Your 50s<br></a> A simple belly wrap helped me stay warm, calm my digestion, and feel better — even in the summer. Yes, really.<br></li>
+<li><a href="https://en.freelife50.com/corewarm-and-the-quiet-heat-a-belly-wrap-journey-in-your-50s/">🔥 CoreWarm and the Quiet Heat — A Belly Wrap Journey in Your 50s<br></a> A simple belly wrap helped me stay warm, calm my digestion, and feel better — even in the summer. Yes, really.<br></li>
 
-<li><a href="https://freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/">🏊 Swim, Reset, Transform — A Pool Habit That Changed My 50s<br></a> When running became too painful, I turned to the water. It became more than exercise — it became self-care.</li>
+<li><a href="https://en.freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/">🏊 Swim, Reset, Transform — A Pool Habit That Changed My 50s<br></a> When running became too painful, I turned to the water. It became more than exercise — it became self-care.</li>
 </ul>
 </blockquote>

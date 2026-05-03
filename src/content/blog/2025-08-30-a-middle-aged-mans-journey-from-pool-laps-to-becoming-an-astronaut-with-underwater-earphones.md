@@ -165,7 +165,7 @@ excerpt: "Reading Time: about 8 minutes This article is for people who… Feel b
 
 <blockquote class="wp-block-quote"><p>📌 <strong>Related Articles You Might Enjoy</strong></p>
 
-<p>👉 <strong>“My Back Hurt, So I Couldn’t Run Anymore. But I Could Still Swim — A Gentle Restart in My 50s”</strong><br>Even if you can’t run, you can still move forward by swimming. A quiet story of restarting life in your 50s.<br>➡ <a href="https://freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/?utm_source=chatgpt.com">Read the article</a></p>
+<p>👉 <strong>“My Back Hurt, So I Couldn’t Run Anymore. But I Could Still Swim — A Gentle Restart in My 50s”</strong><br>Even if you can’t run, you can still move forward by swimming. A quiet story of restarting life in your 50s.<br>➡ <a href="https://en.freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/">Read the article</a></p>
 
 <p>👉 <strong>“Only Three Pitches Left — And I Still Throw”</strong><br>A story about challenge and resilience, starting from the thought, “What if I don’t have many chances left?”<br>➡ <a href="https://freelife50.com/%f0%9f%a5%8e-only-three-pitches-left-and-i-still-throw/?utm_source=chatgpt.com">Read the article</a></p>
 

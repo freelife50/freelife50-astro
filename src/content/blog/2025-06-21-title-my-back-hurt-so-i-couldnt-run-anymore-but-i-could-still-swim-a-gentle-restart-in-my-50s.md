@@ -157,7 +157,7 @@ excerpt: "Subtitle: You don’t have to push yourself to the limit. Just floatin
 
 <p><strong>🌊 Related Posts: Small Steps That Quietly Moved My Life Forward</strong></p>
 
-<p>🏞️<a href="https://freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/"> <strong>A Hidden Trail in Mt. Takao – the peaceful side of nature, away from the crowd</strong><strong><br></strong></a> — A quiet hike reminded me that there’s value in slowing down sometimes.</p>
+<p>🏞️<a href="https://en.freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/"> <strong>A Hidden Trail in Mt. Takao – the peaceful side of nature, away from the crowd</strong><strong><br></strong></a> — A quiet hike reminded me that there’s value in slowing down sometimes.</p>
 
 <p>🥎<a href="https://freelife50.com/%f0%9f%a5%8e-only-three-pitches-left-and-i-still-throw/"> <strong>Only Three Pitches Left — and I Still Throw</strong><strong><br></strong></a> — Even in your 50s, it’s not too late to stand back up and keep going.</p>
 

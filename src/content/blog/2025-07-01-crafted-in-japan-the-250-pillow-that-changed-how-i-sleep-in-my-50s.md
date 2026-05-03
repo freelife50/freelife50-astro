@@ -234,13 +234,13 @@ excerpt: "Honest review of a premium Japanese pillow for stiff necks and better 
 
 <p><strong>### Related Stories You Might Like</strong></p>
 
-<p><strong>1️⃣</strong><a href="https://freelife50.com/corewarm-and-the-quiet-heat-a-belly-wrap-journey-in-your-50s/"><strong> </strong><strong>CoreWarm and the Quiet Heat — A Belly Wrap Journey in Your 50s</strong></a></p>
+<p><strong>1️⃣</strong><a href="https://en.freelife50.com/corewarm-and-the-quiet-heat-a-belly-wrap-journey-in-your-50s/"><strong> </strong><strong>CoreWarm and the Quiet Heat — A Belly Wrap Journey in Your 50s</strong></a></p>
 
 <p><strong>Suggested anchor text:</strong><strong><br></strong> <em>Discover how warmth can be a quiet ally in your 50s.</em></p>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<p><strong>2️⃣</strong><a href="https://freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/"><strong> </strong><strong>My Back Hurt, So I Couldn’t Run Anymore – But I Could Still Swim</strong></a></p>
+<p><strong>2️⃣</strong><a href="https://en.freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/"><strong> </strong><strong>My Back Hurt, So I Couldn’t Run Anymore – But I Could Still Swim</strong></a></p>
 
 <p><strong>Suggested anchor text:</strong><strong><br></strong> <em>A gentle restart in my 50s, one lap at a time.</em></p>
 

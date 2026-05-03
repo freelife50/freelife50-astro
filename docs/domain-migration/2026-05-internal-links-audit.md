@@ -1,0 +1,632 @@
+# 内部リンク監査レポート
+生成日: 2026-05-03
+
+## サマリー
+- EN記事からfreelife50.com内部リンク: **307件**
+  - EN版あり→書き換え対象: 98件
+  - EN版なし→維持: 209件
+- JA記事からen.freelife50.comリンク（要確認）: **0件**
+- WordPress残存リンク（/wp-admin/?p=）: **7件**
+- target=_blank でnoopenerなし: **0件**
+
+## EN記事 → freelife50.com リンク（書き換え対象）
+- `2025-06-10-only-three-pitches-left-and-i-still-throw.md`
+  - 現在: `https://freelife50.com/in-my-50s-i-asked-myself-is-this-really-it-and-took-a-step-with-blogging/`
+  - 修正後: `https://en.freelife50.com/in-my-50s-i-asked-myself-is-this-really-it-and-took-a-step-with-blogging/`
+- `2025-06-11-even-if-i-forget-youre-still-here-can-chatgpt-be-our-future-companion.md`
+  - 現在: `https://freelife50.com/in-my-50s-i-asked-myself-is-this-really-it-and-took-a-step-with-blogging/`
+  - 修正後: `https://en.freelife50.com/in-my-50s-i-asked-myself-is-this-really-it-and-took-a-step-with-blogging/`
+- `2025-06-16-notepin-my-future-second-brain-but-do-i-really-need-it.md`
+  - 現在: `https://freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/`
+  - 修正後: `https://en.freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/`
+- `2025-06-19-two-subarus-one-legacy-what-mf-ghost-inherits-from-initial-d.md`
+  - 現在: `https://freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/`
+  - 修正後: `https://en.freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/`
+- `2025-06-21-title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s.md`
+  - 現在: `https://freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/`
+  - 修正後: `https://en.freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/`
+- `2025-06-22-the-day-i-finally-chose-to-choose-a-quiet-shift-toward-the-ballot-box.md`
+  - 現在: `https://freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/`
+  - 修正後: `https://en.freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/`
+- `2025-06-26-if-smart-rings-could-care-6-future-features-we-quietly-wish-for.md`
+  - 現在: `https://freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/`
+  - 修正後: `https://en.freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/`
+- `2025-06-30-corewarm-and-the-quiet-heat-a-belly-wrap-journey-in-your-50s.md`
+  - 現在: `https://freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/`
+  - 修正後: `https://en.freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/`
+- `2025-07-01-crafted-in-japan-the-250-pillow-that-changed-how-i-sleep-in-my-50s.md`
+  - 現在: `https://freelife50.com/corewarm-and-the-quiet-heat-a-belly-wrap-journey-in-your-50s/`
+  - 修正後: `https://en.freelife50.com/corewarm-and-the-quiet-heat-a-belly-wrap-journey-in-your-50s/`
+- `2025-07-01-crafted-in-japan-the-250-pillow-that-changed-how-i-sleep-in-my-50s.md`
+  - 現在: `https://freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/`
+  - 修正後: `https://en.freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/`
+- `2025-07-07-a-black-swiss-beauty-in-your-bathroom-when-a-toothbrush-feels-like-a-rolex.md`
+  - 現在: `https://freelife50.com/crafted-in-japan-the-250-pillow-that-changed-how-i-sleep-in-my-50s/`
+  - 修正後: `https://en.freelife50.com/crafted-in-japan-the-250-pillow-that-changed-how-i-sleep-in-my-50s/`
+- `2025-07-07-a-black-swiss-beauty-in-your-bathroom-when-a-toothbrush-feels-like-a-rolex.md`
+  - 現在: `https://freelife50.com/corewarm-and-the-quiet-heat-a-belly-wrap-journey-in-your-50s/`
+  - 修正後: `https://en.freelife50.com/corewarm-and-the-quiet-heat-a-belly-wrap-journey-in-your-50s/`
+- `2025-07-07-a-black-swiss-beauty-in-your-bathroom-when-a-toothbrush-feels-like-a-rolex.md`
+  - 現在: `https://freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/`
+  - 修正後: `https://en.freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/`
+- `2025-07-09-could-underwear-fix-my-posture.md`
+  - 現在: `https://freelife50.com/corewarm-and-the-quiet-heat-a-belly-wrap-journey-in-your-50s/`
+  - 修正後: `https://en.freelife50.com/corewarm-and-the-quiet-heat-a-belly-wrap-journey-in-your-50s/`
+- `2025-07-09-could-underwear-fix-my-posture.md`
+  - 現在: `https://freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/`
+  - 修正後: `https://en.freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/`
+- `2025-07-09-could-underwear-fix-my-posture.md`
+  - 現在: `https://freelife50.com/crafted-in-japan-the-250-pillow-that-changed-how-i-sleep-in-my-50s/`
+  - 修正後: `https://en.freelife50.com/crafted-in-japan-the-250-pillow-that-changed-how-i-sleep-in-my-50s/`
+- `2025-07-10-to-that-slouching-back-i-care-about-a-gentle-gift-of-posture-and-gratitude.md`
+  - 現在: `https://freelife50.com/crafted-in-japan-the-250-pillow-that-changed-how-i-sleep-in-my-50s/`
+  - 修正後: `https://en.freelife50.com/crafted-in-japan-the-250-pillow-that-changed-how-i-sleep-in-my-50s/`
+- `2025-07-10-to-that-slouching-back-i-care-about-a-gentle-gift-of-posture-and-gratitude.md`
+  - 現在: `https://freelife50.com/corewarm-and-the-quiet-heat-a-belly-wrap-journey-in-your-50s/`
+  - 修正後: `https://en.freelife50.com/corewarm-and-the-quiet-heat-a-belly-wrap-journey-in-your-50s/`
+- `2025-07-10-to-that-slouching-back-i-care-about-a-gentle-gift-of-posture-and-gratitude.md`
+  - 現在: `https://freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/`
+  - 修正後: `https://en.freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/`
+- `2025-07-14-rethinking-from-the-feet-up-how-1-second-slip-on-shoes-bring-dignity-and-ease.md`
+  - 現在: `https://freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/`
+  - 修正後: `https://en.freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/`
+- `2025-07-14-rethinking-from-the-feet-up-how-1-second-slip-on-shoes-bring-dignity-and-ease.md`
+  - 現在: `https://freelife50.com/if-smart-rings-could-care-6-future-features-we-quietly-wish-for/`
+  - 修正後: `https://en.freelife50.com/if-smart-rings-could-care-6-future-features-we-quietly-wish-for/`
+- `2025-07-20-shaving-is-a-pain-but-this-isnt-just-about-beauty-is-it.md`
+  - 現在: `https://freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/`
+  - 修正後: `https://en.freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/`
+- `2025-07-20-shaving-is-a-pain-but-this-isnt-just-about-beauty-is-it.md`
+  - 現在: `https://freelife50.com/crafted-in-japan-the-250-pillow-that-changed-how-i-sleep-in-my-50s/`
+  - 修正後: `https://en.freelife50.com/crafted-in-japan-the-250-pillow-that-changed-how-i-sleep-in-my-50s/`
+- `2025-07-26-the-illusion-of-reform-the-hidden-truth-behind-the-ban-on-furusato-tax-points.md`
+  - 現在: `https://freelife50.com/who-are-these-elections-really-for-write-democratic-party-and-your-vote-goes-to-the-cdp/`
+  - 修正後: `https://en.freelife50.com/who-are-these-elections-really-for-write-democratic-party-and-your-vote-goes-to-the-cdp/`
+- `2025-07-27-a-gift-that-cares-for-her-skin-why-i-chose-coco_makana.md`
+  - 現在: `https://freelife50.com/crafted-in-japan-the-250-pillow-that-changed-how-i-sleep-in-my-50s/`
+  - 修正後: `https://en.freelife50.com/crafted-in-japan-the-250-pillow-that-changed-how-i-sleep-in-my-50s/`
+- `2025-07-27-a-gift-that-cares-for-her-skin-why-i-chose-coco_makana.md`
+  - 現在: `https://freelife50.com/to-that-slouching-back-i-care-about-a-gentle-gift-of-posture-and-gratitude/`
+  - 修正後: `https://en.freelife50.com/to-that-slouching-back-i-care-about-a-gentle-gift-of-posture-and-gratitude/`
+- `2025-08-04-because-theyre-family-too-choosing-paws-green-deli-with-care.md`
+  - 現在: `https://freelife50.com/ninomiya-sodegaura-hiking-en/`
+  - 修正後: `https://en.freelife50.com/ninomiya-sodegaura-hiking-en/`
+- `2025-08-15-a-50-something-guy-becomes-a-detective-the-mystery-of-the-monitor-and-the-wallpaper.md`
+  - 現在: `https://freelife50.com/a-50-something-guy-goes-to-a-fest-the-isekai-reincarnation-arc/`
+  - 修正後: `https://en.freelife50.com/a-50-something-guy-goes-to-a-fest-the-isekai-reincarnation-arc/`
+- `2025-08-16-a-50-something-guy-my-quest-to-become-the-spicy-king.md`
+  - 現在: `https://freelife50.com/three-bowls-all-gone-a-ramen-adventure-at-the-yokohama-museum-in-my-50s/`
+  - 修正後: `https://en.freelife50.com/three-bowls-all-gone-a-ramen-adventure-at-the-yokohama-museum-in-my-50s/`
+- `2025-08-19-how-a-50-year-old-man-found-youth-in-a-japanese-vending-machine-sparkling-aquarius-for-just-150-yen.md`
+  - 現在: `https://freelife50.com/a-50-something-guy-my-quest-to-become-the-spicy-king/`
+  - 修正後: `https://en.freelife50.com/a-50-something-guy-my-quest-to-become-the-spicy-king/`
+- `2025-08-19-how-a-50-year-old-man-found-youth-in-a-japanese-vending-machine-sparkling-aquarius-for-just-150-yen.md`
+  - 現在: `https://freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/`
+  - 修正後: `https://en.freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/`
+- `2025-08-22-a-50-year-old-guy-vs-the-wall-of-jiro-ramen-finishing-a-giant-bowl-with-all-the-toppings.md`
+  - 現在: `https://freelife50.com/three-bowls-all-gone-a-ramen-adventure-at-the-yokohama-museum-in-my-50s/`
+  - 修正後: `https://en.freelife50.com/three-bowls-all-gone-a-ramen-adventure-at-the-yokohama-museum-in-my-50s/`
+- `2025-08-22-a-50-year-old-guy-vs-the-wall-of-jiro-ramen-finishing-a-giant-bowl-with-all-the-toppings.md`
+  - 現在: `https://freelife50.com/a-50-something-guy-my-quest-to-become-the-spicy-king/`
+  - 修正後: `https://en.freelife50.com/a-50-something-guy-my-quest-to-become-the-spicy-king/`
+- `2025-08-24-a-50-year-old-man-becoming-the-pillar-of-sake-breathing-showdown-in-my-wifes-infinity-castle.md`
+  - 現在: `https://freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/`
+  - 修正後: `https://en.freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/`
+- `2025-08-24-a-50-year-old-man-becoming-the-pillar-of-sake-breathing-showdown-in-my-wifes-infinity-castle.md`
+  - 現在: `https://freelife50.com/a-50-something-guy-goes-to-a-fest-the-isekai-reincarnation-arc/`
+  - 修正後: `https://en.freelife50.com/a-50-something-guy-goes-to-a-fest-the-isekai-reincarnation-arc/`
+- `2025-08-30-a-middle-aged-mans-journey-from-pool-laps-to-becoming-an-astronaut-with-underwater-earphones.md`
+  - 現在: `https://freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/?utm_source=chatgpt.com`
+  - 修正後: `https://en.freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/`
+- `2025-09-02-__trashed-3.md`
+  - 現在: `https://freelife50.com/the-illusion-of-reform-the-hidden-truth-behind-the-ban-on-furusato-tax-points/`
+  - 修正後: `https://en.freelife50.com/the-illusion-of-reform-the-hidden-truth-behind-the-ban-on-furusato-tax-points/`
+- `2025-09-04-a-50-year-old-mans-guide-5-essential-apps-for-typhoon-days.md`
+  - 現在: `https://freelife50.com/chosen-by-disaster-prevention-experts-and-firefighters-in-depth-review-of-the-akamaru-emergency-44-piece-survival-kit/`
+  - 修正後: `https://en.freelife50.com/chosen-by-disaster-prevention-experts-and-firefighters-in-depth-review-of-the-akamaru-emergency-44-piece-survival-kit/`
+- `2025-09-07-a-50-year-old-mans-challenge-with-dental-implants-part-1.md`
+  - 現在: `https://freelife50.com/a-50-year-old-mans-guide-5-essential-apps-for-typhoon-days/`
+  - 修正後: `https://en.freelife50.com/a-50-year-old-mans-guide-5-essential-apps-for-typhoon-days/`
+- `2025-09-19-a-50s-mans-challenge-with-dental-implants-part-2.md`
+  - 現在: `https://freelife50.com/__trashed-3/`
+  - 修正後: `https://en.freelife50.com/__trashed-3/`
+- `2025-09-21-a-50-year-old-mans-journey-no-more-fear.md`
+  - 現在: `https://freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/`
+  - 修正後: `https://en.freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/`
+- `2025-09-28-pain-relief-tips-why-mammogram-compression-matters.md`
+  - 現在: `https://freelife50.com/a-50-year-old-mans-journey-no-more-fear/`
+  - 修正後: `https://en.freelife50.com/a-50-year-old-mans-journey-no-more-fear/`
+- `2025-09-30-mris-loud-live-show-water-instruments-played-by-a-giant-magnet-a-50s-guy-explains-the-magic.md`
+  - 現在: `https://freelife50.com/a-50-year-old-mans-journey-no-more-fear/`
+  - 修正後: `https://en.freelife50.com/a-50-year-old-mans-journey-no-more-fear/`
+- `2025-10-04-50s-comeback-story-from-almost-extraction-to-recovery-in-3-weeks-how-dual-action-toothpaste-x-toothbrush-routine-dramatically-improved-my-periodontit.md`
+  - 現在: `https://freelife50.com/a-50-year-old-mans-journey-no-more-fear/`
+  - 修正後: `https://en.freelife50.com/a-50-year-old-mans-journey-no-more-fear/`
+- `2025-10-05-real-talk-in-your-50s-the-3-in-1-card-japans-myna-drivers-license-lightens-your-wallet.md`
+  - 現在: `https://freelife50.com/a-50-year-old-mans-guide-5-essential-apps-for-typhoon-days/`
+  - 修正後: `https://en.freelife50.com/a-50-year-old-mans-guide-5-essential-apps-for-typhoon-days/`
+- `2025-10-13-the-minimalist-revolution-in-my-50s-how-ditching-my-wallet-made-my-life-lighter.md`
+  - 現在: `https://freelife50.com/the-50s-decision-im-not-worth-1-an-hour-why-i-chose-to-save-my-life-not-just-my-money/`
+  - 修正後: `https://en.freelife50.com/the-50s-decision-im-not-worth-1-an-hour-why-i-chose-to-save-my-life-not-just-my-money/`
+- `2025-10-14-dog-friendly-trip-because-i-just-wanted-to-ride-a-ferry-a-rainy-day-drive-across-tokyo-bay.md`
+  - 現在: `https://freelife50.com/ninomiya-sodegaura-hiking-en/`
+  - 修正後: `https://en.freelife50.com/ninomiya-sodegaura-hiking-en/`
+- `2025-10-18-proved-in-the-rain-a-50s-hikers-challenge-in-tanzawa.md`
+  - 現在: `https://freelife50.com/a-50-year-old-mans-guide-5-essential-apps-for-typhoon-days/`
+  - 修正後: `https://en.freelife50.com/a-50-year-old-mans-guide-5-essential-apps-for-typhoon-days/`
+- `2025-10-22-the-night-a-middle-aged-man-almost-cried-in-an-ocean-of-orange-light.md`
+  - 現在: `https://freelife50.com/proved-in-the-rain-a-50s-hikers-challenge-in-tanzawa/`
+  - 修正後: `https://en.freelife50.com/proved-in-the-rain-a-50s-hikers-challenge-in-tanzawa/`
+- `2025-10-26-1700-car-inspection-and-15-years-of-family-memories.md`
+  - 現在: `https://freelife50.com/the-50s-decision-im-not-worth-1-an-hour-why-i-chose-to-save-my-life-not-just-my-money/`
+  - 修正後: `https://en.freelife50.com/the-50s-decision-im-not-worth-1-an-hour-why-i-chose-to-save-my-life-not-just-my-money/`
+- `2025-11-02-review-imeea-double-wall-stainless-ramen-bowl-totally-worth-it.md`
+  - 現在: `https://freelife50.com/coffee-addicts-weight-loss-just-switch-your-daily-brew/`
+  - 修正後: `https://en.freelife50.com/coffee-addicts-weight-loss-just-switch-your-daily-brew/`
+- `2025-11-05-a-50-year-olds-gentle-hike-up-mt-ono.md`
+  - 現在: `https://freelife50.com/proved-in-the-rain-a-50s-hikers-challenge-in-tanzawa/`
+  - 修正後: `https://en.freelife50.com/proved-in-the-rain-a-50s-hikers-challenge-in-tanzawa/`
+- `2025-11-05-a-50-year-olds-gentle-hike-up-mt-ono.md`
+  - 現在: `https://freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/`
+  - 修正後: `https://en.freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/`
+- `2025-11-11-a-50-year-olds-reflection-in-yushin-valley.md`
+  - 現在: `https://freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/`
+  - 修正後: `https://en.freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/`
+- `2025-11-11-a-50-year-olds-reflection-in-yushin-valley.md`
+  - 現在: `https://freelife50.com/proved-in-the-rain-a-50s-hikers-challenge-in-tanzawa/`
+  - 修正後: `https://en.freelife50.com/proved-in-the-rain-a-50s-hikers-challenge-in-tanzawa/`
+- `2025-11-16-a-50-year-olds-secret-sanctuary-the-sagamihara-planetarium-3-50-is-a-hidden-gem.md`
+  - 現在: `https://freelife50.com/a-middle-aged-mans-journey-from-pool-laps-to-becoming-an-astronaut-with-underwater-earphones/`
+  - 修正後: `https://en.freelife50.com/a-middle-aged-mans-journey-from-pool-laps-to-becoming-an-astronaut-with-underwater-earphones/`
+- `2025-11-26-why-a-50-year-old-guy-becomes-a-rookie-star-at-the-pool-on-weekdays.md`
+  - 現在: `https://freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/`
+  - 修正後: `https://en.freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/`
+- `2025-11-26-why-a-50-year-old-guy-becomes-a-rookie-star-at-the-pool-on-weekdays.md`
+  - 現在: `https://freelife50.com/a-middle-aged-mans-journey-from-pool-laps-to-becoming-an-astronaut-with-underwater-earphones/`
+  - 修正後: `https://en.freelife50.com/a-middle-aged-mans-journey-from-pool-laps-to-becoming-an-astronaut-with-underwater-earphones/`
+- `2025-12-07-ultra-time-efficient-a-50-year-old-guy-conquered-two-1700m-peaks-in-just-2-5-hours.md`
+  - 現在: `https://freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/`
+  - 修正後: `https://en.freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/`
+- `2025-12-10-urgent-bra-tops-are-the-ultimate-no-go.md`
+  - 現在: `https://freelife50.com/a-50-year-old-mans-journey-no-more-fear/`
+  - 修正後: `https://en.freelife50.com/a-50-year-old-mans-journey-no-more-fear/`
+- `2025-12-14-a-man-in-his-50s-torn-between-ai-subscriptions.md`
+  - 現在: `https://freelife50.com/in-my-50s-i-asked-myself-is-this-really-it-and-took-a-step-with-blogging/`
+  - 修正後: `https://en.freelife50.com/in-my-50s-i-asked-myself-is-this-really-it-and-took-a-step-with-blogging/`
+- `2025-12-18-a-man-in-his-50s-finally-bought-an-iphone-17.md`
+  - 現在: `https://freelife50.com/a-man-in-his-50s-torn-between-ai-subscriptions/`
+  - 修正後: `https://en.freelife50.com/a-man-in-his-50s-torn-between-ai-subscriptions/`
+- `2025-12-18-a-man-in-his-50s-finally-bought-an-iphone-17.md`
+  - 現在: `https://freelife50.com/in-my-50s-i-asked-myself-is-this-really-it-and-took-a-step-with-blogging/`
+  - 修正後: `https://en.freelife50.com/in-my-50s-i-asked-myself-is-this-really-it-and-took-a-step-with-blogging/`
+- `2025-12-20-closed-hachioji-taishoken.md`
+  - 現在: `https://freelife50.com/three-bowls-all-gone-a-ramen-adventure-at-the-yokohama-museum-in-my-50s/`
+  - 修正後: `https://en.freelife50.com/three-bowls-all-gone-a-ramen-adventure-at-the-yokohama-museum-in-my-50s/`
+- `2026-01-07-most-unsolicited-offers-are-better-refused-my-story.md`
+  - 現在: `https://freelife50.com/a-50-something-man-pauses-in-front-of-a-supermarket-price-tag/`
+  - 修正後: `https://en.freelife50.com/a-50-something-man-pauses-in-front-of-a-supermarket-price-tag/`
+- `2026-01-09-i-thought-id-be-fine-the-moment-that-gave-a-50-something-a-chill.md`
+  - 現在: `https://freelife50.com/most-unsolicited-offers-are-better-refused-my-story/`
+  - 修正後: `https://en.freelife50.com/most-unsolicited-offers-are-better-refused-my-story/`
+- `2026-01-15-theres-a-mt-takao-in-yokohama-you-know.md`
+  - 現在: `https://freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/`
+  - 修正後: `https://en.freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/`
+- `2026-01-26-a-50-something-guy-visits-ichiyajo-at-0c-walking-with-my-dog-to-clear-my-mind.md`
+  - 現在: `https://freelife50.com/theres-a-mt-takao-in-yokohama-you-know/`
+  - 修正後: `https://en.freelife50.com/theres-a-mt-takao-in-yokohama-you-know/`
+- `2026-02-02-i-seriously-underestimated-hachioji-castle-ruins.md`
+  - 現在: `https://freelife50.com/i-thought-id-be-fine-the-moment-that-gave-a-50-something-a-chill/`
+  - 修正後: `https://en.freelife50.com/i-thought-id-be-fine-the-moment-that-gave-a-50-something-a-chill/`
+- `2026-02-02-i-seriously-underestimated-hachioji-castle-ruins.md`
+  - 現在: `https://freelife50.com/a-50-something-guy-visits-ichiyajo-at-0c-walking-with-my-dog-to-clear-my-mind/`
+  - 修正後: `https://en.freelife50.com/a-50-something-guy-visits-ichiyajo-at-0c-walking-with-my-dog-to-clear-my-mind/`
+- `2026-02-02-i-seriously-underestimated-hachioji-castle-ruins.md`
+  - 現在: `https://freelife50.com/theres-a-mt-takao-in-yokohama-you-know/`
+  - 修正後: `https://en.freelife50.com/theres-a-mt-takao-in-yokohama-you-know/`
+- `2026-02-13-from-tateishi-to-mt-okusu-in-0c-snow-and-the-life-saving-lunch-pack-4h-09m-to-kinugasa.md`
+  - 現在: `https://freelife50.com/a-50-something-guy-visits-ichiyajo-at-0c-walking-with-my-dog-to-clear-my-mind/`
+  - 修正後: `https://en.freelife50.com/a-50-something-guy-visits-ichiyajo-at-0c-walking-with-my-dog-to-clear-my-mind/`
+- `2026-03-01-mt-takao-walked-with-my-son.md`
+  - 現在: `https://freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/`
+  - 修正後: `https://en.freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/`
+- `2026-03-01-mt-takao-walked-with-my-son.md`
+  - 現在: `https://freelife50.com/shocked-by-my-sons-gen-z-values/`
+  - 修正後: `https://en.freelife50.com/shocked-by-my-sons-gen-z-values/`
+- `2026-03-10-the-night-i-ran-out-of-blog-ideas-i-decided-to-become-a-beer-livestreamer.md`
+  - 現在: `https://freelife50.com/in-my-50s-i-asked-myself-is-this-really-it-and-took-a-step-with-blogging/`
+  - 修正後: `https://en.freelife50.com/in-my-50s-i-asked-myself-is-this-really-it-and-took-a-step-with-blogging/`
+- `2026-03-10-the-night-i-ran-out-of-blog-ideas-i-decided-to-become-a-beer-livestreamer.md`
+  - 現在: `https://freelife50.com/why-a-50-year-old-guy-becomes-a-rookie-star-at-the-pool-on-weekdays/`
+  - 修正後: `https://en.freelife50.com/why-a-50-year-old-guy-becomes-a-rookie-star-at-the-pool-on-weekdays/`
+- `2026-03-20-the-day-i-noticed-the-scent-of-sakura-and-my-shiba-inu-who-only-cared-about-the-river.md`
+  - 現在: `https://freelife50.com/is-kinchakuda-manjushage-park-good-for-walking-with-dogs/`
+  - 修正後: `https://en.freelife50.com/is-kinchakuda-manjushage-park-good-for-walking-with-dogs/`
+- `2026-04-04-hiking-kobo-yama-bbq-a-perfect-spring-day-close-to-the-city.md`
+  - 現在: `https://freelife50.com/proved-in-the-rain-a-50s-hikers-challenge-in-tanzawa/`
+  - 修正後: `https://en.freelife50.com/proved-in-the-rain-a-50s-hikers-challenge-in-tanzawa/`
+- `2026-04-04-hiking-kobo-yama-bbq-a-perfect-spring-day-close-to-the-city.md`
+  - 現在: `https://freelife50.com/mt-takao-walked-with-my-son/`
+  - 修正後: `https://en.freelife50.com/mt-takao-walked-with-my-son/`
+- `2026-04-15-coffee-addicts-weight-loss-just-switch-your-daily-brew.md`
+  - 現在: `https://freelife50.com/why-a-50-year-old-guy-becomes-a-rookie-star-at-the-pool-on-weekdays/`
+  - 修正後: `https://en.freelife50.com/why-a-50-year-old-guy-becomes-a-rookie-star-at-the-pool-on-weekdays/`
+- `2026-04-16-komachi-shrine-takamatsu-hiking-en.md`
+  - 現在: `https://freelife50.com/ninomiya-sodegaura-hiking-en/`
+  - 修正後: `https://en.freelife50.com/ninomiya-sodegaura-hiking-en/`
+- `2026-04-16-ninomiya-sodegaura-hiking-en.md`
+  - 現在: `https://freelife50.com/the-day-i-noticed-the-scent-of-sakura-and-my-shiba-inu-who-only-cared-about-the-river/`
+  - 修正後: `https://en.freelife50.com/the-day-i-noticed-the-scent-of-sakura-and-my-shiba-inu-who-only-cared-about-the-river/`
+- `2026-04-16-ninomiya-sodegaura-hiking-en.md`
+  - 現在: `https://freelife50.com/is-kinchakuda-manjushage-park-good-for-walking-with-dogs/`
+  - 修正後: `https://en.freelife50.com/is-kinchakuda-manjushage-park-good-for-walking-with-dogs/`
+- `2026-04-18-yokohama-kodomo-shizen-park-firefly-en.md`
+  - 現在: `https://freelife50.com/theres-a-mt-takao-in-yokohama-you-know/`
+  - 修正後: `https://en.freelife50.com/theres-a-mt-takao-in-yokohama-you-know/`
+- `2026-04-18-yokohama-kodomo-shizen-park-firefly-en.md`
+  - 現在: `https://freelife50.com/ninomiya-sodegaura-hiking-en/`
+  - 修正後: `https://en.freelife50.com/ninomiya-sodegaura-hiking-en/`
+- `2026-04-18-yokohama-kodomo-shizen-park-firefly-en.md`
+  - 現在: `https://freelife50.com/komachi-shrine-takamatsu-hiking-en/`
+  - 修正後: `https://en.freelife50.com/komachi-shrine-takamatsu-hiking-en/`
+- `2026-04-19-momiji-rabies-vaccine-en.md`
+  - 現在: `https://freelife50.com/ninomiya-sodegaura-hiking-en/`
+  - 修正後: `https://en.freelife50.com/ninomiya-sodegaura-hiking-en/`
+- `2026-04-20-sagami-odako-festival-2026-en.md`
+  - 現在: `https://freelife50.com/momiji-rabies-vaccine-en/`
+  - 修正後: `https://en.freelife50.com/momiji-rabies-vaccine-en/`
+- `2026-04-20-sagami-odako-festival-2026-en.md`
+  - 現在: `https://freelife50.com/yokohama-kodomo-shizen-park-firefly-en/`
+  - 修正後: `https://en.freelife50.com/yokohama-kodomo-shizen-park-firefly-en/`
+- `2026-04-20-sagami-odako-festival-2026-en.md`
+  - 現在: `https://freelife50.com/ninomiya-sodegaura-hiking-en/`
+  - 修正後: `https://en.freelife50.com/ninomiya-sodegaura-hiking-en/`
+- `2026-04-23-what-if-i-put-a-figurine-of-my-late-parents-on-the-buddhist-altar-would-it-feel-like-they-are-still-here.md`
+  - 現在: `https://freelife50.com/momiji-rabies-vaccine-en/`
+  - 修正後: `https://en.freelife50.com/momiji-rabies-vaccine-en/`
+- `2026-04-23-what-if-i-put-a-figurine-of-my-late-parents-on-the-buddhist-altar-would-it-feel-like-they-are-still-here.md`
+  - 現在: `https://freelife50.com/sagami-odako-festival-2026-en/`
+  - 修正後: `https://en.freelife50.com/sagami-odako-festival-2026-en/`
+- `2026-04-26-izumi-no-mori-yamato-a-free-dog-friendly-walk-where-old-japan-eased-my-mind.md`
+  - 現在: `https://freelife50.com/ninomiya-sodegaura-hiking-en/`
+  - 修正後: `https://en.freelife50.com/ninomiya-sodegaura-hiking-en/`
+- `2026-04-26-izumi-no-mori-yamato-a-free-dog-friendly-walk-where-old-japan-eased-my-mind.md`
+  - 現在: `https://freelife50.com/komachi-shrine-takamatsu-hiking-en/`
+  - 修正後: `https://en.freelife50.com/komachi-shrine-takamatsu-hiking-en/`
+- `2026-04-26-izumi-no-mori-yamato-a-free-dog-friendly-walk-where-old-japan-eased-my-mind.md`
+  - 現在: `https://freelife50.com/sagami-odako-festival-2026-en/`
+  - 修正後: `https://en.freelife50.com/sagami-odako-festival-2026-en/`
+- `2026-04-28-grands-grain-free-dog-food-review-shiba-inu-en.md`
+  - 現在: `https://freelife50.com/momiji-rabies-vaccine-en/`
+  - 修正後: `https://en.freelife50.com/momiji-rabies-vaccine-en/`
+- `2026-04-28-grands-grain-free-dog-food-review-shiba-inu-en.md`
+  - 現在: `https://freelife50.com/sagami-odako-festival-2026-en/`
+  - 修正後: `https://en.freelife50.com/sagami-odako-festival-2026-en/`
+- `2026-04-28-grands-grain-free-dog-food-review-shiba-inu-en.md`
+  - 現在: `https://freelife50.com/izumi-no-mori-yamato-a-free-dog-friendly-walk-where-old-japan-eased-my-mind/`
+  - 修正後: `https://en.freelife50.com/izumi-no-mori-yamato-a-free-dog-friendly-walk-where-old-japan-eased-my-mind/`
+
+## EN記事 → freelife50.com リンク（EN版なし・維持）
+- `2025-05-01-i-cancelled-all-my-insurance-at-50-what-coverage-do-you-really-need-en.md` → `https://freelife50.com`
+- `2025-05-14-the-night-a-red-book-stirred-my-heart-what-a-first-gen-fan-thinks-of-en.md` → `https://freelife50.com/%e5%bc%b7%e3%81%84%e3%81%a3%e3%81%a6%e3%80%81%e3%81%aa%e3%82%93%e3%81%a0%e3%82%8d%e3%81%86%e3%80%82%e5%85%ad%e6%96%b9%e4%b8%80%e5%ba%a7%e3%81%a8%e6%98%ad%e5%92%8c%e4%b8%96%e4%bb%a3%e3%81%8c%e6%95%99/`
+- `2025-05-18-shocking-crash-through-a-beginners-eyes-yuki-tsunodas-major-crash-amp-en.md` → `https://freelife50.com/ai%e3%83%ad%e3%83%9e%e3%83%b3%e3%82%b9%e8%a9%90%e6%ac%ba%e3%81%8b%e3%82%89%e8%80%83%e3%81%88%e3%81%9f%e3%80%82%e3%80%8cai%e3%81%af%e6%82%aa%e8%80%85%e3%81%98%e3%82%83%e3%81%aa%e3%81%84%e3%80%82/`
+- `2025-05-18-shocking-crash-through-a-beginners-eyes-yuki-tsunodas-major-crash-amp-en.md` → `https://freelife50.com/%e6%97%a5%e6%9c%ac%ef%bc%9f%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab%ef%bc%9f%e8%85%b0%e7%97%9b50%e4%bb%a3%e3%80%81%e8%b5%b0%e3%82%8c%e3%81%9a%e6%ad%a9%e3%81%84%e3%81%a6%e6%84%9f%e3%81%98%e3%81%9f/`
+- `2025-05-18-shocking-crash-through-a-beginners-eyes-yuki-tsunodas-major-crash-amp-en.md` → `https://freelife50.com/%e3%80%8c%e3%82%b8%e3%83%a0%e3%81%a710%e5%88%86%e8%b5%b0%e3%81%a3%e3%81%a6%e3%80%81%e3%83%93%e3%83%bc%e3%83%ab%e3%81%a7%e4%b9%be%e6%9d%af%ef%bc%8150%e4%bb%a3%e3%81%ae%e6%8c%91%e6%88%a6%e3%80%8d/`
+- `2025-05-18-through-personal-reflection-this-post-dives-into-why-this-seemingly-en.md` → `https://freelife50.com/%e5%b0%91%e3%81%97%e9%81%95%e3%81%86%e9%81%93%e3%82%92%e9%81%b8%e3%81%b6%e3%81%a0%e3%81%91%e3%81%a7%e3%80%81%e4%ba%ba%e7%94%9f%e3%82%82%e5%a4%89%e3%82%8f%e3%82%8a%e5%a7%8b%e3%82%81%e3%82%8b/`
+- `2025-05-18-through-personal-reflection-this-post-dives-into-why-this-seemingly-en.md` → `https://freelife50.com/%e8%85%b0%e7%97%9b50%e4%bb%a3%e3%80%81%e6%98%8e%e6%97%a5%e3%83%9e%e3%83%a9%e3%82%bd%e3%83%b3%e3%81%aa%e3%81%ae%e3%81%ab%e3%83%93%e3%83%bc%e3%83%ab%e3%83%95%e3%82%a7%e3%82%b9%e5%8f%82%e6%88%a6%ef%bc%81/`
+- `2025-05-18-through-personal-reflection-this-post-dives-into-why-this-seemingly-en.md` → `https://freelife50.com/748-2/`
+- `2025-05-20-its-a-reflection-on-cultural-heritage-the-meaning-of-home-and-the-en.md` → `https://freelife50.com/%e5%b0%91%e3%81%97%e9%81%95%e3%81%86%e9%81%93%e3%82%92%e9%81%b8%e3%81%b6%e3%81%a0%e3%81%91%e3%81%a7%e3%80%81%e4%ba%ba%e7%94%9f%e3%82%82%e5%a4%89%e3%82%8f%e3%82%8a%e5%a7%8b%e3%82%81%e3%82%8b/`
+- `2025-05-20-its-a-reflection-on-cultural-heritage-the-meaning-of-home-and-the-en.md` → `https://freelife50.com/%e5%a5%a5%e5%a4%9a%e6%91%a9%e3%83%8f%e3%82%a4%e3%82%ad%e3%83%b3%e3%82%b0%e3%81%a7%e3%82%82%e3%81%bf%e3%81%98%e3%81%a8%e9%81%ad%e9%81%87%e3%81%97%e3%81%9f%e9%87%8e%e7%94%9f%e3%81%ae%e7%9e%ac/`
+- `2025-05-20-its-a-reflection-on-cultural-heritage-the-meaning-of-home-and-the-en.md` → `https://freelife50.com/%f0%9f%8c%8c-%e8%b5%a4%e6%9c%ac%e3%81%ab%e5%bf%83%e3%81%8c%e5%8b%95%e3%81%84%e3%81%9f%e5%a4%9c%e2%80%95%e2%80%95%e3%83%95%e3%82%a1%e3%83%bc%e3%82%b9%e3%83%88%e4%b8%96%e4%bb%a3%e3%81%8c/`
+- `2025-05-27-what-a-sudden-downpour-taught-me-about-protection-a-workplace-near-en.md` → `https://freelife50.com/%e4%bf%9d%e9%99%ba%e3%80%81%e5%85%a8%e9%83%a8%e3%82%84%e3%82%81%e3%81%be%e3%81%97%e3%81%9f%e3%80%82%e4%bb%8a%e6%80%9d%e3%81%86%e6%9c%ac%e5%bd%93%e3%81%ab%e5%bf%85%e8%a6%81%e3%81%aa%e5%82%99/`
+- `2025-05-27-what-a-sudden-downpour-taught-me-about-protection-a-workplace-near-en.md` → `https://freelife50.com/%f0%9f%90%be-%e4%bf%9d%e8%ad%b7%e7%8c%ab%e3%81%ae%e6%97%a5%e3%81%ab%e6%80%9d%e3%81%a3%e3%81%9f%e3%80%81%e3%82%82%e3%81%bf%e3%81%98%e3%81%a8%e5%ae%88%e3%82%8b%e3%81%a8%e3%81%84/`
+- `2025-05-27-what-a-sudden-downpour-taught-me-about-protection-a-workplace-near-en.md` → `https://freelife50.com/%e3%80%8e%e3%81%bc%e3%81%a3%e3%81%a1%e3%83%bb%e3%81%96%e3%83%bb%e3%82%8d%e3%81%a3%e3%81%8f%ef%bc%81%e3%80%8f%e3%82%92%e8%a6%b3%e3%81%a6%e3%81%aa%e3%81%84%e3%81%ae%e3%81%ab%e6%b3%a3%e3%81%84%e3%81%9f/`
+- `2025-05-27-what-a-sudden-downpour-taught-me-about-protection-a-workplace-near-en.md` → `https://freelife50.com/health-check-running/`
+- `2025-06-10-in-my-50s-i-asked-myself-is-this-really-it-and-took-a-step-with-blogging.md` → `https://freelife50.com/%f0%9f%9a%a8%e3%80%8c%e5%9c%b0%e9%9c%87%e3%81%8f%e3%82%8b%e3%82%89%e3%81%97%e3%81%84%e3%81%91%e3%81%a9%e3%80%81%e6%b0%b4%e3%81%aa%e3%81%84%e3%81%a8%e3%83%88%e3%82%a4%e3%83%ac%e3%82%82%e8%a9%b0/`
+- `2025-06-10-in-my-50s-i-asked-myself-is-this-really-it-and-took-a-step-with-blogging.md` → `https://freelife50.com/%e3%80%8e%e3%81%bc%e3%81%a3%e3%81%a1%e3%83%bb%e3%81%96%e3%83%bb%e3%82%8d%e3%81%a3%e3%81%8f%ef%bc%81%e3%80%8f%e3%82%92%e8%a6%b3%e3%81%a6%e3%81%aa%e3%81%84%e3%81%ae%e3%81%ab%e6%b3%a3%e3%81%84%e3%81%9f/`
+- `2025-06-10-in-my-50s-i-asked-myself-is-this-really-it-and-took-a-step-with-blogging.md` → `https://freelife50.com/%f0%9f%8c%80-adsense%e3%81%ab%e4%bd%95%e5%ba%a6%e3%82%82%e8%90%bd%e3%81%a1%e3%81%9f%e5%83%95%e3%81%8c%e3%80%81%e3%81%9d%e3%82%8c%e3%81%a7%e3%82%82%e7%94%b3%e8%ab%8b%e3%81%97%e7%b6%9a%e3%81%91%e3%81%9f/`
+- `2025-06-10-in-my-50s-i-asked-myself-is-this-really-it-and-took-a-step-with-blogging.md` → `https://freelife50.com/%f0%9f%9f%a7-%e3%80%8c50%e4%bb%a3%e3%81%ae%e5%83%95%e3%81%8c%e3%81%93%e3%81%ae%e3%81%be%e3%81%be%e3%81%a7%e3%81%88%e3%81%88%e3%82%93%e3%81%8b%e3%81%aa%e3%81%a8%e6%80%9d%e3%81%a3/`
+- `2025-06-10-only-three-pitches-left-and-i-still-throw.md` → `https://freelife50.com/%e3%80%8e%e3%81%bc%e3%81%a3%e3%81%a1%e3%83%bb%e3%81%96%e3%83%bb%e3%82%8d%e3%81%a3%e3%81%8f%ef%bc%81%e3%80%8f%e3%82%92%e8%a6%b3%e3%81%a6%e3%81%aa%e3%81%84%e3%81%ae%e3%81%ab%e6%b3%a3%e3%81%84%e3%81%9f/`
+- `2025-06-10-only-three-pitches-left-and-i-still-throw.md` → `https://freelife50.com/%f0%9f%8c%80-adsense%e3%81%ab%e4%bd%95%e5%ba%a6%e3%82%82%e8%90%bd%e3%81%a1%e3%81%9f%e5%83%95%e3%81%8c%e3%80%81%e3%81%9d%e3%82%8c%e3%81%a7%e3%82%82%e7%94%b3%e8%ab%8b%e3%81%97%e7%b6%9a%e3%81%91%e3%81%9f/`
+- `2025-06-11-even-if-i-forget-youre-still-here-can-chatgpt-be-our-future-companion.md` → `https://freelife50.com/%f0%9f%8c%80-adsense%e3%81%ab%e4%bd%95%e5%ba%a6%e3%82%82%e8%90%bd%e3%81%a1%e3%81%9f%e5%83%95%e3%81%8c%e3%80%81%e3%81%9d%e3%82%8c%e3%81%a7%e3%82%82%e7%94%b3%e8%ab%8b%e3%81%97%e7%b6%9a%e3%81%91%e3%81%9f/`
+- `2025-06-11-even-if-i-forget-youre-still-here-can-chatgpt-be-our-future-companion.md` → `https://freelife50.com/%e3%80%8e%e3%81%bc%e3%81%a3%e3%81%a1%e3%83%bb%e3%81%96%e3%83%bb%e3%82%8d%e3%81%a3%e3%81%8f%ef%bc%81%e3%80%8f%e3%82%92%e8%a6%b3%e3%81%a6%e3%81%aa%e3%81%84%e3%81%ae%e3%81%ab%e6%b3%a3%e3%81%84%e3%81%9f/`
+- `2025-06-13-three-bowls-all-gone-a-ramen-adventure-at-the-yokohama-museum-in-my-50s.md` → `https://freelife50.com/%e3%80%8c%e3%81%aa%e3%81%9c%e4%bb%8a%e3%80%81%e3%83%a9%e3%83%bc%e3%83%a1%e3%83%b3%e5%8d%9a%e7%89%a9%e9%a4%a8%ef%bc%9f%e2%94%80%e2%94%8050%e4%bb%a3%e5%9b%a3%e5%a1%8a%e3%82%b8%e3%83%a5%e3%83%8b%e3%82%a2/`
+- `2025-06-13-three-bowls-all-gone-a-ramen-adventure-at-the-yokohama-museum-in-my-50s.md` → `https://freelife50.com/%f0%9f%8d%9c%e3%80%8c%e3%81%a1%e3%82%83%e3%82%93%e7%b3%bb%e3%83%a9%e3%83%bc%e3%83%a1%e3%83%b3%e3%80%8d%e3%81%8c%e6%b0%97%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%a6%e4%bb%95%e6%96%b9%e3%81%aa%e3%81%84/`
+- `2025-06-13-three-bowls-all-gone-a-ramen-adventure-at-the-yokohama-museum-in-my-50s.md` → `https://freelife50.com/health-check-running/`
+- `2025-06-13-three-bowls-all-gone-a-ramen-adventure-at-the-yokohama-museum-in-my-50s.md` → `https://freelife50.com/%f0%9f%8d%9c-%e3%82%b9%e3%83%bc%e3%83%97%e3%81%be%e3%81%a7%e9%a3%b2%e3%81%bf%e5%b9%b2%e3%81%97%e3%81%9f3%e6%9d%af%ef%bc%81%e6%a8%aa%e6%b5%9c%e3%83%a9%e3%83%bc%e3%83%a1%e3%83%b3%e5%8d%9a%e7%89%a9/`
+- `2025-06-15-mt-takaos-hidden-trail-a-quiet-escape-few-ever-find.md` → `https://freelife50.com/%f0%9f%8c%8a%e5%b1%b1%e3%81%a8%e6%b5%b7%e3%81%a8%e3%80%81%e3%82%82%e3%81%bf%e3%81%98%e3%81%a8%e5%a6%bb%e3%81%a8%e3%80%82%e3%81%9d%e3%81%97%e3%81%a6%e3%80%81%e3%82%a2%e3%82%b8%e3%83%95%e3%83%a9/`
+- `2025-06-15-mt-takaos-hidden-trail-a-quiet-escape-few-ever-find.md` → `https://freelife50.com/%e5%a5%a5%e5%a4%9a%e6%91%a9%e3%83%8f%e3%82%a4%e3%82%ad%e3%83%b3%e3%82%b0%e3%81%a7%e3%82%82%e3%81%bf%e3%81%98%e3%81%a8%e9%81%ad%e9%81%87%e3%81%97%e3%81%9f%e9%87%8e%e7%94%9f%e3%81%ae%e7%9e%ac/`
+- `2025-06-15-mt-takaos-hidden-trail-a-quiet-escape-few-ever-find.md` → `https://freelife50.com/health-check-running/`
+- `2025-06-15-mt-takaos-hidden-trail-a-quiet-escape-few-ever-find.md` → `https://freelife50.com/%e3%80%8c%e9%9d%99%e3%81%91%e3%81%95%e3%82%92%e6%ad%a9%e3%81%8f%e3%80%82%e8%a3%8f%e9%ab%98%e5%b0%be%e3%81%8b%e3%82%89%e5%b0%8f%e4%bb%8f%e5%9f%8e%e5%b1%b1%e3%81%b8%e2%94%80%e2%94%80%e3%81%bb/`
+- `2025-06-16-notepin-my-future-second-brain-but-do-i-really-need-it.md` → `https://freelife50.com/%f0%9f%91%89-even-if-i-forget-youre-still-here-can-chatgpt-be-our-future-companion/`
+- `2025-06-16-notepin-my-future-second-brain-but-do-i-really-need-it.md` → `https://freelife50.com/%f0%9f%a5%8e-only-three-pitches-left-and-i-still-throw/`
+- `2025-06-16-notepin-my-future-second-brain-but-do-i-really-need-it.md` → `https://freelife50.com/%e3%80%8cnotepin%e3%81%8c%e6%ac%b2%e3%81%97%e3%81%8f%e3%81%a6%e3%81%9f%e3%81%be%e3%82%89%e3%82%93%e3%80%82%e3%81%a7%e3%82%82%e3%80%81%e3%81%be%e3%81%a0%e3%83%9d%e3%83%81%e3%81%a3%e3%81%a6%e3%81%aa/`
+- `2025-06-19-two-subarus-one-legacy-what-mf-ghost-inherits-from-initial-d.md` → `https://freelife50.com/%f0%9f%a5%8e-only-three-pitches-left-and-i-still-throw/`
+- `2025-06-19-two-subarus-one-legacy-what-mf-ghost-inherits-from-initial-d.md` → `https://freelife50.com/%f0%9f%91%89-even-if-i-forget-youre-still-here-can-chatgpt-be-our-future-companion/`
+- `2025-06-19-two-subarus-one-legacy-what-mf-ghost-inherits-from-initial-d.md` → `https://freelife50.com/%e3%80%8e%e6%98%b4%e3%81%a8%e5%bd%97%e6%98%9f%e3%80%8f%e3%81%ab%e8%a8%97%e3%81%95%e3%82%8c%e3%81%9fmf%e3%82%b4%e3%83%bc%e3%82%b9%e3%83%88%e3%81%ae%e7%b3%bb%e8%ad%9c%e2%94%80%e2%94%80%e6%8b%93%e6%b5%b7/`
+- `2025-06-21-title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s.md` → `https://freelife50.com/%f0%9f%a5%8e-only-three-pitches-left-and-i-still-throw/`
+- `2025-06-21-title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s.md` → `https://freelife50.com/%f0%9f%91%89-even-if-i-forget-youre-still-here-can-chatgpt-be-our-future-companion/`
+- `2025-06-21-title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s.md` → `https://freelife50.com/%e3%80%8c%e8%85%b0%e3%81%8c%e7%97%9b%e3%81%8f%e3%81%a6%e3%80%81%e8%b5%b0%e3%82%8c%e3%81%aa%e3%81%8f%e3%81%aa%e3%81%a3%e3%81%9f%e3%80%82%e3%81%a7%e3%82%82%e3%80%81%e6%b3%b3%e3%81%90%e3%81%93%e3%81%a8/`
+- `2025-06-22-the-day-i-finally-chose-to-choose-a-quiet-shift-toward-the-ballot-box.md` → `https://freelife50.com/%f0%9f%91%89-even-if-i-forget-youre-still-here-can-chatgpt-be-our-future-companion/`
+- `2025-06-22-the-day-i-finally-chose-to-choose-a-quiet-shift-toward-the-ballot-box.md` → `https://freelife50.com/%f0%9f%a5%8e-only-three-pitches-left-and-i-still-throw/`
+- `2025-06-26-if-smart-rings-could-care-6-future-features-we-quietly-wish-for.md` → `https://freelife50.com/%f0%9f%a5%8e-only-three-pitches-left-and-i-still-throw/`
+- `2025-06-26-if-smart-rings-could-care-6-future-features-we-quietly-wish-for.md` → `https://freelife50.com/%f0%9f%97%b3%ef%b8%8f-the-day-i-finally-chose-to-choose-a-quiet-shift-toward-the-ballot-box/`
+- `2025-06-26-if-smart-rings-could-care-6-future-features-we-quietly-wish-for.md` → `https://freelife50.com/%e3%80%8e%e3%81%be%e3%81%a0%e3%81%aa%e3%81%84%e3%81%91%e3%81%a9%e3%80%81%e3%81%82%e3%81%a3%e3%81%9f%e3%82%89%e7%b5%b6%e5%af%be%e8%b2%b7%e3%81%86%e3%80%82%e3%82%b9%e3%83%9e%e3%83%bc%e3%83%88%e3%83%aa/`
+- `2025-06-30-corewarm-and-the-quiet-heat-a-belly-wrap-journey-in-your-50s.md` → `https://freelife50.com/%f0%9f%97%b3%ef%b8%8f-the-day-i-finally-chose-to-choose-a-quiet-shift-toward-the-ballot-box/`
+- `2025-06-30-corewarm-and-the-quiet-heat-a-belly-wrap-journey-in-your-50s.md` → `https://freelife50.com/%f0%9f%a5%8e-only-three-pitches-left-and-i-still-throw/`
+- `2025-06-30-corewarm-and-the-quiet-heat-a-belly-wrap-journey-in-your-50s.md` → `https://freelife50.com/%e3%80%8e%e5%a4%8f%e3%81%a7%e3%82%82%e8%85%b9%e5%b7%bb%e3%81%8d%e3%81%af%e3%82%a2%e3%83%aa%e3%81%8b%ef%bc%9f%e2%94%80%e2%94%80corewarm%e3%81%a7%e5%a7%8b%e3%82%81%e3%82%8b%e3%80%8150%e4%bb%a3%e3%81%ae/`
+- `2025-07-01-crafted-in-japan-the-250-pillow-that-changed-how-i-sleep-in-my-50s.md` → `https://freelife50.com/%e3%80%9050%e4%bb%a3%e3%81%ae%e5%bf%ab%e7%9c%a0%e6%8a%95%e8%b3%87%e3%80%91%e3%80%8c%e6%9e%95%e3%81%ab4%e4%b8%87%e5%86%86%e3%81%a7%e3%82%82%e3%80%81%e3%81%bb%e3%82%93%e3%81%be%e3%81%ab/`
+- `2025-07-10-to-that-slouching-back-i-care-about-a-gentle-gift-of-posture-and-gratitude.md` → `https://freelife50.com/%e7%8c%ab%e8%83%8c%e3%81%8c%e6%b0%97%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%9f%e3%80%81%e3%81%82%e3%81%ae%e8%83%8c%e4%b8%ad%e3%81%b8%e3%80%82%e2%94%80%e2%94%80%e6%95%b4%e4%bd%93%e3%82%b7%e3%83%a7%e3%83%bc/`
+- `2025-07-14-rethinking-from-the-feet-up-how-1-second-slip-on-shoes-bring-dignity-and-ease.md` → `https://freelife50.com/%f0%9f%aa%a5a-black-swiss-beauty-in-your-bathroom-when-a-toothbrush-feels-like-a-rolex/`
+- `2025-07-14-rethinking-from-the-feet-up-how-1-second-slip-on-shoes-bring-dignity-and-ease.md` → `https://freelife50.com/%e8%b6%b3%e3%81%8b%e3%82%89%e8%a6%8b%e7%9b%b4%e3%81%9d%e3%81%86%e3%80%82%e3%81%93%e3%82%8c%e3%81%8b%e3%82%89%e3%81%ae%e6%97%a5%e6%9c%ac%e2%94%80%e2%94%801%e7%a7%92%e3%81%a7%e5%b1%a5%e3%81%91%e3%82%8b/`
+- `2025-07-19-who-are-these-elections-really-for-write-democratic-party-and-your-vote-goes-to-the-cdp.md` → `https://freelife50.com/%f0%9f%97%b3%ef%b8%8f-the-day-i-finally-chose-to-choose-a-quiet-shift-toward-the-ballot-box/`
+- `2025-07-19-who-are-these-elections-really-for-write-democratic-party-and-your-vote-goes-to-the-cdp.md` → `https://freelife50.com/%f0%9f%a5%8e-only-three-pitches-left-and-i-still-throw/`
+- `2025-07-19-who-are-these-elections-really-for-write-democratic-party-and-your-vote-goes-to-the-cdp.md` → `https://freelife50.com/%e5%9b%bd%e6%b0%91%e3%83%95%e3%82%a1%e3%83%bc%e3%82%b9%e3%83%88%e3%81%aa%e3%82%93%e3%81%a6%e5%98%98%e3%82%84%e3%82%93%e2%94%80%e2%94%80%e7%95%a5%e7%a7%b0%e3%80%8c%e6%b0%91%e4%b8%bb%e5%85%9a%e3%80%8d/`
+- `2025-07-20-shaving-is-a-pain-but-this-isnt-just-about-beauty-is-it.md` → `https://freelife50.com/%f0%9f%aa%a5a-black-swiss-beauty-in-your-bathroom-when-a-toothbrush-feels-like-a-rolex/`
+- `2025-07-20-shaving-is-a-pain-but-this-isnt-just-about-beauty-is-it.md` → `https://freelife50.com/%e3%83%92%e3%82%b2%e5%89%83%e3%82%8a%e3%81%8c%e9%9d%a2%e5%80%92%e3%80%82%e3%81%a7%e3%82%82%e3%81%93%e3%82%8c%e3%80%81%e7%be%8e%e5%ae%b9%e3%81%a0%e3%81%91%e3%81%a1%e3%82%83%e3%81%86%e3%82%84%e3%82%93/`
+- `2025-07-23-chosen-by-disaster-prevention-experts-and-firefighters-in-depth-review-of-the-akamaru-emergency-44-piece-survival-kit.md` → `https://freelife50.com/%f0%9f%9a%a8%e3%80%8c%e5%9c%b0%e9%9c%87%e3%81%8f%e3%82%8b%e3%82%89%e3%81%97%e3%81%84%e3%81%91%e3%81%a9%e3%80%81%e6%b0%b4%e3%81%aa%e3%81%84%e3%81%a8%e3%83%88%e3%82%a4%e3%83%ac%e3%82%82%e8%a9%b0/`
+- `2025-07-23-chosen-by-disaster-prevention-experts-and-firefighters-in-depth-review-of-the-akamaru-emergency-44-piece-survival-kit.md` → `https://freelife50.com/%e4%bf%9d%e9%99%ba%e3%80%81%e5%85%a8%e9%83%a8%e3%82%84%e3%82%81%e3%81%be%e3%81%97%e3%81%9f%e3%80%82%e4%bb%8a%e6%80%9d%e3%81%86%e6%9c%ac%e5%bd%93%e3%81%ab%e5%bf%85%e8%a6%81%e3%81%aa%e5%82%99/`
+- `2025-07-23-chosen-by-disaster-prevention-experts-and-firefighters-in-depth-review-of-the-akamaru-emergency-44-piece-survival-kit.md` → `https://freelife50.com/%e3%80%90%e3%82%bf%e3%82%a4%e3%83%88%e3%83%ab%e3%80%91-%e6%bf%80%e3%81%97%e3%81%84%e9%9b%b7%e9%9b%a8%e3%81%ae%e6%97%a5%e3%81%ab%e3%80%81%e5%83%95%e3%81%8c%e3%80%8c%e5%ae%88%e3%82%8b%e3%81%93%e3%81%a8/`
+- `2025-07-23-chosen-by-disaster-prevention-experts-and-firefighters-in-depth-review-of-the-akamaru-emergency-44-piece-survival-kit.md` → `https://freelife50.com/%e9%98%b2%e7%81%bd%e5%a3%ab%e3%81%a8%e6%b6%88%e9%98%b2%e5%a3%ab%e3%81%8c%e9%81%b8%e3%82%93%e3%81%a0%e6%9c%ac%e6%b0%97%e3%81%ae%e5%82%99%e3%81%88%e2%94%80%e2%94%80%e3%81%82%e3%81%8b%e3%81%be%e3%82%8b/`
+- `2025-07-26-the-illusion-of-reform-the-hidden-truth-behind-the-ban-on-furusato-tax-points.md` → `https://freelife50.com/%f0%9f%a5%8e-only-three-pitches-left-and-i-still-throw/`
+- `2025-07-26-the-illusion-of-reform-the-hidden-truth-behind-the-ban-on-furusato-tax-points.md` → `https://freelife50.com/%e3%80%90%e3%82%bf%e3%82%a4%e3%83%88%e3%83%ab%e3%80%91-%e6%bf%80%e3%81%97%e3%81%84%e9%9b%b7%e9%9b%a8%e3%81%ae%e6%97%a5%e3%81%ab%e3%80%81%e5%83%95%e3%81%8c%e3%80%8c%e5%ae%88%e3%82%8b%e3%81%93%e3%81%a8/`
+- `2025-07-26-the-illusion-of-reform-the-hidden-truth-behind-the-ban-on-furusato-tax-points.md` → `https://freelife50.com/%e3%80%8e%e6%94%b9%e9%9d%a9%e3%81%ae%e3%81%b5%e3%82%8a%e3%82%92%e3%81%97%e3%81%9f%e6%90%be%e5%8f%96%e2%94%80%e2%94%80%e3%81%b5%e3%82%8b%e3%81%95%e3%81%a8%e7%b4%8d%e7%a8%8e%e3%83%9d%e3%82%a4/`
+- `2025-07-27-a-gift-that-cares-for-her-skin-why-i-chose-coco_makana.md` → `https://freelife50.com/%f0%9f%8c%8a%e5%b1%b1%e3%81%a8%e6%b5%b7%e3%81%a8%e3%80%81%e3%82%82%e3%81%bf%e3%81%98%e3%81%a8%e5%a6%bb%e3%81%a8%e3%80%82%e3%81%9d%e3%81%97%e3%81%a6%e3%80%81%e3%82%a2%e3%82%b8%e3%83%95%e3%83%a9/`
+- `2025-08-04-because-theyre-family-too-choosing-paws-green-deli-with-care.md` → `https://freelife50.com/%f0%9f%a5%8e-only-three-pitches-left-and-i-still-throw/`
+- `2025-08-04-because-theyre-family-too-choosing-paws-green-deli-with-care.md` → `https://freelife50.com/health-check-running/`
+- `2025-08-12-a-50-something-guy-goes-to-a-fest-the-isekai-reincarnation-arc.md` → `https://freelife50.com/%f0%9f%a5%8e-only-three-pitches-left-and-i-still-throw/`
+- `2025-08-12-a-50-something-guy-goes-to-a-fest-the-isekai-reincarnation-arc.md` → `https://freelife50.com/%f0%9f%90%be-because-theyre-family-too-choosing-paws-green-deli-with-care/`
+- `2025-08-12-a-50-something-guy-goes-to-a-fest-the-isekai-reincarnation-arc.md` → `https://freelife50.com/a-50-year-old-man-becoming-the-pillar-of-sake-breathing-%e2%94%80-showdown-in-my-wifes-infinity-castle/`
+- `2025-08-12-a-50-something-guy-goes-to-a-fest-the-isekai-reincarnation-arc.md` → `https://freelife50.com/50%e4%bb%a3%e3%81%ae%e3%81%8a%e3%81%98%e3%81%95%e3%82%93%e3%80%80%e3%83%95%e3%82%a7%e3%82%b9%e3%81%ab%e8%a1%8c%e3%81%8f%e3%80%82%e2%94%80%e2%94%80%e7%95%b0%e4%b8%96%e7%95%8c%e8%bb%a2%e7%94%9f%e7%b7%a8/`
+- `2025-08-15-a-50-something-guy-becomes-a-detective-the-mystery-of-the-monitor-and-the-wallpaper.md` → `https://freelife50.com/%f0%9f%90%be%e3%82%82%e3%81%bf%e3%81%98%e3%81%ae%e7%99%92%e3%81%97%e3%80%81%e5%a3%81%e3%81%ae%e5%90%91%e3%81%93%e3%81%86%e3%81%8b%e3%82%89%e3%81%93%e3%82%93%e3%81%ab%e3%81%a1%e3%81%af/`
+- `2025-08-15-a-50-something-guy-becomes-a-detective-the-mystery-of-the-monitor-and-the-wallpaper.md` → `https://freelife50.com/%f0%9f%90%be%e3%82%82%e3%81%bf%e3%81%98%e3%81%ae%e7%99%92%e3%81%97%e3%80%81%e5%a3%81%e3%81%ae%e5%90%91%e3%81%93%e3%81%86%e3%81%8b%e3%82%89%e3%81%93%e3%82%93%e3%81%ab%e3%81%a1%e3%81%af/`
+- `2025-08-15-a-50-something-guy-becomes-a-detective-the-mystery-of-the-monitor-and-the-wallpaper.md` → `https://freelife50.com/%f0%9f%90%be-because-theyre-family-too-choosing-paws-green-deli-with-care/`
+- `2025-08-15-a-50-something-guy-becomes-a-detective-the-mystery-of-the-monitor-and-the-wallpaper.md` → `https://freelife50.com/%ef%bc%95%ef%bc%90%e4%bb%a3%e3%81%8a%e3%81%98%e3%81%95%e3%82%93%e3%80%81%e6%8e%a2%e5%81%b5%e3%81%ab%e3%81%aa%e3%82%8b%e3%80%82%e2%94%80%e2%94%80%e3%83%a2%e3%83%8b%e3%82%bf%e3%83%bc%e3%81%a8%e5%a3%81/`
+- `2025-08-16-a-50-something-guy-my-quest-to-become-the-spicy-king.md` → `https://freelife50.com/%e3%80%8c%e3%82%b8%e3%83%a0%e3%81%a710%e5%88%86%e8%b5%b0%e3%81%a3%e3%81%a6%e3%80%81%e3%83%93%e3%83%bc%e3%83%ab%e3%81%a7%e4%b9%be%e6%9d%af%ef%bc%8150%e4%bb%a3%e3%81%ae%e6%8c%91%e6%88%a6%e3%80%8d/`
+- `2025-08-16-a-50-something-guy-my-quest-to-become-the-spicy-king.md` → `https://freelife50.com/%f0%9f%a5%8e-only-three-pitches-left-and-i-still-throw/`
+- `2025-08-16-a-50-something-guy-my-quest-to-become-the-spicy-king.md` → `https://freelife50.com/%ef%bc%95%ef%bc%90%e4%bb%a3%e3%81%8a%e3%81%98%e3%81%95%e3%82%93%e3%80%80%e3%81%8a%e3%82%8c%e3%81%8c%e6%bf%80%e8%be%9b%e7%8e%8b%e3%81%ab%e3%81%aa%e3%82%8b%ef%bc%81/`
+- `2025-08-19-how-a-50-year-old-man-found-youth-in-a-japanese-vending-machine-sparkling-aquarius-for-just-150-yen.md` → `https://freelife50.com/%e3%80%8c%e3%82%b8%e3%83%a0%e3%81%a710%e5%88%86%e8%b5%b0%e3%81%a3%e3%81%a6%e3%80%81%e3%83%93%e3%83%bc%e3%83%ab%e3%81%a7%e4%b9%be%e6%9d%af%ef%bc%8150%e4%bb%a3%e3%81%ae%e6%8c%91%e6%88%a6%e3%80%8d/`
+- `2025-08-22-a-50-year-old-guy-vs-the-wall-of-jiro-ramen-finishing-a-giant-bowl-with-all-the-toppings.md` → `https://freelife50.com/%f0%9f%9a%b4%e2%99%82%ef%b8%8f-how-a-50-year-old-man-found-youth-in-a-japanese-vending-machine-sparkling-aquarius-for-just-150-yen/`
+- `2025-08-22-a-50-year-old-guy-vs-the-wall-of-jiro-ramen-finishing-a-giant-bowl-with-all-the-toppings.md` → `https://freelife50.com/50%e4%bb%a3%e3%81%8a%e3%81%98%e3%81%95%e3%82%93%e3%80%81%e3%83%a9%e3%83%bc%e3%83%a1%e3%83%b3%e4%ba%8c%e9%83%8e%e3%81%ae%e5%a3%81%e3%81%ab%e6%8c%91%e3%82%80%ef%bc%81%e3%83%a9%e3%83%bc%e3%83%a1%e3%83%b3/`
+- `2025-08-24-a-50-year-old-man-becoming-the-pillar-of-sake-breathing-showdown-in-my-wifes-infinity-castle.md` → `https://freelife50.com/%f0%9f%a5%8e-only-three-pitches-left-and-i-still-throw/`
+- `2025-08-30-a-middle-aged-mans-journey-from-pool-laps-to-becoming-an-astronaut-with-underwater-earphones.md` → `https://freelife50.com/%f0%9f%a5%8e-only-three-pitches-left-and-i-still-throw/?utm_source=chatgpt.com`
+- `2025-08-30-a-middle-aged-mans-journey-from-pool-laps-to-becoming-an-astronaut-with-underwater-earphones.md` → `https://freelife50.com/a-50-year-old-man-becoming-the-pillar-of-sake-breathing-%e2%94%80-showdown-in-my-wifes-infinity-castle/?utm_source=chatgpt.com`
+- `2025-08-30-a-middle-aged-mans-journey-from-pool-laps-to-becoming-an-astronaut-with-underwater-earphones.md` → `https://freelife50.com/50%e4%bb%a3%e3%81%8a%e3%81%98%e3%81%95%e3%82%93%e3%80%81%e6%b0%b4%e4%b8%ad%e3%82%a4%e3%83%a4%e3%83%9b%e3%83%b3%e3%81%a7%e5%ae%87%e5%ae%99%e9%a3%9b%e8%a1%8c%e5%a3%ab%e3%81%ab%e3%81%aa%e3%82%8b%e3%81%be/`
+- `2025-09-02-__trashed-3.md` → `https://freelife50.com/%e3%81%a9%e3%81%ae%e7%b5%8c%e6%b8%88%e5%9c%8f%e3%81%8c%e7%94%9f%e6%b4%bb%e3%82%b3%e3%82%b9%e3%83%88%e5%89%8a%e6%b8%9b%e3%81%ab%e6%9c%80%e3%82%82%e6%9c%89%e5%88%a9%ef%bc%9f%e8%a9%b1%e9%a1%8c%e3%81%ae/`
+- `2025-09-02-__trashed-3.md` → `https://freelife50.com/%e5%ae%b6%e6%97%8f4%e4%ba%ba%e3%81%a7%e6%9c%884500%e5%86%86%ef%bc%81%e3%82%b9%e3%83%9e%e3%83%9b%e4%bb%a3%e3%82%92%e8%b3%a2%e3%81%8f%e7%af%80%e7%b4%84%e3%81%97%e3%81%a6%e6%9c%aa%e6%9d%a5%e3%81%ab/`
+- `2025-09-04-a-50-year-old-mans-guide-5-essential-apps-for-typhoon-days.md` → `https://freelife50.com/%e3%80%90%e3%82%bf%e3%82%a4%e3%83%88%e3%83%ab%e3%80%91-%e6%bf%80%e3%81%97%e3%81%84%e9%9b%b7%e9%9b%a8%e3%81%ae%e6%97%a5%e3%81%ab%e3%80%81%e5%83%95%e3%81%8c%e3%80%8c%e5%ae%88%e3%82%8b%e3%81%93%e3%81%a8/`
+- `2025-09-04-a-50-year-old-mans-guide-5-essential-apps-for-typhoon-days.md` → `https://freelife50.com/%f0%9f%9a%a8%e3%80%8c%e5%9c%b0%e9%9c%87%e3%81%8f%e3%82%8b%e3%82%89%e3%81%97%e3%81%84%e3%81%91%e3%81%a9%e3%80%81%e6%b0%b4%e3%81%aa%e3%81%84%e3%81%a8%e3%83%88%e3%82%a4%e3%83%ac%e3%82%82%e8%a9%b0/`
+- `2025-09-04-a-50-year-old-mans-guide-5-essential-apps-for-typhoon-days.md` → `https://freelife50.com/50%e4%bb%a3%e3%81%8a%e3%81%98%e3%81%95%e3%82%93%e3%80%81%e5%8f%b0%e9%a2%a8%e3%81%ae%e6%97%a5%e3%81%ab%e5%bd%b9%e7%ab%8b%e3%81%a4%e3%82%a2%e3%83%97%e3%83%aa5%e9%81%b8/`
+- `2025-09-07-a-50-year-old-mans-challenge-with-dental-implants-part-1.md` → `https://freelife50.com/health-check-running/`
+- `2025-09-07-a-50-year-old-mans-challenge-with-dental-implants-part-1.md` → `https://freelife50.com/%f0%9f%8c%8a%e5%b1%b1%e3%81%a8%e6%b5%b7%e3%81%a8%e3%80%81%e3%82%82%e3%81%bf%e3%81%98%e3%81%a8%e5%a6%bb%e3%81%a8%e3%80%82%e3%81%9d%e3%81%97%e3%81%a6%e3%80%81%e3%82%a2%e3%82%b8%e3%83%95%e3%83%a9/`
+- `2025-09-15-50s-mens-health-a-new-era-in-checkups-pcct-for-low-radiation-x-high-precision.md` → `https://freelife50.com/health-check-running/`
+- `2025-09-15-50s-mens-health-a-new-era-in-checkups-pcct-for-low-radiation-x-high-precision.md` → `https://freelife50.com/%f0%9f%8c%8a%e5%b1%b1%e3%81%a8%e6%b5%b7%e3%81%a8%e3%80%81%e3%82%82%e3%81%bf%e3%81%98%e3%81%a8%e5%a6%bb%e3%81%a8%e3%80%82%e3%81%9d%e3%81%97%e3%81%a6%e3%80%81%e3%82%a2%e3%82%b8%e3%83%95%e3%83%a9/`
+- `2025-09-15-50s-mens-health-a-new-era-in-checkups-pcct-for-low-radiation-x-high-precision.md` → `https://freelife50.com/%f0%9f%a5%8e-only-three-pitches-left-and-i-still-throw/`
+- `2025-09-19-a-50s-mans-challenge-with-dental-implants-part-2.md` → `https://freelife50.com/%f0%9f%a6%b7-a-50-year-old-mans-challenge-with-dental-implants-part-1/?utm_source=chatgpt.com`
+- `2025-09-19-a-50s-mans-challenge-with-dental-implants-part-2.md` → `https://freelife50.com/%e3%80%9050s-mens-health%e3%80%91a-new-era-in-checkups-pcct-for-low-radiation-x-high-precision/`
+- `2025-09-21-a-50-year-old-mans-journey-no-more-fear.md` → `https://freelife50.com/%f0%9f%a6%b7-a-50s-mans-challenge-with-dental-implants-part-2/`
+- `2025-09-21-a-50-year-old-mans-journey-no-more-fear.md` → `https://freelife50.com/%e3%80%9050s-mens-health%e3%80%91a-new-era-in-checkups-pcct-for-low-radiation-x-high-precision/`
+- `2025-09-21-a-50-year-old-mans-journey-no-more-fear.md` → `https://freelife50.com/%ef%bc%95%ef%bc%90%e4%bb%a3%e3%81%8a%e3%81%98%e3%81%95%e3%82%93%e3%83%bc%e3%82%82%e3%81%86%e6%80%96%e3%81%8f%e3%81%aa%e3%81%84%ef%bc%81%e4%b8%8b%e5%89%a4%e3%82%82%e6%a5%bd%e3%81%a1%e3%82%93%ef%bc%81/`
+- `2025-09-26-shocked-by-my-sons-gen-z-values.md` → `https://freelife50.com/%f0%9f%a5%8e-only-three-pitches-left-and-i-still-throw/`
+- `2025-09-26-shocked-by-my-sons-gen-z-values.md` → `https://freelife50.com/%e5%ae%b6%e6%97%8f4%e4%ba%ba%e3%81%a7%e6%9c%884500%e5%86%86%ef%bc%81%e3%82%b9%e3%83%9e%e3%83%9b%e4%bb%a3%e3%82%92%e8%b3%a2%e3%81%8f%e7%af%80%e7%b4%84%e3%81%97%e3%81%a6%e6%9c%aa%e6%9d%a5%e3%81%ab/`
+- `2025-09-26-shocked-by-my-sons-gen-z-values.md` → `https://freelife50.com/50%e4%bb%a3%e3%81%ae%e5%83%95%e3%81%ab%e3%81%af%e3%81%a1%e3%82%87%e3%81%a3%e3%81%a8%e3%82%88%e3%81%8f%e3%82%8f%e3%81%8b%e3%82%89%e3%81%aa%e3%81%84%e3%80%81z%e4%b8%96%e4%bb%a3%e3%81%ae/`
+- `2025-09-26-shocked-by-my-sons-gen-z-values.md` → `https://freelife50.com/50%e4%bb%a3%e3%81%8a%e3%81%98%e3%81%95%e3%82%93%e3%80%81%e6%81%af%e5%ad%90%e4%b8%96%e4%bb%a3z%e4%b8%96%e4%bb%a3%e3%81%ae%e4%be%a1%e5%80%a4%e8%a6%b3%e3%81%ab%e9%a9%9a%e3%81%84%e3%81%9f%e3%80%82/`
+- `2025-09-28-pain-relief-tips-why-mammogram-compression-matters.md` → `https://freelife50.com/%e3%80%9050s-mens-health%e3%80%91a-new-era-in-checkups-pcct-for-low-radiation-x-high-precision/`
+- `2025-09-28-pain-relief-tips-why-mammogram-compression-matters.md` → `https://freelife50.com/%f0%9f%a6%b7-a-50-year-old-mans-challenge-with-dental-implants-part-1/`
+- `2025-09-30-mris-loud-live-show-water-instruments-played-by-a-giant-magnet-a-50s-guy-explains-the-magic.md` → `https://freelife50.com/%e3%80%9050s-mens-health%e3%80%91a-new-era-in-checkups-pcct-for-low-radiation-x-high-precision/`
+- `2025-09-30-mris-loud-live-show-water-instruments-played-by-a-giant-magnet-a-50s-guy-explains-the-magic.md` → `https://freelife50.com/%f0%9f%a6%b7-a-50-year-old-mans-challenge-with-dental-implants-part-1/`
+- `2025-10-04-50s-comeback-story-from-almost-extraction-to-recovery-in-3-weeks-how-dual-action-toothpaste-x-toothbrush-routine-dramatically-improved-my-periodontit.md` → `https://freelife50.com/%f0%9f%a6%b7-a-50-year-old-mans-challenge-with-dental-implants-part-1/`
+- `2025-10-04-50s-comeback-story-from-almost-extraction-to-recovery-in-3-weeks-how-dual-action-toothpaste-x-toothbrush-routine-dramatically-improved-my-periodontit.md` → `https://freelife50.com/%e3%80%9050s-mens-health%e3%80%91a-new-era-in-checkups-pcct-for-low-radiation-x-high-precision/`
+- `2025-10-05-real-talk-in-your-50s-the-3-in-1-card-japans-myna-drivers-license-lightens-your-wallet.md` → `https://freelife50.com/%e5%ae%b6%e6%97%8f4%e4%ba%ba%e3%81%a7%e6%9c%884500%e5%86%86%ef%bc%81%e3%82%b9%e3%83%9e%e3%83%9b%e4%bb%a3%e3%82%92%e8%b3%a2%e3%81%8f%e7%af%80%e7%b4%84%e3%81%97%e3%81%a6%e6%9c%aa%e6%9d%a5%e3%81%ab/`
+- `2025-10-05-real-talk-in-your-50s-the-3-in-1-card-japans-myna-drivers-license-lightens-your-wallet.md` → `https://freelife50.com/%e3%81%a9%e3%81%ae%e7%b5%8c%e6%b8%88%e5%9c%8f%e3%81%8c%e7%94%9f%e6%b4%bb%e3%82%b3%e3%82%b9%e3%83%88%e5%89%8a%e6%b8%9b%e3%81%ab%e6%9c%80%e3%82%82%e6%9c%89%e5%88%a9%ef%bc%9f%e8%a9%b1%e9%a1%8c%e3%81%ae/`
+- `2025-10-06-the-50s-decision-im-not-worth-1-an-hour-why-i-chose-to-save-my-life-not-just-my-money.md` → `https://freelife50.com/%e3%81%a9%e3%81%ae%e7%b5%8c%e6%b8%88%e5%9c%8f%e3%81%8c%e7%94%9f%e6%b4%bb%e3%82%b3%e3%82%b9%e3%83%88%e5%89%8a%e6%b8%9b%e3%81%ab%e6%9c%80%e3%82%82%e6%9c%89%e5%88%a9%ef%bc%9f%e8%a9%b1%e9%a1%8c%e3%81%ae/`
+- `2025-10-06-the-50s-decision-im-not-worth-1-an-hour-why-i-chose-to-save-my-life-not-just-my-money.md` → `https://freelife50.com/%e3%80%90real-talk-in-your-50s%e3%80%91the-3-in-1-card-japans-myna-drivers-license-lightens-your-wallet/`
+- `2025-10-06-the-50s-decision-im-not-worth-1-an-hour-why-i-chose-to-save-my-life-not-just-my-money.md` → `https://freelife50.com/%e4%bf%9d%e9%99%ba%e3%80%81%e5%85%a8%e9%83%a8%e3%82%84%e3%82%81%e3%81%be%e3%81%97%e3%81%9f%e3%80%82%e4%bb%8a%e6%80%9d%e3%81%86%e6%9c%ac%e5%bd%93%e3%81%ab%e5%bf%85%e8%a6%81%e3%81%aa%e5%82%99/`
+- `2025-10-06-the-50s-decision-im-not-worth-1-an-hour-why-i-chose-to-save-my-life-not-just-my-money.md` → `https://freelife50.com/%e3%80%9050%e4%bb%a3%e3%81%ae%e6%b1%ba%e6%96%ad%e3%80%91%e3%80%8c%e8%87%aa%e5%88%86%e3%81%af%e6%99%82%e7%b5%a6100%e5%86%86%e3%81%98%e3%82%83%e3%81%aa%e3%81%84%e3%80%8d%e2%94%80%e2%94%80%e3%81%8a/`
+- `2025-10-13-the-minimalist-revolution-in-my-50s-how-ditching-my-wallet-made-my-life-lighter.md` → `https://freelife50.com/%e3%80%90real-talk-in-your-50s%e3%80%91the-3-in-1-card-japans-myna-drivers-license-lightens-your-wallet/`
+- `2025-10-13-the-minimalist-revolution-in-my-50s-how-ditching-my-wallet-made-my-life-lighter.md` → `https://freelife50.com/%e4%bf%9d%e9%99%ba%e3%80%81%e5%85%a8%e9%83%a8%e3%82%84%e3%82%81%e3%81%be%e3%81%97%e3%81%9f%e3%80%82%e4%bb%8a%e6%80%9d%e3%81%86%e6%9c%ac%e5%bd%93%e3%81%ab%e5%bf%85%e8%a6%81%e3%81%aa%e5%82%99/`
+- `2025-10-13-the-minimalist-revolution-in-my-50s-how-ditching-my-wallet-made-my-life-lighter.md` → `https://freelife50.com/%e3%80%9050%e4%bb%a3%e3%81%ae%e6%96%ad%e6%8d%a8%e9%9b%a2%e9%9d%a9%e5%91%bd%e3%80%91%e8%b2%a1%e5%b8%83%e3%82%92%e6%8d%a8%e3%81%a6%e3%81%9f%e3%82%89%e3%80%81%e4%ba%ba%e7%94%9f%e3%81%be%e3%81%a7%e8%bb%bd/`
+- `2025-10-14-dog-friendly-trip-because-i-just-wanted-to-ride-a-ferry-a-rainy-day-drive-across-tokyo-bay.md` → `https://freelife50.com/%f0%9f%8c%8a%e5%b1%b1%e3%81%a8%e6%b5%b7%e3%81%a8%e3%80%81%e3%82%82%e3%81%bf%e3%81%98%e3%81%a8%e5%a6%bb%e3%81%a8%e3%80%82%e3%81%9d%e3%81%97%e3%81%a6%e3%80%81%e3%82%a2%e3%82%b8%e3%83%95%e3%83%a9/`
+- `2025-10-14-dog-friendly-trip-because-i-just-wanted-to-ride-a-ferry-a-rainy-day-drive-across-tokyo-bay.md` → `https://freelife50.com/%f0%9f%90%be-because-theyre-family-too-choosing-paws-green-deli-with-care/`
+- `2025-10-18-proved-in-the-rain-a-50s-hikers-challenge-in-tanzawa.md` → `https://freelife50.com/%e3%80%90%e4%b8%b9%e6%b2%a2%e3%83%bb%e6%9e%97%e9%81%93%e8%b0%b7%e5%a4%aa%e9%83%8e%e7%b7%9a-%e7%b5%82%e7%82%b9%e3%80%9c%e4%b8%8d%e5%8b%95%e3%83%8e%e6%bb%9d%e3%80%91%e9%9d%99%e3%81%91%e3%81%95%e3%81%a8/`
+- `2025-10-18-proved-in-the-rain-a-50s-hikers-challenge-in-tanzawa.md` → `https://freelife50.com/50%e4%bb%a3%e3%81%ae%e6%9c%8d%e9%81%b8%e3%81%b3%e3%81%ab%e3%83%af%e3%83%bc%e3%82%af%e3%83%9e%e3%83%b3%e3%81%af%e3%82%a2%e3%83%aa%e3%81%8b%ef%bc%9f%e2%94%80%e2%94%80%e8%b2%b7%e3%81%a3%e3%81%a6%e3%81%aa/`
+- `2025-10-18-proved-in-the-rain-a-50s-hikers-challenge-in-tanzawa.md` → `https://freelife50.com/%e9%9b%a8%e3%81%ae%e4%b8%b9%e6%b2%a2%e3%81%a7%e8%a8%bc%e6%98%8e%e3%81%95%e3%82%8c%e3%81%9f50%e4%bb%a3%e3%81%ae%e6%8c%91%e6%88%a6%e2%94%80%e2%94%80%e5%b1%b1%e8%8d%98%e3%81%ae%e7%b5%b6%e5%93%81%e3%83%a1/`
+- `2025-10-22-the-night-a-middle-aged-man-almost-cried-in-an-ocean-of-orange-light.md` → `https://freelife50.com/%e5%bf%83%e3%82%92%e6%95%b4%e3%81%88%e3%82%8b%e3%80%81%e6%97%a5%e6%9b%9c%e6%97%a5%e3%81%ae%e5%b0%8f%e5%b1%b1%e7%94%b0%e7%b7%91%e5%9c%b0/`
+- `2025-10-22-the-night-a-middle-aged-man-almost-cried-in-an-ocean-of-orange-light.md` → `https://freelife50.com/%e9%9d%99%e3%81%8b%e3%81%aa%e6%b6%99%e3%81%ae%e3%81%82%e3%81%a8%e3%81%ab%e3%80%81%e3%81%9d%e3%81%a3%e3%81%a8%e5%b1%8a%e3%81%84%e3%81%9f%e3%81%ac%e3%81%8f%e3%82%82%e3%82%8a%e3%80%80%e3%80%80%e3%80%80/`
+- `2025-10-26-1700-car-inspection-and-15-years-of-family-memories.md` → `https://freelife50.com/%e5%ae%b6%e6%97%8f4%e4%ba%ba%e3%81%a7%e6%9c%884500%e5%86%86%ef%bc%81%e3%82%b9%e3%83%9e%e3%83%9b%e4%bb%a3%e3%82%92%e8%b3%a2%e3%81%8f%e7%af%80%e7%b4%84%e3%81%97%e3%81%a6%e6%9c%aa%e6%9d%a5%e3%81%ab/`
+- `2025-10-26-1700-car-inspection-and-15-years-of-family-memories.md` → `https://freelife50.com/%f0%9f%9a%97%f0%9f%90%95%e3%80%90dog-friendly-trip%e3%80%91because-i-just-wanted-to-ride-a-ferry-%e2%94%80-a-rainy-day-drive-across-tokyo-bay/`
+- `2025-11-02-review-imeea-double-wall-stainless-ramen-bowl-totally-worth-it.md` → `https://freelife50.com/%f0%9f%9a%97-1700-car-inspection-and-15-years-of-family-memories/`
+- `2025-11-02-review-imeea-double-wall-stainless-ramen-bowl-totally-worth-it.md` → `https://freelife50.com/%f0%9f%9a%97%f0%9f%90%95%e3%80%90dog-friendly-trip%e3%80%91because-i-just-wanted-to-ride-a-ferry-%e2%94%80-a-rainy-day-drive-across-tokyo-bay/`
+- `2025-11-05-a-50-year-olds-gentle-hike-up-mt-ono.md` → `https://freelife50.com/%e3%80%90%e4%b8%b9%e6%b2%a2%e3%83%bb%e6%9e%97%e9%81%93%e8%b0%b7%e5%a4%aa%e9%83%8e%e7%b7%9a-%e7%b5%82%e7%82%b9%e3%80%9c%e4%b8%8d%e5%8b%95%e3%83%8e%e6%bb%9d%e3%80%91%e9%9d%99%e3%81%91%e3%81%95%e3%81%a8/`
+- `2025-11-07-waking-up-at-4-a-m-changed-my-life.md` → `https://freelife50.com/%f0%9f%a5%8e-only-three-pitches-left-and-i-still-throw/`
+- `2025-11-07-waking-up-at-4-a-m-changed-my-life.md` → `https://freelife50.com/%f0%9f%8c%8a%e5%b1%b1%e3%81%a8%e6%b5%b7%e3%81%a8%e3%80%81%e3%82%82%e3%81%bf%e3%81%98%e3%81%a8%e5%a6%bb%e3%81%a8%e3%80%82%e3%81%9d%e3%81%97%e3%81%a6%e3%80%81%e3%82%a2%e3%82%b8%e3%83%95%e3%83%a9/`
+- `2025-11-07-waking-up-at-4-a-m-changed-my-life.md` → `https://freelife50.com/health-check-running/`
+- `2025-11-11-a-50-year-olds-reflection-in-yushin-valley.md` → `https://freelife50.com/%f0%9f%8f%94%ef%b8%8f-a-50-year-olds-gentle-hike-up-mt-ono/`
+- `2025-11-16-a-50-year-olds-secret-sanctuary-the-sagamihara-planetarium-3-50-is-a-hidden-gem.md` → `https://freelife50.com/%f0%9f%8c%85-waking-up-at-4-a-m-changed-my-life/`
+- `2025-11-16-a-50-year-olds-secret-sanctuary-the-sagamihara-planetarium-3-50-is-a-hidden-gem.md` → `https://freelife50.com/%e5%bf%83%e3%82%92%e6%95%b4%e3%81%88%e3%82%8b%e3%80%81%e6%97%a5%e6%9b%9c%e6%97%a5%e3%81%ae%e5%b0%8f%e5%b1%b1%e7%94%b0%e7%b7%91%e5%9c%b0/`
+- `2025-11-23-doggyman-white-vs-green-which-whident-chew-is-best.md` → `https://freelife50.com/%f0%9f%90%be-because-theyre-family-too-choosing-paws-green-deli-with-care/`
+- `2025-11-23-doggyman-white-vs-green-which-whident-chew-is-best.md` → `https://freelife50.com/%f0%9f%90%be%e3%82%82%e3%81%bf%e3%81%98%e3%81%ae%e7%99%92%e3%81%97%e3%80%81%e5%a3%81%e3%81%ae%e5%90%91%e3%81%93%e3%81%86%e3%81%8b%e3%82%89%e3%81%93%e3%82%93%e3%81%ab%e3%81%a1%e3%81%af/`
+- `2025-11-23-doggyman-white-vs-green-which-whident-chew-is-best.md` → `https://freelife50.com/%e3%80%9050s-comeback-story%e3%80%91-from-almost-extraction-to-recovery-in-3-weeks-how-dual-action-toothpaste-x-toothbrush-routine-dramatically-improved-my-periodontit/`
+- `2025-11-25-kanagawa-japan.md` → `https://freelife50.com/%f0%9f%8f%94%ef%b8%8f-a-50-year-olds-gentle-hike-up-mt-ono/`
+- `2025-11-25-kanagawa-japan.md` → `https://freelife50.com/%e3%80%8e%e5%88%9d%e5%a4%8f%e3%81%ae%e3%83%91%e3%83%af%e3%83%bc%e3%82%b9%e3%83%9d%e3%83%83%e3%83%88%e5%b7%a1%e3%82%8a%e2%94%80%e2%94%80%e3%82%a2%e3%82%af%e3%82%bb%e3%82%b9%e7%88%86%e4%b8%8a%e3%81%8c/`
+- `2025-11-25-kanagawa-japan.md` → `https://freelife50.com/%e3%80%90%e4%b8%b9%e6%b2%a2%e3%83%bb%e6%9e%97%e9%81%93%e8%b0%b7%e5%a4%aa%e9%83%8e%e7%b7%9a-%e7%b5%82%e7%82%b9%e3%80%9c%e4%b8%8d%e5%8b%95%e3%83%8e%e6%bb%9d%e3%80%91%e9%9d%99%e3%81%91%e3%81%95%e3%81%a8/`
+- `2025-11-26-why-a-50-year-old-guy-becomes-a-rookie-star-at-the-pool-on-weekdays.md` → `https://freelife50.com/health-check-running/`
+- `2025-11-26-why-a-50-year-old-guy-becomes-a-rookie-star-at-the-pool-on-weekdays.md` → `https://freelife50.com/50%e4%bb%a3%e3%81%8a%e3%81%98%e3%81%95%e3%82%93%e3%80%81%e5%b9%b3%e6%97%a5%e3%83%97%e3%83%bc%e3%83%ab%e3%81%a7%e3%80%8c%e6%9c%9f%e5%be%85%e3%81%ae%e6%96%b0%e4%ba%ba%e3%80%8d%e6%89%b1%e3%81%84%e3%81%95/`
+- `2025-12-07-ultra-time-efficient-a-50-year-old-guy-conquered-two-1700m-peaks-in-just-2-5-hours.md` → `https://freelife50.com/%f0%9f%8f%94%ef%b8%8f-a-50-year-olds-gentle-hike-up-mt-ono/`
+- `2025-12-07-ultra-time-efficient-a-50-year-old-guy-conquered-two-1700m-peaks-in-just-2-5-hours.md` → `https://freelife50.com/%f0%9f%8d%81-kanagawa-japan/`
+- `2025-12-10-urgent-bra-tops-are-the-ultimate-no-go.md` → `https://freelife50.com/%e3%80%9050s-mens-health%e3%80%91a-new-era-in-checkups-pcct-for-low-radiation-x-high-precision/`
+- `2025-12-10-urgent-bra-tops-are-the-ultimate-no-go.md` → `https://freelife50.com/%e3%80%90pain-relief-tips%e3%80%91why-mammogram-compression-matters/`
+- `2025-12-10-urgent-bra-tops-are-the-ultimate-no-go.md` → `https://freelife50.com/%e3%80%90%e7%b7%8a%e6%80%a5%e3%80%91%e3%83%96%e3%83%a9%e3%83%88%e3%83%83%e3%83%97%e3%81%af%e6%9c%80%e5%bc%b7ng/`
+- `2025-12-14-a-man-in-his-50s-torn-between-ai-subscriptions.md` → `https://freelife50.com/ai%e3%81%af%e3%81%a8%e3%82%82%e3%81%a0%e3%81%a1%e3%80%82%e3%81%be%e3%81%a0%e8%aa%b0%e3%82%82%e8%a6%8b%e3%81%a6%e3%81%b8%e3%82%93%e3%81%91%e3%81%a9%e3%80%81%e3%81%9d%e3%82%8c%e3%81%a7%e3%82%82%e6%9b%b8/`
+- `2025-12-14-a-man-in-his-50s-torn-between-ai-subscriptions.md` → `https://freelife50.com/%f0%9f%91%89-even-if-i-forget-youre-still-here-can-chatgpt-be-our-future-companion/`
+- `2025-12-14-a-man-in-his-50s-torn-between-ai-subscriptions.md` → `https://freelife50.com/50%e4%bb%a3%e3%81%8a%e3%81%98%e3%81%95%e3%82%93%e3%80%81ai%e8%aa%b2%e9%87%91%e3%81%a9%e3%81%a3%e3%81%a1%ef%bc%9f%e8%bf%b7%e8%b5%b0%e3%81%ae%e6%9c%ab%e3%81%ab%e8%a6%8b%e3%81%a4%e3%81%91%e3%81%9f/`
+- `2025-12-18-a-man-in-his-50s-finally-bought-an-iphone-17.md` → `https://freelife50.com/%e5%ae%b6%e6%97%8f4%e4%ba%ba%e3%81%a7%e6%9c%884500%e5%86%86%ef%bc%81%e3%82%b9%e3%83%9e%e3%83%9b%e4%bb%a3%e3%82%92%e8%b3%a2%e3%81%8f%e7%af%80%e7%b4%84%e3%81%97%e3%81%a6%e6%9c%aa%e6%9d%a5%e3%81%ab/`
+- `2025-12-18-a-man-in-his-50s-finally-bought-an-iphone-17.md` → `https://freelife50.com/50%e4%bb%a3%e3%81%8a%e3%81%98%e3%81%95%e3%82%93%e3%80%81%e3%81%a4%e3%81%84%e3%81%abiphone-17%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc/`
+- `2025-12-20-closed-hachioji-taishoken.md` → `https://freelife50.com/%f0%9f%8d%9c%e3%80%8c%e3%81%a1%e3%82%83%e3%82%93%e7%b3%bb%e3%83%a9%e3%83%bc%e3%83%a1%e3%83%b3%e3%80%8d%e3%81%8c%e6%b0%97%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%a6%e4%bb%95%e6%96%b9%e3%81%aa%e3%81%84/`
+- `2025-12-20-closed-hachioji-taishoken.md` → `https://freelife50.com/%e3%81%95%e3%82%88%e3%81%aa%e3%82%89%e3%80%81%e3%82%b7%e3%83%8e%e3%83%93%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc%e2%94%80%e2%94%80%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e7%b5%82%e4%ba%86%e3%81%8c%e6%95%99/`
+- `2025-12-20-closed-hachioji-taishoken.md` → `https://freelife50.com/%e3%80%90%e9%96%89%e5%ba%97%e3%80%91%e5%85%ab%e7%8e%8b%e5%ad%90%e5%a4%a7%e5%8b%9d%e8%bb%92%e3%80%82%e6%9c%80%e5%be%8c%e3%81%ae%e4%b8%80%e6%9d%af%e3%81%ab%e3%80%81%e3%81%82%e3%81%88%e3%81%a6%e3%80%8c/`
+- `2025-12-28-a-man-in-his-50s-goes-to-see-avatar.md` → `https://freelife50.com/%f0%9f%8e%83-the-night-a-middle-aged-man-almost-cried-in-an-ocean-of-orange-light/`
+- `2025-12-28-a-man-in-his-50s-goes-to-see-avatar.md` → `https://freelife50.com/%f0%9f%9a%97%f0%9f%90%95%e3%80%90dog-friendly-trip%e3%80%91because-i-just-wanted-to-ride-a-ferry-%e2%94%80-a-rainy-day-drive-across-tokyo-bay/`
+- `2025-12-28-a-man-in-his-50s-goes-to-see-avatar.md` → `https://freelife50.com/%e2%ad%90-a-50-year-olds-secret-sanctuary-the-sagamihara-planetarium-3-50-is-a-hidden-gem/`
+- `2025-12-28-a-man-in-his-50s-goes-to-see-avatar.md` → `https://freelife50.com/50%e4%bb%a3%e3%81%8a%e3%81%98%e3%81%95%e3%82%93%e3%80%81%e3%82%a2%e3%83%90%e3%82%bf%e3%83%bc%e3%82%92%e8%a6%b3%e3%81%ab%e8%a1%8c%e3%81%8f%e3%80%82%e6%84%9f%e5%8b%95%e3%81%af%e8%96%84%e3%82%81%e3%80%81/`
+- `2025-12-31-a-surprisingly-quiet-sunday-at-year-end-a-no-regret-walking-guide-to-machida-yakushiike-park.md` → `https://freelife50.com/%f0%9f%9a%97%f0%9f%90%95%e3%80%90dog-friendly-trip%e3%80%91because-i-just-wanted-to-ride-a-ferry-%e2%94%80-a-rainy-day-drive-across-tokyo-bay/`
+- `2025-12-31-a-surprisingly-quiet-sunday-at-year-end-a-no-regret-walking-guide-to-machida-yakushiike-park.md` → `https://freelife50.com/%f0%9f%8f%94%ef%b8%8f-a-50-year-olds-gentle-hike-up-mt-ono/`
+- `2025-12-31-a-surprisingly-quiet-sunday-at-year-end-a-no-regret-walking-guide-to-machida-yakushiike-park.md` → `https://freelife50.com/%e2%ad%90-a-50-year-olds-secret-sanctuary-the-sagamihara-planetarium-3-50-is-a-hidden-gem/`
+- `2026-01-07-a-50-something-man-pauses-in-front-of-a-supermarket-price-tag.md` → `https://freelife50.com/a-middle-aged-man-rethinks-life-planning/`
+- `2026-01-07-a-50-something-man-pauses-in-front-of-a-supermarket-price-tag.md` → `https://freelife50.com/i-quit-all-my-insurance/`
+- `2026-01-07-a-50-something-man-pauses-in-front-of-a-supermarket-price-tag.md` → `https://freelife50.com/how-we-cut-smartphone-costs/`
+- `2026-01-07-a-50-something-man-pauses-in-front-of-a-supermarket-price-tag.md` → `https://freelife50.com/%e3%82%b9%e3%83%bc%e3%83%91%e3%83%bc%e3%81%ae%e5%80%a4%e6%9c%ad%e3%81%ae%e5%89%8d%e3%81%a7%e7%ab%8b%e3%81%a1%e6%ad%a2%e3%81%be%e3%81%a3%e3%81%9f%e3%80%8250%e4%bb%a3%e3%81%ae%e3%81%8a%e3%81%98%e3%81%95/`
+- `2026-01-07-most-unsolicited-offers-are-better-refused-my-story.md` → `https://freelife50.com/%e4%bf%9d%e9%99%ba%e3%80%81%e5%85%a8%e9%83%a8%e3%82%84%e3%82%81%e3%81%be%e3%81%97%e3%81%9f%e3%80%82%e4%bb%8a%e6%80%9d%e3%81%86%e6%9c%ac%e5%bd%93%e3%81%ab%e5%bf%85%e8%a6%81%e3%81%aa%e5%82%99/`
+- `2026-01-07-most-unsolicited-offers-are-better-refused-my-story.md` → `https://freelife50.com/%e5%ae%b6%e6%97%8f4%e4%ba%ba%e3%81%a7%e6%9c%884500%e5%86%86%ef%bc%81%e3%82%b9%e3%83%9e%e3%83%9b%e4%bb%a3%e3%82%92%e8%b3%a2%e3%81%8f%e7%af%80%e7%b4%84%e3%81%97%e3%81%a6%e6%9c%aa%e6%9d%a5%e3%81%ab/`
+- `2026-01-07-most-unsolicited-offers-are-better-refused-my-story.md` → `https://freelife50.com/%e5%90%91%e3%81%93%e3%81%86%e3%81%8b%e3%82%89%e3%82%84%e3%81%a3%e3%81%a6%e6%9d%a5%e3%82%8b%e8%a9%b1%e3%81%af%e3%80%81%e3%81%a0%e3%81%84%e3%81%9f%e3%81%84%e6%96%ad%e3%81%a3%e3%81%a6%e6%ad%a3%e8%a7%a3/`
+- `2026-01-09-i-thought-id-be-fine-the-moment-that-gave-a-50-something-a-chill.md` → `https://freelife50.com/ai%e3%83%ad%e3%83%9e%e3%83%b3%e3%82%b9%e8%a9%90%e6%ac%ba%e3%81%8b%e3%82%89%e8%80%83%e3%81%88%e3%81%9f%e3%80%82%e3%80%8cai%e3%81%af%e6%82%aa%e8%80%85%e3%81%98%e3%82%83%e3%81%aa%e3%81%84%e3%80%82/`
+- `2026-01-09-i-thought-id-be-fine-the-moment-that-gave-a-50-something-a-chill.md` → `https://freelife50.com/%e4%bf%9d%e9%99%ba%e3%80%81%e5%85%a8%e9%83%a8%e3%82%84%e3%82%81%e3%81%be%e3%81%97%e3%81%9f%e3%80%82%e4%bb%8a%e6%80%9d%e3%81%86%e6%9c%ac%e5%bd%93%e3%81%ab%e5%bf%85%e8%a6%81%e3%81%aa%e5%82%99/`
+- `2026-01-09-i-thought-id-be-fine-the-moment-that-gave-a-50-something-a-chill.md` → `https://freelife50.com/%e3%80%8c%e8%87%aa%e5%88%86%e3%81%af%e5%a4%a7%e4%b8%88%e5%a4%ab%e3%80%8d%e3%81%a3%e3%81%a6%e6%80%9d%e3%81%a3%e3%81%a6%e3%81%9f50%e4%bb%a3%e3%81%8c%e3%80%81%e4%b8%80%e7%95%aa%e3%83%92%e3%83%a4%e3%83%83/`
+- `2026-01-15-theres-a-mt-takao-in-yokohama-you-know.md` → `https://freelife50.com/a-surprisingly-quiet-sunday-at-year-end%e3%80%80%e3%80%80%e3%80%80a-no-regret-walking-guide-to-machida-yakushiike-park/`
+- `2026-01-15-theres-a-mt-takao-in-yokohama-you-know.md` → `https://freelife50.com/%f0%9f%8d%81-kanagawa-japan/`
+- `2026-01-15-theres-a-mt-takao-in-yokohama-you-know.md` → `https://freelife50.com/%e3%80%90%e4%bf%9d%e5%ad%98%e7%89%88%e3%80%91%e6%a8%aa%e6%b5%9c%e3%81%ab%e3%82%82%e3%80%8c%e9%ab%98%e5%b0%be%e5%b1%b1%e3%80%8d%e3%81%8c%e3%81%82%e3%82%8b%e3%82%93%e3%82%84%e3%81%a7%e3%80%82%e6%ad%b4/`
+- `2026-01-26-a-50-something-guy-visits-ichiyajo-at-0c-walking-with-my-dog-to-clear-my-mind.md` → `https://freelife50.com/%f0%9f%8d%82-a-50-year-olds-reflection-in-yushin-valley/`
+- `2026-01-26-a-50-something-guy-visits-ichiyajo-at-0c-walking-with-my-dog-to-clear-my-mind.md` → `https://freelife50.com/%f0%9f%9a%97%f0%9f%90%95%e3%80%90dog-friendly-trip%e3%80%91because-i-just-wanted-to-ride-a-ferry-%e2%94%80-a-rainy-day-drive-across-tokyo-bay/`
+- `2026-01-26-a-50-something-guy-visits-ichiyajo-at-0c-walking-with-my-dog-to-clear-my-mind.md` → `https://freelife50.com/50%e4%bb%a3%e3%81%8a%e3%81%98%e3%81%95%e3%82%93%e3%80%810%e2%84%83%e3%81%ae%e4%b8%80%e5%a4%9c%e5%9f%8e%e3%81%b8%e3%80%82%e7%8a%ac%e3%81%a8%e6%ad%a9%e3%81%84%e3%81%a6%e5%bf%83%e3%81%8c%e6%95%b4/`
+- `2026-02-02-i-seriously-underestimated-hachioji-castle-ruins.md` → `https://freelife50.com/%e5%85%ab%e7%8e%8b%e5%ad%90%e5%9f%8e%e8%b7%a1%e3%82%92%e3%80%81%e6%ad%a3%e7%9b%b4%e3%81%a1%e3%82%87%e3%81%a3%e3%81%a8%e8%88%90%e3%82%81%e3%81%a6%e3%81%9f%e3%80%82%e2%94%80%e2%94%80%e6%bb%91%e8%90%bd/`
+- `2026-02-13-from-tateishi-to-mt-okusu-in-0c-snow-and-the-life-saving-lunch-pack-4h-09m-to-kinugasa.md` → `https://freelife50.com/%f0%9f%8d%82-a-50-year-olds-reflection-in-yushin-valley/`
+- `2026-02-13-from-tateishi-to-mt-okusu-in-0c-snow-and-the-life-saving-lunch-pack-4h-09m-to-kinugasa.md` → `https://freelife50.com/%f0%9f%8d%81-kanagawa-japan/`
+- `2026-03-01-mt-takao-walked-with-my-son.md` → `https://freelife50.com/%f0%9f%a5%8e-only-three-pitches-left-and-i-still-throw/`
+- `2026-03-01-mt-takao-walked-with-my-son.md` → `https://freelife50.com/%e6%81%af%e5%ad%90%e3%81%a8%e6%ad%a9%e3%81%84%e3%81%9f%e9%ab%98%e5%b0%be%e5%b1%b1%e3%80%82%e7%a8%b2%e8%8d%b7%e5%b1%b1%e3%82%b3%e3%83%bc%e3%82%b9%e3%81%8b%e3%82%89%e8%96%ac%e7%8e%8b%e9%99%a2%e3%80%81/`
+- `2026-03-10-the-night-i-ran-out-of-blog-ideas-i-decided-to-become-a-beer-livestreamer.md` → `https://freelife50.com/%e3%82%bf%e3%82%a4%e3%83%88%e3%83%ab%ef%bc%9a/`
+- `2026-03-10-the-night-i-ran-out-of-blog-ideas-i-decided-to-become-a-beer-livestreamer.md` → `https://freelife50.com/%e3%83%96%e3%83%ad%e3%82%b0%e3%83%8d%e3%82%bf%e5%88%87%e3%82%8c%e3%81%ab%e8%a9%b0%e3%82%93%e3%81%a0%e5%a4%9c%e3%80%81%e5%83%95%e3%81%af%e6%99%a9%e9%85%8c%e3%83%a9%e3%82%a4%e3%83%90%e3%83%bc/`
+- `2026-03-17-is-kinchakuda-manjushage-park-good-for-walking-with-dogs.md` → `https://freelife50.com/%e5%b9%b4%e6%9c%ab%e3%81%ae%e6%97%a5%e6%9b%9c%e3%81%8c%e6%84%8f%e5%a4%96%e3%81%a8%e7%a9%b4%e5%a0%b4%e3%82%84%e3%81%a3%e3%81%9f%e3%80%82%e7%94%ba%e7%94%b0%e3%83%bb%e8%96%ac%e5%b8%ab%e6%b1%a0%e5%85%ac/`
+- `2026-03-17-is-kinchakuda-manjushage-park-good-for-walking-with-dogs.md` → `https://freelife50.com/%e8%a6%b3%e9%9f%b3%e5%b4%8e%e3%81%ae%e6%b5%b7%e3%81%a8%e3%80%81%e7%81%af%e5%8f%b0%e3%81%a8%e3%80%81%e3%82%82%e3%81%bf%e3%81%98%e3%81%a8%e3%80%82/`
+- `2026-03-17-is-kinchakuda-manjushage-park-good-for-walking-with-dogs.md` → `https://freelife50.com/%f0%9f%8c%bf%e8%8c%85%e3%82%b1%e5%b4%8e%e9%87%8c%e5%b1%b1%e5%85%ac%e5%9c%92%e3%81%a7%e6%97%a5%e5%b8%b8%e3%82%92%e6%b7%b1%e5%91%bc%e5%90%b8%e3%81%97%e3%81%a6%e3%81%8d%e3%81%9f/`
+- `2026-03-17-is-kinchakuda-manjushage-park-good-for-walking-with-dogs.md` → `https://freelife50.com/%e5%b7%be%e7%9d%80%e7%94%b0%e6%9b%bc%e7%8f%a0%e6%b2%99%e8%8f%af%e5%85%ac%e5%9c%92%e3%81%af%e7%8a%ac%e9%80%a3%e3%82%8c%e6%95%a3%e6%ad%a9%e3%81%ab%e3%81%8a%e3%81%99%e3%81%99%e3%82%81%ef%bc%9f/`
+- `2026-03-20-the-day-i-noticed-the-scent-of-sakura-and-my-shiba-inu-who-only-cared-about-the-river.md` → `https://freelife50.com/%f0%9f%8c%bf%e8%8c%85%e3%82%b1%e5%b4%8e%e9%87%8c%e5%b1%b1%e5%85%ac%e5%9c%92%e3%81%a7%e6%97%a5%e5%b8%b8%e3%82%92%e6%b7%b1%e5%91%bc%e5%90%b8%e3%81%97%e3%81%a6%e3%81%8d%e3%81%9f/`
+- `2026-03-20-the-day-i-noticed-the-scent-of-sakura-and-my-shiba-inu-who-only-cared-about-the-river.md` → `https://freelife50.com/a-surprisingly-quiet-sunday-at-year-end%e3%80%80%e3%80%80%e3%80%80a-no-regret-walking-guide-to-machida-yakushiike-park/`
+- `2026-03-20-the-day-i-noticed-the-scent-of-sakura-and-my-shiba-inu-who-only-cared-about-the-river.md` → `https://freelife50.com/%e6%a1%9c%e3%81%ae%e5%8c%82%e3%81%84%e3%81%ab%e6%b0%97%e3%81%a5%e3%81%84%e3%81%9f%e6%97%a5%e3%81%a8%e3%80%81%e5%b7%9d%e3%81%97%e3%81%8b%e8%a6%8b%e3%81%a6%e3%81%aa%e3%81%84%e6%9f%b4%e7%8a%ac%e3%81%ae/`
+- `2026-04-04-hiking-kobo-yama-bbq-a-perfect-spring-day-close-to-the-city.md` → `https://freelife50.com/%f0%9f%8d%81-kanagawa-japan/`
+- `2026-04-04-hiking-kobo-yama-bbq-a-perfect-spring-day-close-to-the-city.md` → `https://freelife50.com/%e5%bc%98%e6%b3%95%e5%b1%b1%e3%81%8a%e8%8a%b1%e8%a6%8b%e3%83%8f%e3%82%a4%e3%82%af%ef%bc%86bbq-%e6%a1%9c%e3%81%a8%e3%82%b3%e3%83%bc%e3%82%b9%e3%81%a8%e3%80%81%e3%81%a1%e3%82%87/`
+- `2026-04-15-coffee-addicts-weight-loss-just-switch-your-daily-brew.md` → `https://freelife50.com/%f0%9f%8c%8a%e5%b1%b1%e3%81%a8%e6%b5%b7%e3%81%a8%e3%80%81%e3%82%82%e3%81%bf%e3%81%98%e3%81%a8%e5%a6%bb%e3%81%a8%e3%80%82%e3%81%9d%e3%81%97%e3%81%a6%e3%80%81%e3%82%a2%e3%82%b8%e3%83%95%e3%83%a9/`
+- `2026-04-15-coffee-addicts-weight-loss-just-switch-your-daily-brew.md` → `https://freelife50.com/%e3%80%9050s-comeback-story%e3%80%91-from-almost-extraction-to-recovery-in-3-weeks-how-dual-action-toothpaste-x-toothbrush-routine-dramatically-improved-my-periodontit/`
+- `2026-04-16-komachi-shrine-takamatsu-hiking-en.md` → `https://freelife50.com/%e5%bc%98%e6%b3%95%e5%b1%b1%e3%81%8a%e8%8a%b1%e8%a6%8b%e3%83%8f%e3%82%a4%e3%82%af%ef%bc%86bbq-%e6%a1%9c%e3%81%a8%e3%82%b3%e3%83%bc%e3%82%b9%e3%81%a8%e3%80%81%e3%81%a1%e3%82%87/`
+- `2026-04-16-komachi-shrine-takamatsu-hiking-en.md` → `https://freelife50.com/%e6%81%af%e5%ad%90%e3%81%a8%e6%ad%a9%e3%81%84%e3%81%9f%e9%ab%98%e5%b0%be%e5%b1%b1%e3%80%82%e7%a8%b2%e8%8d%b7%e5%b1%b1%e3%82%b3%e3%83%bc%e3%82%b9%e3%81%8b%e3%82%89%e8%96%ac%e7%8e%8b%e9%99%a2%e3%80%81/`
+- `2026-04-16-ninomiya-sodegaura-hiking-en.md` → `https://freelife50.com/%f0%9f%8f%94%ef%b8%8f-a-50-year-olds-gentle-hike-up-mt-ono/`
+- `2026-04-18-yokohama-kodomo-shizen-park-firefly-en.md` → `https://freelife50.com/yokohama-kodomo-shizen-park-firefly/`
+- `2026-04-19-momiji-rabies-vaccine-en.md` → `https://freelife50.com/%f0%9f%90%be-%e5%ae%b6%e6%97%8f%e3%81%a0%e3%81%8b%e3%82%89%e3%80%81%e9%a3%9f%e3%81%b9%e3%82%8b%e3%82%82%e3%81%ae%e3%81%ab%e3%82%82%e3%82%84%e3%81%95%e3%81%97%e3%81%95%e3%82%92/`
+- `2026-04-19-momiji-rabies-vaccine-en.md` → `https://freelife50.com/%f0%9f%90%95%f0%9f%a6%b7%e3%80%90%e3%82%82%e3%81%86%e5%a4%b1%e6%95%97%e3%81%97%e3%81%aa%e3%81%84%ef%bc%81%e3%80%91/`
+- `2026-04-21-hakone-museum-of-art-gardener-en.md` → `https://freelife50.com/50%e4%bb%a3%e3%81%8a%e3%81%98%e3%81%95%e3%82%93%e3%80%810%e2%84%83%e3%81%ae%e4%b8%80%e5%a4%9c%e5%9f%8e%e3%81%b8%e3%80%82%e7%8a%ac%e3%81%a8%e6%ad%a9%e3%81%84%e3%81%a6%e5%bf%83%e3%81%8c%e6%95%b4/`
+- `2026-04-21-hakone-museum-of-art-gardener-en.md` → `https://freelife50.com/%e2%ad%90%e3%80%9050%e4%bb%a3%e3%81%8a%e3%81%98%e3%81%95%e3%82%93%e3%81%8c%e6%9c%ac%e6%b0%97%e3%81%a7%e3%82%b9%e3%82%b9%e3%83%a1%e3%82%8b%e5%a4%a7%e4%ba%ba%e3%81%ae%e9%81%bf%e9%9b%a3%e6%89%80%e3%80%91/`
+- `2026-04-21-hakone-museum-of-art-gardener-en.md` → `https://freelife50.com/yokohama-kodomo-shizen-park-firefly/`
+- `2026-04-23-what-if-i-put-a-figurine-of-my-late-parents-on-the-buddhist-altar-would-it-feel-like-they-are-still-here.md` → `https://freelife50.com/a-magical-brush-for-my-wife/`
+
+## JA記事 → en.freelife50.com リンク（確認必要）
+- なし
+
+## WordPress残存リンク
+- `2026-04-18-could-i-quietly-gift-this-to-my-wife-researching-the-magic-brush-from-reiwa-no-tora.md` [wp-admin/?p=] → `https://freelife50.com/?p=3706`
+- `2026-04-18-could-i-quietly-gift-this-to-my-wife-researching-the-magic-brush-from-reiwa-no-tora.md` [wp-admin/?p=] → `https://freelife50.com/?p=3767`
+- `2026-04-18-could-i-quietly-gift-this-to-my-wife-researching-the-magic-brush-from-reiwa-no-tora.md` [wp-admin/?p=] → `https://freelife50.com/?p=3831`
+- `2026-04-18-妻にこっそり贈れるか-令和の虎の-魔法のブラ.md` [wp-admin/?p=] → `https://freelife50.com/?p=3700`
+- `2026-04-18-妻にこっそり贈れるか-令和の虎の-魔法のブラ.md` [wp-admin/?p=] → `https://freelife50.com/?p=3762`
+- `2026-04-18-妻にこっそり贈れるか-令和の虎の-魔法のブラ.md` [wp-admin/?p=] → `https://freelife50.com/?p=3813`
+- `2026-04-23-写真から作るフィギュアに魂が宿る-そんな気が.md` [wp-admin/?p=] → `https://freelife50.com/?p=2867`
+
+## target=_blank でnoopener未設定
+対象: 0件（記事内HTMLの外部リンク）
+
+## 自動修正対象（EN→en.freelife50.com 書き換え）
+- 2025-06-10-only-three-pitches-left-and-i-still-throw.md: `https://freelife50.com/in-my-50s-i-asked-myself-is-this-really-it-and-took-a-step-with-blogging/` → `https://en.freelife50.com/in-my-50s-i-asked-myself-is-this-really-it-and-took-a-step-with-blogging/`
+- 2025-06-11-even-if-i-forget-youre-still-here-can-chatgpt-be-our-future-companion.md: `https://freelife50.com/in-my-50s-i-asked-myself-is-this-really-it-and-took-a-step-with-blogging/` → `https://en.freelife50.com/in-my-50s-i-asked-myself-is-this-really-it-and-took-a-step-with-blogging/`
+- 2025-06-16-notepin-my-future-second-brain-but-do-i-really-need-it.md: `https://freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/` → `https://en.freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/`
+- 2025-06-19-two-subarus-one-legacy-what-mf-ghost-inherits-from-initial-d.md: `https://freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/` → `https://en.freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/`
+- 2025-06-21-title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s.md: `https://freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/` → `https://en.freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/`
+- 2025-06-22-the-day-i-finally-chose-to-choose-a-quiet-shift-toward-the-ballot-box.md: `https://freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/` → `https://en.freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/`
+- 2025-06-26-if-smart-rings-could-care-6-future-features-we-quietly-wish-for.md: `https://freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/` → `https://en.freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/`
+- 2025-06-30-corewarm-and-the-quiet-heat-a-belly-wrap-journey-in-your-50s.md: `https://freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/` → `https://en.freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/`
+- 2025-07-01-crafted-in-japan-the-250-pillow-that-changed-how-i-sleep-in-my-50s.md: `https://freelife50.com/corewarm-and-the-quiet-heat-a-belly-wrap-journey-in-your-50s/` → `https://en.freelife50.com/corewarm-and-the-quiet-heat-a-belly-wrap-journey-in-your-50s/`
+- 2025-07-01-crafted-in-japan-the-250-pillow-that-changed-how-i-sleep-in-my-50s.md: `https://freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/` → `https://en.freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/`
+- 2025-07-07-a-black-swiss-beauty-in-your-bathroom-when-a-toothbrush-feels-like-a-rolex.md: `https://freelife50.com/crafted-in-japan-the-250-pillow-that-changed-how-i-sleep-in-my-50s/` → `https://en.freelife50.com/crafted-in-japan-the-250-pillow-that-changed-how-i-sleep-in-my-50s/`
+- 2025-07-07-a-black-swiss-beauty-in-your-bathroom-when-a-toothbrush-feels-like-a-rolex.md: `https://freelife50.com/corewarm-and-the-quiet-heat-a-belly-wrap-journey-in-your-50s/` → `https://en.freelife50.com/corewarm-and-the-quiet-heat-a-belly-wrap-journey-in-your-50s/`
+- 2025-07-07-a-black-swiss-beauty-in-your-bathroom-when-a-toothbrush-feels-like-a-rolex.md: `https://freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/` → `https://en.freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/`
+- 2025-07-09-could-underwear-fix-my-posture.md: `https://freelife50.com/corewarm-and-the-quiet-heat-a-belly-wrap-journey-in-your-50s/` → `https://en.freelife50.com/corewarm-and-the-quiet-heat-a-belly-wrap-journey-in-your-50s/`
+- 2025-07-09-could-underwear-fix-my-posture.md: `https://freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/` → `https://en.freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/`
+- 2025-07-09-could-underwear-fix-my-posture.md: `https://freelife50.com/crafted-in-japan-the-250-pillow-that-changed-how-i-sleep-in-my-50s/` → `https://en.freelife50.com/crafted-in-japan-the-250-pillow-that-changed-how-i-sleep-in-my-50s/`
+- 2025-07-10-to-that-slouching-back-i-care-about-a-gentle-gift-of-posture-and-gratitude.md: `https://freelife50.com/crafted-in-japan-the-250-pillow-that-changed-how-i-sleep-in-my-50s/` → `https://en.freelife50.com/crafted-in-japan-the-250-pillow-that-changed-how-i-sleep-in-my-50s/`
+- 2025-07-10-to-that-slouching-back-i-care-about-a-gentle-gift-of-posture-and-gratitude.md: `https://freelife50.com/corewarm-and-the-quiet-heat-a-belly-wrap-journey-in-your-50s/` → `https://en.freelife50.com/corewarm-and-the-quiet-heat-a-belly-wrap-journey-in-your-50s/`
+- 2025-07-10-to-that-slouching-back-i-care-about-a-gentle-gift-of-posture-and-gratitude.md: `https://freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/` → `https://en.freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/`
+- 2025-07-14-rethinking-from-the-feet-up-how-1-second-slip-on-shoes-bring-dignity-and-ease.md: `https://freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/` → `https://en.freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/`
+- 2025-07-14-rethinking-from-the-feet-up-how-1-second-slip-on-shoes-bring-dignity-and-ease.md: `https://freelife50.com/if-smart-rings-could-care-6-future-features-we-quietly-wish-for/` → `https://en.freelife50.com/if-smart-rings-could-care-6-future-features-we-quietly-wish-for/`
+- 2025-07-20-shaving-is-a-pain-but-this-isnt-just-about-beauty-is-it.md: `https://freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/` → `https://en.freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/`
+- 2025-07-20-shaving-is-a-pain-but-this-isnt-just-about-beauty-is-it.md: `https://freelife50.com/crafted-in-japan-the-250-pillow-that-changed-how-i-sleep-in-my-50s/` → `https://en.freelife50.com/crafted-in-japan-the-250-pillow-that-changed-how-i-sleep-in-my-50s/`
+- 2025-07-26-the-illusion-of-reform-the-hidden-truth-behind-the-ban-on-furusato-tax-points.md: `https://freelife50.com/who-are-these-elections-really-for-write-democratic-party-and-your-vote-goes-to-the-cdp/` → `https://en.freelife50.com/who-are-these-elections-really-for-write-democratic-party-and-your-vote-goes-to-the-cdp/`
+- 2025-07-27-a-gift-that-cares-for-her-skin-why-i-chose-coco_makana.md: `https://freelife50.com/crafted-in-japan-the-250-pillow-that-changed-how-i-sleep-in-my-50s/` → `https://en.freelife50.com/crafted-in-japan-the-250-pillow-that-changed-how-i-sleep-in-my-50s/`
+- 2025-07-27-a-gift-that-cares-for-her-skin-why-i-chose-coco_makana.md: `https://freelife50.com/to-that-slouching-back-i-care-about-a-gentle-gift-of-posture-and-gratitude/` → `https://en.freelife50.com/to-that-slouching-back-i-care-about-a-gentle-gift-of-posture-and-gratitude/`
+- 2025-08-04-because-theyre-family-too-choosing-paws-green-deli-with-care.md: `https://freelife50.com/ninomiya-sodegaura-hiking-en/` → `https://en.freelife50.com/ninomiya-sodegaura-hiking-en/`
+- 2025-08-15-a-50-something-guy-becomes-a-detective-the-mystery-of-the-monitor-and-the-wallpaper.md: `https://freelife50.com/a-50-something-guy-goes-to-a-fest-the-isekai-reincarnation-arc/` → `https://en.freelife50.com/a-50-something-guy-goes-to-a-fest-the-isekai-reincarnation-arc/`
+- 2025-08-16-a-50-something-guy-my-quest-to-become-the-spicy-king.md: `https://freelife50.com/three-bowls-all-gone-a-ramen-adventure-at-the-yokohama-museum-in-my-50s/` → `https://en.freelife50.com/three-bowls-all-gone-a-ramen-adventure-at-the-yokohama-museum-in-my-50s/`
+- 2025-08-19-how-a-50-year-old-man-found-youth-in-a-japanese-vending-machine-sparkling-aquarius-for-just-150-yen.md: `https://freelife50.com/a-50-something-guy-my-quest-to-become-the-spicy-king/` → `https://en.freelife50.com/a-50-something-guy-my-quest-to-become-the-spicy-king/`
+- 2025-08-19-how-a-50-year-old-man-found-youth-in-a-japanese-vending-machine-sparkling-aquarius-for-just-150-yen.md: `https://freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/` → `https://en.freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/`
+- 2025-08-22-a-50-year-old-guy-vs-the-wall-of-jiro-ramen-finishing-a-giant-bowl-with-all-the-toppings.md: `https://freelife50.com/three-bowls-all-gone-a-ramen-adventure-at-the-yokohama-museum-in-my-50s/` → `https://en.freelife50.com/three-bowls-all-gone-a-ramen-adventure-at-the-yokohama-museum-in-my-50s/`
+- 2025-08-22-a-50-year-old-guy-vs-the-wall-of-jiro-ramen-finishing-a-giant-bowl-with-all-the-toppings.md: `https://freelife50.com/a-50-something-guy-my-quest-to-become-the-spicy-king/` → `https://en.freelife50.com/a-50-something-guy-my-quest-to-become-the-spicy-king/`
+- 2025-08-24-a-50-year-old-man-becoming-the-pillar-of-sake-breathing-showdown-in-my-wifes-infinity-castle.md: `https://freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/` → `https://en.freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/`
+- 2025-08-24-a-50-year-old-man-becoming-the-pillar-of-sake-breathing-showdown-in-my-wifes-infinity-castle.md: `https://freelife50.com/a-50-something-guy-goes-to-a-fest-the-isekai-reincarnation-arc/` → `https://en.freelife50.com/a-50-something-guy-goes-to-a-fest-the-isekai-reincarnation-arc/`
+- 2025-08-30-a-middle-aged-mans-journey-from-pool-laps-to-becoming-an-astronaut-with-underwater-earphones.md: `https://freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/?utm_source=chatgpt.com` → `https://en.freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/`
+- 2025-09-02-__trashed-3.md: `https://freelife50.com/the-illusion-of-reform-the-hidden-truth-behind-the-ban-on-furusato-tax-points/` → `https://en.freelife50.com/the-illusion-of-reform-the-hidden-truth-behind-the-ban-on-furusato-tax-points/`
+- 2025-09-04-a-50-year-old-mans-guide-5-essential-apps-for-typhoon-days.md: `https://freelife50.com/chosen-by-disaster-prevention-experts-and-firefighters-in-depth-review-of-the-akamaru-emergency-44-piece-survival-kit/` → `https://en.freelife50.com/chosen-by-disaster-prevention-experts-and-firefighters-in-depth-review-of-the-akamaru-emergency-44-piece-survival-kit/`
+- 2025-09-07-a-50-year-old-mans-challenge-with-dental-implants-part-1.md: `https://freelife50.com/a-50-year-old-mans-guide-5-essential-apps-for-typhoon-days/` → `https://en.freelife50.com/a-50-year-old-mans-guide-5-essential-apps-for-typhoon-days/`
+- 2025-09-19-a-50s-mans-challenge-with-dental-implants-part-2.md: `https://freelife50.com/__trashed-3/` → `https://en.freelife50.com/__trashed-3/`
+- 2025-09-21-a-50-year-old-mans-journey-no-more-fear.md: `https://freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/` → `https://en.freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/`
+- 2025-09-28-pain-relief-tips-why-mammogram-compression-matters.md: `https://freelife50.com/a-50-year-old-mans-journey-no-more-fear/` → `https://en.freelife50.com/a-50-year-old-mans-journey-no-more-fear/`
+- 2025-09-30-mris-loud-live-show-water-instruments-played-by-a-giant-magnet-a-50s-guy-explains-the-magic.md: `https://freelife50.com/a-50-year-old-mans-journey-no-more-fear/` → `https://en.freelife50.com/a-50-year-old-mans-journey-no-more-fear/`
+- 2025-10-04-50s-comeback-story-from-almost-extraction-to-recovery-in-3-weeks-how-dual-action-toothpaste-x-toothbrush-routine-dramatically-improved-my-periodontit.md: `https://freelife50.com/a-50-year-old-mans-journey-no-more-fear/` → `https://en.freelife50.com/a-50-year-old-mans-journey-no-more-fear/`
+- 2025-10-05-real-talk-in-your-50s-the-3-in-1-card-japans-myna-drivers-license-lightens-your-wallet.md: `https://freelife50.com/a-50-year-old-mans-guide-5-essential-apps-for-typhoon-days/` → `https://en.freelife50.com/a-50-year-old-mans-guide-5-essential-apps-for-typhoon-days/`
+- 2025-10-13-the-minimalist-revolution-in-my-50s-how-ditching-my-wallet-made-my-life-lighter.md: `https://freelife50.com/the-50s-decision-im-not-worth-1-an-hour-why-i-chose-to-save-my-life-not-just-my-money/` → `https://en.freelife50.com/the-50s-decision-im-not-worth-1-an-hour-why-i-chose-to-save-my-life-not-just-my-money/`
+- 2025-10-14-dog-friendly-trip-because-i-just-wanted-to-ride-a-ferry-a-rainy-day-drive-across-tokyo-bay.md: `https://freelife50.com/ninomiya-sodegaura-hiking-en/` → `https://en.freelife50.com/ninomiya-sodegaura-hiking-en/`
+- 2025-10-18-proved-in-the-rain-a-50s-hikers-challenge-in-tanzawa.md: `https://freelife50.com/a-50-year-old-mans-guide-5-essential-apps-for-typhoon-days/` → `https://en.freelife50.com/a-50-year-old-mans-guide-5-essential-apps-for-typhoon-days/`
+- 2025-10-22-the-night-a-middle-aged-man-almost-cried-in-an-ocean-of-orange-light.md: `https://freelife50.com/proved-in-the-rain-a-50s-hikers-challenge-in-tanzawa/` → `https://en.freelife50.com/proved-in-the-rain-a-50s-hikers-challenge-in-tanzawa/`
+- 2025-10-26-1700-car-inspection-and-15-years-of-family-memories.md: `https://freelife50.com/the-50s-decision-im-not-worth-1-an-hour-why-i-chose-to-save-my-life-not-just-my-money/` → `https://en.freelife50.com/the-50s-decision-im-not-worth-1-an-hour-why-i-chose-to-save-my-life-not-just-my-money/`
+- 2025-11-02-review-imeea-double-wall-stainless-ramen-bowl-totally-worth-it.md: `https://freelife50.com/coffee-addicts-weight-loss-just-switch-your-daily-brew/` → `https://en.freelife50.com/coffee-addicts-weight-loss-just-switch-your-daily-brew/`
+- 2025-11-05-a-50-year-olds-gentle-hike-up-mt-ono.md: `https://freelife50.com/proved-in-the-rain-a-50s-hikers-challenge-in-tanzawa/` → `https://en.freelife50.com/proved-in-the-rain-a-50s-hikers-challenge-in-tanzawa/`
+- 2025-11-05-a-50-year-olds-gentle-hike-up-mt-ono.md: `https://freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/` → `https://en.freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/`
+- 2025-11-11-a-50-year-olds-reflection-in-yushin-valley.md: `https://freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/` → `https://en.freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/`
+- 2025-11-11-a-50-year-olds-reflection-in-yushin-valley.md: `https://freelife50.com/proved-in-the-rain-a-50s-hikers-challenge-in-tanzawa/` → `https://en.freelife50.com/proved-in-the-rain-a-50s-hikers-challenge-in-tanzawa/`
+- 2025-11-16-a-50-year-olds-secret-sanctuary-the-sagamihara-planetarium-3-50-is-a-hidden-gem.md: `https://freelife50.com/a-middle-aged-mans-journey-from-pool-laps-to-becoming-an-astronaut-with-underwater-earphones/` → `https://en.freelife50.com/a-middle-aged-mans-journey-from-pool-laps-to-becoming-an-astronaut-with-underwater-earphones/`
+- 2025-11-26-why-a-50-year-old-guy-becomes-a-rookie-star-at-the-pool-on-weekdays.md: `https://freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/` → `https://en.freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/`
+- 2025-11-26-why-a-50-year-old-guy-becomes-a-rookie-star-at-the-pool-on-weekdays.md: `https://freelife50.com/a-middle-aged-mans-journey-from-pool-laps-to-becoming-an-astronaut-with-underwater-earphones/` → `https://en.freelife50.com/a-middle-aged-mans-journey-from-pool-laps-to-becoming-an-astronaut-with-underwater-earphones/`
+- 2025-12-07-ultra-time-efficient-a-50-year-old-guy-conquered-two-1700m-peaks-in-just-2-5-hours.md: `https://freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/` → `https://en.freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/`
+- 2025-12-10-urgent-bra-tops-are-the-ultimate-no-go.md: `https://freelife50.com/a-50-year-old-mans-journey-no-more-fear/` → `https://en.freelife50.com/a-50-year-old-mans-journey-no-more-fear/`
+- 2025-12-14-a-man-in-his-50s-torn-between-ai-subscriptions.md: `https://freelife50.com/in-my-50s-i-asked-myself-is-this-really-it-and-took-a-step-with-blogging/` → `https://en.freelife50.com/in-my-50s-i-asked-myself-is-this-really-it-and-took-a-step-with-blogging/`
+- 2025-12-18-a-man-in-his-50s-finally-bought-an-iphone-17.md: `https://freelife50.com/a-man-in-his-50s-torn-between-ai-subscriptions/` → `https://en.freelife50.com/a-man-in-his-50s-torn-between-ai-subscriptions/`
+- 2025-12-18-a-man-in-his-50s-finally-bought-an-iphone-17.md: `https://freelife50.com/in-my-50s-i-asked-myself-is-this-really-it-and-took-a-step-with-blogging/` → `https://en.freelife50.com/in-my-50s-i-asked-myself-is-this-really-it-and-took-a-step-with-blogging/`
+- 2025-12-20-closed-hachioji-taishoken.md: `https://freelife50.com/three-bowls-all-gone-a-ramen-adventure-at-the-yokohama-museum-in-my-50s/` → `https://en.freelife50.com/three-bowls-all-gone-a-ramen-adventure-at-the-yokohama-museum-in-my-50s/`
+- 2026-01-07-most-unsolicited-offers-are-better-refused-my-story.md: `https://freelife50.com/a-50-something-man-pauses-in-front-of-a-supermarket-price-tag/` → `https://en.freelife50.com/a-50-something-man-pauses-in-front-of-a-supermarket-price-tag/`
+- 2026-01-09-i-thought-id-be-fine-the-moment-that-gave-a-50-something-a-chill.md: `https://freelife50.com/most-unsolicited-offers-are-better-refused-my-story/` → `https://en.freelife50.com/most-unsolicited-offers-are-better-refused-my-story/`
+- 2026-01-15-theres-a-mt-takao-in-yokohama-you-know.md: `https://freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/` → `https://en.freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/`
+- 2026-01-26-a-50-something-guy-visits-ichiyajo-at-0c-walking-with-my-dog-to-clear-my-mind.md: `https://freelife50.com/theres-a-mt-takao-in-yokohama-you-know/` → `https://en.freelife50.com/theres-a-mt-takao-in-yokohama-you-know/`
+- 2026-02-02-i-seriously-underestimated-hachioji-castle-ruins.md: `https://freelife50.com/i-thought-id-be-fine-the-moment-that-gave-a-50-something-a-chill/` → `https://en.freelife50.com/i-thought-id-be-fine-the-moment-that-gave-a-50-something-a-chill/`
+- 2026-02-02-i-seriously-underestimated-hachioji-castle-ruins.md: `https://freelife50.com/a-50-something-guy-visits-ichiyajo-at-0c-walking-with-my-dog-to-clear-my-mind/` → `https://en.freelife50.com/a-50-something-guy-visits-ichiyajo-at-0c-walking-with-my-dog-to-clear-my-mind/`
+- 2026-02-02-i-seriously-underestimated-hachioji-castle-ruins.md: `https://freelife50.com/theres-a-mt-takao-in-yokohama-you-know/` → `https://en.freelife50.com/theres-a-mt-takao-in-yokohama-you-know/`
+- 2026-02-13-from-tateishi-to-mt-okusu-in-0c-snow-and-the-life-saving-lunch-pack-4h-09m-to-kinugasa.md: `https://freelife50.com/a-50-something-guy-visits-ichiyajo-at-0c-walking-with-my-dog-to-clear-my-mind/` → `https://en.freelife50.com/a-50-something-guy-visits-ichiyajo-at-0c-walking-with-my-dog-to-clear-my-mind/`
+- 2026-03-01-mt-takao-walked-with-my-son.md: `https://freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/` → `https://en.freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/`
+- 2026-03-01-mt-takao-walked-with-my-son.md: `https://freelife50.com/shocked-by-my-sons-gen-z-values/` → `https://en.freelife50.com/shocked-by-my-sons-gen-z-values/`
+- 2026-03-10-the-night-i-ran-out-of-blog-ideas-i-decided-to-become-a-beer-livestreamer.md: `https://freelife50.com/in-my-50s-i-asked-myself-is-this-really-it-and-took-a-step-with-blogging/` → `https://en.freelife50.com/in-my-50s-i-asked-myself-is-this-really-it-and-took-a-step-with-blogging/`
+- 2026-03-10-the-night-i-ran-out-of-blog-ideas-i-decided-to-become-a-beer-livestreamer.md: `https://freelife50.com/why-a-50-year-old-guy-becomes-a-rookie-star-at-the-pool-on-weekdays/` → `https://en.freelife50.com/why-a-50-year-old-guy-becomes-a-rookie-star-at-the-pool-on-weekdays/`
+- 2026-03-20-the-day-i-noticed-the-scent-of-sakura-and-my-shiba-inu-who-only-cared-about-the-river.md: `https://freelife50.com/is-kinchakuda-manjushage-park-good-for-walking-with-dogs/` → `https://en.freelife50.com/is-kinchakuda-manjushage-park-good-for-walking-with-dogs/`
+- 2026-04-04-hiking-kobo-yama-bbq-a-perfect-spring-day-close-to-the-city.md: `https://freelife50.com/proved-in-the-rain-a-50s-hikers-challenge-in-tanzawa/` → `https://en.freelife50.com/proved-in-the-rain-a-50s-hikers-challenge-in-tanzawa/`
+- 2026-04-04-hiking-kobo-yama-bbq-a-perfect-spring-day-close-to-the-city.md: `https://freelife50.com/mt-takao-walked-with-my-son/` → `https://en.freelife50.com/mt-takao-walked-with-my-son/`
+- 2026-04-15-coffee-addicts-weight-loss-just-switch-your-daily-brew.md: `https://freelife50.com/why-a-50-year-old-guy-becomes-a-rookie-star-at-the-pool-on-weekdays/` → `https://en.freelife50.com/why-a-50-year-old-guy-becomes-a-rookie-star-at-the-pool-on-weekdays/`
+- 2026-04-16-komachi-shrine-takamatsu-hiking-en.md: `https://freelife50.com/ninomiya-sodegaura-hiking-en/` → `https://en.freelife50.com/ninomiya-sodegaura-hiking-en/`
+- 2026-04-16-ninomiya-sodegaura-hiking-en.md: `https://freelife50.com/the-day-i-noticed-the-scent-of-sakura-and-my-shiba-inu-who-only-cared-about-the-river/` → `https://en.freelife50.com/the-day-i-noticed-the-scent-of-sakura-and-my-shiba-inu-who-only-cared-about-the-river/`
+- 2026-04-16-ninomiya-sodegaura-hiking-en.md: `https://freelife50.com/is-kinchakuda-manjushage-park-good-for-walking-with-dogs/` → `https://en.freelife50.com/is-kinchakuda-manjushage-park-good-for-walking-with-dogs/`
+- 2026-04-18-yokohama-kodomo-shizen-park-firefly-en.md: `https://freelife50.com/theres-a-mt-takao-in-yokohama-you-know/` → `https://en.freelife50.com/theres-a-mt-takao-in-yokohama-you-know/`
+- 2026-04-18-yokohama-kodomo-shizen-park-firefly-en.md: `https://freelife50.com/ninomiya-sodegaura-hiking-en/` → `https://en.freelife50.com/ninomiya-sodegaura-hiking-en/`
+- 2026-04-18-yokohama-kodomo-shizen-park-firefly-en.md: `https://freelife50.com/komachi-shrine-takamatsu-hiking-en/` → `https://en.freelife50.com/komachi-shrine-takamatsu-hiking-en/`
+- 2026-04-19-momiji-rabies-vaccine-en.md: `https://freelife50.com/ninomiya-sodegaura-hiking-en/` → `https://en.freelife50.com/ninomiya-sodegaura-hiking-en/`
+- 2026-04-20-sagami-odako-festival-2026-en.md: `https://freelife50.com/momiji-rabies-vaccine-en/` → `https://en.freelife50.com/momiji-rabies-vaccine-en/`
+- 2026-04-20-sagami-odako-festival-2026-en.md: `https://freelife50.com/yokohama-kodomo-shizen-park-firefly-en/` → `https://en.freelife50.com/yokohama-kodomo-shizen-park-firefly-en/`
+- 2026-04-20-sagami-odako-festival-2026-en.md: `https://freelife50.com/ninomiya-sodegaura-hiking-en/` → `https://en.freelife50.com/ninomiya-sodegaura-hiking-en/`
+- 2026-04-23-what-if-i-put-a-figurine-of-my-late-parents-on-the-buddhist-altar-would-it-feel-like-they-are-still-here.md: `https://freelife50.com/momiji-rabies-vaccine-en/` → `https://en.freelife50.com/momiji-rabies-vaccine-en/`
+- 2026-04-23-what-if-i-put-a-figurine-of-my-late-parents-on-the-buddhist-altar-would-it-feel-like-they-are-still-here.md: `https://freelife50.com/sagami-odako-festival-2026-en/` → `https://en.freelife50.com/sagami-odako-festival-2026-en/`
+- 2026-04-26-izumi-no-mori-yamato-a-free-dog-friendly-walk-where-old-japan-eased-my-mind.md: `https://freelife50.com/ninomiya-sodegaura-hiking-en/` → `https://en.freelife50.com/ninomiya-sodegaura-hiking-en/`
+- 2026-04-26-izumi-no-mori-yamato-a-free-dog-friendly-walk-where-old-japan-eased-my-mind.md: `https://freelife50.com/komachi-shrine-takamatsu-hiking-en/` → `https://en.freelife50.com/komachi-shrine-takamatsu-hiking-en/`
+- 2026-04-26-izumi-no-mori-yamato-a-free-dog-friendly-walk-where-old-japan-eased-my-mind.md: `https://freelife50.com/sagami-odako-festival-2026-en/` → `https://en.freelife50.com/sagami-odako-festival-2026-en/`
+- 2026-04-28-grands-grain-free-dog-food-review-shiba-inu-en.md: `https://freelife50.com/momiji-rabies-vaccine-en/` → `https://en.freelife50.com/momiji-rabies-vaccine-en/`
+- 2026-04-28-grands-grain-free-dog-food-review-shiba-inu-en.md: `https://freelife50.com/sagami-odako-festival-2026-en/` → `https://en.freelife50.com/sagami-odako-festival-2026-en/`
+- 2026-04-28-grands-grain-free-dog-food-review-shiba-inu-en.md: `https://freelife50.com/izumi-no-mori-yamato-a-free-dog-friendly-walk-where-old-japan-eased-my-mind/` → `https://en.freelife50.com/izumi-no-mori-yamato-a-free-dog-friendly-walk-where-old-japan-eased-my-mind/`

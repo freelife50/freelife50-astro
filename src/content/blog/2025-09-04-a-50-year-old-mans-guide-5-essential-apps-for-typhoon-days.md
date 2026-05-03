@@ -161,7 +161,7 @@ excerpt: "📖 Estimated Reading Time: 7–8 minutes ■ What This Article Deliv
 
 <blockquote class="wp-block-quote"><p>■<strong>Related Posts</strong></p>
 
-<ul class="wp-block-list"><li><a href="https://freelife50.com/chosen-by-disaster-prevention-experts-and-firefighters-in-depth-review-of-the-akamaru-emergency-44-piece-survival-kit/">Chosen by Disaster Prevention Experts and Firefighters: In-Depth Review of the Akamaru Emergency 44-Piece Survival Kit</a></li>
+<ul class="wp-block-list"><li><a href="https://en.freelife50.com/chosen-by-disaster-prevention-experts-and-firefighters-in-depth-review-of-the-akamaru-emergency-44-piece-survival-kit/">Chosen by Disaster Prevention Experts and Firefighters: In-Depth Review of the Akamaru Emergency 44-Piece Survival Kit</a></li>
 
 <li><a href="https://freelife50.com/%e3%80%90%e3%82%bf%e3%82%a4%e3%83%88%e3%83%ab%e3%80%91-%e6%bf%80%e3%81%97%e3%81%84%e9%9b%b7%e9%9b%a8%e3%81%ae%e6%97%a5%e3%81%ab%e3%80%81%e5%83%95%e3%81%8c%e3%80%8c%e5%ae%88%e3%82%8b%e3%81%93%e3%81%a8/">What I Learned About “Protecting” During a Severe Thunderstorm — The Day My Workplace Nearly Flooded, and What’s Happening in Kanto Now</a></li>
 

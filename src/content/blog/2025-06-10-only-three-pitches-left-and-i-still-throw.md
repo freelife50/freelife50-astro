@@ -237,7 +237,7 @@ excerpt: "A Story of Midlife, Hope, and a Manga That Helped Me Begin Again 🕐 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<p>🔸 <a class="" href="https://freelife50.com/in-my-50s-i-asked-myself-is-this-really-it-and-took-a-step-with-blogging/">“Is This Really It?” — Why I Decided to Take Action in My 50s</a></p>
+<p>🔸 <a class="" href="https://en.freelife50.com/in-my-50s-i-asked-myself-is-this-really-it-and-took-a-step-with-blogging/">“Is This Really It?” — Why I Decided to Take Action in My 50s</a></p>
 
 <blockquote class="wp-block-quote"><p>Doubt, hesitation — and the day I chose to move anyway.</p>
 </blockquote>

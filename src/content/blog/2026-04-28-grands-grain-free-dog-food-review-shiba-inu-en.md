@@ -147,9 +147,9 @@ excerpt: "About 5 minutes to read. Every time I fill Momiji's bowl, the same tho
 
 <p><strong>You might also enjoy:</strong></p>
 
-<ul class="wp-block-list"><li><a href="https://freelife50.com/momiji-rabies-vaccine-en/">Momiji Knew. Taking My Shiba Inu for Her Annual Rabies Vaccine</a></li>
+<ul class="wp-block-list"><li><a href="https://en.freelife50.com/momiji-rabies-vaccine-en/">Momiji Knew. Taking My Shiba Inu for Her Annual Rabies Vaccine</a></li>
 
-<li><a href="https://freelife50.com/sagami-odako-festival-2026-en/">I Took My Shiba Inu to the Sagami River and Found Japan's Largest Kite</a></li>
+<li><a href="https://en.freelife50.com/sagami-odako-festival-2026-en/">I Took My Shiba Inu to the Sagami River and Found Japan's Largest Kite</a></li>
 
-<li><a href="https://freelife50.com/izumi-no-mori-yamato-a-free-dog-friendly-walk-where-old-japan-eased-my-mind/">Izumi no Mori, Yamato: A Free Dog-Friendly Walk Where Old Japan Eased My Mind</a></li>
+<li><a href="https://en.freelife50.com/izumi-no-mori-yamato-a-free-dog-friendly-walk-where-old-japan-eased-my-mind/">Izumi no Mori, Yamato: A Free Dog-Friendly Walk Where Old Japan Eased My Mind</a></li>
 </ul>

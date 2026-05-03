@@ -186,8 +186,8 @@ excerpt: "⏱️ Estimated reading time: 10 min This post is for you if... You�
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<p>👉 <strong>My Back Hurt, So I Couldn’t Run Anymore. But I Could Still Swim</strong><strong><br></strong> Instead of focusing on what you can’t do, find what you <em>can</em> do and keep moving forward.<br>A midlife restart that began with swimming.<br>➡<a href="https://freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/"> Read the article</a></p>
+<p>👉 <strong>My Back Hurt, So I Couldn’t Run Anymore. But I Could Still Swim</strong><strong><br></strong> Instead of focusing on what you can’t do, find what you <em>can</em> do and keep moving forward.<br>A midlife restart that began with swimming.<br>➡<a href="https://en.freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/"> Read the article</a></p>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<p>👉 <strong>Music Festival at 50: An Isekai-Level Culture Shock Experience</strong><strong><br></strong> A 50-something dad steps into a music festival for the first time.<br>What he found there was nothing short of an isekai-level shock.<br>➡<a href="https://freelife50.com/a-50-something-guy-goes-to-a-fest-the-isekai-reincarnation-arc/"> Read the article</a></p>
+<p>👉 <strong>Music Festival at 50: An Isekai-Level Culture Shock Experience</strong><strong><br></strong> A 50-something dad steps into a music festival for the first time.<br>What he found there was nothing short of an isekai-level shock.<br>➡<a href="https://en.freelife50.com/a-50-something-guy-goes-to-a-fest-the-isekai-reincarnation-arc/"> Read the article</a></p>

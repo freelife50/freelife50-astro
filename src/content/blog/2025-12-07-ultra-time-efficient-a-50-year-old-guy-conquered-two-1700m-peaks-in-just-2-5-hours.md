@@ -337,7 +337,7 @@ excerpt: "(Okura-takamaru & Hamaiba-maru / Out-and-Back Route) Estimated Reading
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<p>■ <a href="https://freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/">Mt. Takao’s Hidden Trail – A Quiet Escape Few Ever Find</a></p>
+<p>■ <a href="https://en.freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/">Mt. Takao’s Hidden Trail – A Quiet Escape Few Ever Find</a></p>
 
 <p><strong>Description:</strong> A peaceful, lesser-known route behind Mt. Takao. Perfect for readers who prefer quiet trails over crowded tourist paths.</p>
 </blockquote>

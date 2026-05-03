@@ -196,7 +196,7 @@ excerpt: "── Reflecting on “Fixed Costs” and “The Value of Time” �
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<ul class="wp-block-list"><li><a href="https://freelife50.com/the-50s-decision-im-not-worth-1-an-hour-why-i-chose-to-save-my-life-not-just-my-money/"><strong>【50s Decision】“I’m Not Worth $1 an Hour” — Why I Chose to Save My Life, Not Just My Money</strong><strong><br></strong></a> 　Balancing <em>fixed costs</em> and <em>time value</em> — the same mindset behind this car inspection decision.<br></li>
+<ul class="wp-block-list"><li><a href="https://en.freelife50.com/the-50s-decision-im-not-worth-1-an-hour-why-i-chose-to-save-my-life-not-just-my-money/"><strong>【50s Decision】“I’m Not Worth $1 an Hour” — Why I Chose to Save My Life, Not Just My Money</strong><strong><br></strong></a> 　Balancing <em>fixed costs</em> and <em>time value</em> — the same mindset behind this car inspection decision.<br></li>
 
 <li><a href="https://freelife50.com/%e5%ae%b6%e6%97%8f4%e4%ba%ba%e3%81%a7%e6%9c%884500%e5%86%86%ef%bc%81%e3%82%b9%e3%83%9e%e3%83%9b%e4%bb%a3%e3%82%92%e8%b3%a2%e3%81%8f%e7%af%80%e7%b4%84%e3%81%97%e3%81%a6%e6%9c%aa%e6%9d%a5%e3%81%ab/"><strong>A Family of Four Living on ¥4,500 a Month for Phones — Smart Budgeting Tips for Your 50s</strong><strong><br></strong></a> 　A quiet yet powerful way to cut fixed costs — create financial space before deciding to replace or repair.<br></li>
 

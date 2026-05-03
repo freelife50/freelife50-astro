@@ -167,7 +167,7 @@ excerpt: "─ A Journey Beginning with Wisdom Tooth Extraction ─ 📖 Estimate
 
 <ul class="wp-block-list"><li>Just like dental treatment, I also started exercising as part of my health check journey →<a href="https://freelife50.com/health-check-running/"> <strong>Training for My Health Check: Running and Marathon Challenge</strong><strong><br></strong></a></li>
 
-<li>Preparing for dental treatment reminded me of the importance of everyday preparedness too →<a href="https://freelife50.com/a-50-year-old-mans-guide-5-essential-apps-for-typhoon-days/"> <strong>5 Must-Have Apps for Typhoon Days in Your 50s</strong><strong><br></strong></a></li>
+<li>Preparing for dental treatment reminded me of the importance of everyday preparedness too →<a href="https://en.freelife50.com/a-50-year-old-mans-guide-5-essential-apps-for-typhoon-days/"> <strong>5 Must-Have Apps for Typhoon Days in Your 50s</strong><strong><br></strong></a></li>
 
 <li>After treatment, I look forward to enjoying delicious meals with Momiji again →<a href="https://freelife50.com/%f0%9f%8c%8a%e5%b1%b1%e3%81%a8%e6%b5%b7%e3%81%a8%e3%80%81%e3%82%82%e3%81%bf%e3%81%98%e3%81%a8%e5%a6%bb%e3%81%a8%e3%80%82%e3%81%9d%e3%81%97%e3%81%a6%e3%80%81%e3%82%a2%e3%82%b8%e3%83%95%e3%83%a9/"> <strong>A Day at Ninomiya Azumayama Park, Fried Horse Mackerel, and Family Time</strong><strong><br></strong></a></li>
 </ul>

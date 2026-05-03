@@ -334,13 +334,13 @@ excerpt: "📌 Note The affiliate program for \"coco_Makana\" introduced in this
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 
-<p>▶<a href="https://freelife50.com/crafted-in-japan-the-250-pillow-that-changed-how-i-sleep-in-my-50s/"> <strong>Investing in Better Sleep in Your 50s — Is a $250 Pillow Really Worth It?</strong><strong><br></strong></a> After choosing a skincare gift with care, I started wondering — what if sleep is the next thing to upgrade?</p>
+<p>▶<a href="https://en.freelife50.com/crafted-in-japan-the-250-pillow-that-changed-how-i-sleep-in-my-50s/"> <strong>Investing in Better Sleep in Your 50s — Is a $250 Pillow Really Worth It?</strong><strong><br></strong></a> After choosing a skincare gift with care, I started wondering — what if sleep is the next thing to upgrade?</p>
 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 
-<p>▶<a href="https://freelife50.com/to-that-slouching-back-i-care-about-a-gentle-gift-of-posture-and-gratitude/"> <strong>To That Slouching Back I Care About — A Gentle Gift of Posture and Gratitude</strong><strong><br></strong></a> Sometimes, “thank you” comes wrapped in something practical. A gift for the one you notice, even from behind.</p>
+<p>▶<a href="https://en.freelife50.com/to-that-slouching-back-i-care-about-a-gentle-gift-of-posture-and-gratitude/"> <strong>To That Slouching Back I Care About — A Gentle Gift of Posture and Gratitude</strong><strong><br></strong></a> Sometimes, “thank you” comes wrapped in something practical. A gift for the one you notice, even from behind.</p>
 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>

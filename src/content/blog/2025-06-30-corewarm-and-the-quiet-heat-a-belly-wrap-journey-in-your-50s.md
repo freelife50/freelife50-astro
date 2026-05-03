@@ -203,7 +203,7 @@ excerpt: "CoreWarm belly wrap (haramaki) review for men. Japanese thermal underw
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<p>🏊‍♂️<a href="https://freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/"> Swimming into balance — how pool time changed my 50s<br></a> → When running hurt, I found peace in the water. A gentle return to health—just like warming the core.</p>
+<p>🏊‍♂️<a href="https://en.freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/"> Swimming into balance — how pool time changed my 50s<br></a> → When running hurt, I found peace in the water. A gentle return to health—just like warming the core.</p>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 

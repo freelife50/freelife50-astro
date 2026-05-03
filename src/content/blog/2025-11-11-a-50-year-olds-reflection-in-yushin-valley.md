@@ -196,8 +196,8 @@ excerpt: "Autumn hiking in Yushin Valley, Kanagawa. A reflective walk through Ja
 
 <ul class="wp-block-list"><li><a href="https://freelife50.com/%f0%9f%8f%94%ef%b8%8f-a-50-year-olds-gentle-hike-up-mt-ono/">🏔️ A 50-Year-Old’s Gentle Hike up Mt. Ōno</a><br>　Another <strong>“laid-back hike”</strong> for casual walkers. Gentle slopes, open views, and a warm countryside feel — perfect if you liked Yushin Valley.</li>
 
-<li><a href="https://freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/">🚶‍♂️ Mt. Takao’s Hidden Trail – A Quiet Escape Few Ever Find</a><br>　For those who love <strong>quiet paths and digital detox</strong>. A peaceful route away from the usual tourist crowds.</li>
+<li><a href="https://en.freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/">🚶‍♂️ Mt. Takao’s Hidden Trail – A Quiet Escape Few Ever Find</a><br>　For those who love <strong>quiet paths and digital detox</strong>. A peaceful route away from the usual tourist crowds.</li>
 
-<li><a href="https://freelife50.com/proved-in-the-rain-a-50s-hikers-challenge-in-tanzawa/">🌧️ Proved in the Rain — A 50s Hiker’s Challenge in Tanzawa</a><br>　Same <strong>Tanzawa area</strong>, but in the rain — showing the power of good gear, teamwork, and a warm mountain meal afterward.</li>
+<li><a href="https://en.freelife50.com/proved-in-the-rain-a-50s-hikers-challenge-in-tanzawa/">🌧️ Proved in the Rain — A 50s Hiker’s Challenge in Tanzawa</a><br>　Same <strong>Tanzawa area</strong>, but in the rain — showing the power of good gear, teamwork, and a warm mountain meal afterward.</li>
 </ul>
 </blockquote>

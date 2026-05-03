@@ -352,6 +352,6 @@ excerpt: "Honest review of the IMEEA double-wall stainless steel ramen bowl. Hea
 
 
 
-<li><a href="https://freelife50.com/coffee-addicts-weight-loss-just-switch-your-daily-brew/">Coffee Addict's Weight Loss: Just Switch Your Daily Brew</a> 　A warm story about gratitude and choosing a skincare gift that speaks from the heart.</li>
+<li><a href="https://en.freelife50.com/coffee-addicts-weight-loss-just-switch-your-daily-brew/">Coffee Addict's Weight Loss: Just Switch Your Daily Brew</a> 　A warm story about gratitude and choosing a skincare gift that speaks from the heart.</li>
 </ul>
 </blockquote>

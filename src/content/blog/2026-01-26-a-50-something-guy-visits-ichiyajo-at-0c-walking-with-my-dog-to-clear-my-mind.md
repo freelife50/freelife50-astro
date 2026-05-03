@@ -307,7 +307,7 @@ excerpt: "A winter dog walk at Ishigakiyama (Ichiyajo) castle ruins in Odawara, 
 
 <li><a href="https://freelife50.com/%f0%9f%9a%97%f0%9f%90%95%e3%80%90dog-friendly-trip%e3%80%91because-i-just-wanted-to-ride-a-ferry-%e2%94%80-a-rainy-day-drive-across-tokyo-bay/">🚗🐕 Because I Just Wanted to Ride a Ferry — A Dog-Friendly Rainy Drive Across Tokyo Bay</a> : A relaxed, dog-friendly mini trip with no rush — just movement, rain, and freedom.</li>
 
-<li><a href="https://freelife50.com/theres-a-mt-takao-in-yokohama-you-know/">There’s a “Mt. Takao” in Yokohama, You Know.</a> : A hidden walking route where history and views unfold far from the crowds.</li>
+<li><a href="https://en.freelife50.com/theres-a-mt-takao-in-yokohama-you-know/">There’s a “Mt. Takao” in Yokohama, You Know.</a> : A hidden walking route where history and views unfold far from the crowds.</li>
 </ul>
 </blockquote>
 

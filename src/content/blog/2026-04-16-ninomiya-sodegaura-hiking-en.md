@@ -69,7 +69,7 @@ excerpt: "Read time: About 10 minutes Feeling a little worn out lately? Staring 
 <p>My dog, Momiji. The moment the car door opens, her tail turns into a metronome.</p>
 <p>She always knows when the ocean is near. Nose, ears, sixth sense — I have no idea which. But she pulls forward, forward, forward.</p>
 <p>&#8220;Hey, easy there. My knees are not as young as yours.&#8221;<br />She does not care about my knees.</p>
-<p>(If you like stories about my Shiba Inu being wildly distracted on walks, here&#8217;s <a href="https://freelife50.com/the-day-i-noticed-the-scent-of-sakura-and-my-shiba-inu-who-only-cared-about-the-river/">the cherry blossom walk where she only cared about the river</a>.)</p>
+<p>(If you like stories about my Shiba Inu being wildly distracted on walks, here&#8217;s <a href="https://en.freelife50.com/the-day-i-noticed-the-scent-of-sakura-and-my-shiba-inu-who-only-cared-about-the-river/">the cherry blossom walk where she only cared about the river</a>.)</p>
 <h2>The walk from the park to the beach</h2>
 <figure class="wp-block-image size-large"><img decoding="async" src="/images/wp-content/uploads/2026/04/IMG_3087.jpg" alt="Scenery on the way to Sodegaura Beach" class="wp-image-3087"/></figure>
 <p>From Ninomiya Fruit Park to Sodegaura Beach is a genuinely pleasant hiking distance. You cross National Route 1, duck under the Seisho Bypass, and then — boom — the sea is right in front of you.</p>
@@ -96,7 +96,7 @@ excerpt: "Read time: About 10 minutes Feeling a little worn out lately? Staring 
 <p>I stood there watching Momiji chase the waves, thinking about all of that.</p>
 <p>…Nostalgic. So this is what &#8220;the heart softening&#8221; feels like.<br />Momiji, you good dog.</p>
 <p>Up above, a black kite (<em>tobi</em>, a coastal hawk) traced slow circles in the sky. Its whistle blended with the waves and the wind. That sound-layer alone was enough to quiet the noise in my head.</p>
-<p>(For another dog-friendly walk in the same region, see <a href="https://freelife50.com/is-kinchakuda-manjushage-park-good-for-walking-with-dogs/">my Kinchakuda Manjushage Park walk with Momiji</a>.)</p>
+<p>(For another dog-friendly walk in the same region, see <a href="https://en.freelife50.com/is-kinchakuda-manjushage-park-good-for-walking-with-dogs/">my Kinchakuda Manjushage Park walk with Momiji</a>.)</p>
 <h2>Sodegaura Beach does &#8220;jibiki-ami&#8221; — something I want to try someday</h2>
 <figure class="wp-block-image size-large"><img decoding="async" src="/images/wp-content/uploads/2026/04/IMG_3100.jpg" alt="Jibiki-ami (traditional net fishing) poster by Ichigoro-Maru at Sodegaura Beach" class="wp-image-3100"/></figure>
 <p>On the beach, there was a signboard for <strong>jibiki-ami</strong>, a traditional Japanese beach seine. I didn&#8217;t see the net being pulled today, but the sign told me this is where they do it.</p>

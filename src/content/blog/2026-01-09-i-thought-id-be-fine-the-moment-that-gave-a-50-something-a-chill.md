@@ -184,7 +184,7 @@ excerpt: "Reading time: About 5 minutes Who this is for People in their 50s who 
 
 <blockquote class="wp-block-quote"><p><strong>🔗 Related Articles (Recommended Reads)</strong></p>
 
-<ul class="wp-block-list"><li><strong><a href="https://freelife50.com/most-unsolicited-offers-are-better-refused-my-story/">Most Unsolicited Offers Are Better Refused — My Story</a></strong><br>Unexpected calls, visits, and “too good to be true” offers.<br>A quiet realization that saying no is often the safest choice in your 50s.</li>
+<ul class="wp-block-list"><li><strong><a href="https://en.freelife50.com/most-unsolicited-offers-are-better-refused-my-story/">Most Unsolicited Offers Are Better Refused — My Story</a></strong><br>Unexpected calls, visits, and “too good to be true” offers.<br>A quiet realization that saying no is often the safest choice in your 50s.</li>
 
 <li><strong><a href="https://freelife50.com/ai%e3%83%ad%e3%83%9e%e3%83%b3%e3%82%b9%e8%a9%90%e6%ac%ba%e3%81%8b%e3%82%89%e8%80%83%e3%81%88%e3%81%9f%e3%80%82%e3%80%8cai%e3%81%af%e6%82%aa%e8%80%85%e3%81%98%e3%82%83%e3%81%aa%e3%81%84%e3%80%82/">AI Romance Scams: AI Isn’t the Villain — But Trusting Too Much Can Be Risky</a></strong><br>Wanting to trust isn’t wrong.<br>This article calmly explores how kindness and good intentions can be exploited.</li>
 

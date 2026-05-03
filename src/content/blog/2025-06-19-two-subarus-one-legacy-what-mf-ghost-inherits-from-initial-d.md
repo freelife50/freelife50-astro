@@ -264,7 +264,7 @@ excerpt: "MF Ghost and Initial D connection explained. Two Subarus across genera
 
 <li>🤖 <strong>Can AI ease loneliness? A Gen X perspective on ChatGPT as a companion in an aging society.</strong><strong><br></strong> 👉<a href="https://freelife50.com/%f0%9f%91%89-even-if-i-forget-youre-still-here-can-chatgpt-be-our-future-companion/"> https://freelife50.com/%f0%9f%91%89-even-if-i-forget-youre-still-here-can-chatgpt-be-our-future-companion/<br></a> Not all acceleration comes from engines. Sometimes, it’s a quiet voice that moves us forward.<br></li>
 
-<li>🌲 <strong>Mt. Takao’s Hidden Trail – A Quiet Escape Few Ever Find</strong><strong><br></strong> 👉<a href="https://freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/"> https://freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/<br></a> A slow-paced story of reconnecting with nature — and with yourself — far from the crowds.<br></li>
+<li>🌲 <strong>Mt. Takao’s Hidden Trail – A Quiet Escape Few Ever Find</strong><strong><br></strong> 👉<a href="https://en.freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/"> https://en.freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/<br></a> A slow-paced story of reconnecting with nature — and with yourself — far from the crowds.<br></li>
 </ol>
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>

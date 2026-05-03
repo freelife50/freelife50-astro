@@ -395,7 +395,7 @@ excerpt: "— but you still can’t ditch loss-prevention habits or the paper me
 
 <ul class="wp-block-list"><li><a href="https://freelife50.com/%e5%ae%b6%e6%97%8f4%e4%ba%ba%e3%81%a7%e6%9c%884500%e5%86%86%ef%bc%81%e3%82%b9%e3%83%9e%e3%83%9b%e4%bb%a3%e3%82%92%e8%b3%a2%e3%81%8f%e7%af%80%e7%b4%84%e3%81%97%e3%81%a6%e6%9c%aa%e6%9d%a5%e3%81%ab/" target="_blank" rel="noreferrer noopener">Smart Budgeting in Your 50s: How a Family of Four Keeps Their Phone Bill to ¥4,500 a Month</a></li>
 
-<li><a href="https://freelife50.com/a-50-year-old-mans-guide-5-essential-apps-for-typhoon-days/" target="_blank" rel="noreferrer noopener">A 50-Year-Old Man’s Guide: 5 Essential Apps for Typhoon Days</a></li>
+<li><a href="https://en.freelife50.com/a-50-year-old-mans-guide-5-essential-apps-for-typhoon-days/" target="_blank" rel="noreferrer noopener">A 50-Year-Old Man’s Guide: 5 Essential Apps for Typhoon Days</a></li>
 
 <li><a href="https://freelife50.com/%e3%81%a9%e3%81%ae%e7%b5%8c%e6%b8%88%e5%9c%8f%e3%81%8c%e7%94%9f%e6%b4%bb%e3%82%b3%e3%82%b9%e3%83%88%e5%89%8a%e6%b8%9b%e3%81%ab%e6%9c%80%e3%82%82%e6%9c%89%e5%88%a9%ef%bc%9f%e8%a9%b1%e9%a1%8c%e3%81%ae/" target="_blank" rel="noreferrer noopener">Which Ecosystem Saves You More? Comparing SBI Net Bank and Rakuten for Everyday Cost Efficiency</a></li>
 </ul>

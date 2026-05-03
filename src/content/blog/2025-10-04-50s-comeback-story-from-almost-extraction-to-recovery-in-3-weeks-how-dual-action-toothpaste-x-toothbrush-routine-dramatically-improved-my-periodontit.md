@@ -275,7 +275,7 @@ excerpt: "How I recovered from severe gum disease in just 3 weeks using a dual t
 
 <li><strong>【50s Men’s Health】A New Era in Checkups: PCCT for “Low Radiation × High Precision”</strong><br>Latest CT tech that balances safety and clarity.<br>👉 <a href="https://freelife50.com/%e3%80%9050s-mens-health%e3%80%91a-new-era-in-checkups-pcct-for-low-radiation-x-high-precision/">Read here</a></li>
 
-<li><strong>A 50-Year-Old Man’s Journey: No More Fear! Easier Prep with Colon CT</strong><br>A gentler option for colorectal screening — practical, beginner-friendly.<br>👉 <a href="https://freelife50.com/a-50-year-old-mans-journey-no-more-fear/">Read here</a></li>
+<li><strong>A 50-Year-Old Man’s Journey: No More Fear! Easier Prep with Colon CT</strong><br>A gentler option for colorectal screening — practical, beginner-friendly.<br>👉 <a href="https://en.freelife50.com/a-50-year-old-mans-journey-no-more-fear/">Read here</a></li>
 </ol>
 </blockquote>
 

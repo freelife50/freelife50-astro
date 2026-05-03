@@ -277,7 +277,7 @@ excerpt: "🌟 For the Tired Adults Out There Work drains you. Smartphones drain
 
 <p>👉 <strong><a href="https://freelife50.com/%f0%9f%8c%85-waking-up-at-4-a-m-changed-my-life/">Waking Up at 4 A.M. Changed My Life</a></strong><br>A quiet three hours before sunrise helped rebuild my mental “HP.”<br>Just like a planetarium session, it's a reminder that <em>silent spaces heal adults.</em></p>
 
-<p>👉 <strong><a href="https://freelife50.com/a-middle-aged-mans-journey-from-pool-laps-to-becoming-an-astronaut-with-underwater-earphones/">How a 50-Year-Old Became an “Astronaut” with Underwater Earphones</a></strong><br>Floating in the pool with music felt like drifting through space.<br>A down-to-earth story about finding <em>small pockets of the universe in everyday life.</em></p>
+<p>👉 <strong><a href="https://en.freelife50.com/a-middle-aged-mans-journey-from-pool-laps-to-becoming-an-astronaut-with-underwater-earphones/">How a 50-Year-Old Became an “Astronaut” with Underwater Earphones</a></strong><br>Floating in the pool with music felt like drifting through space.<br>A down-to-earth story about finding <em>small pockets of the universe in everyday life.</em></p>
 
 <p>👉 <strong><a href="https://freelife50.com/%e5%bf%83%e3%82%92%e6%95%b4%e3%81%88%e3%82%8b%e3%80%81%e6%97%a5%e6%9b%9c%e6%97%a5%e3%81%ae%e5%b0%8f%e5%b1%b1%e7%94%b0%e7%b7%91%e5%9c%b0/">A Sunday Walk to Reset the Heart</a></strong><br>A gentle walk in quiet greenery that clears the mind.<br>A reminder that <em>healing doesn’t always require travel—just stillness.</em></p>
 </blockquote>

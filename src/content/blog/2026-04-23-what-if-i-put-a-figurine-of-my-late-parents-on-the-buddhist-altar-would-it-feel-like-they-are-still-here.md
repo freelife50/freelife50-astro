@@ -109,7 +109,7 @@ excerpt: "About 7 min read Hi, I'm Hiroshi. Every time I stand in front of the f
 <h2>Related Posts</h2>
 
 <ul>
-<li><a href="https://freelife50.com/momiji-rabies-vaccine-en/">The Day I Took Momiji for Her Rabies Shot — She Knew</a></li>
-<li><a href="https://freelife50.com/sagami-odako-festival-2026-en/">Walking with Momiji Along the Sagami River to See Japan's Biggest Kite</a></li>
+<li><a href="https://en.freelife50.com/momiji-rabies-vaccine-en/">The Day I Took Momiji for Her Rabies Shot — She Knew</a></li>
+<li><a href="https://en.freelife50.com/sagami-odako-festival-2026-en/">Walking with Momiji Along the Sagami River to See Japan's Biggest Kite</a></li>
 <li><a href="https://freelife50.com/a-magical-brush-for-my-wife/">Searching for a Magical Brush for My Wife</a></li>
 </ul>

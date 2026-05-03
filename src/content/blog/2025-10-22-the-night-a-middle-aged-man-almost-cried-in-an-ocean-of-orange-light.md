@@ -165,7 +165,7 @@ excerpt: "── Halloween Lantern Festival 2025 at Fuchinobe Park, Sagamihara �
 
 <p>1️⃣ <strong><a href="https://freelife50.com/%e5%bf%83%e3%82%92%e6%95%b4%e3%81%88%e3%82%8b%e3%80%81%e6%97%a5%e6%9b%9c%e6%97%a5%e3%81%ae%e5%b0%8f%e5%b1%b1%e7%94%b0%e7%b7%91%e5%9c%b0/">A Sunday Walk to Reset the Heart</a></strong><br>　── A peaceful walk through the greenery of Oyamada Park — a quiet reset for your busy heart.</p>
 
-<p>2️⃣ <strong><a href="https://freelife50.com/proved-in-the-rain-a-50s-hikers-challenge-in-tanzawa/">Challenging Rainy Tanzawa in My 50s — The Power of Mountain Food and Workman Gear</a></strong><br>　── A 50s man’s “trial and reward” in the rainy mountains — warmth found in a bowl of rice and the strength to keep going.</p>
+<p>2️⃣ <strong><a href="https://en.freelife50.com/proved-in-the-rain-a-50s-hikers-challenge-in-tanzawa/">Challenging Rainy Tanzawa in My 50s — The Power of Mountain Food and Workman Gear</a></strong><br>　── A 50s man’s “trial and reward” in the rainy mountains — warmth found in a bowl of rice and the strength to keep going.</p>
 
 <p>3️⃣ <strong><a href="https://freelife50.com/%e9%9d%99%e3%81%8b%e3%81%aa%e6%b6%99%e3%81%ae%e3%81%82%e3%81%a8%e3%81%ab%e3%80%81%e3%81%9d%e3%81%a3%e3%81%a8%e5%b1%8a%e3%81%84%e3%81%9f%e3%81%ac%e3%81%8f%e3%82%82%e3%82%8a%e3%80%80%e3%80%80%e3%80%80/">A Quiet Goodbye, A Quiet Hello</a></strong><br>　── After the quiet tears, a gentle warmth remained — a story about light, loss, and human connection.</p>
 </blockquote>

@@ -232,7 +232,7 @@ excerpt: "A 50-year-old Japanese man's honest experience with colon CT scan. Wha
 
 <li>🩺 <a href="https://freelife50.com/%e3%80%9050s-mens-health%e3%80%91a-new-era-in-checkups-pcct-for-low-radiation-x-high-precision/" target="_blank" rel="noreferrer noopener">【50s Men’s Health】A New Era in Checkups: PCCT for “Low Radiation × High Precision”</a><br><small>Introduces another groundbreaking imaging technology, making a natural pair with the CTC article.</small></li>
 
-<li>🏊 <a href="https://freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/" target="_blank" rel="noreferrer noopener">My Back Hurt, So I Couldn’t Run Anymore. But I Could Still Swim — A Gentle Restart in My 50s</a><br><small>A story about sustainable health habits, complementing preventive screenings like CTC.</small></li>
+<li>🏊 <a href="https://en.freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/" target="_blank" rel="noreferrer noopener">My Back Hurt, So I Couldn’t Run Anymore. But I Could Still Swim — A Gentle Restart in My 50s</a><br><small>A story about sustainable health habits, complementing preventive screenings like CTC.</small></li>
 </ul>
 </blockquote>
 

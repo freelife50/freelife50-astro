@@ -209,7 +209,7 @@ excerpt: "Reading time: about 4 minutes Who this is for People who feel uncomfor
 
 <ul class="wp-block-list"><li><a href="https://freelife50.com/%e4%bf%9d%e9%99%ba%e3%80%81%e5%85%a8%e9%83%a8%e3%82%84%e3%82%81%e3%81%be%e3%81%97%e3%81%9f%e3%80%82%e4%bb%8a%e6%80%9d%e3%81%86%e6%9c%ac%e5%bd%93%e3%81%ab%e5%bf%85%e8%a6%81%e3%81%aa%e5%82%99/">I Quit All My Insurance — What I Believe Is Truly Necessary Now</a><br>→ A personal reflection on preparedness —<br><strong>not driven by fear, but by conscious choice.</strong></li>
 
-<li><a href="https://freelife50.com/a-50-something-man-pauses-in-front-of-a-supermarket-price-tag/">A 50-Something Man Pauses in Front of a Supermarket Price Tag</a><br>→ A quiet moment in everyday life that led me to<br><strong>stop, think, and reconsider money in an age of inflation.</strong></li>
+<li><a href="https://en.freelife50.com/a-50-something-man-pauses-in-front-of-a-supermarket-price-tag/">A 50-Something Man Pauses in Front of a Supermarket Price Tag</a><br>→ A quiet moment in everyday life that led me to<br><strong>stop, think, and reconsider money in an age of inflation.</strong></li>
 
 <li><a href="https://freelife50.com/%e5%ae%b6%e6%97%8f4%e4%ba%ba%e3%81%a7%e6%9c%884500%e5%86%86%ef%bc%81%e3%82%b9%e3%83%9e%e3%83%9b%e4%bb%a3%e3%82%92%e8%b3%a2%e3%81%8f%e7%af%80%e7%b4%84%e3%81%97%e3%81%a6%e6%9c%aa%e6%9d%a5%e3%81%ab/">A Family of Four Pays Just ¥4,500 a Month — Cutting Smartphone Costs to Prepare for the Future</a><br>→ A practical example of reducing fixed expenses<br>to <strong>protect everyday life and long-term stability.</strong></li>
 </ul>

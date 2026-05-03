@@ -192,7 +192,7 @@ excerpt: "Why mammogram compression is necessary and tips to reduce pain. A radi
 
 <blockquote class="wp-block-quote"><p>■<strong>Related posts</strong></p>
 
-<ul class="wp-block-list"><li><a href="https://freelife50.com/a-50-year-old-mans-journey-no-more-fear/"><strong>A 50-Year-Old Man’s Journey: No More Fear! Easier Prep with Colon CT</strong><strong><br></strong></a> 　Colon CT as a gentler, less stressful option for colorectal cancer screening.<br></li>
+<ul class="wp-block-list"><li><a href="https://en.freelife50.com/a-50-year-old-mans-journey-no-more-fear/"><strong>A 50-Year-Old Man’s Journey: No More Fear! Easier Prep with Colon CT</strong><strong><br></strong></a> 　Colon CT as a gentler, less stressful option for colorectal cancer screening.<br></li>
 
 <li><a href="https://freelife50.com/%e3%80%9050s-mens-health%e3%80%91a-new-era-in-checkups-pcct-for-low-radiation-x-high-precision/"><strong>【50s Men’s Health】A New Era in Checkups: PCCT for “Low Radiation × High Precision”</strong><strong><br></strong></a> 　Exploring the latest CT technology designed to minimize radiation while delivering sharper images.<br></li>
 

@@ -259,9 +259,9 @@ excerpt: "Why a 50-Something Man Like Me Is Finally Considering At-Home Laser Ha
 
 <p><strong>🔗 Related Articles</strong></p>
 
-<ul class="wp-block-list"><li><strong>Swimming, Recharging, and Changing Myself — My New Pool Routine in My 50s</strong><br>👉 <a class="" href="https://freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/">https://freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/</a></li>
+<ul class="wp-block-list"><li><strong>Swimming, Recharging, and Changing Myself — My New Pool Routine in My 50s</strong><br>👉 <a class="" href="https://en.freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/">https://en.freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/</a></li>
 
-<li><strong>One-Third of Life Is Sleep — Isn’t It Time to Start Investing in It, Too?</strong><br>👉 <a class="" href="https://freelife50.com/crafted-in-japan-the-250-pillow-that-changed-how-i-sleep-in-my-50s/">https://freelife50.com/crafted-in-japan-the-250-pillow-that-changed-how-i-sleep-in-my-50s/</a></li>
+<li><strong>One-Third of Life Is Sleep — Isn’t It Time to Start Investing in It, Too?</strong><br>👉 <a class="" href="https://en.freelife50.com/crafted-in-japan-the-250-pillow-that-changed-how-i-sleep-in-my-50s/">https://en.freelife50.com/crafted-in-japan-the-250-pillow-that-changed-how-i-sleep-in-my-50s/</a></li>
 
 <li><strong>At This Age, Even Brushing My Teeth Should Be a Joy</strong><br>👉 <a class="" href="https://freelife50.com/%f0%9f%aa%a5a-black-swiss-beauty-in-your-bathroom-when-a-toothbrush-feels-like-a-rolex/">https://freelife50.com/🪥a-black-swiss-beauty-in-your-bathroom-when-a-toothbrush-feels-like-a-rolex/</a></li>
 </ul>

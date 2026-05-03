@@ -207,7 +207,7 @@ excerpt: "A cherry blossom walk with a Shiba Inu in Kanagawa, Japan. Dog-friendl
 
 <blockquote class="wp-block-quote"><p><strong>Recommended Articles</strong></p>
 
-<p><a href="https://freelife50.com/is-kinchakuda-manjushage-park-good-for-walking-with-dogs/">Is Kinchakuda Manjushage Park Good for Walking with Dogs?</a><br>A relaxing riverside walk with my Shiba Inu, Momiji. This article shares the joy of walking with dogs in nature, along with helpful tips for a safe and enjoyable visit.</p>
+<p><a href="https://en.freelife50.com/is-kinchakuda-manjushage-park-good-for-walking-with-dogs/">Is Kinchakuda Manjushage Park Good for Walking with Dogs?</a><br>A relaxing riverside walk with my Shiba Inu, Momiji. This article shares the joy of walking with dogs in nature, along with helpful tips for a safe and enjoyable visit.</p>
 
 <p><a href="https://freelife50.com/%f0%9f%8c%bf%e8%8c%85%e3%82%b1%e5%b4%8e%e9%87%8c%e5%b1%b1%e5%85%ac%e5%9c%92%e3%81%a7%e6%97%a5%e5%b8%b8%e3%82%92%e6%b7%b1%e5%91%bc%e5%90%b8%e3%81%97%e3%81%a6%e3%81%8d%e3%81%9f/">🌿 Chigasaki Satoyama Park — A Day to Breathe in Everyday Life</a><br>A quiet walk away from the crowds, where you can truly feel the atmosphere of the place. A gentle and peaceful day spent with Momiji in nature.</p>
 

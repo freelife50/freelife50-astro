@@ -144,7 +144,7 @@ excerpt: "How ditching my wallet for a 10g money clip changed my life at 50. A m
 
 <p>👉 <a href="https://freelife50.com/%e3%80%90real-talk-in-your-50s%e3%80%91the-3-in-1-card-japans-myna-drivers-license-lightens-your-wallet/"><strong>Real Talk in Your 50s: The 3-in-1 Card – Japan’s “My Number Driver’s License” Lightens Your Wallet</strong></a><br>A real-life story of how owning less means thinking less.<br>From bulky wallets to a single smart card — the first step toward a lighter life.</p>
 
-<p>👉 <a href="https://freelife50.com/the-50s-decision-im-not-worth-1-an-hour-why-i-chose-to-save-my-life-not-just-my-money/"><strong>Decision in My 50s: I’m Worth More Than 100 Yen an Hour – Choosing Life Over Saving Money</strong></a><br>A reflection on valuing time and mental energy over money.<br>Minimalism isn’t about deprivation — it’s about protecting your freedom.</p>
+<p>👉 <a href="https://en.freelife50.com/the-50s-decision-im-not-worth-1-an-hour-why-i-chose-to-save-my-life-not-just-my-money/"><strong>Decision in My 50s: I’m Worth More Than 100 Yen an Hour – Choosing Life Over Saving Money</strong></a><br>A reflection on valuing time and mental energy over money.<br>Minimalism isn’t about deprivation — it’s about protecting your freedom.</p>
 
 <p>👉 <a href="https://freelife50.com/%e4%bf%9d%e9%99%ba%e3%80%81%e5%85%a8%e9%83%a8%e3%82%84%e3%82%81%e3%81%be%e3%81%97%e3%81%9f%e3%80%82%e4%bb%8a%e6%80%9d%e3%81%86%e6%9c%ac%e5%bd%93%e3%81%ab%e5%bf%85%e8%a6%81%e3%81%aa%e5%82%99/"><strong>I Canceled All My Insurance – What “Real Preparedness” Means in My 50s</strong></a><br>An “addition by subtraction” approach to peace of mind.<br>When we let go of unnecessary coverage, we rediscover what true security feels like.</p>
 </blockquote>

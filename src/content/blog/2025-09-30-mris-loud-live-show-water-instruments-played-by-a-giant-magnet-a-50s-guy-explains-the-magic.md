@@ -329,7 +329,7 @@ excerpt: "— Water, Magnet, and a Little Bit of Drum 📖 Reading time: 12–15
 
 <blockquote class="wp-block-quote"><p><strong>Related Articles You May Enjoy</strong></p>
 
-<ul class="wp-block-list"><li><a href="https://freelife50.com/a-50-year-old-mans-journey-no-more-fear/"><strong>A 50-Year-Old Man’s Journey: No More Fear! Easier Prep with Colon CT</strong></a><br>　👉 A beginner-friendly explanation of Colon CT, showing how it differs from MRI.</li>
+<ul class="wp-block-list"><li><a href="https://en.freelife50.com/a-50-year-old-mans-journey-no-more-fear/"><strong>A 50-Year-Old Man’s Journey: No More Fear! Easier Prep with Colon CT</strong></a><br>　👉 A beginner-friendly explanation of Colon CT, showing how it differs from MRI.</li>
 
 <li><a href="https://freelife50.com/%e3%80%9050s-mens-health%e3%80%91a-new-era-in-checkups-pcct-for-low-radiation-x-high-precision/"><strong>【50s Men’s Health】A New Era in Checkups: PCCT for “Low Radiation × High Precision”</strong></a><br>　👉 Introducing the latest CT technology—perfect for comparison with MRI.</li>
 

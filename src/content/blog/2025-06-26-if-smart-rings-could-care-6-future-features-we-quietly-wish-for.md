@@ -313,7 +313,7 @@ excerpt: "Not just tech — a gentle wishlist from someone in his 50s, written w
 
 <ul class="wp-block-list"><li>⚾<a href="https://freelife50.com/%f0%9f%a5%8e-only-three-pitches-left-and-i-still-throw/"> It’s not too late — a story of hesitation, courage, and taking one more pitch in your 50s<br></a> A quiet reflection on mortality, courage, and why every pitch still counts — even in your 50s.<br></li>
 
-<li>🌲<a href="https://freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/"> A hidden trail in Mt. Takao – the peaceful side of nature, away from the crowd<br></a> A quiet escape into the forest — where nature heals and the mind settles.<br></li>
+<li>🌲<a href="https://en.freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/"> A hidden trail in Mt. Takao – the peaceful side of nature, away from the crowd<br></a> A quiet escape into the forest — where nature heals and the mind settles.<br></li>
 
 <li>🗳️<a href="https://freelife50.com/%f0%9f%97%b3%ef%b8%8f-the-day-i-finally-chose-to-choose-a-quiet-shift-toward-the-ballot-box/"> The day I finally chose to choose – a quiet shift toward the ballot box<br></a> How choosing to vote became an act of reclaiming agency in midlife.<br></li>
 </ul>

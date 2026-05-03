@@ -39,7 +39,7 @@ excerpt: "About 5 minutes Hi, I&#8217;m Hiroshi. &#8220;I&#8217;ve heard of it, 
 <p>We drove out to the Sagami River.</p>
 <figure class="wp-block-image size-large"><img decoding="async" src="/images/wp-content/uploads/2026/04/odako_3299-1.jpg" alt="Sagami River and Mount Oyama under a clear blue sky" /></figure>
 <p>The sky was wide open and blue. Mount Oyama stood out sharp in the distance. A sunny day at the Sagami River is something else.</p>
-<p>→ <a href="https://freelife50.com/momiji-rabies-vaccine-en/">Related: Momiji Knew. Taking My Shiba Inu for Her Annual Rabies Vaccination</a></p>
+<p>→ <a href="https://en.freelife50.com/momiji-rabies-vaccine-en/">Related: Momiji Knew. Taking My Shiba Inu for Her Annual Rabies Vaccination</a></p>
 <hr class="wp-block-separator"/>
 <h2><span class="ez-toc-section" id="When_We_Got_to_the_River_Something_Was_Being_Built"></span>When We Got to the River, Something Was Being Built<span class="ez-toc-section-end"></span></h2>
 <p>When I climbed up to the levee and looked out over the riverbed, something was being built.</p>
@@ -156,13 +156,13 @@ excerpt: "About 5 minutes Hi, I&#8217;m Hiroshi. &#8220;I&#8217;ve heard of it, 
 <p>Flying a giant kite requires a steady wind of <strong>10-15 m/s</strong>. When it&#8217;s calm, everything goes into &#8220;wind waiting&#8221; mode — the kite stays on the ground. Visitors can get up close to the kite and even chat with the builders. The festival is not just the moment the kite flies.</p>
 <p><strong>Rain Means Cancellation</strong></p>
 <p>The washi paper surface is extremely sensitive to moisture. Rain makes it heavy and risks the whole structure collapsing — so <strong>the event is cancelled in rain</strong>. The call is made the morning of the event, announced via the official website and Sagamihara City Call Center (042-770-7777).</p>
-<p>→ <a href="https://freelife50.com/yokohama-kodomo-shizen-park-firefly-en/">Related: Fireflies in Yokohama? Kodomo Shizen Park with My Dog</a></p>
+<p>→ <a href="https://en.freelife50.com/yokohama-kodomo-shizen-park-firefly-en/">Related: Fireflies in Yokohama? Kodomo Shizen Park with My Dog</a></p>
 <hr class="wp-block-separator"/>
 <h2><span class="ez-toc-section" id="Mount_Oyama_Was_Beautiful_from_Up_There"></span>Mount Oyama Was Beautiful from Up There<span class="ez-toc-section-end"></span></h2>
 <p>After taking in the kite construction site, I climbed back up to the levee. Mount Oyama was right there, sharp against the blue.</p>
 <figure class="wp-block-image size-large"><img decoding="async" src="/images/wp-content/uploads/2026/04/odako_3296-2.jpg" alt="Mount Oyama and clear blue sky over the Sagami River" /></figure>
 <p>Blue sky. Mount Oyama. The green of the Sagami River. If I can watch the kite fly with a view like this, the trip is already worth it.</p>
-<p>→ <a href="https://freelife50.com/ninomiya-sodegaura-hiking-en/">Related: A Quiet Coastal Walk in Ninomiya with My Dog</a></p>
+<p>→ <a href="https://en.freelife50.com/ninomiya-sodegaura-hiking-en/">Related: A Quiet Coastal Walk in Ninomiya with My Dog</a></p>
 <hr class="wp-block-separator"/>
 <h2><span class="ez-toc-section" id="Final_Thoughts"></span>Final Thoughts<span class="ez-toc-section-end"></span></h2>
 <p>An event I&#8217;d been filing under &#8220;maybe someday&#8221; became &#8220;I&#8217;m absolutely going this year&#8221; after one look at the frame.</p>

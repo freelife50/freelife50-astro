@@ -530,11 +530,11 @@ excerpt: "A father-son hike on Mt. Takao via the Inariyama Trail to Yakuo-in tem
 
 <blockquote class="wp-block-quote"><p><strong>Related Posts</strong></p>
 
-<ul class="wp-block-list"><li><a href="https://freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/">Mt. Takao’s Hidden Trail – A Quiet Escape Few Ever Find</a><br>If you enjoyed the main trail, here’s another side of Mt. Takao—quieter, deeper, and more reflective.</li>
+<ul class="wp-block-list"><li><a href="https://en.freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/">Mt. Takao’s Hidden Trail – A Quiet Escape Few Ever Find</a><br>If you enjoyed the main trail, here’s another side of Mt. Takao—quieter, deeper, and more reflective.</li>
 
 <li><a href="https://freelife50.com/%f0%9f%a5%8e-only-three-pitches-left-and-i-still-throw/">Only Three Pitches Left — And I Still Throw</a><br>A reflection on small choices, time, and what we decide to do with what’s left.</li>
 
-<li><a href="https://freelife50.com/shocked-by-my-sons-gen-z-values/">Shocked by My Son’s Gen Z Values</a><br>A father trying to understand the generation that walks a little faster and chooses a little differently.</li>
+<li><a href="https://en.freelife50.com/shocked-by-my-sons-gen-z-values/">Shocked by My Son’s Gen Z Values</a><br>A father trying to understand the generation that walks a little faster and chooses a little differently.</li>
 </ul>
 </blockquote>
 

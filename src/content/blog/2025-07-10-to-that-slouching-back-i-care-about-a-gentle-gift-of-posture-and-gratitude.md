@@ -227,11 +227,11 @@ excerpt: "⏳ Reading Time This blog takes about 8 minutes to read. 🧑‍💼 
 
 <p><strong>If you enjoyed this article, here are a few more gentle stories you might like:</strong></p>
 
-<ul class="wp-block-list"><li><a href="https://freelife50.com/crafted-in-japan-the-250-pillow-that-changed-how-i-sleep-in-my-50s/"><strong>The $250 Pillow That Changed How I Sleep</strong></a><br>I never thought I’d spend this much on a pillow—until I realized how much better my 50s could feel with proper support. If you’re curious about small daily investments that make a big difference, this one’s worth a read.</li>
+<ul class="wp-block-list"><li><a href="https://en.freelife50.com/crafted-in-japan-the-250-pillow-that-changed-how-i-sleep-in-my-50s/"><strong>The $250 Pillow That Changed How I Sleep</strong></a><br>I never thought I’d spend this much on a pillow—until I realized how much better my 50s could feel with proper support. If you’re curious about small daily investments that make a big difference, this one’s worth a read.</li>
 
-<li><a href="https://freelife50.com/corewarm-and-the-quiet-heat-a-belly-wrap-journey-in-your-50s/"><strong>CoreWarm and the Quiet Heat</strong></a><br>Struggling with AC chills, tummy trouble, or just feeling off? This soft belly wrap became a quiet ally—something you wear, not fight with. Just like these healing shorts.</li>
+<li><a href="https://en.freelife50.com/corewarm-and-the-quiet-heat-a-belly-wrap-journey-in-your-50s/"><strong>CoreWarm and the Quiet Heat</strong></a><br>Struggling with AC chills, tummy trouble, or just feeling off? This soft belly wrap became a quiet ally—something you wear, not fight with. Just like these healing shorts.</li>
 
-<li><a href="https://freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/"><strong>My Back Hurt, So I Couldn't Run — But I Could Still Swim</strong></a><br>A gentle restart in my 50s, from pain to movement. If you're looking for healing that doesn't require force, this might feel familiar.</li>
+<li><a href="https://en.freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/"><strong>My Back Hurt, So I Couldn't Run — But I Could Still Swim</strong></a><br>A gentle restart in my 50s, from pain to movement. If you're looking for healing that doesn't require force, this might feel familiar.</li>
 </ul>
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>

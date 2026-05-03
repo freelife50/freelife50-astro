@@ -249,11 +249,11 @@ excerpt: "Why swimming in your 50s is the best exercise you're not doing. How th
 
 <blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
 
-<p><strong><a href="https://freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/">① When Back Pain Stopped Me from Running, Swimming Gave Me a Second Start</a></strong><br>A 50-year-old’s gentle restart — when running became difficult, swimming opened a new door.</p>
+<p><strong><a href="https://en.freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/">① When Back Pain Stopped Me from Running, Swimming Gave Me a Second Start</a></strong><br>A 50-year-old’s gentle restart — when running became difficult, swimming opened a new door.</p>
 
 <p><strong><a href="https://freelife50.com/health-check-running/">② Starting Exercise for My Health Check — And Joining the East Japan International Marathon</a></strong><br>A relatable journey of getting back into exercise after facing tough health check numbers.</p>
 
-<p><strong><a href="https://freelife50.com/a-middle-aged-mans-journey-from-pool-laps-to-becoming-an-astronaut-with-underwater-earphones/">③ Becoming an Astronaut in the Pool — My First Water-Resistant Earphones</a></strong><br>A fun and uplifting story about how underwater earphones can turn a simple swim into a whole new universe.</p>
+<p><strong><a href="https://en.freelife50.com/a-middle-aged-mans-journey-from-pool-laps-to-becoming-an-astronaut-with-underwater-earphones/">③ Becoming an Astronaut in the Pool — My First Water-Resistant Earphones</a></strong><br>A fun and uplifting story about how underwater earphones can turn a simple swim into a whole new universe.</p>
 </blockquote>
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>

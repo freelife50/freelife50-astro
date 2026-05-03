@@ -247,9 +247,9 @@ That, to me, is what choosing a gift in the spirit of helping the other person l
 
 <p><strong>Other "in the spirit of helping" notes</strong><br>
 Other articles I wrote with the same intention, in case they're useful:<br>
-• <a href="https://freelife50.com/?p=3706">My honest report on Slimstone Coffee</a><br>
-• <a href="https://freelife50.com/?p=3767">A hike from Ninomiya Fruit Park to Sodegaura Beach</a><br>
-• <a href="https://freelife50.com/?p=3831">Komachi Shrine and Mt. Takamatsu hike</a></p>
+• <a href="https://en.freelife50.com/coffee-addicts-weight-loss-just-switch-your-daily-brew/">My honest report on Slimstone Coffee</a><br>
+• <a href="https://en.freelife50.com/ninomiya-sodegaura-hiking-en/">A hike from Ninomiya Fruit Park to Sodegaura Beach</a><br>
+• <a href="https://en.freelife50.com/komachi-shrine-takamatsu-hiking-en/">Komachi Shrine and Mt. Takamatsu hike</a></p>
 
 <h2>Closing</h2>
 <p class="hairstar-img"><img src="/images/wp-content/uploads/2026/04/hairstar_h2_8_summary.jpg" alt="Japanese couple in kitchen evening" class="wp-image-3932" /></p>

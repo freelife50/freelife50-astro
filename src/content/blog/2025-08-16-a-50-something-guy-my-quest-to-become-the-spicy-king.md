@@ -176,7 +176,7 @@ excerpt: "⏱ This blog takes about 7 minutes to read What This Story Is About T
 
 <p><strong>✅ Related Articles</strong></p>
 
-<ul class="wp-block-list"><li><a href="https://freelife50.com/three-bowls-all-gone-a-ramen-adventure-at-the-yokohama-museum-in-my-50s/">🍜 Three Bowls, All Gone – A Ramen Adventure at the Yokohama Museum in My 50s<br></a> A 50-something guy takes on the Ramen Museum and somehow downs three bowls! A different kind of “food endurance” compared to the spicy challenge.<br></li>
+<ul class="wp-block-list"><li><a href="https://en.freelife50.com/three-bowls-all-gone-a-ramen-adventure-at-the-yokohama-museum-in-my-50s/">🍜 Three Bowls, All Gone – A Ramen Adventure at the Yokohama Museum in My 50s<br></a> A 50-something guy takes on the Ramen Museum and somehow downs three bowls! A different kind of “food endurance” compared to the spicy challenge.<br></li>
 
 <li><a href="https://freelife50.com/%e3%80%8c%e3%82%b8%e3%83%a0%e3%81%a710%e5%88%86%e8%b5%b0%e3%81%a3%e3%81%a6%e3%80%81%e3%83%93%e3%83%bc%e3%83%ab%e3%81%a7%e4%b9%be%e6%9d%af%ef%bc%8150%e4%bb%a3%e3%81%ae%e6%8c%91%e6%88%a6%e3%80%8d/">“From Jogging to Beer: One Guy’s 50s Fitness Comeback”<br></a> Even if you hate exercise, it’s possible! A fitness-and-fun story showing how a 50-something balances health and joy — the perfect follow-up to a spicy adventure.<br></li>
 

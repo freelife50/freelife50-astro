@@ -63,7 +63,7 @@ excerpt: "Our Shiba Inu Momiji was perfectly happy greeting other dogs in the pa
 <p>Shibas are known for being independent and aloof. Momiji? She loves everybody. Strangers, delivery drivers, random kids — she runs up to all of them, tail going crazy.</p>
 <p>She's more Golden Retriever in personality than Shiba.</p>
 <p>But needles? Absolute panic. That's the one thing she absolutely refuses to be cool about. Does your dog have a surprising &#8220;panic trigger&#8221; like this? For Momiji, that one thing aside &#8212; honestly the easiest dog in the world (ha).</p>
-<p>We went on a walk with Momiji recently too — a very different vibe.<br><a href="https://freelife50.com/ninomiya-sodegaura-hiking-en/">→ A Quiet Coastal Walk in Ninomiya with My Dog</a></p>
+<p>We went on a walk with Momiji recently too — a very different vibe.<br><a href="https://en.freelife50.com/ninomiya-sodegaura-hiking-en/">→ A Quiet Coastal Walk in Ninomiya with My Dog</a></p>
 <p>And yes, she has opinions about her chews too.<br><a href="https://freelife50.com/%f0%9f%90%95%f0%9f%a6%b7%e3%80%90%e3%82%82%e3%81%86%e5%a4%b1%e6%95%97%e3%81%97%e3%81%aa%e3%81%84%ef%bc%81%e3%80%91/">→ DoggyMan Whident Chew Review: Which One Does Momiji Prefer?</a></p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 <p>The annual rabies shot can feel like a chore. You hold a panicking dog, sweat a little, laugh a little, go home a little tired.</p>

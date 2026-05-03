@@ -187,7 +187,7 @@ excerpt: "The estimated reading time for this entire article is 8 to 10 minutes 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<p>🔗 <strong>Swimming, Healing, and Finding New Strength — My 50s Pool Habit</strong><strong><br></strong><a href="https://freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/"> https://freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/<br></a> Even if running became too painful, swimming helped me heal — a little story about facing changes in my 50s body.</p>
+<p>🔗 <strong>Swimming, Healing, and Finding New Strength — My 50s Pool Habit</strong><strong><br></strong><a href="https://en.freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/"> https://en.freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/<br></a> Even if running became too painful, swimming helped me heal — a little story about facing changes in my 50s body.</p>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
@@ -195,7 +195,7 @@ excerpt: "The estimated reading time for this entire article is 8 to 10 minutes 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<p>🔗 <strong>If Smart Rings Could Care — 6 Features We Quietly Wish For</strong><strong><br></strong><a href="https://freelife50.com/if-smart-rings-could-care-6-future-features-we-quietly-wish-for/"> https://freelife50.com/if-smart-rings-could-care-6-future-features-we-quietly-wish-for/<br></a> A small wish for the future — gentle tools that might help us live a little more peacefully.</p>
+<p>🔗 <strong>If Smart Rings Could Care — 6 Features We Quietly Wish For</strong><strong><br></strong><a href="https://en.freelife50.com/if-smart-rings-could-care-6-future-features-we-quietly-wish-for/"> https://en.freelife50.com/if-smart-rings-could-care-6-future-features-we-quietly-wish-for/<br></a> A small wish for the future — gentle tools that might help us live a little more peacefully.</p>
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 

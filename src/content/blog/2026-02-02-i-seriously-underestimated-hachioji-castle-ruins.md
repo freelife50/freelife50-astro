@@ -337,11 +337,11 @@ excerpt: "Hachioji Castle Ruins hiking guide near Tokyo. What to expect on this 
 
 <blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
 
-<ul class="wp-block-list"><li><a href="https://freelife50.com/i-thought-id-be-fine-the-moment-that-gave-a-50-something-a-chill/">“I Thought I’d Be Fine” — The Moment That Gave a 50-Something a Chill</a><br>A brief but unforgettable moment when overconfidence met reality on a low mountain trail.</li>
+<ul class="wp-block-list"><li><a href="https://en.freelife50.com/i-thought-id-be-fine-the-moment-that-gave-a-50-something-a-chill/">“I Thought I’d Be Fine” — The Moment That Gave a 50-Something a Chill</a><br>A brief but unforgettable moment when overconfidence met reality on a low mountain trail.</li>
 
-<li><a href="https://freelife50.com/a-50-something-guy-visits-ichiyajo-at-0c-walking-with-my-dog-to-clear-my-mind/">A 50-Something Guy Visits Ichiyajo at 0°C — Walking with My Dog to Clear My Mind</a><br>Cold weather, a dog at my side, and careful preparation — a quiet walk that restored my balance.</li>
+<li><a href="https://en.freelife50.com/a-50-something-guy-visits-ichiyajo-at-0c-walking-with-my-dog-to-clear-my-mind/">A 50-Something Guy Visits Ichiyajo at 0°C — Walking with My Dog to Clear My Mind</a><br>Cold weather, a dog at my side, and careful preparation — a quiet walk that restored my balance.</li>
 
-<li><a href="https://freelife50.com/theres-a-mt-takao-in-yokohama-you-know/">There’s a “Mt. Takao” in Yokohama, You Know.</a><br>Low altitude doesn’t mean easy — a 13 km walk that quietly challenges your assumptions.</li>
+<li><a href="https://en.freelife50.com/theres-a-mt-takao-in-yokohama-you-know/">There’s a “Mt. Takao” in Yokohama, You Know.</a><br>Low altitude doesn’t mean easy — a 13 km walk that quietly challenges your assumptions.</li>
 </ul>
 </blockquote>
 

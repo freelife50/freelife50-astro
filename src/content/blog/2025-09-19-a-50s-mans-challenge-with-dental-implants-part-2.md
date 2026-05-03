@@ -261,6 +261,6 @@ excerpt: "─ The Day I Almost Cried During Wisdom Tooth Extraction ─ 📖 Rea
 
 <li>🩺<a href="https://freelife50.com/%e3%80%9050s-mens-health%e3%80%91a-new-era-in-checkups-pcct-for-low-radiation-x-high-precision/"> A New Era in Checkups: PCCT for “Low Radiation × High Precision”<br></a></li>
 
-<li>💴<a href="https://freelife50.com/__trashed-3/"> A Man in His 50s Reflects on Furusato Nozei<br></a></li>
+<li>💴<a href="https://en.freelife50.com/__trashed-3/"> A Man in His 50s Reflects on Furusato Nozei<br></a></li>
 </ul>
 </blockquote>

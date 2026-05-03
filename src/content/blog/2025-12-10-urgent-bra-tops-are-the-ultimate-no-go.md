@@ -265,7 +265,7 @@ excerpt: "Why you should skip the bra top for medical imaging. A Japanese radiol
 
 <p>👉 <a href="https://freelife50.com/%e3%80%90pain-relief-tips%e3%80%91why-mammogram-compression-matters/">Why Compression Matters in Mammography — A Gentle Guide to Reducing Pain</a><br>── An empathetic explanation of why compression is necessary and practical ways to make the exam more comfortable.</p>
 
-<p>👉 <a href="https://freelife50.com/a-50-year-old-mans-journey-no-more-fear/">CT Colonography for Beginners — A Comfortable, Low-Stress Option for Colorectal Screening</a><br>── A friendly, 50s-perspective introduction to CT colonography that overturns the old “painful and difficult” image of colon exams.</p>
+<p>👉 <a href="https://en.freelife50.com/a-50-year-old-mans-journey-no-more-fear/">CT Colonography for Beginners — A Comfortable, Low-Stress Option for Colorectal Screening</a><br>── A friendly, 50s-perspective introduction to CT colonography that overturns the old “painful and difficult” image of colon exams.</p>
 </blockquote>
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>

@@ -186,7 +186,7 @@ excerpt: "Memory glasses for the mind? Or just another shiny gadget? 🟦 This a
 <li>⚾<a href="https://freelife50.com/%f0%9f%a5%8e-only-three-pitches-left-and-i-still-throw/"> It’s not too late — a story of hesitation, courage, and taking one more pitch in your 50s.<br></a></li>
 </ul>
 
-<p>　・🌲<a href="https://freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/"> A hidden trail in Mt. Takao – the peaceful side of nature, away from the crowd.</a></p>
+<p>　・🌲<a href="https://en.freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/"> A hidden trail in Mt. Takao – the peaceful side of nature, away from the crowd.</a></p>
 </blockquote>
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>

@@ -294,7 +294,7 @@ excerpt: "Reading time: about 5 minutes Hello. I’m a guy in my 50s from Japan 
 
 <blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
 
-<p><a href="https://freelife50.com/in-my-50s-i-asked-myself-is-this-really-it-and-took-a-step-with-blogging/">”In My 50s, I Asked Myself, ‘Is This Really It?’ — And Took a Step with Blogging”</a><br>A story about why I started blogging in my 50s and the moment I asked myself, “Is this really the life I want to keep living?”</p>
+<p><a href="https://en.freelife50.com/in-my-50s-i-asked-myself-is-this-really-it-and-took-a-step-with-blogging/">”In My 50s, I Asked Myself, ‘Is This Really It?’ — And Took a Step with Blogging”</a><br>A story about why I started blogging in my 50s and the moment I asked myself, “Is this really the life I want to keep living?”</p>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
@@ -302,7 +302,7 @@ excerpt: "Reading time: about 5 minutes Hello. I’m a guy in my 50s from Japan 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<p><a href="https://freelife50.com/why-a-50-year-old-guy-becomes-a-rookie-star-at-the-pool-on-weekdays/">Why a 50-Year-Old Guy Becomes a “Rookie Star” at the Pool on Weekdays</a><br>A lighthearted story about my weekday swimming routine and how I unexpectedly became the “new hopeful” at the pool.</p>
+<p><a href="https://en.freelife50.com/why-a-50-year-old-guy-becomes-a-rookie-star-at-the-pool-on-weekdays/">Why a 50-Year-Old Guy Becomes a “Rookie Star” at the Pool on Weekdays</a><br>A lighthearted story about my weekday swimming routine and how I unexpectedly became the “new hopeful” at the pool.</p>
 </blockquote>
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>

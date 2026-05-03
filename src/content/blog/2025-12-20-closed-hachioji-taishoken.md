@@ -148,7 +148,7 @@ excerpt: "A farewell visit to the legendary Hachioji Taishoken ramen shop. Why I
 
 <ul class="wp-block-list"><li><a href="https://freelife50.com/%f0%9f%8d%9c%e3%80%8c%e3%81%a1%e3%82%83%e3%82%93%e7%b3%bb%e3%83%a9%e3%83%bc%e3%83%a1%e3%83%b3%e3%80%8d%e3%81%8c%e6%b0%97%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%a6%e4%bb%95%e6%96%b9%e3%81%aa%e3%81%84/">🍜 “I Can’t Stop Thinking About ‘Chan-Kei’ Ramen!”</a><br>Choosing between a familiar bowl and something new — a small hesitation that turns out to be fun.</li>
 
-<li><a href="https://freelife50.com/three-bowls-all-gone-a-ramen-adventure-at-the-yokohama-museum-in-my-50s/">🍜 “Three Bowls, All Gone — A Serious Ramen Feast at the Yokohama Ramen Museum in My 50s”</a><br>In my 50s, I somehow went all in — a ramen memory that ended with every last drop.</li>
+<li><a href="https://en.freelife50.com/three-bowls-all-gone-a-ramen-adventure-at-the-yokohama-museum-in-my-50s/">🍜 “Three Bowls, All Gone — A Serious Ramen Feast at the Yokohama Ramen Museum in My 50s”</a><br>In my 50s, I somehow went all in — a ramen memory that ended with every last drop.</li>
 
 <li><a href="https://freelife50.com/%e3%81%95%e3%82%88%e3%81%aa%e3%82%89%e3%80%81%e3%82%b7%e3%83%8e%e3%83%93%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc%e2%94%80%e2%94%80%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e7%b5%82%e4%ba%86%e3%81%8c%e6%95%99/">“Farewell, Shinobi Master — What the End of a Service Taught Me About Letting Go”</a><br>A quiet reflection on endings — and how to come to terms with them.</li>
 </ul>

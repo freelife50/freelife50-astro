@@ -211,7 +211,7 @@ excerpt: "– Point-based returns will end in September 2025, quietly stripped f
 
 <p><a href="https://freelife50.com/%e3%80%90%e3%82%bf%e3%82%a4%e3%83%88%e3%83%ab%e3%80%91-%e6%bf%80%e3%81%97%e3%81%84%e9%9b%b7%e9%9b%a8%e3%81%ae%e6%97%a5%e3%81%ab%e3%80%81%e5%83%95%e3%81%8c%e3%80%8c%e5%ae%88%e3%82%8b%e3%81%93%e3%81%a8/"><strong>What I learned about “protection” on a stormy day</strong><strong><br></strong></a> Disasters and systems alike – the real danger lies in the risks we fail to notice.</p>
 
-<p><a href="https://freelife50.com/who-are-these-elections-really-for-write-democratic-party-and-your-vote-goes-to-the-cdp/"><strong>“People First” is a lie – When writing “Democratic Party” sends your vote elsewhere</strong><strong><br></strong></a> In this country, names mislead and votes are diverted – is that really democracy?</p>
+<p><a href="https://en.freelife50.com/who-are-these-elections-really-for-write-democratic-party-and-your-vote-goes-to-the-cdp/"><strong>“People First” is a lie – When writing “Democratic Party” sends your vote elsewhere</strong><strong><br></strong></a> In this country, names mislead and votes are diverted – is that really democracy?</p>
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 

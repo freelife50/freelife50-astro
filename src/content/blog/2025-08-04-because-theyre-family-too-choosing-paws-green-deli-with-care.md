@@ -158,7 +158,7 @@ excerpt: "PAW'S GREEN DELI natural dog food review. Why we chose premium additiv
 
 <p><strong>🔗 You might also like:</strong></p>
 
-<ul class="wp-block-list"><li>🐕<a href="https://freelife50.com/ninomiya-sodegaura-hiking-en/"> A Quiet Coastal Walk in Ninomiya with My Dog<br></a> A gentle day out with our shiba inu — fruit-park trails, autumn colors, and the quiet shore of Sodegaura. Because they're family too.<br></li>
+<ul class="wp-block-list"><li>🐕<a href="https://en.freelife50.com/ninomiya-sodegaura-hiking-en/"> A Quiet Coastal Walk in Ninomiya with My Dog<br></a> A gentle day out with our shiba inu — fruit-park trails, autumn colors, and the quiet shore of Sodegaura. Because they're family too.<br></li>
 
 <li>⚾<a href="https://freelife50.com/%f0%9f%a5%8e-only-three-pitches-left-and-i-still-throw/"> What Can You Do with Three Pitches Left? – My Story with the Thank You Pitch<br></a> A personal reflection on life, choice, and never giving up—just like we do for our furry family.<br></li>
 

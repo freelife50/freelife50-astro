@@ -219,4 +219,4 @@ excerpt: "🗳️ This blog post is for you if... You've ever thought, “It doe
 
 <p>Sometimes clarity comes not from shouting, but from walking in silence.&nbsp;&nbsp;</p>
 
-<p><a href="https://freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/" target="_blank" rel="noopener noreferrer">https://freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/</a></p>
+<p><a href="https://en.freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/" target="_blank" rel="noopener noreferrer">https://en.freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/</a></p>

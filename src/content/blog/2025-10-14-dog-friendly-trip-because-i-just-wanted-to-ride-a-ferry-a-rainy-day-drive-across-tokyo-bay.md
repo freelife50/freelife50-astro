@@ -602,6 +602,6 @@ excerpt: "A dog-friendly day trip from Tokyo across Tokyo Bay Ferry to Chiba. Re
 
 
 
-<li><a href="https://freelife50.com/ninomiya-sodegaura-hiking-en/">A Quiet Coastal Walk in Ninomiya with My Dog</a> 　── Reflections on giving, aging, and the quiet joy of choosing a heartfelt gift.<br></li>
+<li><a href="https://en.freelife50.com/ninomiya-sodegaura-hiking-en/">A Quiet Coastal Walk in Ninomiya with My Dog</a> 　── Reflections on giving, aging, and the quiet joy of choosing a heartfelt gift.<br></li>
 </ul>
 </blockquote>

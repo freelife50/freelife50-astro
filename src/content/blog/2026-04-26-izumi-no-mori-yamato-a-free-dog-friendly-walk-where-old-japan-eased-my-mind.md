@@ -75,7 +75,7 @@ excerpt: "Hi, I&#8217;m Hiroshi. Lately, I&#8217;ve been dealing with some frict
 
 <p>The pond was clear, edged with bright reeds. Momiji padded along the bank without a sound.</p>
 
-<p>If you&#8217;re coming with a dog who loves water, I&#8217;ll warn you: this park has a lot of it. Pack a towel. &#8212; Speaking of dogs and water, <a href="https://freelife50.com/ninomiya-sodegaura-hiking-en/">my Ninomiya coastal walk</a> shows a very different side of Kanagawa&#8217;s shoreline, worth reading if you&#8217;re planning a beach-adjacent day out.</p>
+<p>If you&#8217;re coming with a dog who loves water, I&#8217;ll warn you: this park has a lot of it. Pack a towel. &#8212; Speaking of dogs and water, <a href="https://en.freelife50.com/ninomiya-sodegaura-hiking-en/">my Ninomiya coastal walk</a> shows a very different side of Kanagawa&#8217;s shoreline, worth reading if you&#8217;re planning a beach-adjacent day out.</p>
 
 <h2 class="wp-block-heading">She Waded Right In</h2>
 
@@ -125,7 +125,7 @@ excerpt: "Hi, I&#8217;m Hiroshi. Lately, I&#8217;ve been dealing with some frict
 
 <p>It doesn&#8217;t swing much, but there&#8217;s something satisfying about the sound your feet make on old wood. Below, I could hear the stream &#8212; the same one Momiji had waded into earlier.</p>
 
-<p>This isn&#8217;t a strenuous hike &#8212; it&#8217;s more of a nature stroll. No trekking poles needed. Comfortable sneakers are fine. If you prefer something with more elevation, <a href="https://freelife50.com/komachi-shrine-takamatsu-hiking-en/">Takamatsu-yama from Komachi Shrine in Atsugi</a> is a proper forest climb worth knowing about.</p>
+<p>This isn&#8217;t a strenuous hike &#8212; it&#8217;s more of a nature stroll. No trekking poles needed. Comfortable sneakers are fine. If you prefer something with more elevation, <a href="https://en.freelife50.com/komachi-shrine-takamatsu-hiking-en/">Takamatsu-yama from Komachi Shrine in Atsugi</a> is a proper forest climb worth knowing about.</p>
 
 <p>Nearby, the nature center &#8220;Shirakashi no Ie&#8221; offers free exhibits on the local ecosystem (closed Mondays). There&#8217;s also a historical site marker for the Kamikusakayanagi archaeological site &#8212; evidence that people have lived here for a very long time.</p>
 
@@ -182,7 +182,7 @@ excerpt: "Hi, I&#8217;m Hiroshi. Lately, I&#8217;ve been dealing with some frict
 <li><strong>Prohibited:</strong> Picking plants or wildlife &#183; Open flames (except designated campsite)</li>
 </ul>
 
-<p>While you&#8217;re exploring this part of Kanagawa, the <a href="https://freelife50.com/sagami-odako-festival-2026-en/">Sagami Giant Kite Festival</a> is something completely different &#8212; free, outdoor, and deeply local. Worth timing your trip around if you can.</p>
+<p>While you&#8217;re exploring this part of Kanagawa, the <a href="https://en.freelife50.com/sagami-odako-festival-2026-en/">Sagami Giant Kite Festival</a> is something completely different &#8212; free, outdoor, and deeply local. Worth timing your trip around if you can.</p>
 
 <h2 class="wp-block-heading">Wrapping Up</h2>
 

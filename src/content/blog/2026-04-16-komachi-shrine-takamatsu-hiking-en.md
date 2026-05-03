@@ -164,7 +164,7 @@ excerpt: "A short hike up Takamatsu-yama (147m / 482 ft) from Komachi Shrine in 
 
 <p><strong>Related Posts</strong></p>
 
-<ul class="wp-block-list"><li><a href="https://freelife50.com/ninomiya-sodegaura-hiking-en/">A Quiet Coastal Walk in Ninomiya with My Dog</a></li>
+<ul class="wp-block-list"><li><a href="https://en.freelife50.com/ninomiya-sodegaura-hiking-en/">A Quiet Coastal Walk in Ninomiya with My Dog</a></li>
 
 <li><a href="https://freelife50.com/%e5%bc%98%e6%b3%95%e5%b1%b1%e3%81%8a%e8%8a%b1%e8%a6%8b%e3%83%8f%e3%82%a4%e3%82%af%ef%bc%86bbq-%e6%a1%9c%e3%81%a8%e3%82%b3%e3%83%bc%e3%82%b9%e3%81%a8%e3%80%81%e3%81%a1%e3%82%87/">Hiking Kobo-yama &amp; BBQ Near Tokyo: A Perfect Spring Day Close to the City</a></li>
 

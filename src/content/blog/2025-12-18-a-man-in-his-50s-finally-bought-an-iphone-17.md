@@ -237,9 +237,9 @@ excerpt: "iPhone 17 honest review from a 50-year-old first-time buyer in Japan. 
 
 <ul class="wp-block-list"><li><a href="https://freelife50.com/%e5%ae%b6%e6%97%8f4%e4%ba%ba%e3%81%a7%e6%9c%884500%e5%86%86%ef%bc%81%e3%82%b9%e3%83%9e%e3%83%9b%e4%bb%a3%e3%82%92%e8%b3%a2%e3%81%8f%e7%af%80%e7%b4%84%e3%81%97%e3%81%a6%e6%9c%aa%e6%9d%a5%e3%81%ab/">How Our Family of Four Keeps Phone Bills Under ¥4,500 — A Smart Money Plan in My 50s</a><br><small>Even with an iPhone, I keep monthly costs low. A realistic look at SIM-only plans and fixed-cost control for people in their 50s.</small></li>
 
-<li><a href="https://freelife50.com/a-man-in-his-50s-torn-between-ai-subscriptions/">A Man in His 50s, Torn Between AI Subscriptions — Finding My Best Way to Use ChatGPT and Gemini</a><br><small>ChatGPT or Gemini? I hesitated, tried both, and finally settled on my own balance. A familiar struggle for anyone choosing tools.</small></li>
+<li><a href="https://en.freelife50.com/a-man-in-his-50s-torn-between-ai-subscriptions/">A Man in His 50s, Torn Between AI Subscriptions — Finding My Best Way to Use ChatGPT and Gemini</a><br><small>ChatGPT or Gemini? I hesitated, tried both, and finally settled on my own balance. A familiar struggle for anyone choosing tools.</small></li>
 
-<li><a href="https://freelife50.com/in-my-50s-i-asked-myself-is-this-really-it-and-took-a-step-with-blogging/">“Is This Really Okay?” — The First Step I Took Toward Blogging in My 50s</a><br><small>Unsure but curious, I took a small step and started blogging. An honest look at doubt, courage, and beginning in midlife.</small></li>
+<li><a href="https://en.freelife50.com/in-my-50s-i-asked-myself-is-this-really-it-and-took-a-step-with-blogging/">“Is This Really Okay?” — The First Step I Took Toward Blogging in My 50s</a><br><small>Unsure but curious, I took a small step and started blogging. An honest look at doubt, courage, and beginning in midlife.</small></li>
 </ul>
 </blockquote>
 

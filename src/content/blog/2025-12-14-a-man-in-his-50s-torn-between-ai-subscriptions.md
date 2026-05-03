@@ -279,7 +279,7 @@ excerpt: "ChatGPT vs Gemini vs Claude — which AI subscription is worth paying 
 
 <p>👉 <strong><a href="https://freelife50.com/%f0%9f%91%89-even-if-i-forget-youre-still-here-can-chatgpt-be-our-future-companion/">Can ChatGPT Become a Companion in an Aging Society?</a></strong><br>A reflection on whether AI can gently support us in an era of aging and loneliness.</p>
 
-<p>👉 <strong><a href="https://freelife50.com/in-my-50s-i-asked-myself-is-this-really-it-and-took-a-step-with-blogging/">“Is This Really Okay?” — The First Step I Took Toward Blogging in My 50s</a></strong><br>A personal story about doubt, hesitation, and finally taking one small step forward in my 50s.</p>
+<p>👉 <strong><a href="https://en.freelife50.com/in-my-50s-i-asked-myself-is-this-really-it-and-took-a-step-with-blogging/">“Is This Really Okay?” — The First Step I Took Toward Blogging in My 50s</a></strong><br>A personal story about doubt, hesitation, and finally taking one small step forward in my 50s.</p>
 </blockquote>
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>

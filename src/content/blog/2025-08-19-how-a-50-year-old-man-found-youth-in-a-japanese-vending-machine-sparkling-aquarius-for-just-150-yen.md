@@ -107,7 +107,7 @@ excerpt: "■ What This Article Is About In Japan, vending machines are everywhe
 
 <ul class="wp-block-list"><li><strong>From Jogging to Beer: One Guy’s 50s Fitness Comeback</strong><br>　A story of how a short run at the gym makes that one beer taste even better.<br>👉 <a href="https://freelife50.com/%e3%80%8c%e3%82%b8%e3%83%a0%e3%81%a710%e5%88%86%e8%b5%b0%e3%81%a3%e3%81%a6%e3%80%81%e3%83%93%e3%83%bc%e3%83%ab%e3%81%a7%e4%b9%be%e6%9d%af%ef%bc%8150%e4%bb%a3%e3%81%ae%e6%8c%91%e6%88%a6%e3%80%8d/">Read the article</a></li>
 
-<li><strong>A 50-Something Guy, Claiming the Title of Spicy King!🔥</strong><br>　Taking on the legendary Hokkyoku Ramen (10x spiciness) — a fiery 50s青春 challenge.<br>👉 <a href="https://freelife50.com/a-50-something-guy-my-quest-to-become-the-spicy-king/">Read the article</a></li>
+<li><strong>A 50-Something Guy, Claiming the Title of Spicy King!🔥</strong><br>　Taking on the legendary Hokkyoku Ramen (10x spiciness) — a fiery 50s青春 challenge.<br>👉 <a href="https://en.freelife50.com/a-50-something-guy-my-quest-to-become-the-spicy-king/">Read the article</a></li>
 
-<li><strong>My Back Hurt, But I Could Still Swim — Restart in My 50s</strong><br>　Even with back pain, swimming became a way to reconnect with life and health.<br>👉 <a href="https://freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/">Read the article</a></li>
+<li><strong>My Back Hurt, But I Could Still Swim — Restart in My 50s</strong><br>　Even with back pain, swimming became a way to reconnect with life and health.<br>👉 <a href="https://en.freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/">Read the article</a></li>
 </ul>

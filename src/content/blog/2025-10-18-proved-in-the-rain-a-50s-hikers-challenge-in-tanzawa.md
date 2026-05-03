@@ -233,7 +233,7 @@ excerpt: "Mountain Hut Feast & the True Power of Workman’s XShelter Jacket A b
 
 <li><a href="https://freelife50.com/50%e4%bb%a3%e3%81%ae%e6%9c%8d%e9%81%b8%e3%81%b3%e3%81%ab%e3%83%af%e3%83%bc%e3%82%af%e3%83%9e%e3%83%b3%e3%81%af%e3%82%a2%e3%83%aa%e3%81%8b%ef%bc%9f%e2%94%80%e2%94%80%e8%b2%b7%e3%81%a3%e3%81%a6%e3%81%aa/"><strong>Is Workman a Good Fit for Men in Their 50s? – A Deep Dive Without Buying a Thing</strong></a><br>　A practical yet affordable look at outdoor gear — perfect for those curious about the XShelter rain jacket featured in this story.</li>
 
-<li><a href="https://freelife50.com/a-50-year-old-mans-guide-5-essential-apps-for-typhoon-days/"><strong>5 Must-Have Apps for Typhoon Days — A 50s Man’s Digital Preparedness Guide</strong></a><br>　Before heading into the mountains, stay safe and informed — weather, disaster alerts, and route-planning tools all in one list.</li>
+<li><a href="https://en.freelife50.com/a-50-year-old-mans-guide-5-essential-apps-for-typhoon-days/"><strong>5 Must-Have Apps for Typhoon Days — A 50s Man’s Digital Preparedness Guide</strong></a><br>　Before heading into the mountains, stay safe and informed — weather, disaster alerts, and route-planning tools all in one list.</li>
 </ul>
 </blockquote>
 

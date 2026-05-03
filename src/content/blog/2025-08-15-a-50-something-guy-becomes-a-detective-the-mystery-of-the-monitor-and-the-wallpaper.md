@@ -120,7 +120,7 @@ excerpt: "A 50-year-old dad solves a mysterious PC wallpaper glitch. Dual monito
 
 <p>🐕<a href="https://freelife50.com/%f0%9f%90%be%e3%82%82%e3%81%bf%e3%81%98%e3%81%ae%e7%99%92%e3%81%97%e3%80%81%e5%a3%81%e3%81%ae%e5%90%91%e3%81%93%e3%81%86%e3%81%8b%e3%82%89%e3%81%93%e3%82%93%e3%81%ab%e3%81%a1%e3%81%af/"> Hello from the Other Side of the Wall – Momiji’s Healing Touch<br></a> The full story behind the “Momiji Wallpaper Incident” mentioned here — how a Shiba Inu brightened up the entire workplace.</p>
 
-<p>🎤<a href="https://freelife50.com/a-50-something-guy-goes-to-a-fest-the-isekai-reincarnation-arc/"> A 50-Something Guy Goes to a Fest – The Isekai Reincarnation Arc<br></a> Experiencing the surreal feeling of “arriving in another world” at the Libe City Fest — a perfect callback to the déjà vu in this story.</p>
+<p>🎤<a href="https://en.freelife50.com/a-50-something-guy-goes-to-a-fest-the-isekai-reincarnation-arc/"> A 50-Something Guy Goes to a Fest – The Isekai Reincarnation Arc<br></a> Experiencing the surreal feeling of “arriving in another world” at the Libe City Fest — a perfect callback to the déjà vu in this story.</p>
 
 <p>🐾<a href="https://freelife50.com/%f0%9f%90%be-because-theyre-family-too-choosing-paws-green-deli-with-care/"> Because Family Deserves Better – Choosing PAW'S GREEN DELI<br></a> A firsthand story about caring for my Shiba Inu Momiji’s health by choosing a premium, additive-free dog food made in Japan.</p>
 

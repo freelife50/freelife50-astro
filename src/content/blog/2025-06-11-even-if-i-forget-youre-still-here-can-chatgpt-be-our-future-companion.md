@@ -147,7 +147,7 @@ excerpt: "👉 Estimated reading time: about ８ minutes ⛳ Purpose of This Art
 
 <p><strong>🔗 Related Posts You Might Enjoy</strong></p>
 
-<p>👉 <a class="" href="https://freelife50.com/in-my-50s-i-asked-myself-is-this-really-it-and-took-a-step-with-blogging/">“Is This Really It?” — Why I Decided to Take Action in My 50s</a></p>
+<p>👉 <a class="" href="https://en.freelife50.com/in-my-50s-i-asked-myself-is-this-really-it-and-took-a-step-with-blogging/">“Is This Really It?” — Why I Decided to Take Action in My 50s</a></p>
 
 <p>👉 <a class="" href="https://freelife50.com/%f0%9f%8c%80-adsense%e3%81%ab%e4%bd%95%e5%ba%a6%e3%82%82%e8%90%bd%e3%81%a1%e3%81%9f%e5%83%95%e3%81%8c%e3%80%81%e3%81%9d%e3%82%8c%e3%81%a7%e3%82%82%e7%94%b3%e8%ab%8b%e3%81%97%e7%b6%9a%e3%81%91%e3%81%9f/">Rejected by AdSense Over and Over, But I Kept Applying</a></p>
 

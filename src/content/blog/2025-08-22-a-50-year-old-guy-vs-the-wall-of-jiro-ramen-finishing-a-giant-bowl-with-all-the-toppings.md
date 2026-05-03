@@ -194,9 +194,9 @@ excerpt: "Can a 50-year-old finish a Ramen Jiro large bowl with all toppings? A 
 
 <p>■<strong>Related Articles</strong></p>
 
-<ul class="wp-block-list"><li><a href="https://freelife50.com/three-bowls-all-gone-a-ramen-adventure-at-the-yokohama-museum-in-my-50s/">🍜 Three Bowls, All Gone – A Ramen Adventure at the Yokohama Museum in My 50s</a><br>　At the Ramen Museum, I challenged myself to finish three full bowls. Another battle that pushed my stomach to the edge.</li>
+<ul class="wp-block-list"><li><a href="https://en.freelife50.com/three-bowls-all-gone-a-ramen-adventure-at-the-yokohama-museum-in-my-50s/">🍜 Three Bowls, All Gone – A Ramen Adventure at the Yokohama Museum in My 50s</a><br>　At the Ramen Museum, I challenged myself to finish three full bowls. Another battle that pushed my stomach to the edge.</li>
 
-<li><a href="https://freelife50.com/a-50-something-guy-my-quest-to-become-the-spicy-king/">🔥 A 50-Something Guy, Claiming the Title of Spicy King! — Taking on Nakamoto’s Hokkyoku Ramen (10x Spiciness)</a><br>　After the giant bowl, came the spice challenge — facing the infamous Hokkyoku Ramen at 10x heat. Another reckless adventure in my 50s.</li>
+<li><a href="https://en.freelife50.com/a-50-something-guy-my-quest-to-become-the-spicy-king/">🔥 A 50-Something Guy, Claiming the Title of Spicy King! — Taking on Nakamoto’s Hokkyoku Ramen (10x Spiciness)</a><br>　After the giant bowl, came the spice challenge — facing the infamous Hokkyoku Ramen at 10x heat. Another reckless adventure in my 50s.</li>
 
 <li><a href="https://freelife50.com/%f0%9f%9a%b4%e2%99%82%ef%b8%8f-how-a-50-year-old-man-found-youth-in-a-japanese-vending-machine-sparkling-aquarius-for-just-150-yen/">🚴‍♂️ How a 50-Year-Old Man Found Youth in a Japanese Vending Machine — Sparkling Aquarius for Just 150 Yen</a><br>　After big challenges, sometimes it’s the little things that hit hardest. A sparkling drink on a hot day took me straight back to my youth.</li>
 </ul>

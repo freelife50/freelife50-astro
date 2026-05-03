@@ -236,10 +236,10 @@ excerpt: "Mt. Ono hiking guide in Kanagawa, Japan. An easy beginner-friendly tra
 
 <blockquote class="wp-block-quote"><p><strong>Related Reads (3 Picks)</strong></p>
 
-<ul class="wp-block-list"><li><strong><a href="https://freelife50.com/proved-in-the-rain-a-50s-hikers-challenge-in-tanzawa/">Proved in the Rain — A 50s Hiker’s Challenge in Tanzawa</a></strong><br>Gear, mindset, and lessons learned from hiking in the rain — the perfect “next step” after Onoyama.</li>
+<ul class="wp-block-list"><li><strong><a href="https://en.freelife50.com/proved-in-the-rain-a-50s-hikers-challenge-in-tanzawa/">Proved in the Rain — A 50s Hiker’s Challenge in Tanzawa</a></strong><br>Gear, mindset, and lessons learned from hiking in the rain — the perfect “next step” after Onoyama.</li>
 
 <li><strong><a href="https://freelife50.com/%e3%80%90%e4%b8%b9%e6%b2%a2%e3%83%bb%e6%9e%97%e9%81%93%e8%b0%b7%e5%a4%aa%e9%83%8e%e7%b7%9a-%e7%b5%82%e7%82%b9%e3%80%9c%e4%b8%8d%e5%8b%95%e3%83%8e%e6%bb%9d%e3%80%91%e9%9d%99%e3%81%91%e3%81%95%e3%81%a8/">From the End of the Tanzawa Forest Road to Fudō Falls — A Quiet Streamside Walk</a></strong><br>A short, peaceful course along a mountain stream — perfect for those who loved Onoyama’s calm vibe.</li>
 
-<li><strong><a href="https://freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/">Walking in Silence — From Uratakao to Mt. Kobutsushiroyama</a></strong><br>For those who seek both mountain views and tranquility — a serene alternative to crowded trails.</li>
+<li><strong><a href="https://en.freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/">Walking in Silence — From Uratakao to Mt. Kobutsushiroyama</a></strong><br>For those who seek both mountain views and tranquility — a serene alternative to crowded trails.</li>
 </ul>
 </blockquote>

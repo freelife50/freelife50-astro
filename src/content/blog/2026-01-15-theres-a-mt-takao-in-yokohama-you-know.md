@@ -221,7 +221,7 @@ excerpt: "Discover Yokohama's hidden \"Mt. Takao\" — a 13km hike from Enkaisan
 
 <blockquote class="wp-block-quote"><p><strong>You might also enjoy this article</strong></p>
 
-<p><a href="https://freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/">Mt. Takao’s Hidden Trail – A Quiet Escape Few Ever Find</a><br>After walking Yokohama’s Mt. Takao, this story lets you compare it with the “real” one near Tokyo—quiet, calm, and deeply refreshing.</p>
+<p><a href="https://en.freelife50.com/mt-takaos-hidden-trail-a-quiet-escape-few-ever-find/">Mt. Takao’s Hidden Trail – A Quiet Escape Few Ever Find</a><br>After walking Yokohama’s Mt. Takao, this story lets you compare it with the “real” one near Tokyo—quiet, calm, and deeply refreshing.</p>
 
 <p><a href="https://freelife50.com/a-surprisingly-quiet-sunday-at-year-end%e3%80%80%e3%80%80%e3%80%80a-no-regret-walking-guide-to-machida-yakushiike-park/">A Surprisingly Quiet Sunday at Year-End — A No-Regret Walking Guide to Machida Yakushiike Park</a><br>Perfect for those who want nature without crowds. A gentle walk close to the city that pairs beautifully with Yokohama’s hidden Mt. Takao.</p>
 

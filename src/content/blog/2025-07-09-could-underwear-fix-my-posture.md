@@ -176,12 +176,12 @@ excerpt: "— A Skeptical 50s Guy’s Honest Take on “Pelvic Support Shorts”
 
 <p><strong>1. CoreWarm and the Quiet Heat — A Belly Wrap Journey in Your 50s</strong></p>
 
-<p>Cooling air, alcohol, and aging — this article explores whether a simple belly wrap could quietly support your health in daily life.<br>👉<a href="https://freelife50.com/corewarm-and-the-quiet-heat-a-belly-wrap-journey-in-your-50s/"> Read article</a></p>
+<p>Cooling air, alcohol, and aging — this article explores whether a simple belly wrap could quietly support your health in daily life.<br>👉<a href="https://en.freelife50.com/corewarm-and-the-quiet-heat-a-belly-wrap-journey-in-your-50s/"> Read article</a></p>
 
 <p><strong>2. My back hurt, so I couldn’t run anymore. But I could still swim — a gentle restart in my 50s</strong></p>
 
-<p>After back pain shut down my running habit, I found peace in the pool. Here’s how swimming helped me move again — gently and consistently.<br>👉<a href="https://freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/"> Read article</a></p>
+<p>After back pain shut down my running habit, I found peace in the pool. Here’s how swimming helped me move again — gently and consistently.<br>👉<a href="https://en.freelife50.com/title-my-back-hurt-so-i-couldnt-run-anymore-but-i-could-still-swim-a-gentle-restart-in-my-50s/"> Read article</a></p>
 
 <p><strong>3. Crafted in Japan: The $250 Pillow That Changed How I Sleep in My 50s</strong></p>
 
-<p>A premium pillow became my way of investing in better sleep, comfort, and health — without another trip to the chiropractor.<br>👉<a href="https://freelife50.com/crafted-in-japan-the-250-pillow-that-changed-how-i-sleep-in-my-50s/"> Read article</a></p>
+<p>A premium pillow became my way of investing in better sleep, comfort, and health — without another trip to the chiropractor.<br>👉<a href="https://en.freelife50.com/crafted-in-japan-the-250-pillow-that-changed-how-i-sleep-in-my-50s/"> Read article</a></p>

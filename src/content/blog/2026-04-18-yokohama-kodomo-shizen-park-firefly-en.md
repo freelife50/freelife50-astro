@@ -120,7 +120,7 @@ Right in the middle of Yokohama, there's a "just-right" nature park with ponds, 
 
 <p>I'm coming back in June. Gear ready. That's settled.</p>
 
-<p>(For another walk around Yokohama's hidden nature, you might enjoy <a href="https://freelife50.com/theres-a-mt-takao-in-yokohama-you-know/">Yokohama's own "Mt. Takao" — a 13km hike in Midori Ward</a>.)</p>
+<p>(For another walk around Yokohama's hidden nature, you might enjoy <a href="https://en.freelife50.com/theres-a-mt-takao-in-yokohama-you-know/">Yokohama's own "Mt. Takao" — a 13km hike in Midori Ward</a>.)</p>
 
 <h2>Wrapping up</h2>
 
@@ -132,8 +132,8 @@ Right in the middle of Yokohama, there's a "just-right" nature park with ponds, 
 
 <p>A city park that still has a rice paddy and a firefly waterway is not something you find every day. If you live in or near Yokohama, take an afternoon and walk it — with your family, with your dog, or on your own.</p>
 
-<p>(A beach walk with Momiji: <a href="https://freelife50.com/ninomiya-sodegaura-hiking-en/">from Ninomiya Orchard Park to Sodegaura Beach</a>.)<br>
-(For a hill walk with a quiet shrine, try <a href="https://freelife50.com/komachi-shrine-takamatsu-hiking-en/">Komachi Shrine to Mt. Takamatsu in Atsugi</a>.)</p>
+<p>(A beach walk with Momiji: <a href="https://en.freelife50.com/ninomiya-sodegaura-hiking-en/">from Ninomiya Orchard Park to Sodegaura Beach</a>.)<br>
+(For a hill walk with a quiet shrine, try <a href="https://en.freelife50.com/komachi-shrine-takamatsu-hiking-en/">Komachi Shrine to Mt. Takamatsu in Atsugi</a>.)</p>
 
 
 <p style="text-align:right"><a href="https://freelife50.com/yokohama-kodomo-shizen-park-firefly/">🇯🇵 この記事を日本語で読む / Read in Japanese</a></p>
