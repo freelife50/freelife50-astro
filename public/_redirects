@@ -3,3 +3,8 @@
 
 # 誤抽出によるslug修正リダイレクト（2026-05-03）
 /yahoo-japan-en/ /hanakimi-anime-2025-en/ 301
+
+# 旧WordPressサイトマップを新Astroサイトマップへリダイレクト（2026-05-03）
+/wp-sitemap.xml         /sitemap-index.xml  301
+/wp-sitemap-*.xml       /sitemap-index.xml  301
+/sitemap.xml            /sitemap-index.xml  301
