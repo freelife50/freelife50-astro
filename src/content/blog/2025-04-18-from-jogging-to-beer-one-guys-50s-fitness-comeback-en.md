@@ -11,8 +11,6 @@ excerpt: "Hi there!Yesterday, I hit the gym for a light workout:"
 
 <figure class="wp-block-image aligncenter size-large is-resized"><img src="/images/wp-content/uploads/2025/04/image.png" alt="" class="wp-image-56" style="width:276px;height:auto"/></figure>
 
-<h2>body</h2>
-
 <p>Hi there!<br>Yesterday, I hit the gym for a light workout:</p>
 
 <ul class="wp-block-list"><li>10 minutes on the treadmill</li>

@@ -3,7 +3,7 @@ title: "Fireflies in Yokohama? Kodomo Shizen Park with My Dog and Mt. Fuji"
 date: "2026-04-18"
 slug: "yokohama-kodomo-shizen-park-firefly-en"
 categories: ["healing-walks"]
-tags: ["dog-walk", "genji-firefly", "kanagawa-hiking", "kodomo-shizen-park", "momiji", "mt-fuji-view-2", "yato-valley", "yokohama-walk"]
+tags: ["kodomo-shizen-park", "genji-firefly", "yokohama-walk", "dog-walk", "kanagawa-hiking"]
 eyecatch: "/images/wp-content/uploads/2026/04/yokohama-kodomo-park-entrance-map-dog-en.jpg"
 lang: "en"
 excerpt: "A New Year walk in Yokohama Kodomo Shizen Park with my Shiba Inu and wife. Ducks on the pond, a snow-capped Mt. Fuji, and a protected Genji firefly ha"

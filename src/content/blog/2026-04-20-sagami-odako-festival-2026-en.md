@@ -3,7 +3,7 @@ title: "I Took My Shiba Inu to the Sagami River and Found Japan’s Largest Kite
 date: "2026-04-20"
 slug: "sagami-odako-festival-2026-en"
 categories: ["life-with-momiji", "healing-walks"]
-tags: ["giant-kite-japan", "golden-week-kanagawa", "japan-traditional-festival", "kanagawa-travel", "momiji", "sagami-odako-festival", "sagami-river", "shiba-inu"]
+tags: ["sagami-odako-festival", "giant-kite-japan", "japan-traditional-festival", "kanagawa-travel", "shiba-inu"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/04/odako_3297-1.jpg"
 excerpt: "About 5 minutes Hi, I&#8217;m Hiroshi. &#8220;I&#8217;ve heard of it, but I&#8217;ve never actually been.&#8221; You kno"

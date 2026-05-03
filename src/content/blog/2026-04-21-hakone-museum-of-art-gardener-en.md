@@ -3,7 +3,7 @@ title: "My Wife Rejected the Zoo, So We Went to Hakone Museum of Art — and the
 date: "2026-04-21"
 slug: "hakone-museum-of-art-gardener-en"
 categories: ["healing-walks"]
-tags: ["hakone", "hakone-museum-of-art", "japan-garden", "kanagawa", "moss-garden", "travel-in-your-50s"]
+tags: ["hakone", "hakone-museum-of-art", "moss-garden", "japan-garden", "travel-in-your-50s"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/04/01_eyecatch_window_view.jpg"
 excerpt: "About 7 minutes Hi, I&#8217;m Hiroshi. You know that feeling when you&#8217;re on a day off, ready to go somewhere fun —"

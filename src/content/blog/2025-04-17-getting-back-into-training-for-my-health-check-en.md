@@ -13,8 +13,6 @@ excerpt: "And Yes — I’m Joining the East Japan International Marathon!"
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2>body</h2>
-
 <p>Yesterday, I restarted some light cardio in preparation for my upcoming workplace health check.<br>I did 20 minutes of treadmill walking, 20 minutes in the pool, and wrapped it up with a 10-minute sauna.</p>
 
 <p>And this weekend, on April 27th, I’ll be running 10K in the East Japan International Marathon!</p>

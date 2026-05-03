@@ -9,8 +9,6 @@ lang: "en"
 excerpt: "Yesterday, I took my bike and headed out to a local public bathhouse, \"Machida Sakura no Yu,\" to ease my lower back pain. It’s about a 10–15 minute ride from..."
 ---
 
-<h2>BODY</h2>
-
 <p> Yesterday, I took my bike and headed out to a local public bathhouse, "Machida Sakura no Yu," to ease my lower back pain. It’s about a 10–15 minute ride from home. The weather was perfect for a casual outing.</p>
 
 <figure class="wp-block-image aligncenter size-large is-resized"><img src="/images/wp-content/uploads/2025/04/image-59.png" alt="" class="wp-image-260" style="width:473px;height:auto"/></figure>

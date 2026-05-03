@@ -3,7 +3,7 @@ title: "I Did the Research for My Shiba Inu: Is GRANDS Grain-Free Dog Food Worth
 date: "2026-04-28"
 slug: "grands-grain-free-dog-food-review-shiba-inu-en"
 categories: ["life-with-momiji"]
-tags: ["dogfood", "dognutrition", "grainfree", "grands", "japan-2", "petfood", "shibainu-2", "shibainulife-2"]
+tags: ["grands", "dogfood", "grainfree", "dognutrition", "petfood"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/04/grands_01_eyecatch.jpg"
 excerpt: "About 5 minutes to read. Every time I fill Momiji's bowl, the same thought crosses my mind. \"Is this actually good for h"

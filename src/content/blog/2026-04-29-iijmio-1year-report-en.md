@@ -3,7 +3,7 @@ title: "One Year with IIJmio: I Said '$30/Month for 4 People' — Here's the Hon
 date: "2026-04-29"
 slug: "iijmio-1year-report-en"
 categories: ["blog-sidejob"]
-tags: ["IIJmio", "MVNO", "Japan", "phone-bill", "family-plan", "save-money", "fixed-costs", "frugal-living", "life-in-50s"]
+tags: ["IIJmio", "MVNO", "phone-bill", "save-money", "family-plan"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/04/iijmio-1year-eyecatch.jpg"
 sns_image_url: "/images/wp-content/uploads/2026/04/iijmio-1year-sns.jpg"

@@ -11,8 +11,6 @@ excerpt: "Negi Ramen and a Spring Sunbeam – A Gentle Day with Momiji."
 
 <p>Negi Ramen and a Spring Sunbeam – A Gentle Day with Momiji.</p>
 
-<h2>BODY</h2>
-
 <p>Today was one of those spring afternoons where everything just felt right. Nothing special happened, but the breeze was soft, the temperature perfect—and on days like this, I just crave ramen.</p>
 
 <p>I headed to my usual spot, "Ippatsu Ramen." I always go for the negi (green onion) ramen—100 yen extra for a mountain of shredded leeks. It’s a great value, and the way the crisp leeks blend into the broth is just perfect.</p>

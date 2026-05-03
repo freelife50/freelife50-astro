@@ -189,6 +189,8 @@ const EN_SLUGS = [
   'more-articles-you-may-like-en',
   'workman-colors-en',
   '2025-06-08-society-issues-thoughts-post-en',
+  // ── 2025-05 新規翻訳（2026-05追加）─────────────────────────────
+  'i-cancelled-all-my-insurance-at-50-what-coverage-do-you-really-need-en',
 ];
 
 function generateWorkerCode(enSlugs) {
