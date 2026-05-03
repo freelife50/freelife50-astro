@@ -2,7 +2,7 @@
 title: "A Quiet Coastal Walk in Ninomiya with My Dog"
 date: "2026-04-16"
 slug: "ninomiya-sodegaura-hiking-en"
-categories: ["life-with-momiji", "healing-walks"]
+categories: ["healing-walks"]
 tags: ["coastal-walk", "ninomiya", "sodegaura-beach", "dog-walk", "kanagawa-hiking"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/04/IMG_3097.jpg"
