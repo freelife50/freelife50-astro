@@ -9,6 +9,7 @@ lang: "en"
 excerpt: "I never got to play Dragon Quest myself—but I still felt like I was part of the adventure.Watching from behind, I imagined myself in that world.Maybe that’s..."
 ---
 
+<p>🕒 About 2 minutes to read.</p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 <h3>🧒 Chapter 1: The Day I Couldn’t Own a Famicom</h3>

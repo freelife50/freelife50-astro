@@ -9,6 +9,7 @@ lang: "en"
 excerpt: "Honestly, I had filmed it without much thought. At the time, I just thought, \"Oh, monkeys on a wire.\""
 ---
 
+<p>🕒 About 1 minutes to read.</p>
 <h2>An Unexpected Surprise</h2>
 
 <blockquote class="wp-block-quote"><p>Honestly, I had filmed it without much thought. At the time, I just thought, "Oh, monkeys on a wire."</p>

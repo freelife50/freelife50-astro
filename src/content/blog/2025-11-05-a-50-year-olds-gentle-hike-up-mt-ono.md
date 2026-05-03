@@ -3,7 +3,7 @@ title: "Mt. Ono Hiking in Kanagawa: Easy Trail with Stunning Mt. Fuji Views for 
 date: "2025-11-05"
 slug: "a-50-year-olds-gentle-hike-up-mt-ono"
 categories: ["healing-walks"]
-tags: ["beginnerfriendlyhike", "daytripfromtokyo", "easyhike", "fujiviewtrail", "japannature", "kanagawahiking", "lowmountainhike", "mtono", "shorthike", "yamakita"]
+tags: ["beginnerfriendlyhike", "daytripfromtokyo", "easyhike", "fujiviewtrail", "japannature"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/11/PXL_20251102_040609226.jpg"
 excerpt: "Mt. Ono hiking guide in Kanagawa, Japan. An easy beginner-friendly trail with stunning Mt. Fuji views and peaceful countryside atmosphere."

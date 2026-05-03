@@ -9,6 +9,7 @@ lang: "en"
 excerpt: "Have you ever stopped to think about that?"
 ---
 
+<p>🕒 About 3 minutes to read.</p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 <h4>"Where does the city's water come from?"</h4>

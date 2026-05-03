@@ -3,7 +3,7 @@ title: "Life Philosophy at 50: What Can You Do with Your Last Three Pitches?"
 date: "2025-06-10"
 slug: "only-three-pitches-left-and-i-still-throw"
 categories: ["society-issues-thoughts"]
-tags: ["anime", "challenge", "in-your-50s", "life-lesson", "limited-time", "one-pitch-one-soul", "passion", "reflection", "thank-you-pitch"]
+tags: ["anime", "challenge", "in-your-50s", "life-lesson", "limited-time"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/06/Gemini_Generated_Image_vr1jbsvr1jbsvr1j.png"
 excerpt: "A Story of Midlife, Hope, and a Manga That Helped Me Begin Again 🕐 Estimated reading time: about 6 minutes ⛳ Purpose Th"

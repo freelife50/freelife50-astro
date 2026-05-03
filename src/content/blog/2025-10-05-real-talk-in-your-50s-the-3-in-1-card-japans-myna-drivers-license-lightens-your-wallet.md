@@ -3,7 +3,7 @@ title: "Japan MyNumber Driver's License Review: 3-in-1 Card That Lightens Your W
 date: "2025-10-05"
 slug: "real-talk-in-your-50s-the-3-in-1-card-japans-myna-drivers-license-lightens-your-wallet"
 categories: ["prepared-life"]
-tags: ["digital-drivers-license-japan", "digital-medication-record", "digitalization-in-the-50s", "loss-prevention-tips", "my-number-card-integration", "myna-drivers-license", "online-government-services", "online-license-renewal", "smart-daily-life", "smartphone-drivers-license"]
+tags: ["digital-drivers-license-japan", "digital-medication-record", "digitalization-in-the-50s", "loss-prevention-tips", "my-number-card-integration"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/10/20251005_1557_IC-Card-Holder_simple_compose_01k6sjfkyaenrabv9bqf1bnhe5.jpg"
 excerpt: "— but you still can’t ditch loss-prevention habits or the paper medication record 📖 Reading time: 12–14 min 🎯 What you"

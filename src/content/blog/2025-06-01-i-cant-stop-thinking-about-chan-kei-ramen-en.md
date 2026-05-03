@@ -9,6 +9,7 @@ lang: "en"
 excerpt: "I thought I knew ramen. But seeing photos of Chan-Kei Ramen made something inside me jump—like my taste buds had memories I hadn’t lived yet.It wasn’t just the..."
 ---
 
+<p>🕒 About 2 minutes to read.</p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 <h2>🍜 Chapter 1: The Ramen I Didn’t Know I Was Missing</h2>

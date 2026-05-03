@@ -3,7 +3,7 @@ title: "Sagamihara Planetarium Review: A Hidden Gem in Japan for Just $3.50"
 date: "2025-11-16"
 slug: "a-50-year-olds-secret-sanctuary-the-sagamihara-planetarium-3-50-is-a-hidden-gem"
 categories: ["healing-walks"]
-tags: ["8kprojection", "a-refuge-for-adults", "digital-detox", "healing-time-for-adults", "lifeinmy50s", "marsmmx", "mental-wellness", "mmxmission", "nexttojaxa", "one-coin-experience", "planetarium-tour", "sagamiharamuseum", "sagamiharaplanetarium", "space-lovers"]
+tags: ["8kprojection", "a-refuge-for-adults", "digital-detox", "healing-time-for-adults", "lifeinmy50s"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/11/Gemini_Generated_Image_1kr2g31kr2g31kr2.jpg"
 excerpt: "🌟 For the Tired Adults Out There Work drains you. Smartphones drain you. People drain you. Even information drains you."

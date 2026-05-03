@@ -3,7 +3,7 @@ title: "Hachioji Castle Ruins Hike: Why I Seriously Underestimated This Trail Ne
 date: "2026-02-02"
 slug: "i-seriously-underestimated-hachioji-castle-ruins"
 categories: ["healing-walks"]
-tags: ["bear-safety", "hachioji-castle", "hiking-in-japan", "hiking-over-50", "hiking-safety", "historical-sites", "japanese-castles", "low-mountain-hiking", "mt-fuji-view", "tokyo-day-trips"]
+tags: ["bear-safety", "hachioji-castle", "hiking-in-japan", "hiking-over-50", "hiking-safety"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/02/IMG_2457.jpg"
 excerpt: "Hachioji Castle Ruins hiking guide near Tokyo. What to expect on this underestimated trail including steep sections, Mt. Fuji views, and historical ru"

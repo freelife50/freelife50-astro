@@ -9,6 +9,7 @@ lang: "en"
 excerpt: "I’ve never bought anything from Workman, but I kept hearing about their high-performance, budget-friendly innerwear.Curious, I dug deep into reviews,..."
 ---
 
+<p>🕒 About 6 minutes to read.</p>
 <blockquote class="wp-block-quote"><p><strong>I’ve never bought anything from Workman, but I kept hearing about their high-performance, budget-friendly innerwear.</strong><br>Curious, I dug deep into reviews, comparisons with Uniqlo, Montbell, and The North Face.<br>In this post, I’m sharing what I learned—and why I think Workman might actually be a smart pick for guys like me in their 50s.<br>If you’ve ever wondered the same, I hope this helps!</p>
 </blockquote>
 

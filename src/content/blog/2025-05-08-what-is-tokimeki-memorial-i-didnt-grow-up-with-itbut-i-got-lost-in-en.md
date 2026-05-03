@@ -9,6 +9,7 @@ lang: "en"
 excerpt: "What is “Tokimeki Memorial”? I didn’t grow up with it—but I got lost in Vana’diel."
 ---
 
+<p>🕒 About 2 minutes to read.</p>
 <p><em>What is “Tokimeki Memorial”? I didn’t grow up with it—but I got lost in Vana’diel.</em></p>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>

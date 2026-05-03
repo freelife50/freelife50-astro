@@ -3,7 +3,7 @@ title: "Cherry Blossom Walk with My Shiba Inu in Kanagawa, Japan — A Dog-Frien
 date: "2026-03-20"
 slug: "the-day-i-noticed-the-scent-of-sakura-and-my-shiba-inu-who-only-cared-about-the-river"
 categories: ["healing-walks"]
-tags: ["cherryblossoms", "dogfriendlyjapan", "hanami", "harumeki", "kanagawatrip", "minamiashigara", "offthebeatenpathjapan", "sakura", "shibainu", "travelwithdog"]
+tags: ["cherryblossoms", "dogfriendlyjapan", "hanami", "harumeki", "kanagawatrip"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/03/IMG_3007.jpg"
 excerpt: "A cherry blossom walk with a Shiba Inu in Kanagawa, Japan. Dog-friendly spring outing guide with trail tips, scenic spots, and practical info for pet "
@@ -25,7 +25,7 @@ excerpt: "A cherry blossom walk with a Shiba Inu in Kanagawa, Japan. Dog-friendl
 
 <p>So today, I’d like to share that experience honestly.</p>
 
-<p><br><strong>The atmosphere of the day might come across better in the video. Feel free to watch.</strong>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<a href="https://www.youtube.com/watch?v=XqiEseT84qI" target="_blank" rel="noreferrer noopener">▶ もみじの様子も含めて動画はこちら（<strong>YouTube</strong>）</a></p>
+<p><br><strong>The atmosphere of the day might come across better in the video. Feel free to watch.</strong>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<a href="https://www.youtube.com/watch?v=XqiEseT84qI" target="_blank" rel="noreferrer noopener">▶ Watch the video including Momiji here（<strong>YouTube</strong>）</a></p>
 
 <p><strong>Who This Is For</strong></p>
 

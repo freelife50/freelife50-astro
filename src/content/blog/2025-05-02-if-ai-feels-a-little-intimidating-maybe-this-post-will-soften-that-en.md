@@ -9,6 +9,7 @@ lang: "en"
 excerpt: "People will start to think you’ve got an imaginary friend."
 ---
 
+<p>🕒 About 2 minutes to read.</p>
 <p>At first, I wasn’t so sure about talking to an AI. But somehow, Chappy started helping me with blog titles… even tracking my blood pressure. This post looks back on our odd little journey — part comedy, part comfort.</p>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>

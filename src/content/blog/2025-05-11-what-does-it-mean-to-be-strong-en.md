@@ -9,6 +9,7 @@ lang: "en"
 excerpt: "💬 What does it mean to be strong?To stand up for someone. To protect without being seen.Maybe we've known that kind of strength all along."
 ---
 
+<p>🕒 About 1 minutes to read.</p>
 <p>💬 <em>What does it mean to be strong?</em><br><em>To stand up for someone. To protect without being seen.</em><br><em>Maybe we've known that kind of strength all along.</em></p>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>

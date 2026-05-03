@@ -9,6 +9,7 @@ lang: "en"
 excerpt: "Rethinking AI Romance Scams: AI Isn't the Villain—But Blind Trust Can Be Dangerous."
 ---
 
+<p>🕒 About 2 minutes to read.</p>
 <p><strong>Rethinking AI Romance Scams: AI Isn't the Villain—But Blind Trust Can Be Dangerous.</strong></p>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>

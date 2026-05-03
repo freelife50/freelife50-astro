@@ -3,7 +3,7 @@ title: "Hiking Mt. Takao with My Son: Inariyama Trail to Yakuo-in and a Strange 
 date: "2026-03-01"
 slug: "mt-takao-walked-with-my-son"
 categories: ["healing-walks"]
-tags: ["family-hiking-japan", "father-and-son", "hiking-log", "inariyama-trail", "mount-takao", "serendipity", "takao-hiking", "yakouin-temple"]
+tags: ["family-hiking-japan", "father-and-son", "hiking-log", "inariyama-trail", "mount-takao"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/03/IMG_2735.jpg"
 excerpt: "A father-son hike on Mt. Takao via the Inariyama Trail to Yakuo-in temple. Trail details, difficulty level, and a heartwarming story of unexpected reu"

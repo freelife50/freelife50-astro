@@ -9,6 +9,7 @@ eyecatch: "/images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-15T10_37_
 excerpt: "A 50-year-old dad solves a mysterious PC wallpaper glitch. Dual monitors, display settings detective work, and tech troubleshooting tips for everyday "
 ---
 
+<p>🕒 About 5 minutes to read.</p>
 <p><strong>A Quiet Morning, and Then… a Case</strong></p>
 
 <p>Inside a dark car.<br>On the way back from the Libe City Fest, I stopped at a convenience store for a coffee, ready to unwind.<br>Right at that moment—<em>ping</em>—an email from my supervisor.<br>My gut instantly told me: <em>This isn’t going to be good.</em></p>

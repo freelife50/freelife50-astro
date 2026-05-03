@@ -3,7 +3,7 @@ title: "iPhone 17 Review: A 50-Year-Old Japanese Man Finally Makes the Switch"
 date: "2025-12-18"
 slug: "a-man-in-his-50s-finally-bought-an-iphone-17"
 categories: ["prepared-life"]
-tags: ["iphone-vs-pixel", "iphone17", "life-in-your-50s", "mac-ecosystem", "smartphone-choice", "switching-from-android-to-iphone"]
+tags: ["iphone-vs-pixel", "iphone17", "life-in-your-50s", "mac-ecosystem", "smartphone-choice"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/12/Gemini_Generated_Image_vselxfvselxfvsel.jpg"
 excerpt: "iPhone 17 honest review from a 50-year-old first-time buyer in Japan. What surprised me, what I love, and whether the upgrade is worth it."

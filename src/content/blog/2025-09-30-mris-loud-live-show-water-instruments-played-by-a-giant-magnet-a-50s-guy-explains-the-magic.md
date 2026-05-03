@@ -3,12 +3,13 @@ title: "How MRI Machines Work: A Radiologist Explains Why They're So Loud"
 date: "2025-09-30"
 slug: "mris-loud-live-show-water-instruments-played-by-a-giant-magnet-a-50s-guy-explains-the-magic"
 categories: ["prepared-life"]
-tags: ["brain-scan", "health-checkup", "how-to-prepare", "joint-imaging", "medical-explained", "medical-imaging", "mri", "radiation-free-scan", "safety"]
+tags: ["brain-scan", "health-checkup", "how-to-prepare", "joint-imaging", "medical-explained"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-29T22_45_40.272Z.jpg"
 excerpt: "— Water, Magnet, and a Little Bit of Drum 📖 Reading time: 12–15 min (one coffee + a refill encouraged) https://www.yout"
 ---
 
+<p>🕒 About 7 minutes to read.</p>
 <p>— Water, Magnet, and a Little Bit of Drum</p>
 
 <p>📖 <strong>Reading time: 12–15 min (one coffee + a refill encouraged)</strong></p>

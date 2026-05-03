@@ -9,6 +9,7 @@ lang: "en"
 excerpt: "In this article, I’ll introduce one of my favorite spiritual spots that I’ve visited many times — Ōyama Afuri Shrine in Isehara City, Kanagawa Prefecture.It’s..."
 ---
 
+<p>🕒 About 3 minutes to read.</p>
 <blockquote class="wp-block-quote"><p>In this article, I’ll introduce one of my favorite spiritual spots that I’ve visited many times — <strong>Ōyama Afuri Shrine</strong> in Isehara City, Kanagawa Prefecture.<br>It’s been gaining popularity again in early summer as people look for meaningful temple and shrine visits.</p>
 
 <p>Here’s what makes it worth visiting now more than ever:</p>

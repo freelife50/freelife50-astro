@@ -9,6 +9,7 @@ lang: "en"
 excerpt: "Taking a breath in nature can sometimes loosen the weight we didn’t even realize we were carrying. Having a nearby place like this might be what gives us the..."
 ---
 
+<p>🕒 About 2 minutes to read.</p>
 <h3>A Bright Morning Draws Me Back</h3>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/PXL_20250511_020712400-scaled.jpg" alt="" class="wp-image-571"/></figure>

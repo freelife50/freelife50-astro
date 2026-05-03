@@ -3,7 +3,7 @@ title: "Time vs Money in Your 50s: Why I Chose to Save My Life, Not Just My Budg
 date: "2025-10-06"
 slug: "the-50s-decision-im-not-worth-1-an-hour-why-i-chose-to-save-my-life-not-just-my-money"
 categories: ["prepared-life"]
-tags: ["automation", "bank-auto-debit", "financial-wellness", "life-in-your-50s", "mental-clarity", "minimalist-living", "nanaco-card", "peace-of-mind", "personal-finance", "property-tax", "quit-point-hunting", "simplify-life", "smart-saving", "time-management"]
+tags: ["automation", "bank-auto-debit", "financial-wellness", "life-in-your-50s", "mental-clarity"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/04/3e0fc0805b93a0cf6e6c93a1d839ef3d.png"
 excerpt: "From saving money to saving time, mental energy, and peace of mind. 📖 Read Time: Approx. 12 minutes 💡 Who This Article"

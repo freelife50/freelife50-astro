@@ -9,6 +9,7 @@ lang: "en"
 excerpt: "📌 This blog includes an English afterword at the end.If you're reading in English, please scroll down and enjoy!"
 ---
 
+<p>🕒 About 2 minutes to read.</p>
 <p>📌 <strong>This blog includes an English afterword at the end.<br>If you're reading in English, please scroll down and enjoy!</strong></p>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/678656ceb7632c57ba7546634bc24996.png" alt="" class="wp-image-798"/></figure>

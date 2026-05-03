@@ -9,6 +9,7 @@ eyecatch: "/images/wp-content/uploads/2025/06/PXL_20250611_060605020-scaled.jpg"
 excerpt: "A food tour of Shin-Yokohama Ramen Museum with honest reviews of 3 bowls. Tips for visiting this unique ramen theme park near Tokyo."
 ---
 
+<p>🕒 About 7 minutes to read.</p>
 <p>👥 <strong>Recommended for:</strong></p>
 
 <ul class="wp-block-list"><li>Anyone craving regional Japanese ramen in one place</li>

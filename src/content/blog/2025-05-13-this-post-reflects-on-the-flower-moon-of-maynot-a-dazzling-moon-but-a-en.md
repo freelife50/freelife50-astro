@@ -9,6 +9,7 @@ lang: "en"
 excerpt: "Isn't a full moon supposed to be bright and dazzling?"
 ---
 
+<p>🕒 About 1 minutes to read.</p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 <p><strong>Isn't a full moon supposed to be bright and dazzling?</strong></p>

@@ -3,7 +3,7 @@ title: "Colon CT Scan Experience: A 50-Year-Old Japanese Man's Honest Review"
 date: "2025-09-21"
 slug: "a-50-year-old-mans-journey-no-more-fear"
 categories: ["prepared-life"]
-tags: ["cancer-screening", "colon-screening", "colorectal-cancer-screening", "ct-colonography", "ct-scan", "difference-from-colonoscopy", "health-in-50s", "low-laxative-prep", "virtual-colonoscopy"]
+tags: ["cancer-screening", "colon-screening", "colorectal-cancer-screening", "ct-colonography", "ct-scan"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/09/PXL_20250921_054612533.jpg"
 excerpt: "A 50-year-old Japanese man's honest experience with colon CT scan. What the prep is like, pain levels, and why it's easier than you think."

@@ -9,6 +9,7 @@ lang: "en"
 excerpt: "🍜Back Pain, Leeches, and Morning Ramen – A Fully Loaded Children's Day Hike"
 ---
 
+<p>🕒 About 2 minutes to read.</p>
 <p>🍜Back Pain, Leeches, and Morning Ramen – A Fully Loaded Children's Day Hike</p>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/9a554d41d808f8f2014d73e20c0fe656.png" alt="" class="wp-image-376"/></figure>

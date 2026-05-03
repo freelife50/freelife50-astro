@@ -9,6 +9,7 @@ lang: "en"
 excerpt: "🔤 Afterthought in EnglishAt first, I really thought someone got rejected. But instead, I found a whole world I never knew—where “REJECT” is not about denial,..."
 ---
 
+<p>🕒 About 2 minutes to read.</p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/621cba254df9a51c5f1901b73ecdabd7.png" alt="" class="wp-image-752"/></figure>

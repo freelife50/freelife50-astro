@@ -3,7 +3,7 @@ title: "Kinchakuda Manjushage Park: Is It Dog-Friendly? Walking with My Shiba In
 date: "2026-03-17"
 slug: "is-kinchakuda-manjushage-park-good-for-walking-with-dogs"
 categories: ["healing-walks"]
-tags: ["dog-friendly-park", "dog-walk-japan", "hidaka-saitama", "japanese-countryside-walk", "kinchakuda-manjushage-park", "nature-walk-japan", "peaceful-walk-japan", "red-spider-lily", "relaxing-walk-japan", "saitama-japan", "shiba-inu", "shiba-inu-japan", "shiba-inu-life", "shiba-inu-momiji", "walking-with-dog"]
+tags: ["dog-friendly-park", "dog-walk-japan", "hidaka-saitama", "japanese-countryside-walk", "kinchakuda-manjushage-park"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/03/Gemini_Generated_Image_p1df1ip1df1ip1df.jpg"
 excerpt: "Is Kinchakuda Manjushage Park dog-friendly? A first-hand walking guide with a Shiba Inu. Access info, rules for dogs, and what to expect at this popul"
@@ -177,7 +177,7 @@ excerpt: "Is Kinchakuda Manjushage Park dog-friendly? A first-hand walking guide
 
 <p>You can watch the full walk in the video below.<br>A peaceful walk in Kinchakuda Manjushage Park with our Shiba Inu, Momiji.</p>
 
-<p>👉 <a href="https://www.youtube.com/watch?v=scL2UXpom4M&amp;t=1s" target="_blank" rel="noreferrer noopener">柴犬もみじの散歩動画はこちら / Watch Momiji’s walk</a></p>
+<p>👉 <a href="https://www.youtube.com/watch?v=scL2UXpom4M&amp;t=1s" target="_blank" rel="noreferrer noopener">Watch Momiji's walk video here / Watch Momiji’s walk</a></p>
 
 <p>The first thing I thought after arriving was:</p>
 

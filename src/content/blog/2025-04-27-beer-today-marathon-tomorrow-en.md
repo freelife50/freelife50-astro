@@ -9,6 +9,7 @@ lang: "en"
 excerpt: "I arrived at the venue and was immediately shocked."
 ---
 
+<p>🕒 About 1 minutes to read.</p>
 <p>Hi, I'm Hiroshi.</p>
 
 <p>"My back hurts." And I have a marathon tomorrow.</p>

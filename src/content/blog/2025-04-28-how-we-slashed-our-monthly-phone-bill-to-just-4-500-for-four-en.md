@@ -9,6 +9,7 @@ lang: "en"
 excerpt: "When we switched from flip phones to smartphones, the cost shocked us. That’s when we decided to move to a budget SIM (IIJmio)."
 ---
 
+<p>🕒 About 1 minutes to read.</p>
 <h3>Are You Paying Too Much for Your Mobile Bill?</h3>
 
 <p>When we switched from flip phones to smartphones, the cost shocked us. That’s when we decided to move to a <strong>budget SIM (IIJmio)</strong>.</p>

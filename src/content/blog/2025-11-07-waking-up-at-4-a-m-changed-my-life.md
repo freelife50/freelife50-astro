@@ -3,7 +3,7 @@ title: "4 AM Morning Routine: How Waking Up Early Changed My Life in My 50s"
 date: "2025-11-07"
 slug: "waking-up-at-4-a-m-changed-my-life"
 categories: ["healing-walks"]
-tags: ["deanplushtoy", "earlyrising", "humanconnection", "introvert", "libefest", "libeuniversity", "lifeshift", "morningroutine", "peaceofmind", "selfinvestment", "timemanagement", "volunteering"]
+tags: ["deanplushtoy", "earlyrising", "humanconnection", "introvert", "libefest"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/11/PXL_20251028_125018198.jpg"
 excerpt: "How waking up at 4 AM transformed my life in my 50s. The morning routine, productivity gains, and health benefits of becoming an early riser in Japan."

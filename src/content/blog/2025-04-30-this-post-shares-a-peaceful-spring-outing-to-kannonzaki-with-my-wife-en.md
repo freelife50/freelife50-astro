@@ -9,6 +9,7 @@ lang: "en"
 excerpt: "This post shares a peaceful spring outing to Kannonzaki with my wife and our Shiba Inu, Momiji.If you're in need of a gentle breeze for your heart, this story..."
 ---
 
+<p>🕒 About 2 minutes to read.</p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 <blockquote class="wp-block-quote"><p><strong>This post shares a peaceful spring outing to Kannonzaki with my wife and our Shiba Inu, Momiji.</strong><br>If you're in need of a gentle breeze for your heart, this story might be the perfect break.</p></blockquote>

@@ -9,6 +9,7 @@ lang: "en"
 excerpt: "I came across the name Shinobi Master: Senran Kagura NEW LINK just a few days ago.To be honest, I had no idea what kind of game it was—its characters, story,..."
 ---
 
+<p>🕒 About 3 minutes to read.</p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/Gemini_Generated_Image_ixxgwdixxgwdixxg.png" alt="" class="wp-image-1288"/></figure>

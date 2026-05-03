@@ -9,6 +9,7 @@ lang: "en"
 excerpt: "Change Your Path Just a Little, and Life Might Follow"
 ---
 
+<p>🕒 About 1 minutes to read.</p>
 <p><em>Change Your Path Just a Little, and Life Might Follow</em></p>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>

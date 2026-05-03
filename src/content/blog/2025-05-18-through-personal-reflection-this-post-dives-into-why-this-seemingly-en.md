@@ -9,6 +9,7 @@ lang: "en"
 excerpt: "🧓Who the Heck is Rango Bro? — A Middle-Aged Man’s Unexpected Bond with a Trending “Struggling” Character"
 ---
 
+<p>🕒 About 4 minutes to read.</p>
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/b7deeb8ed1be58854380f0e6fa824714.png" alt="" class="wp-image-846"/></figure>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/7c1c202969bdf7d48ce0576f5180746c.png" alt="" class="wp-image-845"/></figure>

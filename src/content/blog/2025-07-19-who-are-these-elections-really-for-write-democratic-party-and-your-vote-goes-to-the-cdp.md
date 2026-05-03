@@ -9,6 +9,7 @@ eyecatch: "/images/wp-content/uploads/2025/07/Google_AI_Studio_2025-07-19T05_53_
 excerpt: "Introduction | Why This Frustrates Me So Much Japan's 2025 House of Councillors election. The official voting instructio"
 ---
 
+<p>🕒 About 3 minutes to read.</p>
 <p><strong>Introduction | Why This Frustrates Me So Much</strong></p>
 
 <p>Japan's 2025 House of Councillors election.<br>The official voting instructions for proportional representation say:</p>

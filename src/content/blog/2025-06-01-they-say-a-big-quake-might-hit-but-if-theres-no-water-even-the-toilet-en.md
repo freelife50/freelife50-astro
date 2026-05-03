@@ -9,6 +9,7 @@ lang: "en"
 excerpt: "Recently, keywords like “Shindo 6-strong” (seismic intensity level) started trending on social media in Japan. Although no major earthquake actually occurred,..."
 ---
 
+<p>🕒 About 3 minutes to read.</p>
 <blockquote class="wp-block-quote"><p>Recently, keywords like “Shindo 6-strong” (seismic intensity level) started trending on social media in Japan. Although no major earthquake actually occurred, the fact that many people were unsettled says a lot</p>
 
 <p>This article explores our fragile disaster awareness—how we get anxious, then quickly forget. As someone in his 50s from the Kansai region, I want to reflect on this with down-to-earth honesty.<br>Over a decade has passed since the last major disaster. Now more than ever, it’s time to pause for a moment and think about how we prepare—because “preparedness” starts with small actions.</p>

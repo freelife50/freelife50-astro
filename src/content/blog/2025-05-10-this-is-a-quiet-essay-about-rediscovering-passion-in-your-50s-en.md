@@ -9,6 +9,7 @@ lang: "en"
 excerpt: "📘 English reflection：A boy making doll heads. A girl who loves cosplay.Two people from different worlds, united by passion.It’s not just about romance—it’s..."
 ---
 
+<p>🕒 About 1 minutes to read.</p>
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/363b989149fc7e35f94e1bd6467010b3.png" alt="" class="wp-image-461"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>

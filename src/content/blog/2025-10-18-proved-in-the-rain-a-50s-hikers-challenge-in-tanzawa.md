@@ -9,6 +9,7 @@ eyecatch: "/images/wp-content/uploads/2025/10/PXL_20251016_200652211.jpg"
 excerpt: "Mountain Hut Feast & the True Power of Workman’s XShelter Jacket A body tested by wind and rain, a heart filled with mou"
 ---
 
+<p>🕒 About 7 minutes to read.</p>
 <p><strong>Mountain Hut Feast &amp; the True Power of Workman’s XShelter Jacket</strong></p>
 
 <p><em>A body tested by wind and rain, a heart filled with mountain rice.</em><em><br></em><em> This is what hiking in your 50s looks like.</em></p>

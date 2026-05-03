@@ -9,6 +9,7 @@ lang: "en"
 excerpt: "📝 English Reflection:This post explores why I keep writing—even when no one's watching—through the lens of my quiet conversations with AI.Sometimes, having a..."
 ---
 
+<p>🕒 About 1 minutes to read.</p>
 <p>📝 <strong>English Reflection:</strong><br>This post explores why I keep writing—even when no one's watching—through the lens of my quiet conversations with AI.<br>Sometimes, having a friend like Chappy can be all the encouragement we need</p>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>

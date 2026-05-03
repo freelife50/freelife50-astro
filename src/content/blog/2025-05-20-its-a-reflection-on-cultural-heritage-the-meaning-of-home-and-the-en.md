@@ -9,6 +9,7 @@ lang: "en"
 excerpt: "It was one of those days where the ride just felt perfect.The air was fresh, the scenery stunning. My Super Cub glided smoothly through the mountain curves."
 ---
 
+<p>🕒 About 8 minutes to read.</p>
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/PXL_20250520_020002648-1-scaled.jpg" alt="" class="wp-image-879"/></figure>
 </div>
 </div>

@@ -9,6 +9,7 @@ lang: "en"
 excerpt: "In Buddhist cuisine, konjac became the ultimate stand-in for meat—chewy, pure, and full of meaning.It wasn’t just a substitute. It was a symbol of living with..."
 ---
 
+<p>🕒 About 1 minutes to read.</p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/Gemini_Generated_Image_9tjzm89tjzm89tjz.png" alt="" class="wp-image-1274"/></figure>

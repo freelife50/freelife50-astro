@@ -9,6 +9,7 @@ lang: "en"
 excerpt: "Tanzawa Trail: Quiet Beauty from Yataro Forest Road to Fudo Falls"
 ---
 
+<p>🕒 About 2 minutes to read.</p>
 <p><em>Tanzawa Trail: Quiet Beauty from Yataro Forest Road to Fudo Falls</em></p>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>

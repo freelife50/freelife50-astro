@@ -9,6 +9,7 @@ lang: "en"
 excerpt: "“You Said It Was Easy…? The Gap Between YouTube and Reality”"
 ---
 
+<p>🕒 About 2 minutes to read.</p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 <p><strong>“You Said It Was Easy…? The Gap Between YouTube and Reality”</strong></p>

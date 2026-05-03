@@ -9,6 +9,7 @@ lang: "en"
 excerpt: "In this article, I explore why the Shin-Yokohama Ramen Museum is once again drawing attention—through the eyes of someone from Japan's “Dankai Junior”..."
 ---
 
+<p>🕒 About 4 minutes to read.</p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 <blockquote class="wp-block-quote"><p>In this article, I explore why the Shin-Yokohama Ramen Museum is once again drawing attention—through the eyes of someone from Japan's “Dankai Junior” generation.<br>This unique spot offers a rare combination of retro charm, cost-effective gourmet experience, and a time-travel-like immersion into both nostalgia and new discoveries.<br>Without relying solely on food photos or reviews, I aim to convey the true value of this place, based on my recent visit.</p>

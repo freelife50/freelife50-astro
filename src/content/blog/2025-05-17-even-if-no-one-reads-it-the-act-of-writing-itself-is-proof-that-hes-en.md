@@ -9,6 +9,7 @@ lang: "en"
 excerpt: "I just wanted to start something."
 ---
 
+<p>🕒 About 1 minutes to read.</p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 <h3>In English (Summary &amp; Reflection)</h3>

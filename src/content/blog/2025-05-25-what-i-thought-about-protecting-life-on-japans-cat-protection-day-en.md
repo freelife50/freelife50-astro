@@ -9,6 +9,7 @@ lang: "en"
 excerpt: "What I Thought About “Protecting Life” on Japan’s Cat Protection Day— For Sakura Then, and for Momiji Now"
 ---
 
+<p>🕒 About 4 minutes to read.</p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 <p><strong>What I Thought About “Protecting Life” on Japan’s Cat Protection Day</strong><br>— For Sakura Then, and for Momiji Now</p>

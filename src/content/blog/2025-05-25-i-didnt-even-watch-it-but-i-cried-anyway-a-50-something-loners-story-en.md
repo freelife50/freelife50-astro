@@ -9,6 +9,7 @@ lang: "en"
 excerpt: "I Didn’t Even Watch It, But I Cried Anyway — A 50-Something Loner’s Story"
 ---
 
+<p>🕒 About 2 minutes to read.</p>
 <p><em>I Didn’t Even Watch It, But I Cried Anyway — A 50-Something Loner’s Story</em></p>
 
 <p><strong>I Was a Loner Too – My High School Days</strong></p>

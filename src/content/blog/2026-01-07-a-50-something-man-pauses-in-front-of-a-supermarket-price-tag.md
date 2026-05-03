@@ -3,7 +3,7 @@ title: "Money in Your 50s: Rethinking Where to Put Your Savings in Japan"
 date: "2026-01-07"
 slug: "a-50-something-man-pauses-in-front-of-a-supermarket-price-tag"
 categories: ["society-issues-thoughts"]
-tags: ["future-of-japan", "household-finances", "index-investing", "inflation", "life-in-your-50s", "pension-concerns", "relationship-with-money", "retirement-money", "rising-prices"]
+tags: ["future-of-japan", "household-finances", "index-investing", "inflation", "life-in-your-50s"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/01/Gemini_Generated_Image_kupts5kupts5kupt.jpg"
 excerpt: "A Quiet Story About Where to Keep Your Money Estimated reading time: about 4 minutes Who this is for People who find the"

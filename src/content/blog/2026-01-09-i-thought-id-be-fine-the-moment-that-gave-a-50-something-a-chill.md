@@ -3,7 +3,7 @@ title: "Life in Your 50s: \"I Thought I'd Be Fine\" — A Wake-Up Call About Per
 date: "2026-01-09"
 slug: "i-thought-id-be-fine-the-moment-that-gave-a-50-something-a-chill"
 categories: ["society-issues-thoughts"]
-tags: ["coupletalk", "internationalcalls", "investmentscam", "lifeinyour50s", "mindset", "retirementanxiety", "scamawareness"]
+tags: ["coupletalk", "internationalcalls", "investmentscam", "lifeinyour50s", "mindset"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/01/Gemini_Generated_Image_2ykpa52ykpa52ykp.jpg"
 excerpt: "Reading time: About 5 minutes Who this is for People in their 50s who feel their heart wobble a bit when they hear a “go"

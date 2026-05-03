@@ -9,6 +9,7 @@ eyecatch: "/images/wp-content/uploads/2025/07/image.png"
 excerpt: "Honest review of a premium Japanese pillow for stiff necks and better sleep. Is a $250 pillow worth it for a 50-year-old? Real experience, pros and co"
 ---
 
+<p>🕒 About 7 minutes to read.</p>
 <p>A soft investment in your neck, your sleep, and your everyday self.</p>
 
 <p><strong>👀 This article is for...</strong></p>

@@ -9,6 +9,7 @@ lang: "en"
 excerpt: "This article is for those who’ve ever wondered, “What exactly is Shiitake Uranai?”As a man in his 50s who once viewed horoscopes with mild skepticism, I’d like..."
 ---
 
+<p>🕒 About 6 minutes to read.</p>
 <blockquote class="wp-block-quote"><p>This article is for those who’ve ever wondered, “What exactly is Shiitake Uranai?”<br>As a man in his 50s who once viewed horoscopes with mild skepticism, I’d like to share how reading it unexpectedly lightened my heart—and why it might do the same for you.</p>
 
 <p>Shiitake Uranai feels less like fortune-telling and more like gentle philosophy in disguise.<br>Here, I explore its quiet power through the lenses of healing, empathy, and inner awareness.</p>

@@ -9,6 +9,7 @@ eyecatch: "/images/wp-content/uploads/2025/08/PXL_20250331_212930138.jpg"
 excerpt: "PAW'S GREEN DELI natural dog food review. Why we chose premium additive-free food for our Shiba Inu and whether it's worth the price."
 ---
 
+<p>🕒 About 5 minutes to read.</p>
 <p>Our Shiba Inu, Momiji, is just two years old. She’s a cuddly, playful, sweet troublemaker who lights up our lives.<br>But—there's one thing that drives us a little crazy: she just doesn’t get excited about dog food.</p>
 
 <p>Give her even the tiniest taste of human food, and boom—her kibble gets demoted to “emergency rations.”<br>She only eats it when she's absolutely starving, wearing this “Well, I guess I’ll eat it today” face that’s both hilarious and a bit heartbreaking.</p>
@@ -99,7 +100,7 @@ excerpt: "PAW'S GREEN DELI natural dog food review. Why we chose premium additiv
 
 <figure class="wp-block-image aligncenter"><img src="https://www23.a8.net/svt/bgt?aid=250728438927&amp;wid=001&amp;eno=01&amp;mid=s00000026654001005000&amp;mc=1" alt=""/></figure>
 
-<p class="has-text-align-center"><a href="https://px.a8.net/svt/ejp?a8mat=459ZAU+FBWUK2+5PNW+5ZEMP"></a><br><a href="https://px.a8.net/svt/ejp?a8mat=459ZAU+FBWUK2+5PNW+5YJRM">国産無添加ウェットフード【PAW'S GREEN DELI】をご入力下さい。</a></p>
+<p class="has-text-align-center"><a href="https://px.a8.net/svt/ejp?a8mat=459ZAU+FBWUK2+5PNW+5ZEMP"></a><br><a href="https://px.a8.net/svt/ejp?a8mat=459ZAU+FBWUK2+5PNW+5YJRM">Domestic additive-free wet food【PAW'S GREEN DELI】please enter your details。</a></p>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
@@ -152,7 +153,7 @@ excerpt: "PAW'S GREEN DELI natural dog food review. Why we chose premium additiv
 
 <p>Someday, maybe she’ll like it more than karaage.<br>And that will be a win I’ll never forget.</p>
 
-<p class="has-text-align-center"><a href="https://px.a8.net/svt/ejp?a8mat=459ZAU+FBWUK2+5PNW+5YJRM">国産無添加ウェットフード【PAW'S GREEN DELI】をご入力下さい。</a><br></p>
+<p class="has-text-align-center"><a href="https://px.a8.net/svt/ejp?a8mat=459ZAU+FBWUK2+5PNW+5YJRM">Domestic additive-free wet food【PAW'S GREEN DELI】please enter your details。</a><br></p>
 
 <figure class="wp-block-image aligncenter"><img src="https://www27.a8.net/svt/bgt?aid=250728438927&amp;wid=001&amp;eno=01&amp;mid=s00000026654001013000&amp;mc=1" alt=""/></figure>
 

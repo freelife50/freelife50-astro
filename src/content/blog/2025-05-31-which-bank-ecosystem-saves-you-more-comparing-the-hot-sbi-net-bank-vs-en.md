@@ -9,6 +9,7 @@ lang: "en"
 excerpt: "Docomo’s move made everyone take notice.By acquiring SBI Net Bank, Docomo finally joined the game, just like other carriers with their own banks.It’s no wonder..."
 ---
 
+<p>🕒 About 2 minutes to read.</p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 <h2>Is SBI Net Bank Really That Impressive?</h2>

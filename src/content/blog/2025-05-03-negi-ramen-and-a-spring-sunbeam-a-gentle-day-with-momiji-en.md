@@ -9,6 +9,7 @@ lang: "en"
 excerpt: "Negi Ramen and a Spring Sunbeam – A Gentle Day with Momiji."
 ---
 
+<p>🕒 About 1 minutes to read.</p>
 <p>Negi Ramen and a Spring Sunbeam – A Gentle Day with Momiji.</p>
 
 <p>Today was one of those spring afternoons where everything just felt right. Nothing special happened, but the breeze was soft, the temperature perfect—and on days like this, I just crave ramen.</p>

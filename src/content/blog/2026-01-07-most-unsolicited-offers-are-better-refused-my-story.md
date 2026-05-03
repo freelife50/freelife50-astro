@@ -3,7 +3,7 @@ title: "Life Advice at 50: Why Most Unsolicited Offers Are Better Refused"
 date: "2026-01-07"
 slug: "most-unsolicited-offers-are-better-refused-my-story"
 categories: ["prepared-life"]
-tags: ["door-to-door-sales", "fraud-prevention", "home-repair-scams", "life-in-your-50s", "life-lessons", "living-in-japan", "personal-experience", "phone-scams"]
+tags: ["door-to-door-sales", "fraud-prevention", "home-repair-scams", "life-in-your-50s", "life-lessons"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/01/Gemini_Generated_Image_tmb5gmtmb5gmtmb5.jpg"
 excerpt: "Reading time: about 4 minutes Who this is for People who feel uncomfortable with door-to-door sales or phone solicitatio"
