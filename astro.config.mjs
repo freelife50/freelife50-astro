@@ -21,6 +21,7 @@ const EN_SLUGS = [
   'yokohama-kodomo-shizen-park-firefly-en',
   'momiji-rabies-vaccine-en',
   'sagami-odako-festival-2026-en',
+  'sagamihara-oodako-matsuri-2025-en',
   'hakone-museum-of-art-gardener-en',
   'grands-grain-free-dog-food-review-shiba-inu-en',
   'iijmio-1year-report-en',
