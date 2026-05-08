@@ -1,6 +1,9 @@
 ---
 import '../styles/global.css';
 import GoogleAnalytics from '../components/GoogleAnalytics.astro';
+import sharp from 'sharp';
+import { existsSync } from 'fs';
+import { join } from 'path';
 
 interface Props {
   title: string;
@@ -41,6 +44,23 @@ const canonicalUrl = canonicalOverride ?? new URL(Astro.url.pathname, canonicalB
 const SITE_DEFAULT_OG_IMAGE = '/images/wp-content/uploads/2025/04/8d3acb8ac16d829c946f739ad4181f54.png';
 const resolvedOgImage = new URL(ogImage ?? SITE_DEFAULT_OG_IMAGE, canonicalBase).toString();
 
+const selectedOgImage = ogImage ?? SITE_DEFAULT_OG_IMAGE;
+const selectedOgImagePath = selectedOgImage.startsWith('/')
+  ? join(process.cwd(), 'public', selectedOgImage.split('?')[0])
+  : '';
+let ogImageWidth = 1200;
+let ogImageHeight = 630;
+
+if (selectedOgImagePath && existsSync(selectedOgImagePath)) {
+  try {
+    const metadata = await sharp(selectedOgImagePath).metadata();
+    ogImageWidth = metadata.width ?? ogImageWidth;
+    ogImageHeight = metadata.height ?? ogImageHeight;
+  } catch {
+    // 画像サイズが読めない場合はX向けの標準横長サイズを使う
+  }
+}
+
 const categories = [
   { slug: 'blog-sidejob', name: 'ブログ運営と副業' },
   { slug: 'life-with-momiji', name: 'もみじと暮らす' },
@@ -64,8 +84,8 @@ const categories = [
   <meta property="og:url" content={canonicalUrl} />
   <meta property="og:type" content={ogType} />
   <meta property="og:image" content={resolvedOgImage} />
-  <meta property="og:image:width" content="750" />
-  <meta property="og:image:height" content="1000" />
+  <meta property="og:image:width" content={String(ogImageWidth)} />
+  <meta property="og:image:height" content={String(ogImageHeight)} />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:image" content={resolvedOgImage} />
   <meta name="twitter:title" content={title} />

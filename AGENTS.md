@@ -184,8 +184,21 @@
 ## デプロイ
 
 - 通常は `npm run build` で確認してからコミット・pushする。
-- `git push` 後、Cloudflare Pages に反映される。
+- `git push` だけでは本番に反映されない。Pages の本番反映は必ず `npm run build && npx wrangler pages deploy dist --project-name freelife50-astro` で行う。
 - 本番影響のある変更、ビルドエラー、デプロイ失敗は具体的なエラー内容を報告して止める。
+
+## Cloudflare構成の注意事項
+
+- `freelife50-cache-bypass` はスタンドアロンWorkerとして `freelife50.com/*` と `en.freelife50.com/*` の両方を intercept している。
+- このWorkerは全リクエストを `freelife50-astro.pages.dev` に転送し、`X-Original-Host` ヘッダーで元ホスト名を Pages 側に渡す。
+- このWorkerでは `redirect: "manual"` を維持し、Pages 側のリダイレクトをクライアントへそのまま返す。
+- `freelife50-astro` は Cloudflare Pages Advanced Mode の `dist/_worker.js` で動作し、`X-Original-Host` によって `freelife50.com` と `en.freelife50.com` を判別する。
+- `en.freelife50.com/` は `/en/index.html` にリライトし、`freelife50.com/[en-slug]` は `en.freelife50.com` にリダイレクトする。
+- Worker Routes（`freelife50.com/*` / `en.freelife50.com/*`）を削除しない。
+- `freelife50-cache-bypass` から `X-Original-Host` ヘッダーを削除しない。
+- `freelife50-cache-bypass` から `redirect: "manual"` を削除しない。
+- PagesではなくWorkersとしての `wrangler deploy` は実行しない。
+- Cloudflare側に何か変更を加えた場合は、その内容を必ずコミットメッセージに記録する。
 
 ## 残タスク
 

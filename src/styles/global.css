@@ -78,14 +78,13 @@ img { max-width: 100%; height: auto; display: block; }
 .post-card__thumb {
   width: 120px;
   flex-shrink: 0;
-  aspect-ratio: 4/3;
-  object-fit: cover;
+  height: auto;
+  object-fit: contain;
   border-radius: 4px;
 }
 /* 縦長画像は縦長カード */
 .post-card__thumb--portrait {
   width: 90px;
-  aspect-ratio: 3/4;
 }
 .post-card__thumb-placeholder {
   width: 120px;
@@ -106,8 +105,9 @@ img { max-width: 100%; height: auto; display: block; }
 @media (max-width: 480px) {
   .post-card { flex-direction: column; }
   .post-card__thumb, .post-card__thumb-placeholder { width: 100%; }
-  /* モバイルでも縦長画像は縦長カードを維持 */
-  .post-card__thumb--portrait { width: 100%; aspect-ratio: 3/4; }
+  .post-card__thumb { height: auto; }
+  /* モバイルでも画像本来の縦横比を維持 */
+  .post-card__thumb--portrait { width: 100%; }
 }
 
 /* Single post */
