@@ -6,6 +6,7 @@ categories: ["prepared-life"]
 tags: ["brain-scan", "health-checkup", "how-to-prepare", "joint-imaging", "medical-explained"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-29T22_45_40.272Z.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-29T22_45_40.272Z.jpg"
 excerpt: "— Water, Magnet, and a Little Bit of Drum 📖 Reading time: 12–15 min (one coffee + a refill encouraged) https://www.yout"
 ---
 
@@ -49,7 +50,17 @@ excerpt: "— Water, Magnet, and a Little Bit of Drum 📖 Reading time: 12–15
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>1) The star is hydrogen in water</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#1-the-star-is-hydrogen-in-water">1) The star is hydrogen in water</a></li>  <li><a href="#2-the-giant-magnet-that-lines-them-up--s">2) The giant magnet that “lines them up” — Static field (B0)</a></li>  <li><a href="#3-the-radio-wave-pluck--rf-pulse">3) The radio-wave “pluck” — RF pulse</a></li>  <li><a href="#4-why-black-amp-white-different-return-s">4) Why black &amp; white? Different “return speeds”</a></li>  <li><a href="#5-whats-that-ga-ga-ga-the-drums-of-mri">5) What’s that “ga-ga-ga!”? The drums of MRI</a></li>  <li><a href="#6-why-mri-rocks-and-where-it-shines">6) Why MRI rocks (and where it shines)</a></li>  <li><a href="#7-life-or-death-rule-what-not-to-bring-i">7) Life-or-death rule: What not to bring into MRI</a></li>  <li><a href="#8-exam-day-pro-tips-for-a-smooth-fast-mr">8) Exam-day pro tips for a smooth, fast MRI</a></li>  <li><a href="#9-the-3-step-mri-youll-never-forget">9) The 3-step MRI you’ll never forget</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="1-the-star-is-hydrogen-in-water" class="wp-block-heading"><strong>1) The star is hydrogen in water</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-29T22_47_03.124Z.jpg" alt="" class="wp-image-2392"/></figure>
 
@@ -73,7 +84,7 @@ excerpt: "— Water, Magnet, and a Little Bit of Drum 📖 Reading time: 12–15
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>2) The giant magnet that “lines them up” — Static field (B0)</strong></h2>
+<h2 id="2-the-giant-magnet-that-lines-them-up--s" class="wp-block-heading"><strong>2) The giant magnet that “lines them up” — Static field (B0)</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-29T22_51_11.987Z.jpg" alt="" class="wp-image-2393"/></figure>
 
@@ -94,7 +105,7 @@ excerpt: "— Water, Magnet, and a Little Bit of Drum 📖 Reading time: 12–15
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>3) The radio-wave “pluck” — RF pulse</strong></h2>
+<h2 id="3-the-radio-wave-pluck--rf-pulse" class="wp-block-heading"><strong>3) The radio-wave “pluck” — RF pulse</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-29T22_52_45.150Z.jpg" alt="" class="wp-image-2394"/></figure>
 
@@ -115,7 +126,7 @@ excerpt: "— Water, Magnet, and a Little Bit of Drum 📖 Reading time: 12–15
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>4) Why black &amp; white? Different “return speeds”</strong></h2>
+<h2 id="4-why-black-amp-white-different-return-s" class="wp-block-heading"><strong>4) Why black &amp; white? Different “return speeds”</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-29T22_54_17.767Z.jpg" alt="" class="wp-image-2395"/></figure>
 
@@ -139,7 +150,7 @@ excerpt: "— Water, Magnet, and a Little Bit of Drum 📖 Reading time: 12–15
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>5) What’s that “ga-ga-ga!”? The drums of MRI</strong></h2>
+<h2 id="5-whats-that-ga-ga-ga-the-drums-of-mri" class="wp-block-heading"><strong>5) What’s that “ga-ga-ga!”? The drums of MRI</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-29T22_55_41.163Z.jpg" alt="" class="wp-image-2396"/></figure>
 
@@ -181,7 +192,7 @@ excerpt: "— Water, Magnet, and a Little Bit of Drum 📖 Reading time: 12–15
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>6) Why MRI rocks (and where it shines)</strong></h2>
+<h2 id="6-why-mri-rocks-and-where-it-shines" class="wp-block-heading"><strong>6) Why MRI rocks (and where it shines)</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-29T22_56_51.197Z.jpg" alt="" class="wp-image-2397"/></figure>
 
@@ -229,7 +240,7 @@ excerpt: "— Water, Magnet, and a Little Bit of Drum 📖 Reading time: 12–15
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>7) Life-or-death rule: What not to bring into MRI</strong></h2>
+<h2 id="7-life-or-death-rule-what-not-to-bring-i" class="wp-block-heading"><strong>7) Life-or-death rule: What not to bring into MRI</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-29T22_58_20.676Z.jpg" alt="" class="wp-image-2398"/></figure>
 
@@ -264,7 +275,7 @@ excerpt: "— Water, Magnet, and a Little Bit of Drum 📖 Reading time: 12–15
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>8) Exam-day pro tips for a smooth, fast MRI</strong></h2>
+<h2 id="8-exam-day-pro-tips-for-a-smooth-fast-mr" class="wp-block-heading"><strong>8) Exam-day pro tips for a smooth, fast MRI</strong></h2>
 
 <figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-29T23_00_44.860Z.jpg" alt="" class="wp-image-2399"/></figure>
 
@@ -300,7 +311,7 @@ excerpt: "— Water, Magnet, and a Little Bit of Drum 📖 Reading time: 12–15
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>9) The 3-step MRI you’ll never forget</strong></h2>
+<h2 id="9-the-3-step-mri-youll-never-forget" class="wp-block-heading"><strong>9) The 3-step MRI you’ll never forget</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-29T23_02_19.386Z.jpg" alt="" class="wp-image-2400"/></figure>
 

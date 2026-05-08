@@ -5,9 +5,12 @@ slug: "while-rohan-kishibe-goes-to-the-louvre-i-was-at-a-hakata-ramen-shop-en"
 categories: ["food-nostalgia"]
 tags: ["hakata-ramen", "jojo-bizarre-adventure", "golden-week", "ramen-obsession", "life-in-my50s"]
 eyecatch: "/images/wp-content/uploads/2025/05/6fda5e0ce89968d33f2a8e335f9aae0e.png"
+sns_image_url: "/images/wp-content/uploads/2025/05/6fda5e0ce89968d33f2a8e335f9aae0e.png"
 lang: "en"
 excerpt: "On the last day of Golden Week, 'Rohan Kishibe Goes to the Louvre' was trending. I hadn't seen it. What I had done was eat Hakata ramen, order two extra noodles, and quietly wonder if I'd gone too far. A very Gen X reflection."
 ---
+<h2 id="main-content">Main Text</h2>
+
 
 <p>🕒 About 3 minutes to read.</p>
 
@@ -20,6 +23,13 @@ excerpt: "On the last day of Golden Week, 'Rohan Kishibe Goes to the Louvre' was
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/97e847ef695714369cbe70fdc1afea06.png" alt="" class="wp-image-404"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<nav id="toc" class="post-toc">
+<p><strong>Table of Contents</strong></p>
+<ul>
+<li><a href="#main-content">Main Text</a></li>
+</ul>
+</nav>
 
 <p>There's something strangely parallel about the two of us. Rohan chases the world's most sinister painting. I chase the world's most dangerous bowl of ramen — the kind that pulls you back for <em>one more round of noodles</em> even when your stomach is already at 95%.</p>
 
@@ -50,3 +60,10 @@ excerpt: "On the last day of Golden Week, 'Rohan Kishibe Goes to the Louvre' was
 <p>Rohan, if you ever tire of hunting evil paintings in Paris, there's a bowl of tonkotsu waiting for you here in Japan. I think you'd appreciate it.</p>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/67b9cf983f8f48113a45f45bf250262f.png" alt="" class="wp-image-406"/></figure>
+
+<blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
+<ul class="wp-block-list">
+<li><a href="https://freelife50.com/i-cant-stop-thinking-about-chan-kei-ramen-en/">🍜 I Can’t Stop Thinking About “Chan-Kei” Ramen!</a></li>
+<li><a href="https://freelife50.com/a-50-something-guy-my-quest-to-become-the-spicy-king/">Mouko Tanmen Nakamoto Challenge: Can a 50-Year-Old Handle 10x Spicy Hokkyoku Ramen?</a></li>
+<li><a href="https://freelife50.com/closed-hachioji-taishoken/">Hachioji Taishoken (Closed): My Last Bowl of Miso at a Legendary Ramen Shop</a></li>
+</ul></blockquote>

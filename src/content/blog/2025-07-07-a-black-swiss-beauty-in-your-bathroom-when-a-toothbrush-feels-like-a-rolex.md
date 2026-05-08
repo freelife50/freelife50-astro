@@ -6,6 +6,7 @@ categories: ["prepared-life"]
 tags: ["luxury-toothbrush", "swiss-design", "black-is-white", "curaprox", "electric-toothbrush"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/07/compressed_dog_toothbrush.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/07/compressed_dog_toothbrush.jpg"
 excerpt: "（ For those who value design, daily rituals, and tools that lift your spirit. ） 🧑‍ Target readers This article is for p"
 ---
 
@@ -47,7 +48,17 @@ excerpt: "（ For those who value design, daily rituals, and tools that lift you
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🪥Chapter 1</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#chapter-1">🪥Chapter 1</a></li>  <li><a href="#chapter-2">🪥Chapter 2</a></li>  <li><a href="#chapter-3">🪥Chapter 3</a></li>  <li><a href="#chapter-4">🪥Chapter 4</a></li>  <li><a href="#chapter-5">🪥Chapter 5</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="chapter-1" class="wp-block-heading"><strong>🪥Chapter 1</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/07/image-8.jpg" alt="" class="wp-image-1883"/></figure>
 
@@ -63,7 +74,7 @@ excerpt: "（ For those who value design, daily rituals, and tools that lift you
 
 <p>I haven’t bought it yet.<br>But I’m seriously tempted.<br>Which is why I decided to do a deep dive into what makes this toothbrush worth thinking about.</p>
 
-<h2 class="wp-block-heading"><strong>🪥Chapter 2</strong></h2>
+<h2 id="chapter-2" class="wp-block-heading"><strong>🪥Chapter 2</strong></h2>
 
 <figure class="wp-block-image"><img src="https://www29.a8.net/svt/bgt?aid=250701258327&amp;wid=001&amp;eno=01&amp;mid=s00000020344002010000&amp;mc=1" alt=""/></figure>
 
@@ -153,7 +164,7 @@ excerpt: "（ For those who value design, daily rituals, and tools that lift you
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🪥Chapter 3</strong></h2>
+<h2 id="chapter-3" class="wp-block-heading"><strong>🪥Chapter 3</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/07/image-7.jpg" alt="" class="wp-image-1884"/></figure>
 
@@ -201,7 +212,7 @@ excerpt: "（ For those who value design, daily rituals, and tools that lift you
 
 <p>For some people — maybe.<br>If you want <strong>a full-featured, tech-loaded toothbrush</strong>, this isn’t it.<br>But for those who care more about <strong>comfort, quality, and daily joy</strong>,<br>these trade-offs might be worth it.</p>
 
-<h2 class="wp-block-heading"><strong>🪥Chapter 4</strong></h2>
+<h2 id="chapter-4" class="wp-block-heading"><strong>🪥Chapter 4</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/07/image-10.jpg" alt="" class="wp-image-1885"/></figure>
 
@@ -258,7 +269,7 @@ excerpt: "（ For those who value design, daily rituals, and tools that lift you
 
 <p>It’s not about features.<br>It’s about <strong>how this one simple tool fits the kind of life I want to live.</strong></p>
 
-<h2 class="wp-block-heading"><strong>🪥Chapter 5</strong></h2>
+<h2 id="chapter-5" class="wp-block-heading"><strong>🪥Chapter 5</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/07/image-12.jpg" alt="" class="wp-image-1888"/></figure>
 

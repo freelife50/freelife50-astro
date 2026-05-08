@@ -5,6 +5,7 @@ slug: "what-is-tokimeki-memorial-i-didnt-grow-up-with-itbut-i-got-lost-in-en"
 categories: ["shumi-taiken-etc"]
 tags: ["ときめきメモリアル", "ファイナルファンタジーXI", "団塊ジュニア", "Z世代との違い", "青春とゲーム"]
 eyecatch: "/images/wp-content/uploads/2025/05/e107fc29eb554a9a3ef7f82b8148868f.png"
+sns_image_url: "/images/wp-content/uploads/2025/05/e107fc29eb554a9a3ef7f82b8148868f.png"
 lang: "en"
 excerpt: "What is “Tokimeki Memorial”? I didn’t grow up with it—but I got lost in Vana’diel."
 ---
@@ -14,7 +15,21 @@ excerpt: "What is “Tokimeki Memorial”? I didn’t grow up with it—but I go
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3>What is “Tokimeki Memorial”?</h3>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#what-is-tokimeki-memorial">What is “Tokimeki Memorial”?</a></li>
+<li><a href="#why-is-gen-z-into-it-again">Why is Gen Z into it again?</a></li>
+<li><a href="#my-tokimeki-it-was-in-vanadiel">My tokimeki? It was in Vana’diel.</a></li>
+<li><a href="#closing-thoughts-with-updated-nuance">Closing thoughts (with updated nuance)</a></li>
+<li><a href="#back-then">Back then.</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h3 id="what-is-tokimeki-memorial">What is “Tokimeki Memorial”?</h3>
 
 <p>Released in 1994 by Konami, “Tokimeki Memorial” is a pioneer of the dating sim genre in Japan.</p>
 
@@ -26,7 +41,7 @@ excerpt: "What is “Tokimeki Memorial”? I didn’t grow up with it—but I go
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3>Why is Gen Z into it again?</h3>
+<h3 id="why-is-gen-z-into-it-again">Why is Gen Z into it again?</h3>
 
 <p>At first glance, “Tokimeki Memorial” might seem like just another old-school game—but Gen Z is loving it all over again.</p>
 
@@ -49,7 +64,7 @@ excerpt: "What is “Tokimeki Memorial”? I didn’t grow up with it—but I go
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3>My tokimeki? It was in Vana’diel.</h3>
+<h3 id="my-tokimeki-it-was-in-vanadiel">My tokimeki? It was in Vana’diel.</h3>
 
 <p>I wasn’t into dating sims—but I was completely absorbed in Final Fantasy XI.</p>
 
@@ -63,7 +78,7 @@ excerpt: "What is “Tokimeki Memorial”? I didn’t grow up with it—but I go
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3>Closing thoughts (with updated nuance)</h3>
+<h3 id="closing-thoughts-with-updated-nuance">Closing thoughts (with updated nuance)</h3>
 
 <p>As someone from the Dankai Junior generation, I always felt a little guilty about playing games.</p>
 
@@ -81,8 +96,15 @@ excerpt: "What is “Tokimeki Memorial”? I didn’t grow up with it—but I go
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3>Back then.</h3>
+<h3 id="back-then">Back then.</h3>
 
 <p>Back then, I had friends I called comrades—though we only met in-game.<br>Every login meant someone was there, waiting, ready to go on another adventure.<br>Looking back, those days felt truly full.<br>Online games were still rare,<br>but we found something real in that digital space: connection.</p>
 
 <p>And if you had someone like that back then—<br>maybe that was your “tokimeki,” too.</p>
+
+<blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
+<ul class="wp-block-list">
+<li><a href="https://freelife50.com/a-man-in-his-50s-goes-to-see-avatar/">Avatar Movie Review: A 50-Year-Old's Honest Take — Mild Emotions, Rich Experience</a></li>
+<li><a href="https://freelife50.com/a-50-year-old-man-becoming-the-pillar-of-sake-breathing-showdown-in-my-wifes-infinity-castle/">Demon Slayer Parody: A 50-Year-Old Becomes the Sake Breathing Pillar</a></li>
+<li><a href="https://freelife50.com/a-50-something-guy-goes-to-a-fest-the-isekai-reincarnation-arc/">Music Festival at 50: An Isekai-Level Culture Shock Experience in Japan</a></li>
+</ul></blockquote>

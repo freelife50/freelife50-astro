@@ -5,6 +5,7 @@ slug: "on-the-80th-postwar-anniversary-i-couldnt-runbut-i-walked-through-en"
 categories: ["society-issues-thoughts"]
 tags: ["80-years-postwar", "gratitude-for-peace", "japan-and-america", "back-pain-marathon", "life-in-my50s"]
 eyecatch: "/images/wp-content/uploads/2025/04/PXL_20250427_022526959-scaled.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/04/PXL_20250427_022526959-scaled.jpg"
 lang: "en"
 excerpt: "This year marks 80 years since the end of World War II. I was supposed to run a marathon — but my back had other plans. Instead, I walked through the U.S. base and found myself thinking about peace, history, and what we're leaving for the next generation."
 ---
@@ -15,7 +16,22 @@ excerpt: "This year marks 80 years since the end of World War II. I was supposed
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3>The Morning I Couldn't Run</h3>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#the-morning-i-couldnt-run">The Morning I Couldn't Run</a></li>
+<li><a href="#is-this-america-or-japan">Is This America... or Japan?</a></li>
+<li><a href="#80-years-after-the-war--what-i-realized-">80 Years After the War — What I Realized by Slowing Down</a></li>
+<li><a href="#can-we-leave-a-better-japan-for-the-futu">Can We Leave a Better Japan for the Future?</a></li>
+<li><a href="#so-what-was-i-even-doing-there">So... What Was I Even Doing There?</a></li>
+<li><a href="#final-thoughts">Final Thoughts</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h3 id="the-morning-i-couldnt-run">The Morning I Couldn't Run</h3>
 
 <p>Hello, I'm Hiroshi.</p>
 
@@ -48,7 +64,7 @@ excerpt: "This year marks 80 years since the end of World War II. I was supposed
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3>Is This America... or Japan?</h3>
+<h3 id="is-this-america-or-japan">Is This America... or Japan?</h3>
 
 <p>The moment I entered the base, it felt completely foreign. American soldiers, hula dancing, English announcements everywhere. <em>"Wow, feels like I'm on a trip to the US!"</em> I thought.</p>
 
@@ -60,7 +76,7 @@ excerpt: "This year marks 80 years since the end of World War II. I was supposed
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3>80 Years After the War — What I Realized by Slowing Down</h3>
+<h3 id="80-years-after-the-war--what-i-realized-">80 Years After the War — What I Realized by Slowing Down</h3>
 
 <p>As I walked through the base, I was wrapped in a strange feeling — <em>"Is this Japan or America?"</em> Children played under the blue sky, surrounded by a blend of American and Japanese culture.</p>
 
@@ -73,7 +89,7 @@ excerpt: "This year marks 80 years since the end of World War II. I was supposed
 </div>
 </div>
 
-<h3>Can We Leave a Better Japan for the Future?</h3>
+<h3 id="can-we-leave-a-better-japan-for-the-futu">Can We Leave a Better Japan for the Future?</h3>
 
 <figure class="wp-block-image aligncenter size-large is-resized"><img src="/images/wp-content/uploads/2025/04/PXL_20250427_024631523-scaled.jpg" alt="" class="wp-image-238" style="width:659px;height:auto"/></figure>
 
@@ -85,7 +101,7 @@ excerpt: "This year marks 80 years since the end of World War II. I was supposed
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3>So... What Was I Even Doing There?</h3>
+<h3 id="so-what-was-i-even-doing-there">So... What Was I Even Doing There?</h3>
 
 <figure class="wp-block-image aligncenter size-large is-resized"><img src="/images/wp-content/uploads/2025/04/PXL_20250427_034946728.MP_-scaled.jpg" alt="" class="wp-image-237" style="width:334px;height:auto"/></figure>
 
@@ -97,10 +113,17 @@ excerpt: "This year marks 80 years since the end of World War II. I was supposed
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3>Final Thoughts</h3>
+<h3 id="final-thoughts">Final Thoughts</h3>
 
 <p>I couldn't run, but by slowing down, I saw things I would've missed at full speed. Health and peace — never take them for granted.</p>
 
 <p>I'll keep being thankful and doing what I can, step by step, for the future.</p>
 
 <p>...But first, I need to fix my back. 😄</p>
+
+<blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
+<ul class="wp-block-list">
+<li><a href="https://freelife50.com/the-day-i-finally-chose-to-choose-a-quiet-shift-toward-the-ballot-box/">Why I Finally Started Voting in Japan: A Quiet Shift Toward the Ballot Box at 50</a></li>
+<li><a href="https://freelife50.com/i-thought-id-be-fine-the-moment-that-gave-a-50-something-a-chill/">Life in Your 50s: \&quot;I Thought I'd Be Fine\&quot; — A Wake-Up Call About Personal Safety</a></li>
+<li><a href="https://freelife50.com/a-50-something-man-pauses-in-front-of-a-supermarket-price-tag/">Money in Your 50s: Rethinking Where to Put Your Savings in Japan</a></li>
+</ul></blockquote>

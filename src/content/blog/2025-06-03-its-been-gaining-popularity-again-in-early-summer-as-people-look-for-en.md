@@ -5,6 +5,7 @@ slug: "its-been-gaining-popularity-again-in-early-summer-as-people-look-for-en"
 categories: ["healing-walks"]
 tags: ["hikinginjapan", "japantravel", "oyamaafurishrine", "powerspotjapan", "spiritualplaces"]
 eyecatch: "/images/wp-content/uploads/2025/06/PXL_20221225_035825667-scaled.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/06/PXL_20221225_035825667-scaled.jpg"
 lang: "en"
 excerpt: "In this article, I’ll introduce one of my favorite spiritual spots that I’ve visited many times — Ōyama Afuri Shrine in Isehara City, Kanagawa Prefecture.It’s..."
 ---
@@ -35,7 +36,17 @@ excerpt: "In this article, I’ll introduce one of my favorite spiritual spots t
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2>🗺 Chapter 1: Easy Access – A Perfect Season to Visit Ōyama Afuri Shrine</h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#chapter-1-easy-access--a-perfect-season-">🗺 Chapter 1: Easy Access – A Perfect Season to Visit Ōyama Afuri Shrine</a></li>  <li><a href="#chapter-2-the-comfort-of-choice--climbin">🛣 Chapter 2: The Comfort of Choice – Climbing on Your Own Terms</a></li>  <li><a href="#chapter-3-natures-warning--be-prepared-f">🥾 Chapter 3: Nature’s Warning – Be Prepared for the Unexpected</a></li>  <li><a href="#chapter-4-looking-over-the-same-horizon-">🌄 Chapter 4: Looking Over the Same Horizon as People Centuries Ago</a></li>  <li><a href="#chapter-5-a-sacred-mountain-beyond-words">🏔 Chapter 5: A Sacred Mountain Beyond Words</a></li>  <li><a href="#final-thoughts-ōyama--a-detour-worth-tak">Final Thoughts: Ōyama – A Detour Worth Taking</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="chapter-1-easy-access--a-perfect-season-">🗺 Chapter 1: Easy Access – A Perfect Season to Visit Ōyama Afuri Shrine</h2>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
@@ -44,28 +55,28 @@ excerpt: "In this article, I’ll introduce one of my favorite spiritual spots t
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_cvchkkcvchkkcvch.png" alt="" class="wp-image-1553"/></figure>
 
-<h2>🛣 Chapter 2: The Comfort of Choice – Climbing on Your Own Terms</h2>
+<h2 id="chapter-2-the-comfort-of-choice--climbin">🛣 Chapter 2: The Comfort of Choice – Climbing on Your Own Terms</h2>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 <blockquote class="wp-block-quote"><p>The beauty of Ōyama is that it offers freedom. Whether you're fit or just looking for a light walk, the mountain accommodates you. From cable cars to hiking trails, it respects your pace. I think this kind of flexibility is rare in sacred places. It welcomes everyone, regardless of age or ability. That’s what makes it special.</p>
 </blockquote>
 
-<h2>🥾 Chapter 3: Nature’s Warning – Be Prepared for the Unexpected</h2>
+<h2 id="chapter-3-natures-warning--be-prepared-f">🥾 Chapter 3: Nature’s Warning – Be Prepared for the Unexpected</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_4qd81x4qd81x4qd8.png" alt="" class="wp-image-1566"/></figure>
 
 <blockquote class="wp-block-quote"><p>Even peaceful places have their tests. At Ōyama, it's the leeches. They’re tiny, fast, and surprisingly determined. But with a little preparation, they’re nothing to fear. It’s funny how a small creature can remind us that we’re part of a wild, living world. Every step becomes more mindful, and the view from the top? Totally worth it.</p>
 </blockquote>
 
-<h2>🌄 Chapter 4: Looking Over the Same Horizon as People Centuries Ago</h2>
+<h2 id="chapter-4-looking-over-the-same-horizon-">🌄 Chapter 4: Looking Over the Same Horizon as People Centuries Ago</h2>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_ipd1pdipd1pdipd1.png" alt="" class="wp-image-1555"/></figure>
 
 <blockquote class="wp-block-quote"><p>The moment I stood at the summit, I imagined someone from the Edo period doing the same. Maybe we shared the same awe. In that view, past and present meet. Ōyama isn’t just a power spot. It’s a spiritual bridge that connects generations — a reminder that we are part of something much bigger, and older, than ourselves.</p>
 </blockquote>
 
-<h2>🏔 Chapter 5: A Sacred Mountain Beyond Words</h2>
+<h2 id="chapter-5-a-sacred-mountain-beyond-words">🏔 Chapter 5: A Sacred Mountain Beyond Words</h2>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_tlbns6tlbns6tlbn.png" alt="" class="wp-image-1559"/></figure>
 
@@ -76,9 +87,16 @@ excerpt: "In this article, I’ll introduce one of my favorite spiritual spots t
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 </blockquote>
 
-<h2>Final Thoughts: Ōyama – A Detour Worth Taking</h2>
+<h2 id="final-thoughts-ōyama--a-detour-worth-tak">Final Thoughts: Ōyama – A Detour Worth Taking</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20240116_025615452-scaled.jpg" alt="" class="wp-image-1552"/></figure>
 
 <blockquote class="wp-block-quote"><p>You don’t have to be spiritual, or athletic, or anything in particular. Just be curious. Ōyama gives you space — to climb, to breathe, to reflect. It's a gentle reminder that taking a small detour from everyday life can bring you a big reward. In the end, maybe that's the real blessing.</p>
 </blockquote>
+
+<blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
+<ul class="wp-block-list">
+<li><a href="https://freelife50.com/a-50-something-guy-visits-ichiyajo-at-0c-walking-with-my-dog-to-clear-my-mind/">Dog-Friendly Winter Walk at Ishigakiyama (Ichiyajo) in Odawara, Japan</a></li>
+<li><a href="https://freelife50.com/a-surprisingly-quiet-sunday-at-year-end-a-no-regret-walking-guide-to-machida-yakushiike-park/">Machida Yakushiike Park: A Surprisingly Quiet Year-End Walk Near Tokyo</a></li>
+<li><a href="https://freelife50.com/sagamihara-oodako-matsuri-2025-en/">I Waited Four Hours at the Sagamihara Giant Kite Festival. My Wife Went Home First, My Face Turned Red, and It Was Still Worth It</a></li>
+</ul></blockquote>

@@ -6,6 +6,7 @@ categories: ["healing-walks"]
 tags: ["8kprojection", "a-refuge-for-adults", "digital-detox", "healing-time-for-adults", "lifeinmy50s"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/11/Gemini_Generated_Image_1kr2g31kr2g31kr2.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/11/Gemini_Generated_Image_1kr2g31kr2g31kr2.jpg"
 excerpt: "🌟 For the Tired Adults Out There Work drains you. Smartphones drain you. People drain you. Even information drains you."
 ---
 
@@ -33,7 +34,17 @@ excerpt: "🌟 For the Tired Adults Out There Work drains you. Smartphones drain
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong> Conclusion: This Is Mental Health Care for $3.50</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#conclusion-this-is-mental-health-care-fo">Conclusion: This Is Mental Health Care for $3.50</a></li>  <li><a href="#why-people-in-their-50s-suddenly-seek-sp">Why People in Their 50s Suddenly Seek Space</a></li>  <li><a href="#why-i-switched-from-yokohama-to-sagamiha">Why I Switched from Yokohama to Sagamihara</a></li>  <li><a href="#the-2025-renovation-changed-everything">The 2025 Renovation Changed Everything</a></li>  <li><a href="#⑤-the-mmx-program-is-more-immersive-than">⑤ The MMX Program Is More Immersive Than a Movie</a></li>  <li><a href="#ridiculous-cost-performance">Ridiculous Cost Performance</a></li>  <li><a href="#the-unfair-advantage-its-next-to-jaxa">The Unfair Advantage: It's Next to JAXA</a></li>  <li><a href="#a-moment-of-cosmic-dissolve">A Moment of Cosmic Dissolve</a></li>  <li><a href="#my-only-request-please-make-a-1-hour-ver">My Only Request: Please Make a 1-Hour Version</a></li>  <li><a href="#final-message">Final Message:</a></li>  <li><a href="#facility-information">Facility Information</a></li>  <li><a href="#to-overseas-readers">📣 To Overseas Readers</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="conclusion-this-is-mental-health-care-fo" class="wp-block-heading"><strong> Conclusion: This Is Mental Health Care for $3.50</strong></h2>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_m31gesm31gesm31g.jpg" alt="" class="wp-image-2741"/></figure>
 
@@ -56,7 +67,7 @@ excerpt: "🌟 For the Tired Adults Out There Work drains you. Smartphones drain
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong> Why People in Their 50s Suddenly Seek Space</strong></h2>
+<h2 id="why-people-in-their-50s-suddenly-seek-sp" class="wp-block-heading"><strong> Why People in Their 50s Suddenly Seek Space</strong></h2>
 
 <figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/11/Google_AI_Studio_2025-11-16T06_01_13.038Z.jpg" alt="" class="wp-image-2749"/></figure>
 
@@ -81,7 +92,7 @@ excerpt: "🌟 For the Tired Adults Out There Work drains you. Smartphones drain
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong> Why I Switched from Yokohama to Sagamihara</strong></h2>
+<h2 id="why-i-switched-from-yokohama-to-sagamiha" class="wp-block-heading"><strong> Why I Switched from Yokohama to Sagamihara</strong></h2>
 
 <p>I used to visit the Konica Minolta Planetarium in Yokohama.<br>Amazing place — but:</p>
 
@@ -100,7 +111,7 @@ excerpt: "🌟 For the Tired Adults Out There Work drains you. Smartphones drain
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>The 2025 Renovation Changed Everything</strong></h2>
+<h2 id="the-2025-renovation-changed-everything" class="wp-block-heading"><strong>The 2025 Renovation Changed Everything</strong></h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251026_012225347.MP_.jpg" alt="" class="wp-image-2746"/></figure>
 </div>
@@ -130,7 +141,7 @@ excerpt: "🌟 For the Tired Adults Out There Work drains you. Smartphones drain
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>⑤ The MMX Program Is More Immersive Than a Movie</strong></h2>
+<h2 id="⑤-the-mmx-program-is-more-immersive-than" class="wp-block-heading"><strong>⑤ The MMX Program Is More Immersive Than a Movie</strong></h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/11/Google_AI_Studio_2025-11-16T06_12_18.291Z.jpg" alt="" class="wp-image-2750"/></figure>
 </div>
@@ -179,7 +190,7 @@ excerpt: "🌟 For the Tired Adults Out There Work drains you. Smartphones drain
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Ridiculous Cost Performance</strong></h2>
+<h2 id="ridiculous-cost-performance" class="wp-block-heading"><strong>Ridiculous Cost Performance</strong></h2>
 
 <h3 class="wp-block-heading"><strong>💴 </strong><strong><em>Price with USD</em></strong></h3>
 
@@ -189,7 +200,7 @@ excerpt: "🌟 For the Tired Adults Out There Work drains you. Smartphones drain
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong> The Unfair Advantage: It's Next to JAXA</strong></h2>
+<h2 id="the-unfair-advantage-its-next-to-jaxa" class="wp-block-heading"><strong> The Unfair Advantage: It's Next to JAXA</strong></h2>
 
 <p>Right beside the planetarium is the<br><strong>JAXA Institute of Space and Astronautical Science</strong>.</p>
 
@@ -208,7 +219,7 @@ excerpt: "🌟 For the Tired Adults Out There Work drains you. Smartphones drain
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>A Moment of Cosmic Dissolve</strong></h2>
+<h2 id="a-moment-of-cosmic-dissolve" class="wp-block-heading"><strong>A Moment of Cosmic Dissolve</strong></h2>
 
 <figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/11/Image_fx-1-1.jpg" alt="" class="wp-image-2748"/></figure>
 
@@ -222,7 +233,7 @@ excerpt: "🌟 For the Tired Adults Out There Work drains you. Smartphones drain
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>My Only Request: Please Make a 1-Hour Version</strong></h2>
+<h2 id="my-only-request-please-make-a-1-hour-ver" class="wp-block-heading"><strong>My Only Request: Please Make a 1-Hour Version</strong></h2>
 
 <p>Personal wish:</p>
 
@@ -234,7 +245,7 @@ excerpt: "🌟 For the Tired Adults Out There Work drains you. Smartphones drain
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Final Message:</strong></h2>
+<h2 id="final-message" class="wp-block-heading"><strong>Final Message:</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/11/Google_AI_Studio_2025-11-16T06_19_20.758Z.jpg" alt="" class="wp-image-2751"/></figure>
 
@@ -261,13 +272,13 @@ excerpt: "🌟 For the Tired Adults Out There Work drains you. Smartphones drain
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Facility Information</strong></h2>
+<h2 id="facility-information" class="wp-block-heading"><strong>Facility Information</strong></h2>
 
 <p><strong>Sagamihara City Museum Planetarium<br></strong> Address: Takane 3-1-15, Chuo-ku, Sagamihara, Kanagawa👉 <a href="https://www.google.com/maps/place/%E7%9B%B8%E6%A8%A1%E5%8E%9F%E5%B8%82%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8/@35.5593639,139.3904518,17z/data=!3m1!4b1!4m6!3m5!1s0x6018fdbbcc5bec67:0x2e86c71cd630e665!8m2!3d35.5593639!4d139.3930267!16s%2Fg%2F120z_qnv?entry=ttu&amp;g_ep=EgoyMDI1MTExMi4wIKXMDSoASAFQAw%3D%3D">相模原市立博物館（プラネタリウム） / Sagamihara City Museum (Planetarium) — Google Maps</a><br>Access: 18-min walk from JR Fuchinobe Station<br>Ticket: <strong>$3.50</strong> / Annual Pass <strong>$14<br></strong> Closed: Mondays<br>Check the official website for the latest schedule.👉 <a href="https://sagamiharacitymuseum.jp/plane/">相模原市立博物館プラネタリウム / Sagamihara City Museum Planetarium</a></p>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>📣 To Overseas Readers</strong></h2>
+<h2 id="to-overseas-readers" class="wp-block-heading"><strong>📣 To Overseas Readers</strong></h2>
 
 <p>If you know someone who’s tired,<br>someone who needs a moment of peace —<br>share this with them.</p>
 

@@ -6,6 +6,7 @@ categories: ["prepared-life"]
 tags: ["automation", "bank-auto-debit", "financial-wellness", "life-in-your-50s", "mental-clarity"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/04/3e0fc0805b93a0cf6e6c93a1d839ef3d.png"
+sns_image_url: "/images/wp-content/uploads/2025/04/3e0fc0805b93a0cf6e6c93a1d839ef3d.png"
 excerpt: "From saving money to saving time, mental energy, and peace of mind. 📖 Read Time: Approx. 12 minutes 💡 Who This Article"
 ---
 
@@ -32,7 +33,17 @@ excerpt: "From saving money to saving time, mental energy, and peace of mind. �
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>The “nanaco Era” — How I Lost More Than I Earned</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#the-nanaco-era--how-i-lost-more-than-i-e">The “nanaco Era” — How I Lost More Than I Earned</a></li>  <li><a href="#comparing-payment-methods-not-just-by-nu">Comparing Payment Methods: Not Just by Numbers, but by Feelings</a></li>  <li><a href="#the-1-per-hour-trap">The $1-per-Hour Trap</a></li>  <li><a href="#from-protecting-money-to-protecting-mind">From Protecting Money to Protecting Mind and Time</a></li>  <li><a href="#why-im-letting-go-of-nanaco">Why I’m Letting Go of nanaco</a></li>  <li><a href="#practical-steps-toward-a-de-consumption-">Practical Steps Toward a “De-Consumption” Life</a></li>  <li><a href="#living-light-the-joy-of-having-less">Living Light: The Joy of Having Less</a></li>  <li><a href="#conclusion--true-saving-isnt-about-money">Conclusion – True Saving Isn’t About Money. It’s About Yourself.</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="the-nanaco-era--how-i-lost-more-than-i-e" class="wp-block-heading"><strong>The “nanaco Era” — How I Lost More Than I Earned</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/Google_AI_Studio_2025-10-06T03_31_00.454Z.jpg" alt="" class="wp-image-2462"/></figure>
 
@@ -51,7 +62,7 @@ excerpt: "From saving money to saving time, mental energy, and peace of mind. �
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Comparing Payment Methods: Not Just by Numbers, but by Feelings</strong></h2>
+<h2 id="comparing-payment-methods-not-just-by-nu" class="wp-block-heading"><strong>Comparing Payment Methods: Not Just by Numbers, but by Feelings</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/Google_AI_Studio_2025-10-06T03_42_22.447Z.jpg" alt="" class="wp-image-2463"/></figure>
 
@@ -61,7 +72,7 @@ excerpt: "From saving money to saving time, mental energy, and peace of mind. �
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>The $1-per-Hour Trap</strong></h2>
+<h2 id="the-1-per-hour-trap" class="wp-block-heading"><strong>The $1-per-Hour Trap</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/Google_AI_Studio_2025-10-06T03_45_56.728Z.jpg" alt="" class="wp-image-2464"/></figure>
 
@@ -86,7 +97,7 @@ excerpt: "From saving money to saving time, mental energy, and peace of mind. �
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>From Protecting Money to Protecting Mind and Time</strong></h2>
+<h2 id="from-protecting-money-to-protecting-mind" class="wp-block-heading"><strong>From Protecting Money to Protecting Mind and Time</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/Google_AI_Studio_2025-10-06T03_48_01.778Z.jpg" alt="" class="wp-image-2465"/></figure>
 
@@ -105,7 +116,7 @@ excerpt: "From saving money to saving time, mental energy, and peace of mind. �
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Why I’m Letting Go of nanaco</strong></h2>
+<h2 id="why-im-letting-go-of-nanaco" class="wp-block-heading"><strong>Why I’m Letting Go of nanaco</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/Google_AI_Studio_2025-10-06T03_52_09.393Z.jpg" alt="" class="wp-image-2466"/></figure>
 
@@ -117,7 +128,7 @@ excerpt: "From saving money to saving time, mental energy, and peace of mind. �
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Practical Steps Toward a “De-Consumption” Life</strong></h2>
+<h2 id="practical-steps-toward-a-de-consumption-" class="wp-block-heading"><strong>Practical Steps Toward a “De-Consumption” Life</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/Google_AI_Studio_2025-10-06T03_54_44.979Z.jpg" alt="" class="wp-image-2467"/></figure>
 
@@ -132,7 +143,7 @@ excerpt: "From saving money to saving time, mental energy, and peace of mind. �
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Living Light: The Joy of Having Less</strong></h2>
+<h2 id="living-light-the-joy-of-having-less" class="wp-block-heading"><strong>Living Light: The Joy of Having Less</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/Google_AI_Studio_2025-10-06T03_56_40.824Z.jpg" alt="" class="wp-image-2468"/></figure>
 
@@ -146,7 +157,7 @@ excerpt: "From saving money to saving time, mental energy, and peace of mind. �
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Conclusion – True Saving Isn’t About Money. It’s About Yourself.</strong></h2>
+<h2 id="conclusion--true-saving-isnt-about-money" class="wp-block-heading"><strong>Conclusion – True Saving Isn’t About Money. It’s About Yourself.</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/Google_AI_Studio_2025-10-06T03_59_33.905Z.jpg" alt="" class="wp-image-2469"/></figure>
 

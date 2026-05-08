@@ -5,6 +5,7 @@ slug: "what-started-as-a-joke-turned-into-a-deep-look-at-japans-unique-en"
 categories: ["food-nostalgia"]
 tags: ["customerservice", "japanesehospitality", "yakinikuking", "yakinikupolice"]
 eyecatch: "/images/wp-content/uploads/2025/05/95ddca884c88dbfc0512cc274cadc00c.png"
+sns_image_url: "/images/wp-content/uploads/2025/05/95ddca884c88dbfc0512cc274cadc00c.png"
 lang: "en"
 excerpt: "📌 This blog includes an English afterword at the end.If you're reading in English, please scroll down and enjoy!"
 ---
@@ -15,6 +16,13 @@ excerpt: "📌 This blog includes an English afterword at the end.If you're read
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/678656ceb7632c57ba7546634bc24996.png" alt="" class="wp-image-798"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<nav id="toc" class="post-toc">
+<p><strong>Table of Contents</strong></p>
+<ul>
+<li><a href="#english-afterword-what-i-found-behind-yakiniku-police">🌍 English Afterword｜What I Found Behind "Yakiniku Police"</a></li>
+</ul>
+</nav>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/967862d9db896fbe8da36ff31dc10a92.png" alt="" class="wp-image-803"/></figure>
 
@@ -32,7 +40,7 @@ excerpt: "📌 This blog includes an English afterword at the end.If you're read
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2>🌍 English Afterword｜What I Found Behind "Yakiniku Police"</h2>
+<h2 id="english-afterword-what-i-found-behind-yakiniku-police">🌍 English Afterword｜What I Found Behind "Yakiniku Police"</h2>
 
 <p>I first saw the phrase "Yakiniku Police" trending online and thought,</p>
 
@@ -66,3 +74,10 @@ excerpt: "📌 This blog includes an English afterword at the end.If you're read
 <p>And hey—<br><strong>writing this post made me crave yakiniku like crazy.</strong><br>I might just head there tonight… with an empty stomach and an open mind.</p>
 
 <p>🖋️ Written by Hirosan<br>(A guy who once mocked “Yakiniku Police,” but now kinda wants that golden tong.)</p>
+
+<blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
+<ul class="wp-block-list">
+<li><a href="https://freelife50.com/i-cant-stop-thinking-about-chan-kei-ramen-en/">🍜 I Can’t Stop Thinking About “Chan-Kei” Ramen!</a></li>
+<li><a href="https://freelife50.com/closed-hachioji-taishoken/">Hachioji Taishoken (Closed): My Last Bowl of Miso at a Legendary Ramen Shop</a></li>
+<li><a href="https://freelife50.com/review-imeea-double-wall-stainless-ramen-bowl-totally-worth-it/">IMEEA Double-Wall Ramen Bowl Review: Best Insulated Bowl for Japanese Noodles</a></li>
+</ul></blockquote>

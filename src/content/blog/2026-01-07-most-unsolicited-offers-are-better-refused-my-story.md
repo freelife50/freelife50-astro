@@ -6,6 +6,7 @@ categories: ["prepared-life"]
 tags: ["door-to-door-sales", "fraud-prevention", "home-repair-scams", "life-in-your-50s", "life-lessons"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/01/Gemini_Generated_Image_tmb5gmtmb5gmtmb5.jpg"
+sns_image_url: "/images/wp-content/uploads/2026/01/Gemini_Generated_Image_tmb5gmtmb5gmtmb5.jpg"
 excerpt: "Reading time: about 4 minutes Who this is for People who feel uncomfortable with door-to-door sales or phone solicitatio"
 ---
 
@@ -30,7 +31,17 @@ excerpt: "Reading time: about 4 minutes Who this is for People who feel uncomfor
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Something felt off about “We’re working nearby…”</h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#something-felt-off-about-were-working-ne">Something felt off about “We’re working nearby…”</a></li>  <li><a href="#when-i-couldnt-say-no-to-newspaper-sales">When I couldn’t say no to newspaper sales</a></li>  <li><a href="#just-listen--a-religious-solicitation">“Just listen” — a religious solicitation</a></li>  <li><a href="#come-to-shinjuku--the-phone-call-ill-nev">“Come to Shinjuku” — the phone call I’ll never forget</a></li>  <li><a href="#from-phone-books-to-smartphones">From phone books to smartphones</a></li>  <li><a href="#different-forms-same-pattern">Different forms, same pattern</a></li>  <li><a href="#what-i-think-now-in-my-50s">What I think now, in my 50s</a></li>  <li><a href="#final-thoughts">Final thoughts</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="something-felt-off-about-were-working-ne" class="wp-block-heading">Something felt off about “We’re working nearby…”</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_z1muu5z1muu5z1mu.jpg" alt="" class="wp-image-3013"/></figure>
 
@@ -54,7 +65,7 @@ excerpt: "Reading time: about 4 minutes Who this is for People who feel uncomfor
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">When I couldn’t say no to newspaper sales</h2>
+<h2 id="when-i-couldnt-say-no-to-newspaper-sales" class="wp-block-heading">When I couldn’t say no to newspaper sales</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_t78y20t78y20t78y.jpg" alt="" class="wp-image-3014"/></figure>
 
@@ -76,7 +87,7 @@ excerpt: "Reading time: about 4 minutes Who this is for People who feel uncomfor
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"> “Just listen” — a religious solicitation</h2>
+<h2 id="just-listen--a-religious-solicitation" class="wp-block-heading"> “Just listen” — a religious solicitation</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_8e48rc8e48rc8e48.jpg" alt="" class="wp-image-3015"/></figure>
 
@@ -97,7 +108,7 @@ excerpt: "Reading time: about 4 minutes Who this is for People who feel uncomfor
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">“Come to Shinjuku” — the phone call I’ll never forget</h2>
+<h2 id="come-to-shinjuku--the-phone-call-ill-nev" class="wp-block-heading">“Come to Shinjuku” — the phone call I’ll never forget</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_2nb29a2nb29a2nb2.jpg" alt="" class="wp-image-3016"/></figure>
 
@@ -125,7 +136,7 @@ excerpt: "Reading time: about 4 minutes Who this is for People who feel uncomfor
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">From phone books to smartphones</h2>
+<h2 id="from-phone-books-to-smartphones" class="wp-block-heading">From phone books to smartphones</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_c4e0msc4e0msc4e0.jpg" alt="" class="wp-image-3017"/></figure>
 
@@ -137,7 +148,7 @@ excerpt: "Reading time: about 4 minutes Who this is for People who feel uncomfor
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Different forms, same pattern</h2>
+<h2 id="different-forms-same-pattern" class="wp-block-heading">Different forms, same pattern</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_b9jczlb9jczlb9jc.jpg" alt="" class="wp-image-3018"/></figure>
 
@@ -158,7 +169,7 @@ excerpt: "Reading time: about 4 minutes Who this is for People who feel uncomfor
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">What I think now, in my 50s</h2>
+<h2 id="what-i-think-now-in-my-50s" class="wp-block-heading">What I think now, in my 50s</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_m0mmtpm0mmtpm0mm.jpg" alt="" class="wp-image-3019"/></figure>
 
@@ -184,7 +195,7 @@ excerpt: "Reading time: about 4 minutes Who this is for People who feel uncomfor
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Final thoughts</h2>
+<h2 id="final-thoughts" class="wp-block-heading">Final thoughts</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_z2rsfqz2rsfqz2rs.jpg" alt="" class="wp-image-3020"/></figure>
 

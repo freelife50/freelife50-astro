@@ -1,10 +1,16 @@
 ---
 import { getCollection } from 'astro:content';
 
+interface Props {
+  lang?: 'ja' | 'en';
+}
+const { lang = 'ja' } = Astro.props;
+
 const allPosts = await getCollection('blog');
 const published = allPosts.sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
-// 「最近の投稿」は日本語記事のみ（英語記事は en.freelife50.com に分離済み）
-const recent = published.filter(p => p.data.lang !== 'en').slice(0, 5);
+
+const isEn = lang === 'en';
+const recent = published.filter(p => isEn ? p.data.lang === 'en' : p.data.lang !== 'en').slice(0, 5);
 
 const categories = [
   { slug: 'blog-sidejob', name: 'ブログ運営と副業', nameEn: 'Blogging & Side Hustles' },
@@ -16,24 +22,28 @@ const categories = [
   { slug: 'food-nostalgia', name: '食と懐かしさ', nameEn: 'Food & Nostalgia' },
 ];
 
-// カテゴリ別記事数
+// カテゴリ別記事数（言語でフィルタ）
 const catCount: Record<string, number> = {};
 for (const post of published) {
-  for (const cat of post.data.categories) {
-    catCount[cat] = (catCount[cat] || 0) + 1;
+  if (isEn ? post.data.lang === 'en' : post.data.lang !== 'en') {
+    for (const cat of post.data.categories) {
+      catCount[cat] = (catCount[cat] || 0) + 1;
+    }
   }
 }
+
+const categoryBase = isEn ? '/en/category/' : '/category/';
 ---
 <aside class="sidebar">
   <div class="sidebar-widget sidebar-search">
-    <h3>検索</h3>
-    <form action="/search/" method="get">
-      <input type="text" name="q" placeholder="キーワードを入力..." />
+    <h3>{isEn ? 'Search' : '検索'}</h3>
+    <form action={isEn ? '/en/search/' : '/search/'} method="get">
+      <input type="text" name="q" placeholder={isEn ? 'Search...' : 'キーワードを入力...'} />
     </form>
   </div>
 
   <div class="sidebar-widget">
-    <h3>最近の投稿</h3>
+    <h3>{isEn ? 'Recent Posts' : '最近の投稿'}</h3>
     <ul>
       {recent.map(post => (
         <li>
@@ -44,12 +54,12 @@ for (const post of published) {
   </div>
 
   <div class="sidebar-widget">
-    <h3>カテゴリ</h3>
+    <h3>{isEn ? 'Categories' : 'カテゴリ'}</h3>
     <ul>
       {categories.map(cat => (
         <li>
-          <a href={`/category/${cat.slug}/`}>
-            {cat.name} ({catCount[cat.slug] || 0})
+          <a href={`${categoryBase}${cat.slug}/`}>
+            {isEn ? cat.nameEn : cat.name} ({catCount[cat.slug] || 0})
           </a>
         </li>
       ))}

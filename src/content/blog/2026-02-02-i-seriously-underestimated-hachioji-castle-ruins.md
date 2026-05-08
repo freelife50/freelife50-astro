@@ -6,6 +6,7 @@ categories: ["healing-walks"]
 tags: ["bear-safety", "hachioji-castle", "hiking-in-japan", "hiking-over-50", "hiking-safety"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/02/IMG_2457.jpg"
+sns_image_url: "/images/wp-content/uploads/2026/02/IMG_2457.jpg"
 excerpt: "Hachioji Castle Ruins hiking guide near Tokyo. What to expect on this underestimated trail including steep sections, Mt. Fuji views, and historical ru"
 ---
 
@@ -34,7 +35,17 @@ excerpt: "Hachioji Castle Ruins hiking guide near Tokyo. What to expect on this 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">【Before Anything Else】The Most Important Safety Information — Read This Part Alone If You Must</h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#before-anything-elsethe-most-important-s">【Before Anything Else】The Most Important Safety Information — Read This Part Alone If You Must</a></li>  <li><a href="#most-important-recordfebruary-1-2026--ac">【Most Important Record】February 1, 2026 — Actual Walking Log (With Inner Thoughts)</a></li>  <li><a href="#so-what-kind-of-place-is-hachioji-castle">So… What Kind of Place Is Hachioji Castle Ruins?</a></li>  <li><a href="#a-bit-of-history">A Bit of History</a></li>  <li><a href="#highlight-the-drawbridge-hikibashi">Highlight: The Drawbridge (Hikibashi)</a></li>  <li><a href="#why-i-chose-the-new-trail-yes-an-excuse">Why I Chose the New Trail (Yes, an Excuse)</a></li>  <li><a href="#final-thoughts">Final Thoughts</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="before-anything-elsethe-most-important-s" class="wp-block-heading">【Before Anything Else】The Most Important Safety Information — Read This Part Alone If You Must</h2>
 
 <p>This article is based on <strong>firsthand, time-stamped experience</strong> from my actual walk on <strong>February 1, 2026</strong>.</p>
 
@@ -153,7 +164,7 @@ excerpt: "Hachioji Castle Ruins hiking guide near Tokyo. What to expect on this 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">【Most Important Record】February 1, 2026 — Actual Walking Log (With Inner Thoughts)</h2>
+<h2 id="most-important-recordfebruary-1-2026--ac" class="wp-block-heading">【Most Important Record】February 1, 2026 — Actual Walking Log (With Inner Thoughts)</h2>
 
 <h3 class="wp-block-heading">Start → Castle Area</h3>
 
@@ -248,7 +259,7 @@ excerpt: "Hachioji Castle Ruins hiking guide near Tokyo. What to expect on this 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">So… What Kind of Place Is Hachioji Castle Ruins?</h2>
+<h2 id="so-what-kind-of-place-is-hachioji-castle" class="wp-block-heading">So… What Kind of Place Is Hachioji Castle Ruins?</h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2432.jpg" alt="" class="wp-image-3139"/></figure>
 </div>
@@ -266,7 +277,7 @@ excerpt: "Hachioji Castle Ruins hiking guide near Tokyo. What to expect on this 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">A Bit of History</h2>
+<h2 id="a-bit-of-history" class="wp-block-heading">A Bit of History</h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2416.jpg" alt="" class="wp-image-3141"/></figure>
 </div>
@@ -286,7 +297,7 @@ excerpt: "Hachioji Castle Ruins hiking guide near Tokyo. What to expect on this 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Highlight: The Drawbridge (Hikibashi)</h2>
+<h2 id="highlight-the-drawbridge-hikibashi" class="wp-block-heading">Highlight: The Drawbridge (Hikibashi)</h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2430.jpg" alt="" class="wp-image-3145"/></figure>
 </div>
@@ -301,7 +312,7 @@ excerpt: "Hachioji Castle Ruins hiking guide near Tokyo. What to expect on this 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Why I Chose the New Trail (Yes, an Excuse)</h2>
+<h2 id="why-i-chose-the-new-trail-yes-an-excuse" class="wp-block-heading">Why I Chose the New Trail (Yes, an Excuse)</h2>
 
 <figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2026/02/IMG_2499.jpg" alt="" class="wp-image-3147" style="aspect-ratio:0.7500154197249121;width:283px;height:auto"/></figure>
 
@@ -316,7 +327,7 @@ excerpt: "Hachioji Castle Ruins hiking guide near Tokyo. What to expect on this 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Final Thoughts</h2>
+<h2 id="final-thoughts" class="wp-block-heading">Final Thoughts</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/IMG_2493.jpg" alt="" class="wp-image-3135"/></figure>
 

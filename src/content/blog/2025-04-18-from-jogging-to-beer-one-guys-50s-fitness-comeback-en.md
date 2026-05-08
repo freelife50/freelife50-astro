@@ -5,9 +5,19 @@ slug: "from-jogging-to-beer-one-guys-50s-fitness-comeback-en"
 categories: ["prepared-life"]
 tags: ["50代からの挑戦", "ジム習慣はじめました", "フルマラソン再挑戦", "無理しない健康づくり", "運動後のビール最高"]
 eyecatch: "/images/wp-content/uploads/2025/04/image-1-e1744931885735.png"
+sns_image_url: "/images/wp-content/uploads/2025/04/image-1-e1744931885735.png"
 lang: "en"
 excerpt: "Hi there!Yesterday, I hit the gym for a light workout:"
 ---
+<nav id="toc" class="post-toc">
+<p><strong>Table of Contents</strong></p>
+<ul>
+<li><a href="#main-content">Main Text</a></li>
+</ul>
+</nav>
+
+<h2 id="main-content">Main Text</h2>
+
 
 <figure class="wp-block-image aligncenter size-large is-resized"><img src="/images/wp-content/uploads/2025/04/image.png" alt="" class="wp-image-56" style="width:276px;height:auto"/></figure>
 
@@ -39,3 +49,10 @@ excerpt: "Hi there!Yesterday, I hit the gym for a light workout:"
 <p>It’s never too late to change.<br>Even small steps count — as long as they’re forward.</p>
 
 <figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2025/04/image-2.png" alt="" class="wp-image-58" style="width:294px;height:auto"/></figure>
+
+<blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
+<ul class="wp-block-list">
+<li><a href="https://freelife50.com/coffee-addicts-weight-loss-just-switch-your-daily-brew/">Coffee Addict's Weight Loss: Just Switch Your Daily Brew</a></li>
+<li><a href="https://freelife50.com/most-unsolicited-offers-are-better-refused-my-story/">Life Advice at 50: Why Most Unsolicited Offers Are Better Refused</a></li>
+<li><a href="https://freelife50.com/a-man-in-his-50s-finally-bought-an-iphone-17/">iPhone 17 Review: A 50-Year-Old Japanese Man Finally Makes the Switch</a></li>
+</ul></blockquote>

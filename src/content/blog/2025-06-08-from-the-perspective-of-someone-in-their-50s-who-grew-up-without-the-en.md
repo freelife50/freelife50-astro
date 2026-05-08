@@ -5,6 +5,7 @@ slug: "from-the-perspective-of-someone-in-their-50s-who-grew-up-without-the-en"
 categories: ["society-issues-thoughts"]
 tags: ["sns-culture", "gen-x-on-social-media", "authentic-online-presence", "social-media-fatigue", "z-generation-values"]
 eyecatch: "/images/wp-content/uploads/2025/05/e107fc29eb554a9a3ef7f82b8148868f.png"
+sns_image_url: "/images/wp-content/uploads/2025/05/e107fc29eb554a9a3ef7f82b8148868f.png"
 lang: "en"
 excerpt: "This article explores the rising popularity of BeReal, a no-filter social media app embraced by Gen Z.From the perspective of someone in their 50s who grew up..."
 ---
@@ -23,7 +24,15 @@ excerpt: "This article explores the rising popularity of BeReal, a no-filter soc
 <p>What was social media supposed to be in the first place?<br>That’s the question I’d like to revisit—from the perspective of someone who’s seen the world both before and after it all began.</p>
 </blockquote>
 
-<h2>“Looking Good” vs. Being Real</h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#looking-good-vs-being-real">“Looking Good” vs. Being Real</a></li>  <li><a href="#why-gen-z-chooses-unfiltered-connections">Why Gen Z Chooses “Unfiltered” Connections</a></li>  <li><a href="#why-being-real-matters-now">Why “Being Real” Matters Now</a></li>  <li><a href="#im-in-my-50sso-honestly-i-dont-really-ge">I’m in My 50s—So Honestly, I Don’t Really Get It. But…</a></li>  <li><a href="#so-what-is-real-anyway">So, What Is “Real,” Anyway?</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<h2 id="looking-good-vs-being-real">“Looking Good” vs. Being Real</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_v7ws0dv7ws0dv7ws.png" alt="" class="wp-image-1626"/></figure>
 
@@ -42,7 +51,7 @@ excerpt: "This article explores the rising popularity of BeReal, a no-filter soc
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2>Why Gen Z Chooses “Unfiltered” Connections</h2>
+<h2 id="why-gen-z-chooses-unfiltered-connections">Why Gen Z Chooses “Unfiltered” Connections</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_5na2lp5na2lp5na2.png" alt="" class="wp-image-1627"/></figure>
 
@@ -70,7 +79,7 @@ excerpt: "This article explores the rising popularity of BeReal, a no-filter soc
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2>Why “Being Real” Matters Now</h2>
+<h2 id="why-being-real-matters-now">Why “Being Real” Matters Now</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_1u8u5h1u8u5h1u8u.png" alt="" class="wp-image-1628"/></figure>
 
@@ -97,7 +106,7 @@ excerpt: "This article explores the rising popularity of BeReal, a no-filter soc
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2>I’m in My 50s—So Honestly, I Don’t Really Get It. But…</h2>
+<h2 id="im-in-my-50sso-honestly-i-dont-really-ge">I’m in My 50s—So Honestly, I Don’t Really Get It. But…</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_2bsbz52bsbz52bsb.png" alt="" class="wp-image-1629"/></figure>
 
@@ -124,7 +133,7 @@ excerpt: "This article explores the rising popularity of BeReal, a no-filter soc
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2>So, What Is “Real,” Anyway?</h2>
+<h2 id="so-what-is-real-anyway">So, What Is “Real,” Anyway?</h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_fnz191fnz191fnz1.png" alt="" class="wp-image-1630"/></figure>
 
@@ -148,3 +157,10 @@ excerpt: "This article explores the rising popularity of BeReal, a no-filter soc
 
 <p>And honestly? That’s kind of a relief.</p>
 </blockquote>
+
+<blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
+<ul class="wp-block-list">
+<li><a href="https://freelife50.com/shocked-by-my-sons-gen-z-values/">Gen X vs Gen Z Values: What My Son's Generation Taught Me About Life in Japan</a></li>
+<li><a href="https://freelife50.com/the-day-i-finally-chose-to-choose-a-quiet-shift-toward-the-ballot-box/">Why I Finally Started Voting in Japan: A Quiet Shift Toward the Ballot Box at 50</a></li>
+<li><a href="https://freelife50.com/i-thought-id-be-fine-the-moment-that-gave-a-50-something-a-chill/">Life in Your 50s: \&quot;I Thought I'd Be Fine\&quot; — A Wake-Up Call About Personal Safety</a></li>
+</ul></blockquote>

@@ -6,6 +6,7 @@ categories: ["prepared-life"]
 tags: ["誕生日プレゼント", "スキンケア", "coco_Makana", "敏感肌", "無添加コスメ"]
 lang: "ja"
 eyecatch: "/images/wp-content/uploads/2025/07/Google_AI_Studio_2025-07-27T05_16_36.409Z.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/07/Google_AI_Studio_2025-07-27T05_16_36.409Z.jpg"
 excerpt: "📌 ご案内 本記事で紹介していた「coco_Makana」のアフィリエイトプログラムは2025年12月に終了しました。商品自体は公式サイト等で引き続き入手可能です。体験レビューとしての記事はそのまま残しております。 📖 読了目安：10〜"
 ---
 

@@ -6,6 +6,7 @@ categories: ["healing-walks"]
 tags: ["丹沢登山", "みやま山荘", "ワークマン", "xshelter", "50代の挑戦"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/10/PXL_20251016_200652211.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/10/PXL_20251016_200652211.jpg"
 excerpt: "Mountain Hut Feast & the True Power of Workman’s XShelter Jacket A body tested by wind and rain, a heart filled with mou"
 ---
 
@@ -35,7 +36,17 @@ excerpt: "Mountain Hut Feast & the True Power of Workman’s XShelter Jacket A b
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>⏱ Data Tells the Story — Two Days of “Training and Reward”</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#data-tells-the-story--two-days-of-traini">⏱ Data Tells the Story — Two Days of “Training and Reward”</a></li>  <li><a href="#into-the-storm--the-training-climb-begin">🌧️ Into the Storm — The “Training Climb” Begins</a></li>  <li><a href="#workman-xshelter-ultra-breathable-rain-j">🧥 Workman “XShelter” Ultra-Breathable Rain Jacket — My Honest Review</a></li>  <li><a href="#reaching-the-hut--a-well-deserved-drink">🍶 Reaching the Hut — A Well-Deserved Drink</a></li>  <li><a href="#dinner--the-taste-of-miyama-sansou">🍱 Dinner — The Taste of Miyama Sansou</a></li>  <li><a href="#morning--the-blue-hour-above-the-clouds">🌄 Morning — The Blue Hour Above the Clouds</a></li>  <li><a href="#breakfast--the-legendary-takikomi-gohan">🍚 Breakfast — The Legendary Takikomi Gohan</a></li>  <li><a href="#day-2--sunshine-clear-views-and-an-unexp">🏔️ Day 2 — Sunshine, Clear Views, and an Unexpected Reunion</a></li>  <li><a href="#back-at-okura--legs-shaking-heart-full">🚶‍♂️ Back at Okura — Legs Shaking, Heart Full</a></li>  <li><a href="#epilogue--overnight-makes-it-a-story">🏕️ Epilogue — Overnight Makes It a Story</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="data-tells-the-story--two-days-of-traini" class="wp-block-heading"><strong>⏱ Data Tells the Story — Two Days of “Training and Reward”</strong></h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251015_233153019.jpg" alt="" class="wp-image-2532"/></figure>
 </div>
@@ -89,7 +100,7 @@ excerpt: "Mountain Hut Feast & the True Power of Workman’s XShelter Jacket A b
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🌧️ Into the Storm — The “Training Climb” Begins</strong></h2>
+<h2 id="into-the-storm--the-training-climb-begin" class="wp-block-heading"><strong>🌧️ Into the Storm — The “Training Climb” Begins</strong></h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251016_004854849.jpg" alt="" class="wp-image-2539"/></figure>
 </div>
@@ -110,7 +121,7 @@ excerpt: "Mountain Hut Feast & the True Power of Workman’s XShelter Jacket A b
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🧥 Workman “XShelter” Ultra-Breathable Rain Jacket — My Honest Review</strong></h2>
+<h2 id="workman-xshelter-ultra-breathable-rain-j" class="wp-block-heading"><strong>🧥 Workman “XShelter” Ultra-Breathable Rain Jacket — My Honest Review</strong></h2>
 
 <figure class="wp-block-image aligncenter size-large is-resized"><img src="/images/wp-content/uploads/2025/10/image-1.jpg" alt="" class="wp-image-2555" style="width:523px;height:auto"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
 
@@ -132,7 +143,7 @@ excerpt: "Mountain Hut Feast & the True Power of Workman’s XShelter Jacket A b
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🍶 Reaching the Hut — A Well-Deserved Drink</strong></h2>
+<h2 id="reaching-the-hut--a-well-deserved-drink" class="wp-block-heading"><strong>🍶 Reaching the Hut — A Well-Deserved Drink</strong></h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251016_054109633.jpg" alt="" class="wp-image-2541"/></figure>
 </div>
@@ -156,7 +167,7 @@ excerpt: "Mountain Hut Feast & the True Power of Workman’s XShelter Jacket A b
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🍱 Dinner — The Taste of Miyama Sansou</strong></h2>
+<h2 id="dinner--the-taste-of-miyama-sansou" class="wp-block-heading"><strong>🍱 Dinner — The Taste of Miyama Sansou</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251016_084826413.jpg" alt="" class="wp-image-2545"/></figure>
 
@@ -166,7 +177,7 @@ excerpt: "Mountain Hut Feast & the True Power of Workman’s XShelter Jacket A b
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🌄 Morning — The Blue Hour Above the Clouds</strong></h2>
+<h2 id="morning--the-blue-hour-above-the-clouds" class="wp-block-heading"><strong>🌄 Morning — The Blue Hour Above the Clouds</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251016_200644288.jpg" alt="" class="wp-image-2546"/></figure>
 
@@ -176,7 +187,7 @@ excerpt: "Mountain Hut Feast & the True Power of Workman’s XShelter Jacket A b
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🍚 Breakfast — The Legendary Takikomi Gohan</strong></h2>
+<h2 id="breakfast--the-legendary-takikomi-gohan" class="wp-block-heading"><strong>🍚 Breakfast — The Legendary Takikomi Gohan</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251016_201748767.jpg" alt="" class="wp-image-2547"/></figure>
 
@@ -186,7 +197,7 @@ excerpt: "Mountain Hut Feast & the True Power of Workman’s XShelter Jacket A b
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🏔️ Day 2 — Sunshine, Clear Views, and an Unexpected Reunion</strong></h2>
+<h2 id="day-2--sunshine-clear-views-and-an-unexp" class="wp-block-heading"><strong>🏔️ Day 2 — Sunshine, Clear Views, and an Unexpected Reunion</strong></h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251016_210613692.jpg" alt="" class="wp-image-2548"/></figure>
 </div>
@@ -201,7 +212,7 @@ excerpt: "Mountain Hut Feast & the True Power of Workman’s XShelter Jacket A b
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🚶‍♂️ Back at Okura — Legs Shaking, Heart Full</strong></h2>
+<h2 id="back-at-okura--legs-shaking-heart-full" class="wp-block-heading"><strong>🚶‍♂️ Back at Okura — Legs Shaking, Heart Full</strong></h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251017_003456725.jpg" alt="" class="wp-image-2551"/></figure>
 </div>
@@ -214,7 +225,7 @@ excerpt: "Mountain Hut Feast & the True Power of Workman’s XShelter Jacket A b
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🏕️ Epilogue — Overnight Makes It a Story</strong></h2>
+<h2 id="epilogue--overnight-makes-it-a-story" class="wp-block-heading"><strong>🏕️ Epilogue — Overnight Makes It a Story</strong></h2>
 
 <p>“I can still climb. I’ve still got it.”</p>
 

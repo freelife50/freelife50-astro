@@ -5,9 +5,19 @@ slug: "back-pain-leeches-and-morning-ramen-a-fully-loaded-childrens-day-hike-en"
 categories: ["healing-walks"]
 tags: ["back-pain-hiking", "family-hike", "midlife-hike", "ramen-and-mountains", "shiba-inu-adventure"]
 eyecatch: "/images/wp-content/uploads/2025/05/PXL_20250505_003724839-scaled.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/05/PXL_20250505_003724839-scaled.jpg"
 lang: "en"
 excerpt: "🍜Back Pain, Leeches, and Morning Ramen – A Fully Loaded Children's Day Hike"
 ---
+<nav id="toc" class="post-toc">
+<p><strong>Table of Contents</strong></p>
+<ul>
+<li><a href="#main-content">Main Text</a></li>
+</ul>
+</nav>
+
+<h2 id="main-content">Main Text</h2>
+
 
 <p>🕒 About 2 minutes to read.</p>
 <p>🍜Back Pain, Leeches, and Morning Ramen – A Fully Loaded Children's Day Hike</p>
@@ -44,3 +54,10 @@ excerpt: "🍜Back Pain, Leeches, and Morning Ramen – A Fully Loaded Children'
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/PXL_20250505_010903336-scaled.jpg" alt="" class="wp-image-383"/></figure>
 
 <p><em>Today’s hike had it all—back pain, leeches, ramen overload, heat, landslides.<br>But in the end, it turned out just fine.<br>Sometimes, all it takes is stepping outside to get your life moving again.<br>And sometimes, a fully loaded day is exactly what you need.</em></p>
+
+<blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
+<ul class="wp-block-list">
+<li><a href="https://freelife50.com/sagami-odako-festival-2026-en/">I Took My Shiba Inu to the Sagami River and Found Japan’s Largest Kite Being Built</a></li>
+<li><a href="https://freelife50.com/a-50-something-guy-visits-ichiyajo-at-0c-walking-with-my-dog-to-clear-my-mind/">Dog-Friendly Winter Walk at Ishigakiyama (Ichiyajo) in Odawara, Japan</a></li>
+<li><a href="https://freelife50.com/ultra-time-efficient-a-50-year-old-guy-conquered-two-1700m-peaks-in-just-2-5-hours/">Mt. Okura-takamaru &amp; Mt. Hamaiba-maru: Two 1700m Peaks in 2.5 Hours Near Tokyo</a></li>
+</ul></blockquote>

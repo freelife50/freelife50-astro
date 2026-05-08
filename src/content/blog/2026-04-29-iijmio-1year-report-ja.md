@@ -3,7 +3,7 @@ title: "「月4,500円」と書いた1年後、実際はいくらやった？IIJ
 date: "2026-04-29"
 slug: "iijmio-1year-report-ja"
 categories: ["blog-sidejob"]
-tags: ["IIJmio", "格安SIM", "通信費節約", "固定費削減", "家族スマホ", "スマホ代見直し"]
+tags: ["IIJmio", "格安SIM", "通信費節約", "固定費削減", "家族スマホ"]
 lang: "ja"
 eyecatch: "/images/wp-content/uploads/2026/04/iijmio-1year-eyecatch.jpg"
 sns_image_url: "/images/wp-content/uploads/2026/04/iijmio-1year-sns.jpg"
@@ -46,7 +46,17 @@ excerpt: "1年前に書いた「IIJmioで家族4人月4,500円」の答え合わ
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">答え合わせ：11ヶ月分の請求履歴を全部公開</h2>
+<p><strong>目次</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#答え合わせ：11ヶ月分の請求履歴を全部公開">答え合わせ：11ヶ月分の請求履歴を全部公開</a></li>  <li><a href="#500円の差はどこから来たんか？">500円の差はどこから来たんか？</a></li>  <li><a href="#それでも神コスパは揺るがない">それでも"神コスパ"は揺るがない</a></li>  <li><a href="#1年使って気づいた地味な良さ">1年使って気づいた"地味な良さ"</a></li>  <li><a href="#我が家の運用テクニック">我が家の運用テクニック</a></li>  <li><a href="#50代の通信費との向き合い方">50代の通信費との向き合い方</a></li>  <li><a href="#まとめ">まとめ</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="答え合わせ：11ヶ月分の請求履歴を全部公開" class="wp-block-heading">答え合わせ：11ヶ月分の請求履歴を全部公開</h2>
 
 <figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/04/iijmio-1year-eyecatch.jpg" alt="IIJmioの請求履歴11ヶ月分を確認する様子"/></figure>
 
@@ -68,7 +78,7 @@ excerpt: "1年前に書いた「IIJmioで家族4人月4,500円」の答え合わ
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">500円の差はどこから来たんか？</h2>
+<h2 id="500円の差はどこから来たんか？" class="wp-block-heading">500円の差はどこから来たんか？</h2>
 
 <figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/04/iijmio-plan-comparison.jpg" alt="IIJmioのプラン料金比較と月ごとの請求の波"/></figure>
 
@@ -95,7 +105,7 @@ excerpt: "1年前に書いた「IIJmioで家族4人月4,500円」の答え合わ
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">それでも"神コスパ"は揺るがない</h2>
+<h2 id="それでも神コスパは揺るがない" class="wp-block-heading">それでも"神コスパ"は揺るがない</h2>
 
 <figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/04/iijmio-1year-sns.jpg" alt="大手キャリアとIIJmioの年間費用を比較するイメージ"/></figure>
 
@@ -115,7 +125,7 @@ excerpt: "1年前に書いた「IIJmioで家族4人月4,500円」の答え合わ
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">1年使って気づいた"地味な良さ"</h2>
+<h2 id="1年使って気づいた地味な良さ" class="wp-block-heading">1年使って気づいた"地味な良さ"</h2>
 
 <figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/04/iijmio-data-share-feature.jpg" alt="IIJmioのデータシェア・繰り越し機能のイメージ"/></figure>
 
@@ -139,7 +149,7 @@ excerpt: "1年前に書いた「IIJmioで家族4人月4,500円」の答え合わ
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">我が家の運用テクニック</h2>
+<h2 id="我が家の運用テクニック" class="wp-block-heading">我が家の運用テクニック</h2>
 
 <figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/04/iijmio-plan-comparison.jpg" alt="月末にIIJmioのプランを確認・変更する様子"/></figure>
 
@@ -159,7 +169,7 @@ excerpt: "1年前に書いた「IIJmioで家族4人月4,500円」の答え合わ
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">50代の通信費との向き合い方</h2>
+<h2 id="50代の通信費との向き合い方" class="wp-block-heading">50代の通信費との向き合い方</h2>
 
 <figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/04/iijmio-summary.jpg" alt="家計の固定費を見直して将来の資産形成を考えるイメージ"/></figure>
 
@@ -175,7 +185,7 @@ excerpt: "1年前に書いた「IIJmioで家族4人月4,500円」の答え合わ
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">まとめ</h2>
+<h2 id="まとめ" class="wp-block-heading">まとめ</h2>
 
 <p>「月4,500円」と書いたのに、実際は5,030円やった。</p>
 

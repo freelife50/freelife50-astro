@@ -5,14 +5,24 @@ slug: "what-does-it-mean-to-be-strong-en"
 categories: ["society-issues-thoughts"]
 tags: ["六方一座", "WIND_BREAKER", "強さとは", "静かな強さ", "roppou-ichiza"]
 eyecatch: "/images/wp-content/uploads/2025/05/1e1a6eef2865272b0b6ffe0d9b8352bb.png"
+sns_image_url: "/images/wp-content/uploads/2025/05/1e1a6eef2865272b0b6ffe0d9b8352bb.png"
 lang: "en"
 excerpt: "💬 What does it mean to be strong?To stand up for someone. To protect without being seen.Maybe we've known that kind of strength all along."
 ---
+<h2 id="main-content">Main Text</h2>
+
 
 <p>🕒 About 1 minutes to read.</p>
 <p>💬 <em>What does it mean to be strong?</em><br><em>To stand up for someone. To protect without being seen.</em><br><em>Maybe we've known that kind of strength all along.</em></p>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<nav id="toc" class="post-toc">
+<p><strong>Table of Contents</strong></p>
+<ul>
+<li><a href="#main-content">Main Text</a></li>
+</ul>
+</nav>
 
 <p><strong>💬 The day I was reminded of what true strength really means.</strong><br><strong>From the heroes of our youth to the guardians of today's streets.</strong></p>
 
@@ -47,3 +57,10 @@ excerpt: "💬 What does it mean to be strong?To stand up for someone. To protec
 <p><strong>💬 Strength isn’t about muscle, age, or status.</strong><br><strong>It’s about showing up—even when no one sees.</strong><br><strong>If you’ve stood up for someone today… maybe you are Roppou Ichiza, too.</strong></p>
 
 <p>📸 The images used in this article are original AI-generated illustrations.<br>They do not directly use any existing characters or copyrighted materials.</p>
+
+<blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
+<ul class="wp-block-list">
+<li><a href="https://freelife50.com/the-day-i-finally-chose-to-choose-a-quiet-shift-toward-the-ballot-box/">Why I Finally Started Voting in Japan: A Quiet Shift Toward the Ballot Box at 50</a></li>
+<li><a href="https://freelife50.com/i-thought-id-be-fine-the-moment-that-gave-a-50-something-a-chill/">Life in Your 50s: \&quot;I Thought I'd Be Fine\&quot; — A Wake-Up Call About Personal Safety</a></li>
+<li><a href="https://freelife50.com/a-50-something-man-pauses-in-front-of-a-supermarket-price-tag/">Money in Your 50s: Rethinking Where to Put Your Savings in Japan</a></li>
+</ul></blockquote>

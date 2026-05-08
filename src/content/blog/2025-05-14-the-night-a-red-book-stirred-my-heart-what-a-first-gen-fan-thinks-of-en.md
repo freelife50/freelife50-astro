@@ -5,6 +5,7 @@ slug: "the-night-a-red-book-stirred-my-heart-what-a-first-gen-fan-thinks-of-en"
 categories: ["shumi-taiken-etc"]
 tags: ["gundamgquuuuuux", "firstgengundamfan", "nonfightinggundam", "rewriteyourstory", "whatiftimeline"]
 eyecatch: "/images/wp-content/uploads/2025/05/d353654b9e06bd793563a30faf90f04d.png"
+sns_image_url: "/images/wp-content/uploads/2025/05/d353654b9e06bd793563a30faf90f04d.png"
 lang: "en"
 excerpt: "A first-generation Gundam fan watches the 2025 spin-off GQuuuuuuX and finds something unexpected — not in the battles, but in a quiet red book tucked in the corner of the screen."
 ---
@@ -23,7 +24,17 @@ excerpt: "A first-generation Gundam fan watches the 2025 spin-off GQuuuuuuX and 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">🕹️ The Kid Who Dreamed of Beam Sabers</h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#the-kid-who-dreamed-of-beam-sabers">🕹️ The Kid Who Dreamed of Beam Sabers</a></li>  <li><a href="#nyaans-room-and-zeon-institute-of-techno">📕 Nyaan's Room and "Zeon Institute of Technology"</a></li>  <li><a href="#the-timeline-where-char-didnt-pull-the-t">🔁 The Timeline Where Char Didn't Pull the Trigger</a></li>  <li><a href="#what-a-non-fighting-gundam-taught-me">🌀 What a Non-Fighting Gundam Taught Me</a></li>  <li><a href="#what-in-your-life-would-you-rewrite">📝 What in Your Life Would You Rewrite?</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="the-kid-who-dreamed-of-beam-sabers" class="wp-block-heading">🕹️ The Kid Who Dreamed of Beam Sabers</h2>
 
 <p>I first watched Mobile Suit Gundam as an elementary school student.<br>The battles between Amuro and Char, those spectacular mobile suit dogfights — I was hooked every week, wide-eyed at the screen.<br>"Beam sabers are so cool," I'd think. That was basically my whole world for a while.</p>
 
@@ -37,7 +48,7 @@ excerpt: "A first-generation Gundam fan watches the 2025 spin-off GQuuuuuuX and 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">📕 Nyaan's Room and "Zeon Institute of Technology"</h2>
+<h2 id="nyaans-room-and-zeon-institute-of-techno" class="wp-block-heading">📕 Nyaan's Room and "Zeon Institute of Technology"</h2>
 
 <figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/05/5922d81a44776a6d5839d6d0eeaa05a6.png" alt="" class="wp-image-710"/></figure>
 
@@ -57,7 +68,7 @@ excerpt: "A first-generation Gundam fan watches the 2025 spin-off GQuuuuuuX and 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">🔁 The Timeline Where Char Didn't Pull the Trigger</h2>
+<h2 id="the-timeline-where-char-didnt-pull-the-t" class="wp-block-heading">🔁 The Timeline Where Char Didn't Pull the Trigger</h2>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/91f3223ad4935cf8506ad6d53aeefa59.png" alt="" class="wp-image-706"/></figure>
 
@@ -73,7 +84,7 @@ excerpt: "A first-generation Gundam fan watches the 2025 spin-off GQuuuuuuX and 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">🌀 What a Non-Fighting Gundam Taught Me</h2>
+<h2 id="what-a-non-fighting-gundam-taught-me" class="wp-block-heading">🌀 What a Non-Fighting Gundam Taught Me</h2>
 
 <p>Honestly, the lack of combat left me a little hollow at first.<br>But something else came through in its place — a kind of clarity.</p>
 
@@ -90,7 +101,7 @@ excerpt: "A first-generation Gundam fan watches the 2025 spin-off GQuuuuuuX and 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">📝 What in Your Life Would You Rewrite?</h2>
+<h2 id="what-in-your-life-would-you-rewrite" class="wp-block-heading">📝 What in Your Life Would You Rewrite?</h2>
 
 <figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/05/1b580ddbc9da138d7101aa16f6f54311.png" alt="" class="wp-image-708"/></figure>
 
@@ -110,3 +121,9 @@ excerpt: "A first-generation Gundam fan watches the 2025 spin-off GQuuuuuuX and 
 
 <ul class="wp-block-list"><li>The idea of strength without fighting runs through another post as well — <a href="https://freelife50.com/%e5%bc%b7%e3%81%84%e3%81%a3%e3%81%a6%e3%80%81%e3%81%aa%e3%82%93%e3%81%a0%e3%82%8d%e3%81%86%e3%80%82%e5%85%ad%e6%96%b9%e4%b8%80%e5%ba%a7%e3%81%a8%e6%98%ad%e5%92%8c%e4%b8%96%e4%bb%a3%e3%81%8c%e6%95%99/">What Does It Mean to Be Strong? Lessons from a Showa Generation</a> — a meditation on the intersection of an older definition of strength and today's quiet courage.</li>
 </ul>
+
+<blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
+<ul class="wp-block-list">
+<li><a href="https://freelife50.com/a-man-in-his-50s-goes-to-see-avatar/">Avatar Movie Review: A 50-Year-Old's Honest Take — Mild Emotions, Rich Experience</a></li>
+<li><a href="https://freelife50.com/a-50-year-old-man-becoming-the-pillar-of-sake-breathing-showdown-in-my-wifes-infinity-castle/">Demon Slayer Parody: A 50-Year-Old Becomes the Sake Breathing Pillar</a></li>
+</ul></blockquote>

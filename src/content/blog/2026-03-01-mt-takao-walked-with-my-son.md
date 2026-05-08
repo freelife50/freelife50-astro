@@ -6,6 +6,7 @@ categories: ["healing-walks"]
 tags: ["family-hiking-japan", "father-and-son", "hiking-log", "inariyama-trail", "mount-takao"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/03/IMG_2735.jpg"
+sns_image_url: "/images/wp-content/uploads/2026/03/IMG_2735.jpg"
 excerpt: "A father-son hike on Mt. Takao via the Inariyama Trail to Yakuo-in temple. Trail details, difficulty level, and a heartwarming story of unexpected reu"
 ---
 
@@ -47,7 +48,17 @@ excerpt: "A father-son hike on Mt. Takao via the Inariyama Trail to Yakuo-in tem
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Today’s Hiking Route</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#todays-hiking-route">Today’s Hiking Route</a></li>  <li><a href="#why-did-we-even-go-to-mt-takao-together">Why Did We Even Go to Mt. Takao Together?</a></li>  <li><a href="#i-usually-prefer-ura-takao">I Usually Prefer “Ura-Takao”</a></li>  <li><a href="#time-series-report-february-26-2026">Time-Series Report (February 26, 2026)</a></li>  <li><a href="#summary--coincidence-or-a-chain-of-actio">Summary — Coincidence, or a Chain of Actions?</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="todays-hiking-route" class="wp-block-heading"><strong>Today’s Hiking Route</strong></h2>
 
 <p>Start: Cable Car Kiyotaki Station (in front of the Saburo Kitajima statue)<br>Ascent: Inariyama Trail<br>Summit: Mt. Takao summit (clear view of Mt. Fuji)<br>Via: Yakuo-in Temple (Fudo Hall, Gongen Hall, reunion with the Chief Priest)<br>Descent: Trail No.1 (from Yakuo-in down the stone-paved path past the Beer Mount area)<br>Goal: Cable Car Kiyotaki Station</p>
 
@@ -81,7 +92,7 @@ excerpt: "A father-son hike on Mt. Takao via the Inariyama Trail to Yakuo-in tem
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Why Did We Even Go to Mt. Takao Together?</strong></h2>
+<h2 id="why-did-we-even-go-to-mt-takao-together" class="wp-block-heading"><strong>Why Did We Even Go to Mt. Takao Together?</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/Gemini_Generated_Image_kfccydkfccydkfcc.jpg" alt="" class="wp-image-3209"/></figure>
 
@@ -105,7 +116,7 @@ excerpt: "A father-son hike on Mt. Takao via the Inariyama Trail to Yakuo-in tem
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>I Usually Prefer “Ura-Takao”</strong></h2>
+<h2 id="i-usually-prefer-ura-takao" class="wp-block-heading"><strong>I Usually Prefer “Ura-Takao”</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/Gemini_Generated_Image_s4rmh3s4rmh3s4rm.jpg" alt="" class="wp-image-3210"/></figure>
 
@@ -119,7 +130,7 @@ excerpt: "A father-son hike on Mt. Takao via the Inariyama Trail to Yakuo-in tem
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Time-Series Report (February 26, 2026)</strong></h2>
+<h2 id="time-series-report-february-26-2026" class="wp-block-heading"><strong>Time-Series Report (February 26, 2026)</strong></h2>
 
 <p><strong>9:03 — Parking</strong></p>
 
@@ -465,7 +476,7 @@ excerpt: "A father-son hike on Mt. Takao via the Inariyama Trail to Yakuo-in tem
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Summary — Coincidence, or a Chain of Actions?</strong></h2>
+<h2 id="summary--coincidence-or-a-chain-of-actio" class="wp-block-heading"><strong>Summary — Coincidence, or a Chain of Actions?</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/Gemini_Generated_Image_1kp06h1kp06h1kp0.jpg" alt="" class="wp-image-3245"/></figure>
 

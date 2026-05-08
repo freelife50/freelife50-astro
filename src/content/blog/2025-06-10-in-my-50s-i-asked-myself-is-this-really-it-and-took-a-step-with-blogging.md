@@ -6,6 +6,7 @@ categories: ["blog-sidejob", "society-issues-thoughts"]
 tags: ["blogging-with-ai", "emotional-wellness", "life-in-your-50s", "living-with-chatgpt", "midlife-reflection"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/06/Gemini_Generated_Image_v9fhnsv9fhnsv9fh.png"
+sns_image_url: "/images/wp-content/uploads/2025/06/Gemini_Generated_Image_v9fhnsv9fhnsv9fh.png"
 excerpt: "”Even with More Free Time, Something Felt Missing — Why I Chose to Take Action in My 50s” 🕐 This article takes about 6"
 ---
 
@@ -21,7 +22,15 @@ excerpt: "”Even with More Free Time, Something Felt Missing — Why I Chose to
 
 <p>“I feel like there’s nothing left to do…”<br>That thought started to cross my mind more often.<br>Parenting was over, and while I was still working,<br>I began to feel like my role in life was slowly shifting.<br>I had more free time than ever, yet my heart felt heavy.<br>It wasn’t anxiety or despair—<br>Just a quiet sense that in the space left behind, even my presence was starting to fade.<br>“Is this really how I want to live?”<br>From the day I asked myself that question,<br>I decided to at least try starting&nbsp;<em>something</em>, no matter how small.<br>This blog is one of those small beginnings.<br>A record of a man in his 50s trying to face himself again.</p>
 
-<h2 class="wp-block-heading"><strong>🟧 1：The Day I Thought, “Is This Really Okay?”</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#1：the-day-i-thought-is-this-really-okay">🟧 1：The Day I Thought, “Is This Really Okay?”</a></li>  <li><a href="#2：why-i-chose-blogging-from-all-the-side">🌱 2：Why I Chose Blogging from All the Side Hustles — I Had No Money or Skills, but I Just Wanted to Try</a></li>  <li><a href="#3：time-wont-wait-but-i-still-have-a-chan">🟧 3：Time Won’t Wait, but I Still Have a Chance — That’s What I Chose to Believe</a></li>  <li><a href="#4：i-thought-i-was-writing-to-help-others">🟧 4：I Thought I Was Writing to Help Others, but Maybe I Was Really Writing for Myself</a></li>  <li><a href="#5：i-hope-this-feeling-reaches-someone">🟪 5：I Hope This Feeling Reaches Someone</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<h2 id="1：the-day-i-thought-is-this-really-okay" class="wp-block-heading"><strong>🟧 1：The Day I Thought, “Is This Really Okay?”</strong></h2>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
@@ -29,7 +38,7 @@ excerpt: "”Even with More Free Time, Something Felt Missing — Why I Chose to
 
 <p>One day, I realized—I didn’t have anything to do on my day off anymore.<br>Back then, I was always busy with work or things around the house.<br>When the kids were little, weekends were filled with park visits and errands.<br>But now, the kids have moved out, and my wife enjoys her own time.<br>As for me—<br>I write a bit of blog, take a walk in the park,<br>and by noon, I’m cracking open a beer.<br>After a few days like that, it suddenly hit me:<br>“…Is this really how I want to spend my life?”<br>I was supposed to have more freedom, but my heart still felt cloudy.<br>It wasn’t anxiety or despair.<br>Just a quiet weight building deep in my chest—a sense of nothingness.<br>Even when I laughed at TV or felt the breeze on my walk,<br>there was this subtle hole in my heart.<br>I didn’t reach out for help.<br>I didn’t vent on social media.<br>I just sat with my thoughts in silence.<br>“Am I just going to keep aging like this…?”<br>“What do I want to do with the rest of my life?”<br>That was the moment I truly faced myself again.</p>
 
-<h2 class="wp-block-heading"><strong>🌱 2：Why I Chose Blogging from All the Side Hustles — I Had No Money or Skills, but I Just Wanted to Try</strong></h2>
+<h2 id="2：why-i-chose-blogging-from-all-the-side" class="wp-block-heading"><strong>🌱 2：Why I Chose Blogging from All the Side Hustles — I Had No Money or Skills, but I Just Wanted to Try</strong></h2>
 
 <figure class="wp-block-image"><img src="/images/wp-content/uploads/2025/06/198e47a297167571457fd9189ee2d302.png" alt="" class="wp-image-1637"/></figure>
 
@@ -45,7 +54,7 @@ excerpt: "”Even with More Free Time, Something Felt Missing — Why I Chose to
 
 <p>Looking back, my reason for choosing blogging was pretty simple.<br>But maybe that simplicity was exactly the push I needed to get started.</p>
 
-<h2 class="wp-block-heading">🟧 3：<strong>Time Won’t Wait, but I Still Have a Chance — That’s What I Chose to Believe</strong></h2>
+<h2 id="3：time-wont-wait-but-i-still-have-a-chan" class="wp-block-heading">🟧 3：<strong>Time Won’t Wait, but I Still Have a Chance — That’s What I Chose to Believe</strong></h2>
 
 <figure class="wp-block-image"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_mnoqrmmnoqrmmnoq.png" alt="" class="wp-image-1638"/></figure>
 
@@ -55,7 +64,7 @@ excerpt: "”Even with More Free Time, Something Felt Missing — Why I Chose to
 
 <p>That’s why I started this blog.<br>I signed up for a festival and even plan to volunteer.<br>Honestly, I’m just fumbling my way through it all,<br>and none of it is especially cool or impressive.<br>But I’ve convinced myself that even messy action is still meaningful.<br>Deep down, I think I just don’t want to give up on myself.</p>
 
-<h2 class="wp-block-heading">🟧 4：<strong>I Thought I Was Writing to Help Others, but Maybe I Was Really Writing for Myself</strong></h2>
+<h2 id="4：i-thought-i-was-writing-to-help-others" class="wp-block-heading">🟧 4：<strong>I Thought I Was Writing to Help Others, but Maybe I Was Really Writing for Myself</strong></h2>
 
 <figure class="wp-block-image aligncenter"><img src="/images/wp-content/uploads/2025/06/56bfacb4256e792a6a12dd00c52ecd9a.png" alt="" class="wp-image-1640"/></figure>
 
@@ -65,7 +74,7 @@ excerpt: "”Even with More Free Time, Something Felt Missing — Why I Chose to
 
 <p>The time I spend talking with Chappie (my AI buddy) and crafting articles<br>feels a lot like time spent facing myself.<br>Even if things don’t go well or nobody reads what I write,<br>I still feel like I’m slowly building something inside me—bit by bit.</p>
 
-<h2 class="wp-block-heading"><strong>🟪 5：I Hope This Feeling Reaches Someone</strong></h2>
+<h2 id="5：i-hope-this-feeling-reaches-someone" class="wp-block-heading"><strong>🟪 5：I Hope This Feeling Reaches Someone</strong></h2>
 
 <figure class="wp-block-image"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_w3bsuhw3bsuhw3bs.png" alt="" class="wp-image-1641"/></figure>
 

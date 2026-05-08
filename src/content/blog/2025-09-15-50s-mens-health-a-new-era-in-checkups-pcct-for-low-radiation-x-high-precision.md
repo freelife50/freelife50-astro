@@ -6,6 +6,7 @@ categories: ["society-issues-thoughts"]
 tags: ["health-checkup", "ctscan", "low-dose-ct", "photon-counting-ct", "pcct"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-14T21_43_32.296Z.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-14T21_43_32.296Z.jpg"
 excerpt: "This article will take about 8–10 minutes to read. ■ This article is recommended for people who: Feel anxious about heal"
 ---
 
@@ -60,7 +61,17 @@ excerpt: "This article will take about 8–10 minutes to read. ■ This article 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>1. From Film Camera to Digital Camera: CT Finally Becomes Sharp</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#1-from-film-camera-to-digital-camera-ct-">1. From Film Camera to Digital Camera: CT Finally Becomes Sharp</a></li>  <li><a href="#2-pcct-brings-color-ct-to-life">2. PCCT Brings “Color CT” to Life</a></li>  <li><a href="#3-ai-takes-over-optimized-for-you">3. AI Takes Over: Optimized for You</a></li>  <li><a href="#4-radiation-like-a-chest-x-ray-unbelieva">4. Radiation Like a Chest X-ray? Unbelievable But True</a></li>  <li><a href="#5-challenges-before-widespread-use">5. Challenges Before Widespread Use</a></li>  <li><a href="#6-whats-next">6. What’s Next?</a></li>  <li><a href="#summary-how-pcct-will-change-health-chec">Summary: How PCCT Will Change Health Checkups</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="1-from-film-camera-to-digital-camera-ct-" class="wp-block-heading"><strong>1. From Film Camera to Digital Camera: CT Finally Becomes Sharp</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-14T21_50_40.222Z.jpg" alt="" class="wp-image-2257"/></figure>
 
@@ -81,7 +92,7 @@ excerpt: "This article will take about 8–10 minutes to read. ■ This article 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>2. PCCT Brings “Color CT” to Life</strong></h2>
+<h2 id="2-pcct-brings-color-ct-to-life" class="wp-block-heading"><strong>2. PCCT Brings “Color CT” to Life</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-14T21_55_45.147Z.jpg" alt="" class="wp-image-2261"/></figure>
 
@@ -111,7 +122,7 @@ excerpt: "This article will take about 8–10 minutes to read. ■ This article 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>3. AI Takes Over: Optimized for You</strong></h2>
+<h2 id="3-ai-takes-over-optimized-for-you" class="wp-block-heading"><strong>3. AI Takes Over: Optimized for You</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-14T21_58_15.758Z.jpg" alt="" class="wp-image-2264"/></figure>
 
@@ -132,7 +143,7 @@ excerpt: "This article will take about 8–10 minutes to read. ■ This article 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>4. Radiation Like a Chest X-ray? Unbelievable But True</strong></h2>
+<h2 id="4-radiation-like-a-chest-x-ray-unbelieva" class="wp-block-heading"><strong>4. Radiation Like a Chest X-ray? Unbelievable But True</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-14T22_00_54.139Z.jpg" alt="" class="wp-image-2267"/></figure>
 
@@ -147,7 +158,7 @@ excerpt: "This article will take about 8–10 minutes to read. ■ This article 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>5. Challenges Before Widespread Use</strong></h2>
+<h2 id="5-challenges-before-widespread-use" class="wp-block-heading"><strong>5. Challenges Before Widespread Use</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-14T22_03_13.700Z.jpg" alt="" class="wp-image-2270"/></figure>
 
@@ -166,7 +177,7 @@ excerpt: "This article will take about 8–10 minutes to read. ■ This article 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>6. What’s Next?</strong></h2>
+<h2 id="6-whats-next" class="wp-block-heading"><strong>6. What’s Next?</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-14T22_06_47.352Z.jpg" alt="" class="wp-image-2273"/></figure>
 
@@ -183,7 +194,7 @@ excerpt: "This article will take about 8–10 minutes to read. ■ This article 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Summary: How PCCT Will Change Health Checkups</strong></h2>
+<h2 id="summary-how-pcct-will-change-health-chec" class="wp-block-heading"><strong>Summary: How PCCT Will Change Health Checkups</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-14T22_13_03.920Z.jpg" alt="" class="wp-image-2277"/></figure>
 

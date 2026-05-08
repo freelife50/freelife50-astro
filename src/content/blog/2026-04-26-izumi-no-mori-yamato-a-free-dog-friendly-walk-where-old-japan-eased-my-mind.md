@@ -6,6 +6,7 @@ categories: ["life-with-momiji", "healing-walks"]
 tags: ["dog-friendly-japan", "izumi-no-mori", "japan-hiking", "kanagawa", "shiba-inu"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/04/izumi_momiji_eyecatch-1.jpg"
+sns_image_url: "/images/wp-content/uploads/2026/04/izumi_momiji_eyecatch-1.jpg"
 excerpt: "Hi, I&#8217;m Hiroshi. Lately, I&#8217;ve been dealing with some friction at work &#8212; not the job itself, but the pe"
 ---
 
@@ -32,7 +33,17 @@ excerpt: "Hi, I&#8217;m Hiroshi. Lately, I&#8217;ve been dealing with some frict
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">What Is Izumi no Mori? A Quick Overview</h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#what-is-izumi-no-mori-a-quick-overview">What Is Izumi no Mori? A Quick Overview</a></li>  <li><a href="#the-spring-fed-pond-and-its-reed-beds">The Spring-Fed Pond and Its Reed Beds</a></li>  <li><a href="#momiji-at-the-water8217s-edge">Momiji at the Water&#8217;s Edge</a></li>  <li><a href="#she-waded-right-in">She Waded Right In</a></li>  <li><a href="#the-water-source-8212-and-a-slowly-turni">The Water Source &#8212; and a Slowly Turning Wheel</a></li>  <li><a href="#the-fleabane-path-8212-walking-through-m">The Fleabane Path &#8212; Walking Through My Thoughts</a></li>  <li><a href="#crossing-the-suspension-bridge-into-the-">Crossing the Suspension Bridge into the Forest</a></li>  <li><a href="#the-folklore-museum-8212-meeting-an-edo-">The Folklore Museum &#8212; Meeting an Edo-Era Farmhouse</a></li>  <li><a href="#inside-the-farmhouse-8212-a-different-ki">Inside the Farmhouse &#8212; A Different Kind of Time</a></li>  <li><a href="#the-hearth-and-the-threshing-tool-8212-g">The Hearth and the Threshing Tool &#8212; Glimpses of Old Daily Life</a></li>  <li><a href="#getting-there-access-amp-practical-info">Getting There: Access &amp; Practical Info</a></li>  <li><a href="#wrapping-up">Wrapping Up</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="what-is-izumi-no-mori-a-quick-overview" class="wp-block-heading">What Is Izumi no Mori? A Quick Overview</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/izumi_map_sm.jpg" alt="Izumi no Mori park guide map sign" class="wp-image-4138"/><figcaption class="wp-element-caption">Park guide map at the entrance</figcaption></figure>
 
@@ -55,7 +66,7 @@ excerpt: "Hi, I&#8217;m Hiroshi. Lately, I&#8217;ve been dealing with some frict
 
 <p>Jalan users give it 4.0 stars. The &#8220;quintessential&#8221; tag fits perfectly.</p>
 
-<h2 class="wp-block-heading">The Spring-Fed Pond and Its Reed Beds</h2>
+<h2 id="the-spring-fed-pond-and-its-reed-beds" class="wp-block-heading">The Spring-Fed Pond and Its Reed Beds</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/izumi_ike_reeds.jpg" alt="Reed beds along the spring-fed pond at Izumi no Mori Yamato Kanagawa" class="wp-image-4287"/></figure>
 
@@ -65,7 +76,7 @@ excerpt: "Hi, I&#8217;m Hiroshi. Lately, I&#8217;ve been dealing with some frict
 
 <p>Birds nest in the reeds. Dragonflies hover over the surface. The nature center &#8220;Shirakashi no Ie&#8221; (free, closed Mondays) has exhibits on the local ecosystem if you want to learn more.</p>
 
-<h2 class="wp-block-heading">Momiji at the Water&#8217;s Edge</h2>
+<h2 id="momiji-at-the-water8217s-edge" class="wp-block-heading">Momiji at the Water&#8217;s Edge</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/IMG_3415.jpg" alt="Beautiful pond at Izumi no Mori nature park, Yamato City Kanagawa" class="wp-image-4122"/></figure>
 
@@ -77,7 +88,7 @@ excerpt: "Hi, I&#8217;m Hiroshi. Lately, I&#8217;ve been dealing with some frict
 
 <p>If you&#8217;re coming with a dog who loves water, I&#8217;ll warn you: this park has a lot of it. Pack a towel. &#8212; Speaking of dogs and water, <a href="https://en.freelife50.com/ninomiya-sodegaura-hiking-en/">my Ninomiya coastal walk</a> shows a very different side of Kanagawa&#8217;s shoreline, worth reading if you&#8217;re planning a beach-adjacent day out.</p>
 
-<h2 class="wp-block-heading">She Waded Right In</h2>
+<h2 id="she-waded-right-in" class="wp-block-heading">She Waded Right In</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/IMG_3411_momiji_stream.jpg" alt="Shiba Inu Momiji playing in the rocky stream at Izumi no Mori Yamato" class="wp-image-4286"/><figcaption class="wp-element-caption">Momiji, completely unbothered by the concept of &#8220;staying dry&#8221;</figcaption></figure>
 
@@ -87,7 +98,7 @@ excerpt: "Hi, I&#8217;m Hiroshi. Lately, I&#8217;ve been dealing with some frict
 
 <p>I stood on the bank and watched. Honestly, I envied her a little. No hesitation. No second-guessing. Just: water looks good, I&#8217;m going in.</p>
 
-<h2 class="wp-block-heading">The Water Source &#8212; and a Slowly Turning Wheel</h2>
+<h2 id="the-water-source-8212-and-a-slowly-turni" class="wp-block-heading">The Water Source &#8212; and a Slowly Turning Wheel</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/IMG_3420.jpg" alt="Water source sign at Izumi no Mori Yamato City" class="wp-image-4124"/><figcaption class="wp-element-caption">&#8220;This is an important water source&#8221;</figcaption></figure>
 
@@ -103,7 +114,7 @@ excerpt: "Hi, I&#8217;m Hiroshi. Lately, I&#8217;ve been dealing with some frict
 
 <p>Japan today is loud with terms like &#8220;harassment&#8221; and &#8220;workplace toxicity.&#8221; Things that maybe didn&#8217;t have names before, but still existed. I&#8217;ve heard that old Japan was once called &#8220;the land of smiles.&#8221; I wonder what that actually felt like.</p>
 
-<h2 class="wp-block-heading">The Fleabane Path &#8212; Walking Through My Thoughts</h2>
+<h2 id="the-fleabane-path-8212-walking-through-m" class="wp-block-heading">The Fleabane Path &#8212; Walking Through My Thoughts</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/IMG_3422.jpg" alt="Shiba Inu Momiji walking through a path lined with white fleabane flowers" class="wp-image-4125"/></figure>
 
@@ -117,7 +128,7 @@ excerpt: "Hi, I&#8217;m Hiroshi. Lately, I&#8217;ve been dealing with some frict
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Crossing the Suspension Bridge into the Forest</h2>
+<h2 id="crossing-the-suspension-bridge-into-the-" class="wp-block-heading">Crossing the Suspension Bridge into the Forest</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/IMG_3406.jpg" alt="Suspension bridge at Izumi no Mori park in Yamato City Kanagawa" class="wp-image-4121"/></figure>
 
@@ -129,7 +140,7 @@ excerpt: "Hi, I&#8217;m Hiroshi. Lately, I&#8217;ve been dealing with some frict
 
 <p>Nearby, the nature center &#8220;Shirakashi no Ie&#8221; offers free exhibits on the local ecosystem (closed Mondays). There&#8217;s also a historical site marker for the Kamikusakayanagi archaeological site &#8212; evidence that people have lived here for a very long time.</p>
 
-<h2 class="wp-block-heading">The Folklore Museum &#8212; Meeting an Edo-Era Farmhouse</h2>
+<h2 id="the-folklore-museum-8212-meeting-an-edo-" class="wp-block-heading">The Folklore Museum &#8212; Meeting an Edo-Era Farmhouse</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/IMG_3437.jpg" alt="Thatched-roof farmhouse at Yamato City Folklore Museum in Izumi no Mori" class="wp-image-4131"/><figcaption class="wp-element-caption">Preserved Edo-era farmhouse</figcaption></figure>
 
@@ -141,7 +152,7 @@ excerpt: "Hi, I&#8217;m Hiroshi. Lately, I&#8217;ve been dealing with some frict
 
 <p>Note: A traditional weaving workshop is scheduled for May 24, 2026, if you&#8217;re interested in hands-on folk crafts.</p>
 
-<h2 class="wp-block-heading">Inside the Farmhouse &#8212; A Different Kind of Time</h2>
+<h2 id="inside-the-farmhouse-8212-a-different-ki" class="wp-block-heading">Inside the Farmhouse &#8212; A Different Kind of Time</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/IMG_3435.jpg" alt="Interior of preserved Edo-era farmhouse at Yamato City Folklore Museum" class="wp-image-4130"/><figcaption class="wp-element-caption">Inside the farmhouse &#8212; tools, implements, dark rafters</figcaption></figure>
 
@@ -153,7 +164,7 @@ excerpt: "Hi, I&#8217;m Hiroshi. Lately, I&#8217;ve been dealing with some frict
 
 <p>I&#8217;m not romanticizing it &#8212; it was hard. But there was a simplicity to it that felt almost restful to imagine.</p>
 
-<h2 class="wp-block-heading">The Hearth and the Threshing Tool &#8212; Glimpses of Old Daily Life</h2>
+<h2 id="the-hearth-and-the-threshing-tool-8212-g" class="wp-block-heading">The Hearth and the Threshing Tool &#8212; Glimpses of Old Daily Life</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/IMG_3442.jpg" alt="Traditional Japanese cooking hearth kamado inside Edo-era farmhouse" class="wp-image-4132"/><figcaption class="wp-element-caption">A kamado cooking hearth inside the preserved farmhouse</figcaption></figure>
 
@@ -165,7 +176,7 @@ excerpt: "Hi, I&#8217;m Hiroshi. Lately, I&#8217;ve been dealing with some frict
 
 <p>Life without convenience. And yet people built communities, raised families, kept going. Maybe modern &#8220;stress&#8221; just has different packaging.</p>
 
-<h2 class="wp-block-heading">Getting There: Access &amp; Practical Info</h2>
+<h2 id="getting-there-access-amp-practical-info" class="wp-block-heading">Getting There: Access &amp; Practical Info</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/izumi_baikiten.jpg" alt="Weekend gift shop at Izumi no Mori nature park Yamato Kanagawa" class="wp-image-4137"/></figure>
 
@@ -184,7 +195,7 @@ excerpt: "Hi, I&#8217;m Hiroshi. Lately, I&#8217;ve been dealing with some frict
 
 <p>While you&#8217;re exploring this part of Kanagawa, the <a href="https://en.freelife50.com/sagami-odako-festival-2026-en/">Sagami Giant Kite Festival</a> is something completely different &#8212; free, outdoor, and deeply local. Worth timing your trip around if you can.</p>
 
-<h2 class="wp-block-heading">Wrapping Up</h2>
+<h2 id="wrapping-up" class="wp-block-heading">Wrapping Up</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/IMG_3417.jpg" alt="Calm pond reflecting the sky at Izumi no Mori Yamato City Kanagawa" class="wp-image-4123"/></figure>
 

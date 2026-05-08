@@ -6,13 +6,15 @@ import Sidebar from '../../components/Sidebar.astro';
 
 export async function getStaticPaths() {
   const allPosts = await getCollection('blog');
-  const tags = new Set(allPosts.flatMap(p => p.data.tags));
+  // freelife50.com は日本語記事のみ（lang: en を除外）
+  const jaPosts = allPosts.filter(p => p.data.lang !== 'en');
+  const tags = new Set(jaPosts.flatMap(p => p.data.tags));
   // ASCII文字のみのタグに絞る（日本語タグはURLエンコード問題回避）
   const asciiTags = Array.from(tags).filter(tag => /^[\x00-\x7F]+$/.test(tag) && tag.length < 100);
   return asciiTags.map(tag => ({
     params: { slug: tag },
     props: {
-      posts: allPosts
+      posts: jaPosts
         .filter(p => p.data.tags.includes(tag))
         .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()),
       tag,

@@ -5,9 +5,19 @@ slug: "mountains-sea-my-dog-and-my-wife-plus-fried-fish-and-beer-en"
 categories: ["healing-walks"]
 tags: ["azumayama-hike", "shiba-inu-momiji", "weekend-in-our50s", "spring-scenery-walk", "aji-fry-is-life"]
 eyecatch: "/images/wp-content/uploads/2025/04/image-15.png"
+sns_image_url: "/images/wp-content/uploads/2025/04/image-15.png"
 lang: "en"
 excerpt: "A quiet day with my wife and our Shiba Inu Momiji — surrounded by mountains, cherry blossoms, and the sea.Sometimes, the best rewards are simple: crispy fried..."
 ---
+<nav id="toc" class="post-toc">
+<p><strong>Table of Contents</strong></p>
+<ul>
+<li><a href="#main-content">Main Text</a></li>
+</ul>
+</nav>
+
+<h2 id="main-content">Main Text</h2>
+
 
 <blockquote class="wp-block-quote"><p><strong>A quiet day with my wife and our Shiba Inu Momiji — surrounded by mountains, cherry blossoms, and the sea.</strong><br>Sometimes, the best rewards are simple: crispy fried fish and a cold beer after a good walk.</p></blockquote>
 
@@ -54,3 +64,10 @@ excerpt: "A quiet day with my wife and our Shiba Inu Momiji — surrounded by mo
 <p><em>Now I’m wondering where to go next.</em> <em>Hopefully I’ll be a little stronger next time — enough to enjoy another walk with my wife and Momiji.</em></p>
 
 <p>Perhaps these ordinary moments are the truest kind of luxury.</p>
+
+<blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
+<ul class="wp-block-list">
+<li><a href="https://freelife50.com/dog-friendly-trip-because-i-just-wanted-to-ride-a-ferry-a-rainy-day-drive-across-tokyo-bay/">Dog-Friendly Day Trip: Tokyo Bay Ferry to Chiba — A Rainy Day Drive with My Shiba Inu</a></li>
+<li><a href="https://freelife50.com/a-wild-moment-in-okutama-my-dog-momiji-a-line-of-monkeys-and-a-en/">！？ A Wild Moment in Okutama: My Dog Momiji, a Line of Monkeys, and a Surprise Repost by Horiemon!?</a></li>
+<li><a href="https://freelife50.com/sagami-odako-festival-2026-en/">I Took My Shiba Inu to the Sagami River and Found Japan’s Largest Kite Being Built</a></li>
+</ul></blockquote>

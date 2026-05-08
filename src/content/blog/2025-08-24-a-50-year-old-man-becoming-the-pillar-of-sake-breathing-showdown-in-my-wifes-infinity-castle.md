@@ -6,6 +6,7 @@ categories: ["shumi-taiken-etc"]
 tags: ["50s-challenge", "amazon-impulse-buy", "anime-in-everyday-life", "breath-of-sake", "demon-slayer"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-24T00_50_49.100Z.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-24T00_50_49.100Z.jpg"
 excerpt: "⏱️ Estimated reading time: 10 min This post is for you if... You’re in your 50s and still feel like challenging yourself"
 ---
 
@@ -44,7 +45,17 @@ excerpt: "⏱️ Estimated reading time: 10 min This post is for you if... You�
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Chapter 1 – First Form: “Evening Drink Awakening” — The DX Nichirin Sword Descends</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#chapter-1--first-form-evening-drink-awak">Chapter 1 – First Form: “Evening Drink Awakening” — The DX Nichirin Sword Descends</a></li>  <li><a href="#chapter-2--second-form-stumbling-drunk-d">Chapter 2 – Second Form: “Stumbling Drunk Dance” — No More Excuses</a></li>  <li><a href="#chapter-3--third-form-the-merciless-whit">Chapter 3 – Third Form: “The Merciless White Eyes” — The Strongest Demon Appears</a></li>  <li><a href="#chapter-4--fourth-form-morning-after-reg">Chapter 4 – Fourth Form: “Morning-After Regret” — The Drunkard’s Depression</a></li>  <li><a href="#chapter-5--fifth-form-wallet-breathing--">Chapter 5 – Fifth Form: “Wallet Breathing” — The Pain of Knowing It’s Pointless</a></li>  <li><a href="#epilogue--the-conclusion-i-wont-buy-it-b">Epilogue – The Conclusion: “I won’t buy it... but I want it!”</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="chapter-1--first-form-evening-drink-awak" class="wp-block-heading"><strong>Chapter 1 – First Form: “Evening Drink Awakening” — The DX Nichirin Sword Descends</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-24T01_07_26.887Z.jpg" alt="" class="wp-image-2160"/></figure>
 
@@ -69,7 +80,7 @@ excerpt: "⏱️ Estimated reading time: 10 min This post is for you if... You�
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Chapter 2 – Second Form: “Stumbling Drunk Dance” — No More Excuses</strong></h2>
+<h2 id="chapter-2--second-form-stumbling-drunk-d" class="wp-block-heading"><strong>Chapter 2 – Second Form: “Stumbling Drunk Dance” — No More Excuses</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-24T01_20_19.090Z.jpg" alt="" class="wp-image-2164"/></figure>
 
@@ -83,7 +94,7 @@ excerpt: "⏱️ Estimated reading time: 10 min This post is for you if... You�
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Chapter 3 – Third Form: “The Merciless White Eyes” — The Strongest Demon Appears</strong></h2>
+<h2 id="chapter-3--third-form-the-merciless-whit" class="wp-block-heading"><strong>Chapter 3 – Third Form: “The Merciless White Eyes” — The Strongest Demon Appears</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-24T01_15_41.512Z.jpg" alt="" class="wp-image-2163"/></figure>
 
@@ -95,7 +106,7 @@ excerpt: "⏱️ Estimated reading time: 10 min This post is for you if... You�
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Chapter 4 – Fourth Form: “Morning-After Regret” — The Drunkard’s Depression</strong></h2>
+<h2 id="chapter-4--fourth-form-morning-after-reg" class="wp-block-heading"><strong>Chapter 4 – Fourth Form: “Morning-After Regret” — The Drunkard’s Depression</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-24T01_23_14.214Z.jpg" alt="" class="wp-image-2165"/></figure>
 
@@ -109,7 +120,7 @@ excerpt: "⏱️ Estimated reading time: 10 min This post is for you if... You�
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Chapter 5 – Fifth Form: “Wallet Breathing” — The Pain of Knowing It’s Pointless</strong></h2>
+<h2 id="chapter-5--fifth-form-wallet-breathing--" class="wp-block-heading"><strong>Chapter 5 – Fifth Form: “Wallet Breathing” — The Pain of Knowing It’s Pointless</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-24T01_54_28.058Z.jpg" alt="" class="wp-image-2166"/></figure>
 
@@ -121,7 +132,7 @@ excerpt: "⏱️ Estimated reading time: 10 min This post is for you if... You�
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Epilogue – The Conclusion: </strong><strong><em>“I won’t buy it... but I want it!”</em></strong></h2>
+<h2 id="epilogue--the-conclusion-i-wont-buy-it-b" class="wp-block-heading"><strong>Epilogue – The Conclusion: </strong><strong><em>“I won’t buy it... but I want it!”</em></strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-24T01_59_10.463Z-1.jpg" alt="" class="wp-image-2168"/></figure>
 

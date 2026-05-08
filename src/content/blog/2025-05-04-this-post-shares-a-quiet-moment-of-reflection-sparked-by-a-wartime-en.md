@@ -5,9 +5,12 @@ slug: "this-post-shares-a-quiet-moment-of-reflection-sparked-by-a-wartime-en"
 categories: ["society-issues-thoughts"]
 tags: ["everyday-peace", "memory-of-war", "quiet-compassion", "constitution-memorial-day", "pass-it-on"]
 eyecatch: "/images/wp-content/uploads/2025/05/b66b32b03c1bffe5a2b71a1d9279ee2b.png"
+sns_image_url: "/images/wp-content/uploads/2025/05/b66b32b03c1bffe5a2b71a1d9279ee2b.png"
 lang: "en"
 excerpt: "📘 English Reflection:This post shares a quiet moment of reflection sparked by a wartime photo seen on Constitution Memorial Day.Even without deep political..."
 ---
+<h2 id="main-content">Main Text</h2>
+
 
 <blockquote class="wp-block-quote"><p><strong>📘 English Reflection:</strong><br>This post shares a quiet moment of reflection sparked by a wartime photo seen on Constitution Memorial Day.<br>Even without deep political knowledge, we can still value peace—and ask ourselves what we can quietly carry forward.</p></blockquote>
 
@@ -16,6 +19,13 @@ excerpt: "📘 English Reflection:This post shares a quiet moment of reflection 
 <blockquote class="wp-block-quote"><p>A smiling face in a wartime photo—<br>It wasn’t just a story from the past.<br>It felt like a quiet question for those of us living today.</p></blockquote>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<nav id="toc" class="post-toc">
+<p><strong>Table of Contents</strong></p>
+<ul>
+<li><a href="#main-content">Main Text</a></li>
+</ul>
+</nav>
 
 <p><strong>May 3rd, 2025 – Constitution Memorial Day. A headline on Yahoo! News caught my eye.</strong></p>
 
@@ -88,3 +98,10 @@ excerpt: "📘 English Reflection:This post shares a quiet moment of reflection 
 <p><strong>Categories: Lifestyle, Society</strong></p>
 
 <p><strong>Tags: #ConstitutionMemorialDay #80YearsSinceWar #YamatoMemories #LegacyOfPeace #QuietCompassion #LifeInJapan #BloggingIn50s</strong></p>
+
+<blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
+<ul class="wp-block-list">
+<li><a href="https://freelife50.com/the-day-i-finally-chose-to-choose-a-quiet-shift-toward-the-ballot-box/">Why I Finally Started Voting in Japan: A Quiet Shift Toward the Ballot Box at 50</a></li>
+<li><a href="https://freelife50.com/i-thought-id-be-fine-the-moment-that-gave-a-50-something-a-chill/">Life in Your 50s: \&quot;I Thought I'd Be Fine\&quot; — A Wake-Up Call About Personal Safety</a></li>
+<li><a href="https://freelife50.com/a-50-something-man-pauses-in-front-of-a-supermarket-price-tag/">Money in Your 50s: Rethinking Where to Put Your Savings in Japan</a></li>
+</ul></blockquote>

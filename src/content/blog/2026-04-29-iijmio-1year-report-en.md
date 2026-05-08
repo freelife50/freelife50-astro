@@ -46,7 +46,17 @@ excerpt: "A year ago, I wrote that our family of four pays around $30/month for 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">The Honest Data: 12 Months of Real Bills</h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#the-honest-data-12-months-of-real-bills">The Honest Data: 12 Months of Real Bills</a></li>  <li><a href="#why-the-bill-fluctuates">Why the Bill Fluctuates</a></li>  <li><a href="#still-an-unbeatable-deal--heres-the-math">Still an Unbeatable Deal — Here's the Math</a></li>  <li><a href="#the-quiet-features-i-didnt-expect-to-lov">The Quiet Features I Didn't Expect to Love</a></li>  <li><a href="#how-we-actually-run-it-month-to-month">How We Actually Run It Month to Month</a></li>  <li><a href="#what-phone-bills-look-like-in-your-50s">What Phone Bills Look Like in Your 50s</a></li>  <li><a href="#closing-thoughts">Closing Thoughts</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="the-honest-data-12-months-of-real-bills" class="wp-block-heading">The Honest Data: 12 Months of Real Bills</h2>
 
 <figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/04/iijmio-1year-eyecatch.jpg" alt="12 months of IIJmio billing history — real data from our family of four"/></figure>
 
@@ -62,7 +72,7 @@ excerpt: "A year ago, I wrote that our family of four pays around $30/month for 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Why the Bill Fluctuates</h2>
+<h2 id="why-the-bill-fluctuates" class="wp-block-heading">Why the Bill Fluctuates</h2>
 
 <figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/04/iijmio-plan-comparison.jpg" alt="IIJmio plan options and pricing — how monthly bills shift based on data plan changes"/></figure>
 
@@ -87,7 +97,7 @@ excerpt: "A year ago, I wrote that our family of four pays around $30/month for 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Still an Unbeatable Deal — Here's the Math</h2>
+<h2 id="still-an-unbeatable-deal--heres-the-math" class="wp-block-heading">Still an Unbeatable Deal — Here's the Math</h2>
 
 <figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/04/iijmio-1year-sns.jpg" alt="Comparison chart between major Japanese carriers and IIJmio for a family of four"/></figure>
 
@@ -105,7 +115,7 @@ excerpt: "A year ago, I wrote that our family of four pays around $30/month for 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">The Quiet Features I Didn't Expect to Love</h2>
+<h2 id="the-quiet-features-i-didnt-expect-to-lov" class="wp-block-heading">The Quiet Features I Didn't Expect to Love</h2>
 
 <figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/04/iijmio-data-share-feature.jpg" alt="IIJmio data sharing and rollover feature visualization"/></figure>
 
@@ -127,7 +137,7 @@ excerpt: "A year ago, I wrote that our family of four pays around $30/month for 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">How We Actually Run It Month to Month</h2>
+<h2 id="how-we-actually-run-it-month-to-month" class="wp-block-heading">How We Actually Run It Month to Month</h2>
 
 <figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/04/iijmio-plan-comparison.jpg" alt="Checking and updating IIJmio plan settings on a smartphone at month-end"/></figure>
 
@@ -147,7 +157,7 @@ excerpt: "A year ago, I wrote that our family of four pays around $30/month for 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">What Phone Bills Look Like in Your 50s</h2>
+<h2 id="what-phone-bills-look-like-in-your-50s" class="wp-block-heading">What Phone Bills Look Like in Your 50s</h2>
 
 <figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/04/iijmio-summary.jpg" alt="Thinking about household fixed costs and long-term savings strategy in your 50s"/></figure>
 
@@ -163,7 +173,7 @@ excerpt: "A year ago, I wrote that our family of four pays around $30/month for 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Closing Thoughts</h2>
+<h2 id="closing-thoughts" class="wp-block-heading">Closing Thoughts</h2>
 
 <p>I said $30/month. The truth was $34/month.</p>
 

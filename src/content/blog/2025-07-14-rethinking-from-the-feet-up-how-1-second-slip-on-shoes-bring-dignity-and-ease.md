@@ -6,6 +6,7 @@ categories: ["prepared-life"]
 tags: ["aging-society", "caregiving-tools", "easy-shoes", "independence-support"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/07/Google_AI_Studio_2025-07-13T08_43_02.786Z.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/07/Google_AI_Studio_2025-07-13T08_43_02.786Z.jpg"
 excerpt: "The estimated reading time for this entire article is 8 to 10 minutes . ✅ Purpose This article is written for: ✔ Those w"
 ---
 
@@ -33,7 +34,17 @@ excerpt: "The estimated reading time for this entire article is 8 to 10 minutes 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🟦 Chapter 1: Why Is “Putting on Shoes” Such a Burden?</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#chapter-1-why-is-putting-on-shoes-such-a">🟦 Chapter 1: Why Is “Putting on Shoes” Such a Burden?</a></li>  <li><a href="#chapter-2-laquns-gentle-innovation--1-se">🟦 Chapter 2: LAQUN’s Gentle Innovation — “1 Second of Kindness”</a></li>  <li><a href="#chapter-3-voices-from-care-medicine-and-">🟦 Chapter 3: Voices from Care, Medicine, and Parenting</a></li>  <li><a href="#chapter-4-why-this-kind-design-resonates">🟦 Chapter 4: Why This “Kind Design” Resonates in My 50s</a></li>  <li><a href="#chapter-5-in-conclusion--from-our-feet-a">🟦 Chapter 5: In Conclusion — From Our Feet, A Kinder Japan</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="chapter-1-why-is-putting-on-shoes-such-a" class="wp-block-heading"><strong>🟦 Chapter 1: Why Is “Putting on Shoes” Such a Burden?</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/07/Google_AI_Studio_2025-07-13T08_46_55.083Z.jpg" alt="" class="wp-image-1937"/></figure>
 
@@ -66,7 +77,7 @@ excerpt: "The estimated reading time for this entire article is 8 to 10 minutes 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🟦 Chapter 2: LAQUN’s Gentle Innovation — “1 Second of Kindness”</strong></h2>
+<h2 id="chapter-2-laquns-gentle-innovation--1-se" class="wp-block-heading"><strong>🟦 Chapter 2: LAQUN’s Gentle Innovation — “1 Second of Kindness”</strong></h2>
 
 <figure class="wp-block-image aligncenter"><img src="https://www28.a8.net/svt/bgt?aid=250712334588&amp;wid=001&amp;eno=01&amp;mid=s00000019713007003000&amp;mc=1" alt=""/></figure>
 
@@ -115,7 +126,7 @@ excerpt: "The estimated reading time for this entire article is 8 to 10 minutes 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🟦 Chapter 3: Voices from Care, Medicine, and Parenting</strong></h2>
+<h2 id="chapter-3-voices-from-care-medicine-and-" class="wp-block-heading"><strong>🟦 Chapter 3: Voices from Care, Medicine, and Parenting</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/07/Google_AI_Studio_2025-07-13T08_48_01.401Z.jpg" alt="" class="wp-image-1938"/></figure>
 
@@ -137,7 +148,7 @@ excerpt: "The estimated reading time for this entire article is 8 to 10 minutes 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🟦 Chapter 4: Why This “Kind Design” Resonates in My 50s</strong></h2>
+<h2 id="chapter-4-why-this-kind-design-resonates" class="wp-block-heading"><strong>🟦 Chapter 4: Why This “Kind Design” Resonates in My 50s</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/07/Google_AI_Studio_2025-07-14T05_52_42.105Z.jpg" alt="" class="wp-image-1939"/></figure>
 
@@ -159,7 +170,7 @@ excerpt: "The estimated reading time for this entire article is 8 to 10 minutes 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🟦 Chapter 5: In Conclusion — From Our Feet, A Kinder Japan</strong></h2>
+<h2 id="chapter-5-in-conclusion--from-our-feet-a" class="wp-block-heading"><strong>🟦 Chapter 5: In Conclusion — From Our Feet, A Kinder Japan</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/07/Google_AI_Studio_2025-07-14T05_54_15.004Z.jpg" alt="" class="wp-image-1940"/></figure>
 

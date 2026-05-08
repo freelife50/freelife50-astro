@@ -5,14 +5,24 @@ slug: "this-is-a-quiet-essay-about-rediscovering-passion-in-your-50s-en"
 categories: ["shumi-taiken-etc"]
 tags: ["spira-spica", "my-dress-up-darling", "anime-inspiration", "parenting-in50s", "life-reflection"]
 eyecatch: "/images/wp-content/uploads/2025/05/60958cd5e355355d45a758ef37984c76.png"
+sns_image_url: "/images/wp-content/uploads/2025/05/60958cd5e355355d45a758ef37984c76.png"
 lang: "en"
 excerpt: "📘 English reflection：A boy making doll heads. A girl who loves cosplay.Two people from different worlds, united by passion.It’s not just about romance—it’s..."
 ---
+<h2 id="main-content">Main Text</h2>
+
 
 <p>🕒 About 1 minutes to read.</p>
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/363b989149fc7e35f94e1bd6467010b3.png" alt="" class="wp-image-461"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<nav id="toc" class="post-toc">
+<p><strong>Table of Contents</strong></p>
+<ul>
+<li><a href="#main-content">Main Text</a></li>
+</ul>
+</nav>
 
 <p><strong>📘 English reflection：</strong><br>A boy making doll heads. A girl who loves cosplay.<br>Two people from different worlds, united by passion.<br>It’s not just about romance—it’s about being seen, understood, and accepted for who you really are.</p>
 
@@ -39,3 +49,10 @@ excerpt: "📘 English reflection：A boy making doll heads. A girl who loves co
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/fb2e217a824a289e8180ea2389c22278.png" alt="" class="wp-image-463"/></figure>
 
 <p><strong>📘 English reflection：</strong><br>This wasn’t meant to be advice. Just a small story from someone who’s still learning.<br>But if it gave you even a little courage—to revisit a dream, or to start something new—<br>then maybe this quiet morning meant more than I thought.</p>
+
+<blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
+<ul class="wp-block-list">
+<li><a href="https://freelife50.com/i-didnt-even-watch-it-but-i-cried-anyway-a-50-something-loners-story-en/">I Didnt Even Watch It, But I Cried Anyway  A 50-Something Loners Story</a></li>
+<li><a href="https://freelife50.com/a-man-in-his-50s-goes-to-see-avatar/">Avatar Movie Review: A 50-Year-Old's Honest Take — Mild Emotions, Rich Experience</a></li>
+<li><a href="https://freelife50.com/a-50-year-old-man-becoming-the-pillar-of-sake-breathing-showdown-in-my-wifes-infinity-castle/">Demon Slayer Parody: A 50-Year-Old Becomes the Sake Breathing Pillar</a></li>
+</ul></blockquote>

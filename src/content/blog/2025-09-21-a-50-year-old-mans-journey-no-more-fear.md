@@ -6,6 +6,7 @@ categories: ["prepared-life"]
 tags: ["cancer-screening", "colon-screening", "colorectal-cancer-screening", "ct-colonography", "ct-scan"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/09/PXL_20250921_054612533.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/09/PXL_20250921_054612533.jpg"
 excerpt: "A 50-year-old Japanese man's honest experience with colon CT scan. What the prep is like, pain levels, and why it's easier than you think."
 ---
 
@@ -54,7 +55,17 @@ excerpt: "A 50-year-old Japanese man's honest experience with colon CT scan. Wha
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Chapter 1: What Is CT Colonography?</h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#chapter-1-what-is-ct-colonography">Chapter 1: What Is CT Colonography?</a></li>  <li><a href="#chapter-2-my-experience--a-painless-proc">Chapter 2: My Experience — A “Painless” Process</a></li>  <li><a href="#chapter-3-techniques-that-make-it-easier">Chapter 3: Techniques That Make It Easier</a></li>  <li><a href="#chapter-4-colonoscopy-vs-ct-colonography">Chapter 4: Colonoscopy vs. CT Colonography — and Radiation</a></li>  <li><a href="#chapter-5-who-should-consider-ctc">Chapter 5: Who Should Consider CTC?</a></li>  <li><a href="#conclusion-one-brave-step-can-protect-yo">Conclusion: One Brave Step Can Protect Your Future</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="chapter-1-what-is-ct-colonography" class="wp-block-heading">Chapter 1: What Is CT Colonography?</h2>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/09/PXL_20250921_054451209.jpg" alt="" class="wp-image-2306"/></figure>
 
@@ -91,7 +102,7 @@ excerpt: "A 50-year-old Japanese man's honest experience with colon CT scan. Wha
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Chapter 2: My Experience — A “Painless” Process</h2>
+<h2 id="chapter-2-my-experience--a-painless-proc" class="wp-block-heading">Chapter 2: My Experience — A “Painless” Process</h2>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/09/PXL_20250921_054946294.jpg" alt="" class="wp-image-2309"/></figure>
 
@@ -119,7 +130,7 @@ excerpt: "A 50-year-old Japanese man's honest experience with colon CT scan. Wha
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Chapter 3: Techniques That Make It Easier</h2>
+<h2 id="chapter-3-techniques-that-make-it-easier" class="wp-block-heading">Chapter 3: Techniques That Make It Easier</h2>
 
 <h3 class="wp-block-heading">Tagging Method</h3>
 
@@ -151,7 +162,7 @@ excerpt: "A 50-year-old Japanese man's honest experience with colon CT scan. Wha
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Chapter 4: Colonoscopy vs. CT Colonography — and Radiation</h2>
+<h2 id="chapter-4-colonoscopy-vs-ct-colonography" class="wp-block-heading">Chapter 4: Colonoscopy vs. CT Colonography — and Radiation</h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-21T07_08_50.319Z.jpg" alt="" class="wp-image-2314"/></figure>
 </div>
@@ -177,7 +188,7 @@ excerpt: "A 50-year-old Japanese man's honest experience with colon CT scan. Wha
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Chapter 5: Who Should Consider CTC?</h2>
+<h2 id="chapter-5-who-should-consider-ctc" class="wp-block-heading">Chapter 5: Who Should Consider CTC?</h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-21T07_13_11.727Z.jpg" alt="" class="wp-image-2315"/></figure>
 
@@ -205,7 +216,7 @@ excerpt: "A 50-year-old Japanese man's honest experience with colon CT scan. Wha
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Conclusion: One Brave Step Can Protect Your Future</h2>
+<h2 id="conclusion-one-brave-step-can-protect-yo" class="wp-block-heading">Conclusion: One Brave Step Can Protect Your Future</h2>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/09/PXL_20250921_054612533.jpg" alt="" class="wp-image-2305"/></figure>
 

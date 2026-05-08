@@ -6,6 +6,7 @@ categories: ["life-with-momiji"]
 tags: ["shiba-inu-momiji", "shiba-inu", "dog-dental-chew", "hoydent", "doggy-man"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/11/b35b40b409cdcfdab49caa1cda23afe0.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/11/b35b40b409cdcfdab49caa1cda23afe0.jpg"
 excerpt: "DoggyMan White vs Green Whident chew comparison. Which dental treat does my Shiba Inu prefer? Ingredient analysis and honest dog owner review."
 ---
 
@@ -42,7 +43,17 @@ excerpt: "DoggyMan White vs Green Whident chew comparison. Which dental treat do
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🦷 TL;DR — If you're unsure, choose </strong><strong><em>White</em></strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#tldr--if-youre-unsure-choose-white">🦷 TL;DR — If you're unsure, choose White</a></li>  <li><a href="#momijis-telepathic-request-system">😭 Momiji’s Telepathic Request System</a></li>  <li><a href="#first-the-similarities-both-are-safe-pic">🔍 First, the similarities (both are safe picks)</a></li>  <li><a href="#whident-white--sweet-soft-and-strong-on-">🟡 Whident White – “Sweet, Soft, and Strong on Gum Care”</a></li>  <li><a href="#whident-green--fresh-breath-amp-long-las">🟢 Whident Green – “Fresh Breath &amp; Long-Lasting Chew Time”</a></li>  <li><a href="#white-vs-green--the-ultimate-comparison">📊 White vs. Green — The Ultimate Comparison</a></li>  <li><a href="#momijis-final-verdict">🐶 Momiji’s Final Verdict</a></li>  <li><a href="#how-to-choose-without-regret">🧭 How to Choose Without Regret</a></li>  <li><a href="#important-chews-are-supplements-not-toot">⚠️ Important: Chews are supplements, not toothbrushes</a></li>  <li><a href="#summary">📝 Summary</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="tldr--if-youre-unsure-choose-white" class="wp-block-heading"><strong>🦷 TL;DR — If you're unsure, choose </strong><strong><em>White</em></strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/image-1.jpg" alt="" class="wp-image-2767"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
 
@@ -59,7 +70,7 @@ excerpt: "DoggyMan White vs Green Whident chew comparison. Which dental treat do
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>😭 Momiji’s Telepathic Request System</strong></h2>
+<h2 id="momijis-telepathic-request-system" class="wp-block-heading"><strong>😭 Momiji’s Telepathic Request System</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_h4m4t0h4m4t0h4m4.jpg" alt="" class="wp-image-2768"/></figure>
 
@@ -88,7 +99,7 @@ excerpt: "DoggyMan White vs Green Whident chew comparison. Which dental treat do
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🔍 First, the similarities (both are safe picks)</strong></h2>
+<h2 id="first-the-similarities-both-are-safe-pic" class="wp-block-heading"><strong>🔍 First, the similarities (both are safe picks)</strong></h2>
 
 <ul class="wp-block-list"><li>No artificial colors or preservatives<br></li>
 
@@ -105,7 +116,7 @@ excerpt: "DoggyMan White vs Green Whident chew comparison. Which dental treat do
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🟡 Whident White – “Sweet, Soft, and Strong on Gum Care”</strong></h2>
+<h2 id="whident-white--sweet-soft-and-strong-on-" class="wp-block-heading"><strong>🟡 Whident White – “Sweet, Soft, and Strong on Gum Care”</strong></h2>
 
 <figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/11/image-8.jpg" alt="" class="wp-image-2775"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
 
@@ -121,7 +132,7 @@ excerpt: "DoggyMan White vs Green Whident chew comparison. Which dental treat do
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🟢 Whident Green – “Fresh Breath &amp; Long-Lasting Chew Time”</strong></h2>
+<h2 id="whident-green--fresh-breath-amp-long-las" class="wp-block-heading"><strong>🟢 Whident Green – “Fresh Breath &amp; Long-Lasting Chew Time”</strong></h2>
 
 <figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/11/image-6.jpg" alt="" class="wp-image-2773"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
 
@@ -137,13 +148,13 @@ excerpt: "DoggyMan White vs Green Whident chew comparison. Which dental treat do
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>📊 White vs. Green — The Ultimate Comparison</strong></h2>
+<h2 id="white-vs-green--the-ultimate-comparison" class="wp-block-heading"><strong>📊 White vs. Green — The Ultimate Comparison</strong></h2>
 
 <figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td><strong>Point</strong></td><td><strong>White</strong></td><td><strong>Green</strong></td></tr><tr><td>Main Ingredients</td><td>Rawhide + Propolis</td><td>Rawhide + Chlorophyll + Probiotics</td></tr><tr><td>Focus</td><td>Gum &amp; periodontal support</td><td>Breath care &amp; oral balance</td></tr><tr><td>Flavor</td><td>🍬 Sweet milky</td><td>🌿 Refreshing, grassy</td></tr><tr><td>Chew Texture</td><td>Soft–medium</td><td>Firm &amp; long-lasting</td></tr><tr><td>Chewing Time</td><td>Short (more tooth contact)</td><td>Long (stress-relief chewing)</td></tr><tr><td>Palatability</td><td>💯 Extremely high</td><td>🤔 Depends on the dog's mood</td></tr><tr><td>Cost-Performance</td><td>Great (more pieces)</td><td>Same level</td></tr><tr><td>Best For</td><td>Picky eaters, seniors, first-timers</td><td>Heavy chewers, dogs with odor issues</td></tr></tbody></table></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🐶 Momiji’s Final Verdict</strong></h2>
+<h2 id="momijis-final-verdict" class="wp-block-heading"><strong>🐶 Momiji’s Final Verdict</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_k2d1bbk2d1bbk2d1.jpg" alt="" class="wp-image-2776"/></figure>
 
@@ -163,7 +174,7 @@ excerpt: "DoggyMan White vs Green Whident chew comparison. Which dental treat do
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🧭 How to Choose Without Regret</strong></h2>
+<h2 id="how-to-choose-without-regret" class="wp-block-heading"><strong>🧭 How to Choose Without Regret</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_s5nhr9s5nhr9s5nh.jpg" alt="" class="wp-image-2778"/></figure>
 
@@ -195,7 +206,7 @@ excerpt: "DoggyMan White vs Green Whident chew comparison. Which dental treat do
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>⚠️ Important: Chews are supplements, not toothbrushes</strong></h2>
+<h2 id="important-chews-are-supplements-not-toot" class="wp-block-heading"><strong>⚠️ Important: Chews are supplements, not toothbrushes</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_e58clwe58clwe58c.jpg" alt="" class="wp-image-2777"/></figure>
 
@@ -205,7 +216,7 @@ excerpt: "DoggyMan White vs Green Whident chew comparison. Which dental treat do
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>📝 Summary</strong></h2>
+<h2 id="summary" class="wp-block-heading"><strong>📝 Summary</strong></h2>
 
 <ul class="wp-block-list"><li>🦷 When in doubt, choose <strong>White</strong><strong><br></strong></li>
 

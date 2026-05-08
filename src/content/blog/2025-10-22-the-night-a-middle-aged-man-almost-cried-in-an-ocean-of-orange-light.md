@@ -6,6 +6,7 @@ categories: ["healing-walks"]
 tags: ["fuchinobe-park", "halloween-lantern-fest", "lantern-festival", "sagamihara-event", "light-and-warmth"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/10/PXL_20251018_093510881.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/10/PXL_20251018_093510881.jpg"
 excerpt: "── Halloween Lantern Festival 2025 at Fuchinobe Park, Sagamihara 📖 Reading Time: About 10 minutes 🎁 What You’ll Get fr"
 ---
 
@@ -30,7 +31,17 @@ excerpt: "── Halloween Lantern Festival 2025 at Fuchinobe Park, Sagamihara �
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>The Event — When a Baseball Stadium Became a Sea of Light</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#the-event--when-a-baseball-stadium-becam">The Event — When a Baseball Stadium Became a Sea of Light</a></li>  <li><a href="#the-atmosphere--wait-is-this-really-saga">The Atmosphere — “Wait, Is This Really Sagamihara?”</a></li>  <li><a href="#a-small-disaster--the-beer-incident">A Small Disaster — The Beer Incident</a></li>  <li><a href="#from-the-stands--a-300-yen-luxury">From the Stands — A 300-Yen Luxury</a></li>  <li><a href="#the-countdown--when-the-lights-came-aliv">The Countdown — When the Lights Came Alive</a></li>  <li><a href="#remembering-warmth--when-a-50-year-old-a">Remembering Warmth — When a 50-Year-Old Almost Cried</a></li>  <li><a href="#the-heart-of-the-festival--people-not-pe">The Heart of the Festival — People, Not Performance</a></li>  <li><a href="#access-info-as-of-october-2025">Access Info (as of October 2025)</a></li>  <li><a href="#in-the-end--the-light-that-stays">🕯️ In the End — The Light That Stays</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="the-event--when-a-baseball-stadium-becam" class="wp-block-heading"><strong>The Event — When a Baseball Stadium Became a Sea of Light</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251018_084307298.jpg" alt="" class="wp-image-2588"/></figure>
 
@@ -44,7 +55,7 @@ excerpt: "── Halloween Lantern Festival 2025 at Fuchinobe Park, Sagamihara �
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>The Atmosphere — “Wait, Is This Really Sagamihara?”</strong></h2>
+<h2 id="the-atmosphere--wait-is-this-really-saga" class="wp-block-heading"><strong>The Atmosphere — “Wait, Is This Really Sagamihara?”</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251018_093455114.jpg" alt="" class="wp-image-2589"/></figure>
 
@@ -58,7 +69,7 @@ excerpt: "── Halloween Lantern Festival 2025 at Fuchinobe Park, Sagamihara �
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>A Small Disaster — The Beer Incident</strong></h2>
+<h2 id="a-small-disaster--the-beer-incident" class="wp-block-heading"><strong>A Small Disaster — The Beer Incident</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251018_084700238.MP_.jpg" alt="" class="wp-image-2590"/></figure>
 
@@ -72,7 +83,7 @@ excerpt: "── Halloween Lantern Festival 2025 at Fuchinobe Park, Sagamihara �
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>From the Stands — A 300-Yen Luxury</strong></h2>
+<h2 id="from-the-stands--a-300-yen-luxury" class="wp-block-heading"><strong>From the Stands — A 300-Yen Luxury</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251018_092610569.jpg" alt="" class="wp-image-2591"/></figure>
 
@@ -86,7 +97,7 @@ excerpt: "── Halloween Lantern Festival 2025 at Fuchinobe Park, Sagamihara �
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong> The Countdown — When the Lights Came Alive</strong></h2>
+<h2 id="the-countdown--when-the-lights-came-aliv" class="wp-block-heading"><strong> The Countdown — When the Lights Came Alive</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251018_093229609.jpg" alt="" class="wp-image-2593"/></figure>
 
@@ -105,7 +116,7 @@ excerpt: "── Halloween Lantern Festival 2025 at Fuchinobe Park, Sagamihara �
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong> Remembering Warmth — When a 50-Year-Old Almost Cried</strong></h2>
+<h2 id="remembering-warmth--when-a-50-year-old-a" class="wp-block-heading"><strong> Remembering Warmth — When a 50-Year-Old Almost Cried</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/Image_fx.jpg" alt="" class="wp-image-2594"/></figure>
 
@@ -123,7 +134,7 @@ excerpt: "── Halloween Lantern Festival 2025 at Fuchinobe Park, Sagamihara �
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>The Heart of the Festival — People, Not Performance</strong></h2>
+<h2 id="the-heart-of-the-festival--people-not-pe" class="wp-block-heading"><strong>The Heart of the Festival — People, Not Performance</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/PXL_20251018_093741156.NIGHT_.jpg" alt="" class="wp-image-2595"/></figure>
 
@@ -135,7 +146,7 @@ excerpt: "── Halloween Lantern Festival 2025 at Fuchinobe Park, Sagamihara �
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Access Info (as of October 2025)</strong></h2>
+<h2 id="access-info-as-of-october-2025" class="wp-block-heading"><strong>Access Info (as of October 2025)</strong></h2>
 
 <figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td><strong>Item</strong></td><td><strong>Details</strong></td></tr><tr><td>Nearest Station</td><td>JR Fuchinobe Station (South Exit)</td></tr><tr><td>Bus</td><td>Kanagawa Chuo Kotsu “Aoba Loop (Route 37)” → get off at <em>Fuchinobe Park</em> (10 min ride)</td></tr><tr><td>Walk</td><td>About 25–30 min</td></tr><tr><td>Parking</td><td>Available near park/stadium (often full during events)</td></tr><tr><td>Admission</td><td>¥300 for viewing / Lantern experience extra (reservation required)</td></tr></tbody></table></figure>
 
@@ -143,7 +154,7 @@ excerpt: "── Halloween Lantern Festival 2025 at Fuchinobe Park, Sagamihara �
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">🕯️ <strong>In the End — The Light That Stays</strong></h2>
+<h2 id="in-the-end--the-light-that-stays" class="wp-block-heading">🕯️ <strong>In the End — The Light That Stays</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/Image_fx-1.jpg" alt="" class="wp-image-2598"/></figure>
 

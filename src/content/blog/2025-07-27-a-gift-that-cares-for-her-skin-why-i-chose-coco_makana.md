@@ -6,6 +6,7 @@ categories: ["prepared-life"]
 tags: ["birthday-gift", "skincare", "coco_Makana", "sensitive-skin", "clean-beauty"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/07/Google_AI_Studio_2025-07-27T05_16_36.409Z.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/07/Google_AI_Studio_2025-07-27T05_16_36.409Z.jpg"
 excerpt: "📌 Note The affiliate program for \"coco_Makana\" introduced in this article ended in December 2025. The product itself is"
 ---
 

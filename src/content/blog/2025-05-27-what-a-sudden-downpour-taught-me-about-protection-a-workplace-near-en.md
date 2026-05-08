@@ -5,15 +5,25 @@ slug: "what-a-sudden-downpour-taught-me-about-protection-a-workplace-near-en"
 categories: ["prepared-life"]
 tags: ["disaster-preparedness", "disaster-experience", "heavy-rain", "workplace-crisis-response", "actions-that-protect-life"]
 eyecatch: "/images/wp-content/uploads/2025/05/c3691aa9fd90b27e241d2994f549d6ba.png"
+sns_image_url: "/images/wp-content/uploads/2025/05/c3691aa9fd90b27e241d2994f549d6ba.png"
 lang: "en"
 excerpt: "What a Sudden Downpour Taught Me About Protection — A Workplace Near Miss and Today's Weather Warnings"
 ---
+<h2 id="main-content">Main Text</h2>
+
 
 <p> What a Sudden Downpour Taught Me About Protection — A Workplace Near Miss and Today's Weather Warnings</p>
 
 <p>I had just returned from another task when I saw it. The rain had started, sure—but in just 10 or 20 minutes, everything changed. Water shot through the window like a laser beam. For a moment, my brain couldn't process it. "Is this a scene from a disaster movie?" I thought. But it was all too real—and it was headed straight toward my feet.</p>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<nav id="toc" class="post-toc">
+<p><strong>Table of Contents</strong></p>
+<ul>
+<li><a href="#main-content">Main Text</a></li>
+</ul>
+</nav>
 
 <p>The water quickly covered my ankles. I wanted to run, to go home, to escape it all. But I was in charge. I couldn’t leave. In that moment, I realized: disasters aren’t someone else’s problem. They come without warning—and suddenly, you’re in it. Like those who faced earthquakes and floods before me, I had no time to process, only act.</p>
 

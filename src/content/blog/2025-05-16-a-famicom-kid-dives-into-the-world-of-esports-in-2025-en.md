@@ -5,12 +5,21 @@ slug: "a-famicom-kid-dives-into-the-world-of-esports-in-2025-en"
 categories: ["shumi-taiken-etc"]
 tags: ["eスポーツ", "reject", "ウメハラ", "ファミコン世代", "高橋名人"]
 eyecatch: "/images/wp-content/uploads/2025/05/c55b5dbacc58142b4fb8937cc3f7c186.png"
+sns_image_url: "/images/wp-content/uploads/2025/05/c55b5dbacc58142b4fb8937cc3f7c186.png"
 lang: "en"
 excerpt: "🔤 Afterthought in EnglishAt first, I really thought someone got rejected. But instead, I found a whole world I never knew—where “REJECT” is not about denial,..."
 ---
 
 <p>🕒 About 2 minutes to read.</p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<nav id="toc" class="post-toc">
+<p><strong>Table of Contents</strong></p>
+<ul>
+<li><a href="#a-few-words-from-my-heart-in-english">A Few Words from My Heart—in English</a></li>
+<li><a href="#if-i-hadn-t-looked-it-up-i-would-ve-missed-out">If I Hadn’t Looked It Up, I Would’ve Missed Out</a></li>
+</ul>
+</nav>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/621cba254df9a51c5f1901b73ecdabd7.png" alt="" class="wp-image-752"/></figure>
 
@@ -42,7 +51,7 @@ excerpt: "🔤 Afterthought in EnglishAt first, I really thought someone got rej
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3>A Few Words from My Heart—in English</h3>
+<h3 id="a-few-words-from-my-heart-in-english">A Few Words from My Heart—in English</h3>
 
 <p>I’m just a dad from the Famicom era, who thought gaming was a waste of time.<br>But now, watching these esports legends fight with passion, I feel something shift inside me.</p>
 
@@ -54,10 +63,17 @@ excerpt: "🔤 Afterthought in EnglishAt first, I really thought someone got rej
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3>If I Hadn’t Looked It Up, I Would’ve Missed Out</h3>
+<h3 id="if-i-hadn-t-looked-it-up-i-would-ve-missed-out">If I Hadn’t Looked It Up, I Would’ve Missed Out</h3>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/47dc7792cd1bfa154e0b0fedda3862d8.png" alt="" class="wp-image-754"/></figure>
 
 <p><strong>🔤 Final Words in English</strong><br>I almost dismissed the name "REJECT" with a shrug.<br>But behind that name, I found warriors who live with passion.<br>From being scolded for dreaming—to being celebrated for it.</p>
 
 <p>Esports reminded me that it’s never too late to discover something that moves your heart.<br>And I’m grateful I didn’t just scroll past.</p>
+
+<blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
+<ul class="wp-block-list">
+<li><a href="https://freelife50.com/a-man-in-his-50s-goes-to-see-avatar/">Avatar Movie Review: A 50-Year-Old's Honest Take — Mild Emotions, Rich Experience</a></li>
+<li><a href="https://freelife50.com/a-50-year-old-man-becoming-the-pillar-of-sake-breathing-showdown-in-my-wifes-infinity-castle/">Demon Slayer Parody: A 50-Year-Old Becomes the Sake Breathing Pillar</a></li>
+<li><a href="https://freelife50.com/a-50-something-guy-goes-to-a-fest-the-isekai-reincarnation-arc/">Music Festival at 50: An Isekai-Level Culture Shock Experience in Japan</a></li>
+</ul></blockquote>

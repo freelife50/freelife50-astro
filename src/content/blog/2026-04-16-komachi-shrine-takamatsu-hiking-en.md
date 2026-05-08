@@ -6,6 +6,7 @@ categories: ["healing-walks"]
 tags: ["ハイキング", "低山歩き", "厚木市", "小町神社", "小野小町"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/04/IMG_2773.jpg"
+sns_image_url: "/images/wp-content/uploads/2026/04/IMG_2773.jpg"
 excerpt: "A short hike up Takamatsu-yama (147m / 482 ft) from Komachi Shrine in Atsugi, Kanagawa Prefecture, birthplace of poet Ono no Komachi. Notes on parking"
 ---
 
@@ -46,7 +47,17 @@ excerpt: "A short hike up Takamatsu-yama (147m / 482 ft) from Komachi Shrine in 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Parking &amp; Access Info | What You Need to Know First</h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#parking-amp-access-info--what-you-need-t">Parking &amp; Access Info | What You Need to Know First</a></li>  <li><a href="#apparently-this-is-where-ono-no-komachi-">Apparently, This Is Where Ono no Komachi Was Born</a></li>  <li><a href="#walking-the-takamatsu-yama-trail-147m--4">Walking the Takamatsu-yama Trail (147m / 482 ft)</a></li>  <li><a href="#getting-honest-at-the-komachi-well-kewai">Getting Honest at the Komachi Well (Kewai-ido)</a></li>  <li><a href="#japans-three-great-beauties-hometown-a-h">Japan's Three Great Beauties' Hometown: A Hidden Gem Right Now</a></li>  <li><a href="#wrapping-up">Wrapping Up</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="parking-amp-access-info--what-you-need-t" class="wp-block-heading">Parking &amp; Access Info | What You Need to Know First</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/IMG_2775.jpg" alt="Trail sign for Komachi Shrine and Takamatsu-yama hiking course" class="wp-image-3817"/></figure>
 
@@ -60,7 +71,7 @@ excerpt: "A short hike up Takamatsu-yama (147m / 482 ft) from Komachi Shrine in 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Apparently, This Is Where Ono no Komachi Was Born</h2>
+<h2 id="apparently-this-is-where-ono-no-komachi-" class="wp-block-heading">Apparently, This Is Where Ono no Komachi Was Born</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/IMG_2780.jpg" alt="Komachi Shrine with its distinctive red roof" class="wp-image-3819"/></figure>
 
@@ -84,7 +95,7 @@ excerpt: "A short hike up Takamatsu-yama (147m / 482 ft) from Komachi Shrine in 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Walking the Takamatsu-yama Trail (147m / 482 ft)</h2>
+<h2 id="walking-the-takamatsu-yama-trail-147m--4" class="wp-block-heading">Walking the Takamatsu-yama Trail (147m / 482 ft)</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/IMG_2802.jpg" alt="Summit view from Takamatsu-yama" class="wp-image-3825"/></figure>
 
@@ -108,7 +119,7 @@ excerpt: "A short hike up Takamatsu-yama (147m / 482 ft) from Komachi Shrine in 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Getting Honest at the Komachi Well (Kewai-ido)</h2>
+<h2 id="getting-honest-at-the-komachi-well-kewai" class="wp-block-heading">Getting Honest at the Komachi Well (Kewai-ido)</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/IMG_2811.jpg" alt="Komachi Well (Kewai-ido) sign" class="wp-image-3833"/></figure>
 
@@ -136,7 +147,7 @@ excerpt: "A short hike up Takamatsu-yama (147m / 482 ft) from Komachi Shrine in 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Japan's Three Great Beauties' Hometown: A Hidden Gem Right Now</h2>
+<h2 id="japans-three-great-beauties-hometown-a-h" class="wp-block-heading">Japan's Three Great Beauties' Hometown: A Hidden Gem Right Now</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/IMG_2800.jpg" alt="Momiji the Shiba Inu resting on a bench" class="wp-image-3824"/></figure>
 
@@ -173,7 +184,7 @@ excerpt: "A short hike up Takamatsu-yama (147m / 482 ft) from Komachi Shrine in 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Wrapping Up</h2>
+<h2 id="wrapping-up" class="wp-block-heading">Wrapping Up</h2>
 
 <p>Komachi Shrine to Takamatsu-yama.</p>
 

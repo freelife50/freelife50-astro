@@ -28,7 +28,36 @@ excerpt: "I waited for more than four hours on the Sagami River riverbed. My wif
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2>A 15-Minute Walk from Sobudaishita Station. The Road There Was Already Worth It</h2>
+**Who this post is for**
+
+- People living in Sagamihara or Kanagawa who have never been to the Giant Kite Festival
+- Anyone wondering where to go during Golden Week
+- People who have been saying "maybe next year" for years running
+- Anyone curious about what a four-hour wait actually looks and feels like
+- People in their 50s or 60s who want to experience traditional Japanese culture in person
+
+**What I learned (the conclusion)**
+
+When something is close, we tend not to go. But once you actually visit, you sometimes realize the weight of what has been there all along. That is what this festival was for me.
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+**Table of Contents**
+
+1. [A 15-Minute Walk from Sobudaishita Station. The Road There Was Already Worth It](#station-walk)
+2. [We Arrived Around 10 a.m. The Festival Was Already Moving](#arrival)
+3. [Watching the Giant Kite Being Prepared Was Worth the Trip by Itself](#setup)
+4. [And Then Came the Four-Hour Wait](#waiting)
+5. [After Setup, the Giant Kite Was Put on Display for the Crowd](#kite-display)
+6. [2:10 p.m. It Finally Rose into the Blue Sky](#fly)
+7. [My Wife Became Tutankhamun. I Became a Red Tomato](#sunburn)
+8. [On the Way Back, I Walked to Harataima Station. My Back Was Done](#return)
+9. [A Festival of Nearly 200 Years, and the Reality Facing Local Traditions](#tradition)
+10. [Summary](#summary)
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<h2 id="station-walk">A 15-Minute Walk from Sobudaishita Station. The Road There Was Already Worth It</h2>
 
 <p>This time we went by train and got off at Sobudaishita Station on the JR Sagami Line.</p>
 
@@ -48,7 +77,7 @@ excerpt: "I waited for more than four hours on the Sagami River riverbed. My wif
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2>We Arrived Around 10 a.m. The Festival Was Already Moving</h2>
+<h2 id="arrival">We Arrived Around 10 a.m. The Festival Was Already Moving</h2>
 
 <p>We reached the venue around 10 a.m. The parking lot was already about half full. It was 500 yen this year, though that may change depending on the year. If you are coming by car, arriving early is probably the safer choice.</p>
 
@@ -88,7 +117,7 @@ excerpt: "I waited for more than four hours on the Sagami River riverbed. My wif
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2>Watching the Giant Kite Being Prepared Was Worth the Trip by Itself</h2>
+<h2 id="setup">Watching the Giant Kite Being Prepared Was Worth the Trip by Itself</h2>
 
 <p>Members of the local preservation group, dressed in white, spread out the huge kite and assembled the bamboo frame. The kite is said to be about the size of 100 tatami mats. Just watching the process was impressive.</p>
 
@@ -112,7 +141,7 @@ excerpt: "I waited for more than four hours on the Sagami River riverbed. My wif
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2>And Then Came the Four-Hour Wait</h2>
+<h2 id="waiting">And Then Came the Four-Hour Wait</h2>
 
 <p>I had heard that giant kite flying depends entirely on the wind.</p>
 
@@ -137,7 +166,7 @@ excerpt: "I waited for more than four hours on the Sagami River riverbed. My wif
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2>After Setup, the Giant Kite Was Put on Display for the Crowd</h2>
+<h2 id="kite-display">After Setup, the Giant Kite Was Put on Display for the Crowd</h2>
 
 <p>After the setup work was finished, the giant kite was first put on display for the crowd. Supported by poles and ropes, it stood there so everyone could see the completed kite up close.</p>
 
@@ -177,7 +206,7 @@ excerpt: "I waited for more than four hours on the Sagami River riverbed. My wif
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2>2:10 p.m. It Finally Rose into the Blue Sky</h2>
+<h2 id="fly">2:10 p.m. It Finally Rose into the Blue Sky</h2>
 
 <p>After several failed attempts, the giant kite finally climbed into the sky.</p>
 
@@ -208,7 +237,7 @@ excerpt: "I waited for more than four hours on the Sagami River riverbed. My wif
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2>My Wife Became Tutankhamun. I Became a Red Tomato</h2>
+<h2 id="sunburn">My Wife Became Tutankhamun. I Became a Red Tomato</h2>
 
 <p>Let me explain my wife's outfit that day.</p>
 
@@ -226,7 +255,7 @@ excerpt: "I waited for more than four hours on the Sagami River riverbed. My wif
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2>On the Way Back, I Walked to Harataima Station. My Back Was Done</h2>
+<h2 id="return">On the Way Back, I Walked to Harataima Station. My Back Was Done</h2>
 
 <p>On the way home, I walked to Harataima Station. Honestly, that was my limit.</p>
 
@@ -236,7 +265,7 @@ excerpt: "I waited for more than four hours on the Sagami River riverbed. My wif
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2>A Festival of Nearly 200 Years, and the Reality Facing Local Traditions</h2>
+<h2 id="tradition">A Festival of Nearly 200 Years, and the Reality Facing Local Traditions</h2>
 
 <p>While I was watching, I overheard someone involved with the festival talking nearby.</p>
 
@@ -252,7 +281,7 @@ excerpt: "I waited for more than four hours on the Sagami River riverbed. My wif
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2>A Festival I Had Ignored for Years, Even While Living in Sagamihara</h2>
+<h2 id="summary">Summary</h2>
 
 <p>The moment a giant kite rises into the sky cannot be fully captured in photos or videos. The scale and the tension of relying on the wind are things you only understand by standing there on the riverbed.</p>
 
@@ -261,3 +290,13 @@ excerpt: "I waited for more than four hours on the Sagami River riverbed. My wif
 <p>When something is too close, we tend not to go. But once you actually visit, you sometimes realize the weight of what has been there all along. For me, the Sagamihara Giant Kite Festival was exactly that kind of festival.</p>
 
 <p>I am going again next year. By motorcycle, with sunscreen done properly.</p>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<p>About a month before this festival, I walked along the Sagami River with my Shiba Inu and stumbled upon Japan's largest kite being assembled on the ground. That was the moment I decided I had to see the real thing. → <a href="/sagami-odako-festival-2026-en/">I Took My Shiba Inu to the Sagami River and Found Japan's Largest Kite Being Built</a></p>
+
+<p>If you enjoy walking in Kanagawa and want a view that stops you in your tracks, Mt. Ono is worth the trip. Easy trail, stunning Mt. Fuji panorama, and beginner-friendly all the way. → <a href="/a-50-year-olds-gentle-hike-up-mt-ono/">Mt. Ono Hiking in Kanagawa: Easy Trail with Stunning Mt. Fuji Views for Beginners</a></p>
+
+<p>For a quieter kind of outdoor day, Izumi no Mori in Yamato is a hidden gem — free to enter, dog-friendly, and full of old Japan atmosphere. → <a href="/izumi-no-mori-yamato-a-free-dog-friendly-walk-where-old-japan-eased-my-mind/">Izumi no Mori, Yamato: A Free Dog-Friendly Walk Where Old Japan Eased My Mind</a></p>
+
+<p>日本語版はこちら → <a href="/sagamihara-oodako-matsuri-2025/">相模原・大凧まつり。4時間待って妻に先に帰られ、顔が真っ赤になったけど、それでもよかった話</a></p>

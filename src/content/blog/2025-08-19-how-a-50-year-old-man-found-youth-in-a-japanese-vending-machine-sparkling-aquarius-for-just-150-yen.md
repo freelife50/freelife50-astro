@@ -6,6 +6,7 @@ categories: ["food-nostalgia"]
 tags: ["afterswimming", "aquarius", "aquariussparkling", "beerlover", "carbonateddrink"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/08/PXL_20250817_090721923.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/08/PXL_20250817_090721923.jpg"
 excerpt: "■ What This Article Is About In Japan, vending machines are everywhere — on street corners, by rivers, even in quiet nei"
 ---
 
@@ -20,7 +21,17 @@ excerpt: "■ What This Article Is About In Japan, vending machines are everywhe
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">After the Pool, I Grabbed One Can</h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#after-the-pool-i-grabbed-one-can">After the Pool, I Grabbed One Can</a></li>  <li><a href="#first-sip--boom-youth-in-a-can">First Sip — Boom! Youth in a Can</a></li>  <li><a href="#what-is-sparkling-aquarius">What Is Sparkling Aquarius?</a></li>  <li><a href="#sunset-super-cub-and-a-daydream">Sunset, Super Cub, and a Daydream</a></li>  <li><a href="#childhood-flashback">Childhood Flashback</a></li>  <li><a href="#final-verdict-soda-by-day-beer-by-night">Final Verdict: Soda by Day, Beer by Night</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="after-the-pool-i-grabbed-one-can" class="wp-block-heading">After the Pool, I Grabbed One Can</h2>
 
 <p>Normally, I’d say, “Good work, time for a beer!”<br>But since I usually ride my motorbike or drive to the pool, <strong>beer would mean jail time (and social death).</strong></p>
 
@@ -30,7 +41,7 @@ excerpt: "■ What This Article Is About In Japan, vending machines are everywhe
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">First Sip — Boom! Youth in a Can</h2>
+<h2 id="first-sip--boom-youth-in-a-can" class="wp-block-heading">First Sip — Boom! Youth in a Can</h2>
 
 <figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-19T11_16_30.932Z.jpg" alt="" class="wp-image-2128"/></figure>
 
@@ -42,7 +53,7 @@ excerpt: "■ What This Article Is About In Japan, vending machines are everywhe
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">What Is Sparkling Aquarius?</h2>
+<h2 id="what-is-sparkling-aquarius" class="wp-block-heading">What Is Sparkling Aquarius?</h2>
 
 <figure class="wp-block-image aligncenter size-thumbnail"><img src="/images/wp-content/uploads/2025/08/PXL_20250817_091031283.MP_.jpg" alt="" class="wp-image-2119"/></figure>
 
@@ -68,7 +79,7 @@ excerpt: "■ What This Article Is About In Japan, vending machines are everywhe
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Sunset, Super Cub, and a Daydream</h2>
+<h2 id="sunset-super-cub-and-a-daydream" class="wp-block-heading">Sunset, Super Cub, and a Daydream</h2>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250817_091312968.jpg" alt="" class="wp-image-2120"/></figure>
 
@@ -80,7 +91,7 @@ excerpt: "■ What This Article Is About In Japan, vending machines are everywhe
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Childhood Flashback</h2>
+<h2 id="childhood-flashback" class="wp-block-heading">Childhood Flashback</h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-19T11_53_57.187Z.jpg" alt="" class="wp-image-2135"/></figure>
 
@@ -90,7 +101,7 @@ excerpt: "■ What This Article Is About In Japan, vending machines are everywhe
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Final Verdict: Soda by Day, Beer by Night</h2>
+<h2 id="final-verdict-soda-by-day-beer-by-night" class="wp-block-heading">Final Verdict: Soda by Day, Beer by Night</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250417_211906292.jpg" alt="" class="wp-image-2130"/></figure>
 

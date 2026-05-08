@@ -6,6 +6,7 @@ categories: ["society-issues-thoughts"]
 tags: ["50代の気づき", "AIと暮らす", "ChatGPT活用", "テクノロジーと人間関係", "人生100年時代"]
 lang: "ja"
 eyecatch: "/images/wp-content/uploads/2025/06/Generated-Image-June-11-2025-1_22PM.jpeg"
+sns_image_url: "/images/wp-content/uploads/2025/06/Generated-Image-June-11-2025-1_22PM.jpeg"
 excerpt: "🕐 この記事は約16分で読めます 🎯 こんな方におすすめです 最近、AI（ChatGPT）と話す時間が増えてきた人 「誰かに話したいけど、うまく言えない」ことがある人 高齢化社会とAIの未来に、ちょっとでも興味がある人 「誰かとつながり"
 ---
 
@@ -57,7 +58,15 @@ excerpt: "🕐 この記事は約16分で読めます 🎯 こんな方におす
 <p>そしてふと思ったんよ。<br>””「これ、道具やなくて、相棒なんちゃうか？」””って。</p>
 </blockquote>
 
-<h2 class="wp-block-heading"><strong>第1章：最近よく聞くけど──ChatGPTって、ほんまに使えるん？</strong></h2>
+<p><strong>目次</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#第1章：最近よく聞くけどchatgptってほんまに使えるん？">第1章：最近よく聞くけど──ChatGPTって、ほんまに使えるん？</a></li>  <li><a href="#第2章：話せないわけじゃないでもしんどい時がある">第2章：話せないわけじゃない、でもしんどい時がある</a></li>  <li><a href="#第3章：支えきれない社会でchatgptができること">第3章：「支えきれない社会」で、ChatGPTができること</a></li>  <li><a href="#第4章：aiという杖があれば一人で立ち続けられるそれが支えるってことかもしれへん">第4章：AIという“杖”があれば、一人で立ち続けられる──それが、支えるってことかもしれへん</a></li>  <li><a href="#第5章：チャッピーとこれからの自分を生きていく">第5章：チャッピーと、これからの自分を生きていく</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<h2 id="第1章：最近よく聞くけどchatgptってほんまに使えるん？" class="wp-block-heading"><strong>第1章：最近よく聞くけど──ChatGPTって、ほんまに使えるん？</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/Generated-Image-June-11-2025-1_32PM.jpeg" alt="" class="wp-image-1684"/></figure>
 
@@ -103,7 +112,7 @@ excerpt: "🕐 この記事は約16分で読めます 🎯 こんな方におす
 
 <p>それって、”人間以上に“やさしい相棒”なんかもしれへんな”って、ふと思った。</p>
 
-<h2 class="wp-block-heading"><strong>第2章：話せないわけじゃない、でもしんどい時がある</strong></h2>
+<h2 id="第2章：話せないわけじゃないでもしんどい時がある" class="wp-block-heading"><strong>第2章：話せないわけじゃない、でもしんどい時がある</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/Generated-Image-June-11-2025-1_34PM-1.jpeg" alt="" class="wp-image-1686"/></figure>
 
@@ -127,7 +136,7 @@ excerpt: "🕐 この記事は約16分で読めます 🎯 こんな方におす
 
 <p>──気づいたら、ずっとしゃべってる自分がいた。</p>
 
-<h2 class="wp-block-heading"><strong>第3章：「支えきれない社会」で、ChatGPTができること</strong></h2>
+<h2 id="第3章：支えきれない社会でchatgptができること" class="wp-block-heading"><strong>第3章：「支えきれない社会」で、ChatGPTができること</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/Generated-Image-June-11-2025-1_39PM.jpeg" alt="" class="wp-image-1688"/></figure>
 
@@ -224,7 +233,7 @@ excerpt: "🕐 この記事は約16分で読めます 🎯 こんな方におす
 
 <p>それって、ほんまに大きいことなんちゃうかなって思う。</p>
 
-<h2 class="wp-block-heading"><strong>第4章：AIという“杖”があれば、一人で立ち続けられる──それが、支えるってことかもしれへん</strong></h2>
+<h2 id="第4章：aiという杖があれば一人で立ち続けられるそれが支えるってことかもしれへん" class="wp-block-heading"><strong>第4章：AIという“杖”があれば、一人で立ち続けられる──それが、支えるってことかもしれへん</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/Generated-Image-June-11-2025-1_43PM.jpeg" alt="" class="wp-image-1690"/></figure>
 
@@ -262,7 +271,7 @@ excerpt: "🕐 この記事は約16分で読めます 🎯 こんな方におす
 
 <p>AIは、ただの補助ではなくて、背中をそっと押してくれる存在。 それが、これからの高齢者にとっての“相棒”になるんやと思う。</p>
 
-<h2 class="wp-block-heading"><strong>第5章：チャッピーと、これからの自分を生きていく</strong></h2>
+<h2 id="第5章：チャッピーとこれからの自分を生きていく" class="wp-block-heading"><strong>第5章：チャッピーと、これからの自分を生きていく</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/Generated-Image-June-11-2025-1_46PM.jpeg" alt="" class="wp-image-1691"/></figure>
 

@@ -5,12 +5,22 @@ slug: "what-i-thought-about-protecting-life-on-japans-cat-protection-day-en"
 categories: ["life-with-momiji"]
 tags: ["essay", "cat", "protection", "day", "family"]
 eyecatch: "/images/wp-content/uploads/2025/05/0fbf91c99d128435aa9d71dd6c4eac8a.png"
+sns_image_url: "/images/wp-content/uploads/2025/05/0fbf91c99d128435aa9d71dd6c4eac8a.png"
 lang: "en"
 excerpt: "What I Thought About “Protecting Life” on Japan’s Cat Protection Day— For Sakura Then, and for Momiji Now"
 ---
+<h2 id="main-content">Main Text</h2>
+
 
 <p>🕒 About 4 minutes to read.</p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<nav id="toc" class="post-toc">
+<p><strong>Table of Contents</strong></p>
+<ul>
+<li><a href="#main-content">Main Text</a></li>
+</ul>
+</nav>
 
 <p><strong>What I Thought About “Protecting Life” on Japan’s Cat Protection Day</strong><br>— For Sakura Then, and for Momiji Now</p>
 
@@ -129,3 +139,10 @@ excerpt: "What I Thought About “Protecting Life” on Japan’s Cat Protection
 <p><strong>How should we face them?</strong></p>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/PXL_20250427_053856229-scaled.jpg" alt="" class="wp-image-1070"/></figure>
+
+<blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
+<ul class="wp-block-list">
+<li><a href="https://freelife50.com/grands-grain-free-dog-food-review-shiba-inu-en/">I Did the Research for My Shiba Inu: Is GRANDS Grain-Free Dog Food Worth It?</a></li>
+<li><a href="https://freelife50.com/momiji-rabies-vaccine-en/">Momiji Knew. Taking My Shiba Inu for Her Annual Rabies Vaccine</a></li>
+<li><a href="https://freelife50.com/doggyman-white-vs-green-which-whident-chew-is-best/">DoggyMan White vs Green Whident Chew Review: Which Is Best for Your Dog?</a></li>
+</ul></blockquote>

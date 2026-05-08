@@ -5,6 +5,7 @@ slug: "even-if-no-one-reads-it-the-act-of-writing-itself-is-proof-that-hes-en"
 categories: ["blog-sidejob"]
 tags: ["bloggingjourney", "over50blogger", "startblogging", "quietblogging", "writingtolive"]
 eyecatch: "/images/wp-content/uploads/2025/05/00c0e6ec3ce30beaae5dcf92557d47bc.png"
+sns_image_url: "/images/wp-content/uploads/2025/05/00c0e6ec3ce30beaae5dcf92557d47bc.png"
 lang: "en"
 excerpt: "I just wanted to start something."
 ---
@@ -12,7 +13,14 @@ excerpt: "I just wanted to start something."
 <p>🕒 About 1 minutes to read.</p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3>In English (Summary &amp; Reflection)</h3>
+<nav id="toc" class="post-toc">
+<p><strong>Table of Contents</strong></p>
+<ul>
+<li><a href="#in-english-summary-reflection">In English (Summary &amp; Reflection)</a></li>
+</ul>
+</nav>
+
+<h3 id="in-english-summary-reflection">In English (Summary &amp; Reflection)</h3>
 
 <p>I just wanted to start something.</p>
 
@@ -42,3 +50,10 @@ excerpt: "I just wanted to start something."
 <p>It may go unread. It may not reach anyone. But writing reminds me that I’m alive.</p>
 
 <p>And that’s reason enough to keep going.</p>
+
+<blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
+<ul class="wp-block-list">
+<li><a href="https://freelife50.com/iijmio-1year-report-en/">One Year with IIJmio: I Said '$30/Month for 4 People' — Here's the Honest Truth</a></li>
+<li><a href="https://freelife50.com/the-night-i-ran-out-of-blog-ideas-i-decided-to-become-a-beer-livestreamer/">Blogging Tips: What Happens When You Run Out of Ideas — I Became a Beer Livestreamer</a></li>
+<li><a href="https://freelife50.com/a-man-in-his-50s-torn-between-ai-subscriptions/">ChatGPT vs Gemini vs Claude: How a 50-Year-Old Found the Best AI Subscription Split</a></li>
+</ul></blockquote>

@@ -6,6 +6,7 @@ categories: ["shumi-taiken-etc"]
 tags: ["ribe-fest2025", "ribe-city", "makuhari-messe", "challenge-in50s", "event-participation"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/08/cc3ed7e6293a08787763a230effc9c1b.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/08/cc3ed7e6293a08787763a230effc9c1b.jpg"
 excerpt: "This post will take you about 5 minutes to read—perfect for a coffee break or a quick pause in your day. For You If… You"
 ---
 

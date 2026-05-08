@@ -6,6 +6,7 @@ categories: ["blog-sidejob"]
 tags: ["evening-drinks", "you-tube-live", "life-in-my50s", "blogging-ideas", "content-creation-struggles"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/03/Gemini_Generated_Image_wityd4wityd4wity.jpg"
+sns_image_url: "/images/wp-content/uploads/2026/03/Gemini_Generated_Image_wityd4wityd4wity.jpg"
 excerpt: "Reading time: about 5 minutes Hello. I’m a guy in my 50s from Japan who writes a small blog about everyday life. Let me"
 ---
 
@@ -52,7 +53,17 @@ excerpt: "Reading time: about 5 minutes Hello. I’m a guy in my 50s from Japan 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Blogging slowly became a burden</h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#blogging-slowly-became-a-burden">Blogging slowly became a burden</a></li>  <li><a href="#taking-stock-of-what-i-can-actually-keep">Taking stock of what I can actually keep doing</a></li>  <li><a href="#somehow-evening-drinks-always-continue">Somehow, evening drinks always continue</a></li>  <li><a href="#alright-ill-become-a-beer-livestreamer">“Alright… I’ll become a beer livestreamer.”</a></li>  <li><a href="#maybe-ill-film-my-walks-with-momiji-too">Maybe I’ll film my walks with Momiji too</a></li>  <li><a href="#conclusion">Conclusion</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="blogging-slowly-became-a-burden" class="wp-block-heading">Blogging slowly became a burden</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/Gemini_Generated_Image_qb8nqqqb8nqqqb8n.jpg" alt="" class="wp-image-3284"/></figure>
 
@@ -114,7 +125,7 @@ excerpt: "Reading time: about 5 minutes Hello. I’m a guy in my 50s from Japan 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Taking stock of what I can actually keep doing</h2>
+<h2 id="taking-stock-of-what-i-can-actually-keep" class="wp-block-heading">Taking stock of what I can actually keep doing</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/Gemini_Generated_Image_bsjb16bsjb16bsjb.jpg" alt="" class="wp-image-3279"/></figure>
 
@@ -148,7 +159,7 @@ excerpt: "Reading time: about 5 minutes Hello. I’m a guy in my 50s from Japan 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Somehow, evening drinks always continue</h2>
+<h2 id="somehow-evening-drinks-always-continue" class="wp-block-heading">Somehow, evening drinks always continue</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/Gemini_Generated_Image_t6xlfct6xlfct6xl.jpg" alt="" class="wp-image-3280"/></figure>
 
@@ -172,7 +183,7 @@ excerpt: "Reading time: about 5 minutes Hello. I’m a guy in my 50s from Japan 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">“Alright… I’ll become a beer livestreamer.”</h2>
+<h2 id="alright-ill-become-a-beer-livestreamer" class="wp-block-heading">“Alright… I’ll become a beer livestreamer.”</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/Gemini_Generated_Image_k45dxak45dxak45d.jpg" alt="" class="wp-image-3269"/></figure>
 
@@ -214,7 +225,7 @@ excerpt: "Reading time: about 5 minutes Hello. I’m a guy in my 50s from Japan 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Maybe I’ll film my walks with Momiji too</h2>
+<h2 id="maybe-ill-film-my-walks-with-momiji-too" class="wp-block-heading">Maybe I’ll film my walks with Momiji too</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/Gemini_Generated_Image_4d1xlq4d1xlq4d1x.jpg" alt="" class="wp-image-3286"/></figure>
 
@@ -244,7 +255,7 @@ excerpt: "Reading time: about 5 minutes Hello. I’m a guy in my 50s from Japan 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Conclusion</h2>
+<h2 id="conclusion" class="wp-block-heading">Conclusion</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/Gemini_Generated_Image_cu6lwxcu6lwxcu6l.jpg" alt="" class="wp-image-3282"/></figure>
 

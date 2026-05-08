@@ -6,6 +6,7 @@ categories: ["food-nostalgia"]
 tags: ["yokohama-ramen-museum", "ramen-tasting", "mini-ramen-challenge", "healthy-eating-in50s", "soup-all-gone"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/06/PXL_20250611_060605020-scaled.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/06/PXL_20250611_060605020-scaled.jpg"
 excerpt: "A food tour of Shin-Yokohama Ramen Museum with honest reviews of 3 bowls. Tips for visiting this unique ramen theme park near Tokyo."
 ---
 
@@ -29,13 +30,23 @@ excerpt: "A food tour of Shin-Yokohama Ramen Museum with honest reviews of 3 bow
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#chapter-1-couldnt-stop-drank-every-drop">🟨 Chapter 1: Couldn't Stop. Drank Every Drop.</a></li>  <li><a href="#chapter-2-first-bowl--not-what-i-expecte">🟥 Chapter 2: First Bowl — Not What I Expected, But Dang It Was Good.</a></li>  <li><a href="#chapter-3-it-was-just-broth-but-felt-lik">🟩 Chapter 3: It Was Just Broth... But Felt Like a Full Meal — Rishiri Ramen Miraku</a></li>  <li><a href="#chapter-4-the-final-blow--hakata-issous-">🟥 Chapter 4: The Final Blow — Hakata Issou’s Rich Tonkotsu Punch</a></li>  <li><a href="#final-thoughts-the-irresistible-spell-of">🟪 Final Thoughts: The Irresistible Spell of Ramen</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
 <p>🍜 <strong>Intro</strong><br>In my last blog post, I wrote that I <em>might go someday</em> to the Yokohama Ramen Museum.<br>Well… that “someday” finally arrived.</p>
 
 <p>I’m in my 50s. My blood pressure isn’t what it used to be. And let’s be honest—my stomach’s capacity isn’t either.<br>Still, standing in front of the ticket machine, something in me whispered,<br><strong>“Why not go for three?”</strong></p>
 
 <p>This is the story of how that quiet little whisper turned into me… slurping down three bowls. Yes, soup and all.</p>
 
-<h2 class="wp-block-heading">🟨 <strong>Chapter 1: Couldn't Stop. Drank Every Drop.</strong></h2>
+<h2 id="chapter-1-couldnt-stop-drank-every-drop" class="wp-block-heading">🟨 <strong>Chapter 1: Couldn't Stop. Drank Every Drop.</strong></h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250611_062649851-scaled.jpg" alt="" class="wp-image-1702"/></figure>
 </div>
@@ -61,7 +72,7 @@ excerpt: "A food tour of Shin-Yokohama Ramen Museum with honest reviews of 3 bow
 
 <p>Because those soups weren’t meant to be left behind.<br>They were magic. Liquid spells.</p>
 
-<h2 class="wp-block-heading">🟥 <strong>Chapter 2: First Bowl — Not What I Expected, But Dang It Was Good.</strong></h2>
+<h2 id="chapter-2-first-bowl--not-what-i-expecte" class="wp-block-heading">🟥 <strong>Chapter 2: First Bowl — Not What I Expected, But Dang It Was Good.</strong></h2>
 
 <div class="wp-block-columns"><div class="wp-block-column" style="flex-basis:33.33%"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250611_062723156-scaled.jpg" alt="" class="wp-image-1705"/></figure>
 </div>
@@ -92,7 +103,7 @@ excerpt: "A food tour of Shin-Yokohama Ramen Museum with honest reviews of 3 bow
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">🟩 <strong>Chapter 3: It Was Just Broth... But Felt Like a Full Meal — Rishiri Ramen Miraku</strong></h2>
+<h2 id="chapter-3-it-was-just-broth-but-felt-lik" class="wp-block-heading">🟩 <strong>Chapter 3: It Was Just Broth... But Felt Like a Full Meal — Rishiri Ramen Miraku</strong></h2>
 
 <div class="wp-block-columns"><div class="wp-block-column" style="flex-basis:33.33%"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250611_064528869-scaled.jpg" alt="" class="wp-image-1707"/></figure>
 </div>
@@ -121,7 +132,7 @@ excerpt: "A food tour of Shin-Yokohama Ramen Museum with honest reviews of 3 bow
 
 <p>I didn’t actually do it.<br>But in my mind?<br><strong>It tasted perfect.</strong><br>That was my forbidden finale: a brain-powered kombu chazuke.</p>
 
-<h2 class="wp-block-heading">🟥 <strong>Chapter 4: The Final Blow — Hakata Issou’s Rich Tonkotsu Punch</strong></h2>
+<h2 id="chapter-4-the-final-blow--hakata-issous-" class="wp-block-heading">🟥 <strong>Chapter 4: The Final Blow — Hakata Issou’s Rich Tonkotsu Punch</strong></h2>
 
 <div class="wp-block-columns"><div class="wp-block-column" style="flex-basis:33.33%"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250611_064645979-scaled.jpg" alt="" class="wp-image-1709"/></figure>
 </div>
@@ -168,7 +179,7 @@ excerpt: "A food tour of Shin-Yokohama Ramen Museum with honest reviews of 3 bow
 
 <p>That’s the magic of Hakata tonkotsu.</p>
 
-<h2 class="wp-block-heading">🟪 <strong>Final Thoughts: The Irresistible Spell of Ramen</strong></h2>
+<h2 id="final-thoughts-the-irresistible-spell-of" class="wp-block-heading">🟪 <strong>Final Thoughts: The Irresistible Spell of Ramen</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/Generated-Image-June-13-2025-7_20AM.jpeg" alt="" class="wp-image-1714"/></figure>
 

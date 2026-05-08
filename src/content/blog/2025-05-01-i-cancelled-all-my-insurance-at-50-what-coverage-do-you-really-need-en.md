@@ -5,6 +5,7 @@ slug: "i-cancelled-all-my-insurance-at-50-what-coverage-do-you-really-need-en"
 categories: ["prepared-life"]
 tags: ["reevaluating-insurance", "optimize-fixed-costs", "budgeting-in-your50s", "build-your-own-pension", "high-cost-medical-relief"]
 eyecatch: "/images/wp-content/uploads/2025/05/22c5f6a6c2363ad31476b4584654c4e2.png"
+sns_image_url: "/images/wp-content/uploads/2025/05/22c5f6a6c2363ad31476b4584654c4e2.png"
 lang: "en"
 excerpt: "A 50-something who cancelled every insurance policy shares what coverage you actually need — and how simplifying your premiums can clear both your budget and your mind."
 ---
@@ -16,7 +17,23 @@ excerpt: "A 50-something who cancelled every insurance policy shares what covera
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3 class="wp-block-heading">A News Headline That Hit Close to Home</h3>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#a-news-headline-that-hit-close-to-home">A News Headline That Hit Close to Home</a></li>
+<li><a href="#the-insurance-heavy-years">The Insurance-Heavy Years</a></li>
+<li><a href="#the-kids-are-out-on-their-own-time-to-re">The Kids Are Out on Their Own. Time to Reassess.</a></li>
+<li><a href="#from-personal-pension-to-index-funds">From Personal Pension to Index Funds</a></li>
+<li><a href="#savings-beat-insurance-for-medical-costs">Savings Beat Insurance for Medical Costs</a></li>
+<li><a href="#coverage-you-choose--not-coverage-you-in">Coverage You Choose — Not Coverage You Inherited</a></li>
+<li><a href="#the-day-a-news-story-confirmed-my-choice">The Day a News Story Confirmed My Choice</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h3 id="a-news-headline-that-hit-close-to-home" class="wp-block-heading">A News Headline That Hit Close to Home</h3>
 
 <p>Not long ago, a headline stopped me cold: "510,000 Personal Records Possibly Leaked from Insurance Broker."<br>The company in question was a well-known insurance consulting firm.</p>
 
@@ -28,7 +45,7 @@ excerpt: "A 50-something who cancelled every insurance policy shares what covera
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3 class="wp-block-heading">The Insurance-Heavy Years</h3>
+<h3 id="the-insurance-heavy-years" class="wp-block-heading">The Insurance-Heavy Years</h3>
 
 <p>When my two kids were small, I was covered for just about everything. Back then, it seemed like the responsible thing to do:</p>
 
@@ -42,7 +59,7 @@ excerpt: "A 50-something who cancelled every insurance policy shares what covera
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3 class="wp-block-heading">The Kids Are Out on Their Own. Time to Reassess.</h3>
+<h3 id="the-kids-are-out-on-their-own-time-to-re" class="wp-block-heading">The Kids Are Out on Their Own. Time to Reassess.</h3>
 
 <p>Both boys are now working adults. With just my wife and me in the house, I finally sat down and asked myself: "Do I really still need all of this?"</p>
 
@@ -65,7 +82,7 @@ excerpt: "A 50-something who cancelled every insurance policy shares what covera
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3 class="wp-block-heading">From Personal Pension to Index Funds</h3>
+<h3 id="from-personal-pension-to-index-funds" class="wp-block-heading">From Personal Pension to Index Funds</h3>
 
 <p>My old personal pension plan was set to pay out from age 65 — but when I actually ran the numbers on the management fees and projected returns, the picture wasn't pretty.<br>A low-cost index fund would almost certainly outperform it over the same period.</p>
 
@@ -75,7 +92,7 @@ excerpt: "A 50-something who cancelled every insurance policy shares what covera
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3 class="wp-block-heading">Savings Beat Insurance for Medical Costs</h3>
+<h3 id="savings-beat-insurance-for-medical-costs" class="wp-block-heading">Savings Beat Insurance for Medical Costs</h3>
 
 <p>Medical insurance sounds reassuring. But when I thought it through carefully:</p>
 
@@ -90,7 +107,7 @@ excerpt: "A 50-something who cancelled every insurance policy shares what covera
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3 class="wp-block-heading">Coverage You Choose — Not Coverage You Inherited</h3>
+<h3 id="coverage-you-choose--not-coverage-you-in" class="wp-block-heading">Coverage You Choose — Not Coverage You Inherited</h3>
 
 <p>I'm not saying everyone should cancel everything. But I do believe there's a real difference between intentionally choosing coverage and just keeping policies because "I've always had them."</p>
 
@@ -108,7 +125,7 @@ excerpt: "A 50-something who cancelled every insurance policy shares what covera
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3 class="wp-block-heading">The Day a News Story Confirmed My Choice</h3>
+<h3 id="the-day-a-news-story-confirmed-my-choice" class="wp-block-heading">The Day a News Story Confirmed My Choice</h3>
 
 <p>When I saw that data breach headline, it felt strangely validating — not because anything bad had happened to me, but because it served as a quiet reminder: decisions we make thoughtfully tend to hold up over time.</p>
 

@@ -6,6 +6,7 @@ categories: ["healing-walks"]
 tags: ["dog-friendly-hiking", "hidden-takao", "hikers-japan-guide", "michelin-takao", "mt-takao-alternative-route"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/06/PXL_20250613_004320163-scaled.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/06/PXL_20250613_004320163-scaled.jpg"
 excerpt: "A peaceful hike guide from Ura-Takao to Mt. Kobotoke-Shiroyama near Tokyo. Escape the crowds on this hidden trail that reveals the real Mt. Takao."
 ---
 
@@ -41,7 +42,15 @@ excerpt: "A peaceful hike guide from Ura-Takao to Mt. Kobotoke-Shiroyama near To
 <p>What I found instead was something unexpected and unforgettable:<br>a peaceful walk through whispering forests, the sound of streams at my side, and not a single tourist in sight.<br>Just nature, silence, and a slow-paced adventure — the kind that stays with you long after the hike ends.</p>
 </blockquote>
 
-<h2 class="wp-block-heading">🏞️ Chapter 1: Think Takao Is Just Crowds and Tourists? Think Again.</h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#chapter-1-think-takao-is-just-crowds-and">🏞️ Chapter 1: Think Takao Is Just Crowds and Tourists? Think Again.</a></li>  <li><a href="#chapter-2-a-creekside-welcome--nature-ta">🌿 Chapter 2: A Creekside Welcome — Nature Takes Over From the First Step</a></li>  <li><a href="#chapter-3-a-quiet-forest-road-going-up-a">🟩 Chapter 3: A Quiet Forest Road Going Up, and a Taste of Real Hiking Coming Down</a></li>  <li><a href="#chapter-4-at-the-top-of-mt-kobotoke-shir">🌳 Chapter 4: At the Top of Mt. Kobotoke-Shiroyama — Silence, Sky, and a Bit of Surprise</a></li>  <li><a href="#chapter-5-not-the-tourist-trail--real-st">🟩 Chapter 5: Not the Tourist Trail — Real Stillness Lives in the "Back" of Mt. Takao</a></li>  <li><a href="#chapter-6-how-to-find-the-quiet-side--ge">🚌🚗 Chapter 6: How to Find the Quiet Side — Getting to Hikagezawa Parking Area</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<h2 id="chapter-1-think-takao-is-just-crowds-and" class="wp-block-heading">🏞️ Chapter 1: Think Takao Is Just Crowds and Tourists? Think Again.</h2>
 
 <div class="wp-block-columns"><div class="wp-block-column" style="flex-basis:66.66%"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250613_005246010-scaled.jpg" alt="" class="wp-image-1738"/></figure>
 </div>
@@ -60,7 +69,7 @@ excerpt: "A peaceful hike guide from Ura-Takao to Mt. Kobotoke-Shiroyama near To
 
 <p>Skipping the main summit led me to something even more special:<br>a peaceful, uncrowded journey through what felt like Takao’s true soul.</p>
 
-<h2 class="wp-block-heading">🌿 Chapter 2: A Creekside Welcome — Nature Takes Over From the First Step</h2>
+<h2 id="chapter-2-a-creekside-welcome--nature-ta" class="wp-block-heading">🌿 Chapter 2: A Creekside Welcome — Nature Takes Over From the First Step</h2>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250613_010352998-scaled.jpg" alt="" class="wp-image-1728"/></figure>
 
@@ -76,7 +85,7 @@ excerpt: "A peaceful hike guide from Ura-Takao to Mt. Kobotoke-Shiroyama near To
 
 <p>Unlike the popular routes, this one didn’t shout for attention.<br>It whispered.<br>And in that whisper, the mountain gave us a gentle invitation —<br>to slow down, breathe deeply, and just <em>be</em>.</p>
 
-<h2 class="wp-block-heading">🟩 Chapter 3: A Quiet Forest Road Going Up, and a Taste of Real Hiking Coming Down</h2>
+<h2 id="chapter-3-a-quiet-forest-road-going-up-a" class="wp-block-heading">🟩 Chapter 3: A Quiet Forest Road Going Up, and a Taste of Real Hiking Coming Down</h2>
 
 <div class="wp-block-columns"><div class="wp-block-column" style="flex-basis:33.33%"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250613_020320759-scaled.jpg" alt="" class="wp-image-1729"/></figure>
 </div>
@@ -95,7 +104,7 @@ excerpt: "A peaceful hike guide from Ura-Takao to Mt. Kobotoke-Shiroyama near To
 
 <p>Climbing up on the paved path felt safe and gentle.<br>Coming down on the mountain trail brought us closer to nature.<br>Being able to balance both sides of the mountain — that’s the hidden beauty of the Ura-Takao route.</p>
 
-<h2 class="wp-block-heading">🌳 Chapter 4: At the Top of Mt. Kobotoke-Shiroyama — Silence, Sky, and a Bit of Surprise</h2>
+<h2 id="chapter-4-at-the-top-of-mt-kobotoke-shir" class="wp-block-heading">🌳 Chapter 4: At the Top of Mt. Kobotoke-Shiroyama — Silence, Sky, and a Bit of Surprise</h2>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250613_022627647-scaled.jpg" alt="" class="wp-image-1731"/></figure>
 
@@ -111,7 +120,7 @@ excerpt: "A peaceful hike guide from Ura-Takao to Mt. Kobotoke-Shiroyama near To
 
 <p>And you know what?<br>After all that walking, I <em>felt</em> like I’d burned some calories.<br>Did I actually lose weight? Probably not.<br>But hey — for a 50-something guy like me, just feeling that “I moved today” was enough.</p>
 
-<h2 class="wp-block-heading">🟩 Chapter 5: Not the Tourist Trail — Real Stillness Lives in the "Back" of Mt. Takao</h2>
+<h2 id="chapter-5-not-the-tourist-trail--real-st" class="wp-block-heading">🟩 Chapter 5: Not the Tourist Trail — Real Stillness Lives in the "Back" of Mt. Takao</h2>
 
 <div class="wp-block-columns"><div class="wp-block-column" style="flex-basis:33.33%"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250613_010344520-scaled.jpg" alt="" class="wp-image-1736"/></figure>
 
@@ -132,7 +141,7 @@ excerpt: "A peaceful hike guide from Ura-Takao to Mt. Kobotoke-Shiroyama near To
 
 <p>They say Mt. Takao was once called <strong>Reiki Manzan</strong> — “a mountain full of sacred energy.”<br>And here, in the silence of its lesser-known trails, I finally understood why.<br>It wasn’t just a walk. It felt like stepping into something ancient and still.</p>
 
-<h2 class="wp-block-heading">🚌🚗 Chapter 6: How to Find the Quiet Side — Getting to Hikagezawa Parking Area</h2>
+<h2 id="chapter-6-how-to-find-the-quiet-side--ge" class="wp-block-heading">🚌🚗 Chapter 6: How to Find the Quiet Side — Getting to Hikagezawa Parking Area</h2>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/06/PXL_20250613_003819009-scaled.jpg" alt="" class="wp-image-1725"/></figure>
 

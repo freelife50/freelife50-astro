@@ -6,6 +6,7 @@ categories: ["healing-walks"]
 tags: ["yushin-valley", "yushin-blue", "tanzawa-hike", "autumn-hike", "hiking-with-friends"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/11/PXL_20251108_011419317.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/11/PXL_20251108_011419317.jpg"
 excerpt: "Autumn hiking in Yushin Valley, Kanagawa. A reflective walk through Japan's hidden gorge with fall foliage, trail info, and scenic highlights."
 ---
 
@@ -17,7 +18,17 @@ excerpt: "Autumn hiking in Yushin Valley, Kanagawa. A reflective walk through Ja
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🏞️ Conclusion: Yushin Valley in November is Perfect for Friends!</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#conclusion-yushin-valley-in-november-is-">🏞️ Conclusion: Yushin Valley in November is Perfect for Friends!</a></li>  <li><a href="#a-53-year-old-and-his-annual-autumn-hike">🧢 A 53-Year-Old and His Annual Autumn Hike</a></li>  <li><a href="#yushin-valley-hike--quick-facts">🚶‍♂️ Yushin Valley Hike — Quick Facts</a></li>  <li><a href="#yushin-blue--beauty-beyond-words">💙 “Yushin Blue” — Beauty Beyond Words</a></li>  <li><a href="#what-to-bring">🎒 What to Bring</a></li>  <li><a href="#the-silent-story-of-the-abandoned-yushin">🏚️ The Silent Story of the Abandoned Yushin Lodge</a></li>  <li><a href="#after-the-hike--outdoor-hot-pot-and-nigh">🍲 After the Hike — Outdoor Hot Pot and Night Feast</a></li>  <li><a href="#in-the-end--i-just-want-to-walk-with-the">💬 In the End — I Just Want to Walk with Them Again Next Year</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="conclusion-yushin-valley-in-november-is-" class="wp-block-heading"><strong>🏞️ Conclusion: Yushin Valley in November is Perfect for Friends!</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251108_020918309.MP_.jpg" alt="" class="wp-image-2730"/></figure>
 
@@ -33,7 +44,7 @@ excerpt: "Autumn hiking in Yushin Valley, Kanagawa. A reflective walk through Ja
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🧢 A 53-Year-Old and His Annual Autumn Hike</strong></h2>
+<h2 id="a-53-year-old-and-his-annual-autumn-hike" class="wp-block-heading"><strong>🧢 A 53-Year-Old and His Annual Autumn Hike</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251108_004538941.MP_.jpg" alt="" class="wp-image-2720"/></figure>
 
@@ -55,7 +66,7 @@ excerpt: "Autumn hiking in Yushin Valley, Kanagawa. A reflective walk through Ja
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🚶‍♂️ Yushin Valley Hike — Quick Facts</strong></h2>
+<h2 id="yushin-valley-hike--quick-facts" class="wp-block-heading"><strong>🚶‍♂️ Yushin Valley Hike — Quick Facts</strong></h2>
 
 <p><strong>Start/End:</strong> Tanzawa Lake Lodge (Free parking near Kurokura Parking Lot)<br><strong>Distance:</strong> 20 km round trip<br><strong>Time Required:</strong> Around 7 hours<br><strong>Difficulty:</strong> More of a <em>long forest walk</em> than a climb<br><strong>Parking:</strong> Free (arrive early on weekends)<br>If full, check nearby paid lots around Tanzawa Lake.</p>
 
@@ -65,7 +76,7 @@ excerpt: "Autumn hiking in Yushin Valley, Kanagawa. A reflective walk through Ja
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>💙 “Yushin Blue” — Beauty Beyond Words</strong></h2>
+<h2 id="yushin-blue--beauty-beyond-words" class="wp-block-heading"><strong>💙 “Yushin Blue” — Beauty Beyond Words</strong></h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251108_011600537.jpg" alt="" class="wp-image-2722"/></figure>
 </div>
@@ -106,7 +117,7 @@ excerpt: "Autumn hiking in Yushin Valley, Kanagawa. A reflective walk through Ja
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🎒 What to Bring</strong></h2>
+<h2 id="what-to-bring" class="wp-block-heading"><strong>🎒 What to Bring</strong></h2>
 
 <p><strong>Essentials</strong><strong><br></strong> ・Headlamp (tunnels are pitch dark)<br>・1.5L+ of water and snacks<br>・Trekking shoes<br>・Bear bell or spray<br>・Warm layers</p>
 
@@ -125,7 +136,7 @@ excerpt: "Autumn hiking in Yushin Valley, Kanagawa. A reflective walk through Ja
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🏚️ The Silent Story of the Abandoned Yushin Lodge</strong></h2>
+<h2 id="the-silent-story-of-the-abandoned-yushin" class="wp-block-heading"><strong>🏚️ The Silent Story of the Abandoned Yushin Lodge</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251108_021041861.jpg" alt="" class="wp-image-2724"/></figure>
 
@@ -133,7 +144,7 @@ excerpt: "Autumn hiking in Yushin Valley, Kanagawa. A reflective walk through Ja
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🍲 After the Hike — Outdoor Hot Pot and Night Feast</strong></h2>
+<h2 id="after-the-hike--outdoor-hot-pot-and-nigh" class="wp-block-heading"><strong>🍲 After the Hike — Outdoor Hot Pot and Night Feast</strong></h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251108_083728648.jpg" alt="" class="wp-image-2725"/></figure>
 </div>
@@ -182,7 +193,7 @@ excerpt: "Autumn hiking in Yushin Valley, Kanagawa. A reflective walk through Ja
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>💬 In the End — I Just Want to Walk with Them Again Next Year</strong></h2>
+<h2 id="in-the-end--i-just-want-to-walk-with-the" class="wp-block-heading"><strong>💬 In the End — I Just Want to Walk with Them Again Next Year</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251108_021037640.jpg" alt="" class="wp-image-2733"/></figure>
 

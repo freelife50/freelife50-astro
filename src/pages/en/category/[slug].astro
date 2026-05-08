@@ -1,0 +1,54 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import PostCard from '../../../components/PostCard.astro';
+import Sidebar from '../../../components/Sidebar.astro';
+
+export async function getStaticPaths() {
+  const allPosts = await getCollection('blog');
+  // en.freelife50.com は英語記事のみ（lang: en）
+  const enPosts = allPosts.filter(p => p.data.lang === 'en');
+  const cats = new Set(enPosts.flatMap(p => p.data.categories));
+  return Array.from(cats).map(cat => ({
+    params: { slug: cat },
+    props: {
+      posts: enPosts
+        .filter(p => p.data.categories.includes(cat))
+        .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()),
+      cat,
+    },
+  }));
+}
+
+const { posts, cat } = Astro.props;
+
+const catNames: Record<string, string> = {
+  'blog-sidejob': 'Blogging & Side Hustles',
+  'life-with-momiji': 'Life with Momiji',
+  'prepared-life': 'Preparedness & Daily Life',
+  'healing-walks': 'Healing & Walks',
+  'society-issues-thoughts': 'Society, News & Reflections',
+  'shumi-taiken-etc': 'Hobbies, Experiences & More',
+  'food-nostalgia': 'Food & Nostalgia',
+};
+
+const catName = catNames[cat] || cat;
+---
+<BaseLayout title={`Category: ${catName}`} lang="en">
+  <div class="layout-wrap">
+    <div>
+      <h1 class="archive-heading">Category: <span>{catName}</span></h1>
+      {posts.map(post => (
+        <PostCard
+          title={post.data.title}
+          slug={post.data.slug}
+          date={post.data.date}
+          categories={post.data.categories}
+          eyecatch={post.data.eyecatch}
+          excerpt={post.data.excerpt}
+        />
+      ))}
+    </div>
+    <Sidebar lang="en" />
+  </div>
+</BaseLayout>

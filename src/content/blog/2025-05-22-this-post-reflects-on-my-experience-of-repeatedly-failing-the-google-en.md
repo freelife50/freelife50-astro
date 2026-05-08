@@ -5,12 +5,22 @@ slug: "this-post-reflects-on-my-experience-of-repeatedly-failing-the-google-en"
 categories: ["blog-sidejob"]
 tags: ["ad-sense-review", "blogging-tips", "side-hustle-challenge", "blogging-in-my50s", "blogging-with-ai"]
 eyecatch: "/images/wp-content/uploads/2025/05/33bd9b3a6f5d9efbcccb70af35315f81.png"
+sns_image_url: "/images/wp-content/uploads/2025/05/33bd9b3a6f5d9efbcccb70af35315f81.png"
 lang: "en"
 excerpt: "“You Said It Was Easy…? The Gap Between YouTube and Reality”"
 ---
+<h2 id="main-content">Main Text</h2>
+
 
 <p>🕒 About 2 minutes to read.</p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<nav id="toc" class="post-toc">
+<p><strong>Table of Contents</strong></p>
+<ul>
+<li><a href="#main-content">Main Text</a></li>
+</ul>
+</nav>
 
 <p><strong>“You Said It Was Easy…? The Gap Between YouTube and Reality”</strong></p>
 
@@ -73,3 +83,10 @@ excerpt: "“You Said It Was Easy…? The Gap Between YouTube and Reality”"
 <p>💬 <em>Three months. That was the deal. And somehow, it became my space—my small piece of the internet. Maybe I’ll give up someday. But not today. Today, I’m still standing in the ring.</em></p>
 
 <p><strong>💬 <em>If this post resonated with you even a little, feel free to check out my other stories too—featuring side hustles, a fluffy Shiba, and conversations with my AI buddy Chappy.</em></strong></p>
+
+<blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
+<ul class="wp-block-list">
+<li><a href="https://freelife50.com/iijmio-1year-report-en/">One Year with IIJmio: I Said '$30/Month for 4 People' — Here's the Honest Truth</a></li>
+<li><a href="https://freelife50.com/the-night-i-ran-out-of-blog-ideas-i-decided-to-become-a-beer-livestreamer/">Blogging Tips: What Happens When You Run Out of Ideas — I Became a Beer Livestreamer</a></li>
+<li><a href="https://freelife50.com/a-man-in-his-50s-torn-between-ai-subscriptions/">ChatGPT vs Gemini vs Claude: How a 50-Year-Old Found the Best AI Subscription Split</a></li>
+</ul></blockquote>

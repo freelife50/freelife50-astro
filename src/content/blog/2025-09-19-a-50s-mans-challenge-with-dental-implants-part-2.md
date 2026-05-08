@@ -6,6 +6,7 @@ categories: ["prepared-life"]
 tags: ["dental-anxiety", "dental-cost", "dental-implant", "health-in-your-50s", "medical-expense-deduction-japan"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-19T08_04_36.221Z.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-19T08_04_36.221Z.jpg"
 excerpt: "─ The Day I Almost Cried During Wisdom Tooth Extraction ─ 📖 Reading Time: ~10 minutes ■ Who This Blog Is For Anyone abo"
 ---
 
@@ -25,9 +26,19 @@ excerpt: "─ The Day I Almost Cried During Wisdom Tooth Extraction ─ 📖 Rea
 </ul>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#talking-with-the-dentist-before-extracti">Talking with the Dentist Before Extraction</a></li>  <li><a href="#chicken-old-man-on-the-chopping-board">Chicken Old Man on the Chopping Board</a></li>  <li><a href="#the-truth-about-anesthesia-and-extractio">The Truth About Anesthesia and Extraction</a></li>  <li><a href="#my-options-going-forward">My Options Going Forward</a></li>  <li><a href="#why-i-lean-toward-non-clasp-dentures">Why I Lean Toward Non-Clasp Dentures</a></li>  <li><a href="#financial-worries-and-the-medical-expens">Financial Worries and the Medical Expense Deduction</a></li>  <li><a href="#life-is-always-full-of-events">Life Is Always Full of Events</a></li>  <li><a href="#summary-amp-next-episode">Summary &amp; Next Episode</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
 </blockquote>
 
-<h2 class="wp-block-heading"><strong>Talking with the Dentist Before Extraction</strong></h2>
+<h2 id="talking-with-the-dentist-before-extracti" class="wp-block-heading"><strong>Talking with the Dentist Before Extraction</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-19T08_11_26.079Z.jpg" alt="" class="wp-image-2293"/></figure>
 
@@ -51,7 +62,7 @@ excerpt: "─ The Day I Almost Cried During Wisdom Tooth Extraction ─ 📖 Rea
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Chicken Old Man on the Chopping Board</strong></h2>
+<h2 id="chicken-old-man-on-the-chopping-board" class="wp-block-heading"><strong>Chicken Old Man on the Chopping Board</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-19T08_17_10.575Z.jpg" alt="" class="wp-image-2294"/></figure>
 
@@ -70,7 +81,7 @@ excerpt: "─ The Day I Almost Cried During Wisdom Tooth Extraction ─ 📖 Rea
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>The Truth About Anesthesia and Extraction</strong></h2>
+<h2 id="the-truth-about-anesthesia-and-extractio" class="wp-block-heading"><strong>The Truth About Anesthesia and Extraction</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-19T08_19_24.915Z.jpg" alt="" class="wp-image-2295"/></figure>
 
@@ -100,7 +111,7 @@ excerpt: "─ The Day I Almost Cried During Wisdom Tooth Extraction ─ 📖 Rea
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>My Options Going Forward</strong></h2>
+<h2 id="my-options-going-forward" class="wp-block-heading"><strong>My Options Going Forward</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-19T08_22_50.600Z.jpg" alt="" class="wp-image-2296"/></figure>
 
@@ -135,7 +146,7 @@ excerpt: "─ The Day I Almost Cried During Wisdom Tooth Extraction ─ 📖 Rea
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Why I Lean Toward Non-Clasp Dentures</strong></h2>
+<h2 id="why-i-lean-toward-non-clasp-dentures" class="wp-block-heading"><strong>Why I Lean Toward Non-Clasp Dentures</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-19T08_25_04.603Z.jpg" alt="" class="wp-image-2297"/></figure>
 
@@ -171,7 +182,7 @@ excerpt: "─ The Day I Almost Cried During Wisdom Tooth Extraction ─ 📖 Rea
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Financial Worries and the Medical Expense Deduction</strong></h2>
+<h2 id="financial-worries-and-the-medical-expens" class="wp-block-heading"><strong>Financial Worries and the Medical Expense Deduction</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-19T08_28_09.671Z.jpg" alt="" class="wp-image-2298"/></figure>
 
@@ -219,7 +230,7 @@ excerpt: "─ The Day I Almost Cried During Wisdom Tooth Extraction ─ 📖 Rea
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Life Is Always Full of Events</strong></h2>
+<h2 id="life-is-always-full-of-events" class="wp-block-heading"><strong>Life Is Always Full of Events</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-19T08_30_45.319Z.jpg" alt="" class="wp-image-2299"/></figure>
 
@@ -233,7 +244,7 @@ excerpt: "─ The Day I Almost Cried During Wisdom Tooth Extraction ─ 📖 Rea
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Summary &amp; Next Episode</strong></h2>
+<h2 id="summary-amp-next-episode" class="wp-block-heading"><strong>Summary &amp; Next Episode</strong></h2>
 
 <ul class="wp-block-list"><li>Wisdom tooth extraction felt like a life event for me.<br></li>
 

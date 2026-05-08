@@ -6,6 +6,7 @@ categories: ["healing-walks"]
 tags: ["fitness-in-my50s", "public-pool-life", "weekday-swimming", "healthy-habits", "keep-moving"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/11/Gemini_Generated_Image_ipmpq7ipmpq7ipmp.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/11/Gemini_Generated_Image_ipmpq7ipmpq7ipmp.jpg"
 excerpt: "Why swimming in your 50s is the best exercise you're not doing. How this middle-aged beginner became the pool's \"rookie star\" in Japan."
 ---
 
@@ -44,7 +45,17 @@ excerpt: "Why swimming in your 50s is the best exercise you're not doing. How th
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>■ Weekday Pools: A World of Their Own</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#weekday-pools-a-world-of-their-own">■ Weekday Pools: A World of Their Own</a></li>  <li><a href="#the-generational-breakdown-inside-the-po">■ The Generational Breakdown Inside the Pool</a></li>  <li><a href="#the-strongest-opponent-the-wet-capybara-">■ The Strongest Opponent: The Wet Capybara Squad</a></li>  <li><a href="#ill-be-honest-their-relaxed-vibe-sometim">■ I’ll Be Honest: Their Relaxed Vibe Sometimes Annoys Me</a></li>  <li><a href="#their-era-and-mine-are-completely-differ">■ Their Era and Mine Are Completely Different</a></li>  <li><a href="#stilltheir-persistence-is-really-somethi">■ Still—Their Persistence Is Really Something</a></li>  <li><a href="#so-ill-keep-swimmingcomplaints-and-all">■ So I’ll Keep Swimming—Complaints and All</a></li>  <li><a href="#one-last-thing">■ One Last Thing</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="weekday-pools-a-world-of-their-own" class="wp-block-heading"><strong>■ Weekday Pools: A World of Their Own</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_olw9l3olw9l3olw9.jpg" alt="" class="wp-image-2828"/></figure>
 
@@ -73,7 +84,7 @@ excerpt: "Why swimming in your 50s is the best exercise you're not doing. How th
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>■ The Generational Breakdown Inside the Pool</strong></h2>
+<h2 id="the-generational-breakdown-inside-the-po" class="wp-block-heading"><strong>■ The Generational Breakdown Inside the Pool</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_3cezto3cezto3cez.jpg" alt="" class="wp-image-2830"/></figure>
 
@@ -98,7 +109,7 @@ excerpt: "Why swimming in your 50s is the best exercise you're not doing. How th
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>■ The Strongest Opponent: The Wet Capybara Squad</strong></h2>
+<h2 id="the-strongest-opponent-the-wet-capybara-" class="wp-block-heading"><strong>■ The Strongest Opponent: The Wet Capybara Squad</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_y4zupey4zupey4zu.jpg" alt="" class="wp-image-2831"/></figure>
 
@@ -139,7 +150,7 @@ excerpt: "Why swimming in your 50s is the best exercise you're not doing. How th
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>■ I’ll Be Honest: Their Relaxed Vibe Sometimes Annoys Me</strong></h2>
+<h2 id="ill-be-honest-their-relaxed-vibe-sometim" class="wp-block-heading"><strong>■ I’ll Be Honest: Their Relaxed Vibe Sometimes Annoys Me</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/11/Image_fx-4.jpg" alt="" class="wp-image-2832"/></figure>
 
@@ -155,7 +166,7 @@ excerpt: "Why swimming in your 50s is the best exercise you're not doing. How th
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>■ Their Era and Mine Are Completely Different</strong></h2>
+<h2 id="their-era-and-mine-are-completely-differ" class="wp-block-heading"><strong>■ Their Era and Mine Are Completely Different</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_acnw65acnw65acnw.jpg" alt="" class="wp-image-2833"/></figure>
 
@@ -186,7 +197,7 @@ excerpt: "Why swimming in your 50s is the best exercise you're not doing. How th
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>■ Still—Their Persistence Is Really Something</strong></h2>
+<h2 id="stilltheir-persistence-is-really-somethi" class="wp-block-heading"><strong>■ Still—Their Persistence Is Really Something</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/11/Image_fx-1-2.jpg" alt="" class="wp-image-2834"/></figure>
 
@@ -202,7 +213,7 @@ excerpt: "Why swimming in your 50s is the best exercise you're not doing. How th
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>■ So I’ll Keep Swimming—Complaints and All</strong></h2>
+<h2 id="so-ill-keep-swimmingcomplaints-and-all" class="wp-block-heading"><strong>■ So I’ll Keep Swimming—Complaints and All</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_5u0pq55u0pq55u0p.jpg" alt="" class="wp-image-2835"/></figure>
 
@@ -225,7 +236,7 @@ excerpt: "Why swimming in your 50s is the best exercise you're not doing. How th
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>■ One Last Thing</strong></h2>
+<h2 id="one-last-thing" class="wp-block-heading"><strong>■ One Last Thing</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/Image_fx-3-1.jpg" alt="" class="wp-image-2836"/></figure>
 

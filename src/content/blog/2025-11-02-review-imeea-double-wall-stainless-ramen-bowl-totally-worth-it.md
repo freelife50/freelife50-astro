@@ -6,6 +6,7 @@ categories: ["food-nostalgia"]
 tags: ["50s-lifestyle", "double-wall", "everyday-comfort", "food-life", "imeea"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/10/Image_fx-4.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/10/Image_fx-4.jpg"
 excerpt: "Honest review of the IMEEA double-wall stainless steel ramen bowl. Heat retention, design, and whether it's worth the investment for ramen lovers."
 ---
 

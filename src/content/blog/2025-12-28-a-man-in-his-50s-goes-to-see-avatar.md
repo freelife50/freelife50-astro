@@ -6,6 +6,7 @@ categories: ["shumi-taiken-etc"]
 tags: ["3d-movie", "50s", "avatar", "bathroom-issues", "cinema"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/12/Gemini_Generated_Image_dx8hyidx8hyidx8h.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/12/Gemini_Generated_Image_dx8hyidx8hyidx8h.jpg"
 excerpt: "Less emotion, more experience. Reading time: about 3 minutes Who this is for People wondering what to do on a rainy week"
 ---
 
@@ -44,7 +45,17 @@ excerpt: "Less emotion, more experience. Reading time: about 3 minutes Who this 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>The battle with my bladder begins</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#the-battle-with-my-bladder-begins">The battle with my bladder begins</a></li>  <li><a href="#becoming-a-strange-man-from-the-near-fut">Becoming a strange man from the near future</a></li>  <li><a href="#more-attraction-than-story">More attraction than story</a></li>  <li><a href="#the-movie-theater-as-an-experience">The movie theater as an experience</a></li>  <li><a href="#the-biggest-moment-of-relief">The biggest moment of relief</a></li>  <li><a href="#let-me-ask-you">Let me ask you</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="the-battle-with-my-bladder-begins" class="wp-block-heading"><strong>The battle with my bladder begins</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_iv9j3civ9j3civ9j.jpg" alt="" class="wp-image-2943"/></figure>
 
@@ -58,7 +69,7 @@ excerpt: "Less emotion, more experience. Reading time: about 3 minutes Who this 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Becoming a strange man from the near future</strong></h2>
+<h2 id="becoming-a-strange-man-from-the-near-fut" class="wp-block-heading"><strong>Becoming a strange man from the near future</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_wsyxw3wsyxw3wsyx.jpg" alt="" class="wp-image-2945"/></figure>
 
@@ -70,7 +81,7 @@ excerpt: "Less emotion, more experience. Reading time: about 3 minutes Who this 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>More attraction than story</strong></h2>
+<h2 id="more-attraction-than-story" class="wp-block-heading"><strong>More attraction than story</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_8d24yz8d24yz8d24.jpg" alt="" class="wp-image-2947"/></figure>
 
@@ -92,7 +103,7 @@ excerpt: "Less emotion, more experience. Reading time: about 3 minutes Who this 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>The movie theater as an experience</strong></h2>
+<h2 id="the-movie-theater-as-an-experience" class="wp-block-heading"><strong>The movie theater as an experience</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_w3of99w3of99w3of.jpg" alt="" class="wp-image-2949"/></figure>
 
@@ -108,7 +119,7 @@ excerpt: "Less emotion, more experience. Reading time: about 3 minutes Who this 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>The biggest moment of relief</strong></h2>
+<h2 id="the-biggest-moment-of-relief" class="wp-block-heading"><strong>The biggest moment of relief</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_iflvvwiflvvwiflv.jpg" alt="" class="wp-image-2951"/></figure>
 
@@ -130,7 +141,7 @@ excerpt: "Less emotion, more experience. Reading time: about 3 minutes Who this 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Let me ask you</strong></h2>
+<h2 id="let-me-ask-you" class="wp-block-heading"><strong>Let me ask you</strong></h2>
 
 <p>How do <em>you</em> survive long movies?<br>If you have any good bathroom strategies,<br>please let me know.</p>
 

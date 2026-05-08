@@ -6,6 +6,7 @@ categories: ["prepared-life"]
 tags: ["50s-health", "dental-hygiene", "gum-care", "oral-care", "periodontal-care"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/10/20251004_1707_Cosmic-Oral-Cleansing_simple_compose_01k6q437yte0684jtj3qbkj3s8.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/10/20251004_1707_Cosmic-Oral-Cleansing_simple_compose_01k6q437yte0684jtj3qbkj3s8.jpg"
 excerpt: "How I recovered from severe gum disease in just 3 weeks using a dual toothpaste and toothbrush routine. A 50-year-old's honest dental health recovery "
 ---
 
@@ -39,7 +40,17 @@ excerpt: "How I recovered from severe gum disease in just 3 weeks using a dual t
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>1. Why two types of toothpaste? — Different roles</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#1-why-two-types-of-toothpaste--different">1. Why two types of toothpaste? — Different roles</a></li>  <li><a href="#2-product-1-dent-systema-sp-t-gel-night-">2. Product #1: DENT. Systema SP-T Gel [Night Defense Barrier]</a></li>  <li><a href="#3-product-2-kobayashi-pharmaceutical-sei">3. Product #2: Kobayashi Pharmaceutical Seiyouba EX [Morning/Day Reset]</a></li>  <li><a href="#4-my-dual-routine--morning-daytime-night">4. My “Dual Routine” — Morning, Daytime, Night Practice</a></li>  <li><a href="#5-3-dramatic-changes-my-real-experience">5. 3 Dramatic Changes (my real experience)</a></li>  <li><a href="#6-how-to-keep-going-amp-mistakes-to-avoi">6. How to Keep Going &amp; Mistakes to Avoid</a></li>  <li><a href="#7-faq-common-questions">7. FAQ: Common Questions</a></li>  <li><a href="#8-final-thoughts-extraction-is-the-last-">8. Final Thoughts: Extraction is the Last Resort</a></li>  <li><a href="#product">product</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="1-why-two-types-of-toothpaste--different" class="wp-block-heading"><strong>1. Why two types of toothpaste? — Different roles</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/Gemini_Generated_Image_l2e1rbl2e1rbl2e1.jpg" alt="" class="wp-image-2422"/></figure>
 
@@ -56,7 +67,7 @@ excerpt: "How I recovered from severe gum disease in just 3 weeks using a dual t
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>2. Product #1: DENT. Systema SP-T Gel [Night Defense Barrier]</strong></h2>
+<h2 id="2-product-1-dent-systema-sp-t-gel-night-" class="wp-block-heading"><strong>2. Product #1: DENT. Systema SP-T Gel [Night Defense Barrier]</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/Gemini_Generated_Image_18e2pt18e2pt18e2.jpg" alt="" class="wp-image-2414"/></figure>
 
@@ -91,7 +102,7 @@ excerpt: "How I recovered from severe gum disease in just 3 weeks using a dual t
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>3. Product #2: Kobayashi Pharmaceutical Seiyouba EX [Morning/Day Reset]</strong></h2>
+<h2 id="3-product-2-kobayashi-pharmaceutical-sei" class="wp-block-heading"><strong>3. Product #2: Kobayashi Pharmaceutical Seiyouba EX [Morning/Day Reset]</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/Gemini_Generated_Image_6klvmp6klvmp6klv.jpg" alt="" class="wp-image-2415"/></figure>
 
@@ -119,7 +130,7 @@ excerpt: "How I recovered from severe gum disease in just 3 weeks using a dual t
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>4. My “Dual Routine” — Morning, Daytime, Night Practice</strong></h2>
+<h2 id="4-my-dual-routine--morning-daytime-night" class="wp-block-heading"><strong>4. My “Dual Routine” — Morning, Daytime, Night Practice</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/Gemini_Generated_Image_4hizgw4hizgw4hiz.jpg" alt="" class="wp-image-2413"/></figure>
 
@@ -168,7 +179,7 @@ excerpt: "How I recovered from severe gum disease in just 3 weeks using a dual t
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>5. 3 Dramatic Changes (my real experience)</strong></h2>
+<h2 id="5-3-dramatic-changes-my-real-experience" class="wp-block-heading"><strong>5. 3 Dramatic Changes (my real experience)</strong></h2>
 
 <ul class="wp-block-list"><li><strong>Looseness decreased:</strong> “Wobbling” molars became stable<br></li>
 
@@ -183,7 +194,7 @@ excerpt: "How I recovered from severe gum disease in just 3 weeks using a dual t
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>6. How to Keep Going &amp; Mistakes to Avoid</strong></h2>
+<h2 id="6-how-to-keep-going-amp-mistakes-to-avoi" class="wp-block-heading"><strong>6. How to Keep Going &amp; Mistakes to Avoid</strong></h2>
 
 <p><strong>Tips</strong></p>
 
@@ -213,7 +224,7 @@ excerpt: "How I recovered from severe gum disease in just 3 weeks using a dual t
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>7. FAQ: Common Questions</strong></h2>
+<h2 id="7-faq-common-questions" class="wp-block-heading"><strong>7. FAQ: Common Questions</strong></h2>
 
 <p><strong>Q. Do I need to use both every time?</strong><strong><br></strong> A. Alternating is fine. But night = SP-T priority.</p>
 
@@ -227,7 +238,7 @@ excerpt: "How I recovered from severe gum disease in just 3 weeks using a dual t
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>8. Final Thoughts: Extraction is the </strong><strong><em>Last Resort</em></strong></h2>
+<h2 id="8-final-thoughts-extraction-is-the-last-" class="wp-block-heading"><strong>8. Final Thoughts: Extraction is the </strong><strong><em>Last Resort</em></strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/Gemini_Generated_Image_dzcp3ndzcp3ndzcp.jpg" alt="" class="wp-image-2416"/></figure>
 
@@ -243,7 +254,7 @@ excerpt: "How I recovered from severe gum disease in just 3 weeks using a dual t
 
 <p><strong>“Lifelong player — even my teeth are still in the game!”</strong></p>
 
-<h2 class="wp-block-heading">product</h2>
+<h2 id="product" class="wp-block-heading">product</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/Gemini_Generated_Image_u5mzdru5mzdru5mz.jpg" alt="" class="wp-image-2412"/></figure>
 

@@ -5,12 +5,22 @@ slug: "it-offers-helpful-insights-especially-for-middle-aged-and-older-en"
 categories: ["food-nostalgia"]
 tags: ["buddhistculture", "healthyliving", "japanesefoodtradition", "konjac", "mindfuleating"]
 eyecatch: "/images/wp-content/uploads/2025/05/Gemini_Generated_Image_px3ljcpx3ljcpx3l.png"
+sns_image_url: "/images/wp-content/uploads/2025/05/Gemini_Generated_Image_px3ljcpx3ljcpx3l.png"
 lang: "en"
 excerpt: "In Buddhist cuisine, konjac became the ultimate stand-in for meat—chewy, pure, and full of meaning.It wasn’t just a substitute. It was a symbol of living with..."
 ---
+<h2 id="main-content">Main Text</h2>
+
 
 <p>🕒 About 1 minutes to read.</p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<nav id="toc" class="post-toc">
+<p><strong>Table of Contents</strong></p>
+<ul>
+<li><a href="#main-content">Main Text</a></li>
+</ul>
+</nav>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/Gemini_Generated_Image_9tjzm89tjzm89tjz.png" alt="" class="wp-image-1274"/></figure>
 
@@ -69,3 +79,10 @@ excerpt: "In Buddhist cuisine, konjac became the ultimate stand-in for meat—ch
 
 <blockquote class="wp-block-quote"><p><em>Konjac isn’t flashy. It doesn’t beg for attention.<br>But it has stood the test of time—carried by monks, loved by commoners, and rediscovered by health seekers.<br>No, I can’t eat it every day. The taste is mild, the texture strange. But maybe that’s the point.<br>It reminds me to pause, to reflect, and to balance my life—one bite at a time.</em></p>
 </blockquote>
+
+<blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
+<ul class="wp-block-list">
+<li><a href="https://freelife50.com/i-cant-stop-thinking-about-chan-kei-ramen-en/">🍜 I Can’t Stop Thinking About “Chan-Kei” Ramen!</a></li>
+<li><a href="https://freelife50.com/closed-hachioji-taishoken/">Hachioji Taishoken (Closed): My Last Bowl of Miso at a Legendary Ramen Shop</a></li>
+<li><a href="https://freelife50.com/review-imeea-double-wall-stainless-ramen-bowl-totally-worth-it/">IMEEA Double-Wall Ramen Bowl Review: Best Insulated Bowl for Japanese Noodles</a></li>
+</ul></blockquote>

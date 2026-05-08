@@ -6,6 +6,7 @@ categories: ["life-with-momiji", "shumi-taiken-etc"]
 tags: ["customfigurine", "petmemorial", "shiba-inu", "digxipop", "giftideas"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/04/digxipop-eyecatch.jpg"
+sns_image_url: "/images/wp-content/uploads/2026/04/digxipop-eyecatch.jpg"
 excerpt: "About 7 min read Hi, I'm Hiroshi. Every time I stand in front of the family altar, something lingers. The photos of my l"
 ---
 
@@ -35,7 +36,17 @@ excerpt: "About 7 min read Hi, I'm Hiroshi. Every time I stand in front of the f
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">My Late Parents on the Buddhist Altar</h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#my-late-parents-on-the-buddhist-altar">My Late Parents on the Buddhist Altar</a></li>  <li><a href="#i-also-want-a-figurine-of-momiji">I Also Want a Figurine of Momiji</a></li>  <li><a href="#what-is-digxipop-prices-and-how-it-works">What Is digxipop? Prices and How It Works</a></li>  <li><a href="#tips-for-a-good-result">Tips for a Good Result</a></li>  <li><a href="#when-does-this-make-sense">When Does This Make Sense?</a></li>  <li><a href="#final-thoughts">Final Thoughts</a></li>  <li><a href="#related-posts">Related Posts</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="my-late-parents-on-the-buddhist-altar" class="wp-block-heading">My Late Parents on the Buddhist Altar</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/digxipop-butsudan.jpg" alt="custom figurines of an elderly couple placed on a Japanese home altar" class="wp-image-4096"/></figure>
 
@@ -47,7 +58,7 @@ excerpt: "About 7 min read Hi, I'm Hiroshi. Every time I stand in front of the f
 
 <p>Would it feel more like they're actually in the room? Probably irrational. But the thought stayed with me.</p>
 
-<h2 class="wp-block-heading">I Also Want a Figurine of Momiji</h2>
+<h2 id="i-also-want-a-figurine-of-momiji" class="wp-block-heading">I Also Want a Figurine of Momiji</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/digxipop-shibainu.jpg" alt="Shiba Inu dog next to a small custom dog figurine" class="wp-image-4097"/></figure>
 
@@ -59,7 +70,7 @@ excerpt: "About 7 min read Hi, I'm Hiroshi. Every time I stand in front of the f
 
 <p>A palm-sized Momiji on the shelf. I wonder what it would feel like.</p>
 
-<h2 class="wp-block-heading">What Is digxipop? Prices and How It Works</h2>
+<h2 id="what-is-digxipop-prices-and-how-it-works" class="wp-block-heading">What Is digxipop? Prices and How It Works</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/digxipop-product.jpg" alt="custom 3D figurines on a clean white surface" class="wp-image-4098"/></figure>
 
@@ -73,7 +84,7 @@ excerpt: "About 7 min read Hi, I'm Hiroshi. Every time I stand in front of the f
 
 <a href="https://px.a8.net/svt/ejp?a8mat=4B1KXL+8EG836+5V36+5YRHE" rel="nofollow">【digxipop official site】</a>
 
-<h2 class="wp-block-heading">Tips for a Good Result</h2>
+<h2 id="tips-for-a-good-result" class="wp-block-heading">Tips for a Good Result</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/digxipop-photo.jpg" alt="person taking a well-lit straight-on portrait for a figurine" class="wp-image-4099"/></figure>
 
@@ -83,7 +94,7 @@ excerpt: "About 7 min read Hi, I'm Hiroshi. Every time I stand in front of the f
 
 <p>For pets, a clear face-on shot is especially important. This made me want to start taking better photos of Momiji now — just in case.</p>
 
-<h2 class="wp-block-heading">When Does This Make Sense?</h2>
+<h2 id="when-does-this-make-sense" class="wp-block-heading">When Does This Make Sense?</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/digxipop-gift.jpg" alt="person wrapping a custom figurine as a thoughtful gift" class="wp-image-4100"/></figure>
 
@@ -95,7 +106,7 @@ excerpt: "About 7 min read Hi, I'm Hiroshi. Every time I stand in front of the f
 
 <a href="https://px.a8.net/svt/ejp?a8mat=4B1KXL+8EG836+5V36+5YZ75" rel="nofollow"><img border="0" width="300" height="250" alt="" src="https://www28.a8.net/svt/bgt?aid=260414265508&wid=001&eno=01&mid=s00000027357001003000&mc=1"></a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4B1KXL+8EG836+5V36+5YZ75" alt="">
 
-<h2 class="wp-block-heading">Final Thoughts</h2>
+<h2 id="final-thoughts" class="wp-block-heading">Final Thoughts</h2>
 <p>I haven't ordered yet. Still turning it over.</p>
 
 <p>But the image of a small figurine of my parents — or of Momiji — has quietly taken root.</p>
@@ -106,7 +117,7 @@ excerpt: "About 7 min read Hi, I'm Hiroshi. Every time I stand in front of the f
 
 <a href="https://px.a8.net/svt/ejp?a8mat=4B1KXL+8EG836+5V36+5YRHE" rel="nofollow">【digxipop official site】</a>
 
-<h2>Related Posts</h2>
+<h2 id="related-posts">Related Posts</h2>
 
 <ul>
 <li><a href="https://en.freelife50.com/momiji-rabies-vaccine-en/">The Day I Took Momiji for Her Rabies Shot — She Knew</a></li>

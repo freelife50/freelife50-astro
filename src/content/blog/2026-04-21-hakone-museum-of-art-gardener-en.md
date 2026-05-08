@@ -6,6 +6,7 @@ categories: ["healing-walks"]
 tags: ["hakone", "hakone-museum-of-art", "moss-garden", "japan-garden", "travel-in-your-50s"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/04/01_eyecatch_window_view.jpg"
+sns_image_url: "/images/wp-content/uploads/2026/04/01_eyecatch_window_view.jpg"
 excerpt: "About 7 minutes Hi, I&#8217;m Hiroshi. You know that feeling when you&#8217;re on a day off, ready to go somewhere fun —"
 ---
 
@@ -42,7 +43,17 @@ excerpt: "About 7 minutes Hi, I&#8217;m Hiroshi. You know that feeling when you&
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">The Zoo Was Rejected. Hakone Museum of Art It Was.</h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#the-zoo-was-rejected-hakone-museum-of-ar">The Zoo Was Rejected. Hakone Museum of Art It Was.</a></li>  <li><a href="#a-place-that-feels-like-old-japan">A Place That Feels Like Old Japan</a></li>  <li><a href="#honestly-the-pottery-didn8217t-grab-me">Honestly, the Pottery Didn&#8217;t Grab Me</a></li>  <li><a href="#wait--hakone-has-a-daimonji-fire-festiva">Wait — Hakone Has a Daimonji Fire Festival?</a></li>  <li><a href="#the-people-crouching-in-the-moss-garden-">The People Crouching in the Moss Garden Stayed with Me</a></li>  <li><a href="#the-beauty-that-human-hands-pass-down">The Beauty That Human Hands Pass Down</a></li>  <li><a href="#in-closing">In Closing</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="the-zoo-was-rejected-hakone-museum-of-ar" class="wp-block-heading">The Zoo Was Rejected. Hakone Museum of Art It Was.</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/02_entrance_sign.jpg" alt="Hakone Museum of Art entrance sign" class="wp-image-4045"/></figure>
 
@@ -68,7 +79,7 @@ excerpt: "About 7 minutes Hi, I&#8217;m Hiroshi. You know that feeling when you&
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">A Place That Feels Like Old Japan</h2>
+<h2 id="a-place-that-feels-like-old-japan" class="wp-block-heading">A Place That Feels Like Old Japan</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/03_building_teahouse.jpg" alt="Hakone Museum of Art retro Japanese building" class="wp-image-4057"/></figure>
 
@@ -88,7 +99,7 @@ excerpt: "About 7 minutes Hi, I&#8217;m Hiroshi. You know that feeling when you&
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Honestly, the Pottery Didn&#8217;t Grab Me</h2>
+<h2 id="honestly-the-pottery-didn8217t-grab-me" class="wp-block-heading">Honestly, the Pottery Didn&#8217;t Grab Me</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/04_exhibit_pots.jpg" alt="Hakone Museum of Art ceramic exhibit" class="wp-image-4046"/></figure>
 
@@ -102,7 +113,7 @@ excerpt: "About 7 minutes Hi, I&#8217;m Hiroshi. You know that feeling when you&
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Wait — Hakone Has a <em>Daimonji</em> Fire Festival?</h2>
+<h2 id="wait--hakone-has-a-daimonji-fire-festiva" class="wp-block-heading">Wait — Hakone Has a <em>Daimonji</em> Fire Festival?</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/05_daimonji_mountain.jpg" alt="Myojogatake mountain Daimonji Hakone" class="wp-image-4047"/></figure>
 
@@ -118,7 +129,7 @@ excerpt: "About 7 minutes Hi, I&#8217;m Hiroshi. You know that feeling when you&
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">The People Crouching in the Moss Garden Stayed with Me</h2>
+<h2 id="the-people-crouching-in-the-moss-garden-" class="wp-block-heading">The People Crouching in the Moss Garden Stayed with Me</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/06_gardener_work.jpg" alt="Gardeners working in Hakone moss garden" class="wp-image-4048"/></figure>
 
@@ -144,7 +155,7 @@ excerpt: "About 7 minutes Hi, I&#8217;m Hiroshi. You know that feeling when you&
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">The Beauty That Human Hands Pass Down</h2>
+<h2 id="the-beauty-that-human-hands-pass-down" class="wp-block-heading">The Beauty That Human Hands Pass Down</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/10_garden_old_tree_FIXED.jpg" alt="An ancient gnarled tree rooted in the moss garden at Hakone Museum of Art, tended for over 70 years" class="wp-image-4080"/></figure>
 
@@ -175,7 +186,7 @@ excerpt: "About 7 minutes Hi, I&#8217;m Hiroshi. You know that feeling when you&
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">In Closing</h2>
+<h2 id="in-closing" class="wp-block-heading">In Closing</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/11_window_mountain_view_FIXED.jpg" alt="A person looking out at the Hakone mountains through a large window at the museum. Clear blue sky and green hills." class="wp-image-4081"/></figure>
 

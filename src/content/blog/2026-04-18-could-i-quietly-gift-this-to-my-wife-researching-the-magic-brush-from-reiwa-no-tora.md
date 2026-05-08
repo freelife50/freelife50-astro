@@ -6,6 +6,7 @@ categories: ["prepared-life", "shumi-taiken-etc"]
 tags: ["gift-for-wife", "hair-care", "hairstar", "ionic-star-brush-pro", "maquia"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/04/hairstar_eyecatch.jpg"
+sns_image_url: "/images/wp-content/uploads/2026/04/hairstar_eyecatch.jpg"
 excerpt: "Read time: About 10 minutes Every week, I watch a Japanese show called Reiwa no Tora (Tiger Funding). Honestly, it's gri"
 ---
 
@@ -62,7 +63,15 @@ I haven't used it myself yet. So this isn't a "guaranteed result" article.<br>
 But after researching, my honest take is: <strong>"It seems great for the right person — and not for everyone."</strong><br>
 At the end I've added "3 things to check before gifting" — please read that part before deciding.</p>
 
-<h2>The fact that the tigers were "convinced" mattered to me</h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#the-fact-that-the-tigers-were-convinced-">The fact that the tigers were "convinced" mattered to me</a></li>  <li><a href="#recognized-by-maquia--and-gaining-tracti">Recognized by MAQUIA — and gaining traction in Korea</a></li>  <li><a href="#i-checked-the-technical-reasoning-behind">I checked the technical reasoning behind it</a></li>  <li><a href="#the-use-it-anywhere-appeal--shower-dry-h">The "use it anywhere" appeal — shower, dry hair, before blow-drying</a></li>  <li><a href="#i-read-the-user-reviews-honestly-481-118">I read the user reviews honestly (★4.81, 118 reviews)</a></li>  <li><a href="#pricing-and-color--there-are-actually-tw">Pricing and color — there are actually two models</a></li>  <li><a href="#three-things-to-check-before-gifting">Three things to check before gifting</a></li>  <li><a href="#closing">Closing</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<h2 id="the-fact-that-the-tigers-were-convinced-">The fact that the tigers were "convinced" mattered to me</h2>
 <p class="hairstar-img"><img src="/images/wp-content/uploads/2026/04/hairstar_h2_1_tigers.jpg" alt="Watching Reiwa no Tora on TV" class="wp-image-3925" /></p>
 
 <p>On the show, the HAIRSTAR Ionic Star Brush was introduced as the "magic brush."<br>
@@ -92,7 +101,7 @@ Hair brushes line the shelves of every drugstore.<br>
 I had zero motivation to research one.<br>
 The show is what made me stop and look. That's the honest order of events.</p>
 
-<h2>Recognized by MAQUIA — and gaining traction in Korea</h2>
+<h2 id="recognized-by-maquia--and-gaining-tracti">Recognized by MAQUIA — and gaining traction in Korea</h2>
 <p class="hairstar-img"><img src="/images/wp-content/uploads/2026/04/hairstar_h2_2_maquia.jpg" alt="MAQUIA beauty magazine" class="wp-image-3926" /></p>
 
 <p>Another thing I noticed while researching:<br>
@@ -119,7 +128,7 @@ Three different angles, all pointing the same direction.</p>
 But the mental weight of gifting something with this kind of track record<br>
 is just a little lighter than gifting an unknown product.</p>
 
-<h2>I checked the technical reasoning behind it</h2>
+<h2 id="i-checked-the-technical-reasoning-behind">I checked the technical reasoning behind it</h2>
 <p class="hairstar-img"><img src="/images/wp-content/uploads/2026/04/hairstar_h2_3_tech.jpg" alt="HAIRSTAR brush close-up" class="wp-image-3927" /></p>
 
 <p>"Is it just hype?" — that skepticism is healthy,<br>
@@ -138,7 +147,7 @@ Static control, friction reduction, and how the pins meet the scalp —<br>
 each has a materials-engineering reason behind it.<br>
 Personally, I appreciate that level of grounding.</p>
 
-<h2>The "use it anywhere" appeal — shower, dry hair, before blow-drying</h2>
+<h2 id="the-use-it-anywhere-appeal--shower-dry-h">The "use it anywhere" appeal — shower, dry hair, before blow-drying</h2>
 <p class="hairstar-img"><img src="/images/wp-content/uploads/2026/04/hairstar_h2_4_bath.jpg" alt="Japanese bathroom with steam" class="wp-image-3928" /></p>
 
 <p>Another thing I liked: this brush is <strong>designed for in-shower use</strong>.</p>
@@ -156,7 +165,7 @@ shortens drying time and reduces heat damage.<br>
 Three jobs covered by one tool —<br>
 that's a real plus for a quiet, low-key gift.</p>
 
-<h2>I read the user reviews honestly (★4.81, 118 reviews)</h2>
+<h2 id="i-read-the-user-reviews-honestly-481-118">I read the user reviews honestly (★4.81, 118 reviews)</h2>
 <p class="hairstar-img"><img src="/images/wp-content/uploads/2026/04/hairstar_h2_5_review.jpg" alt="Checking product reviews on smartphone" class="wp-image-3929" /></p>
 
 <p>This is the section I most want to write carefully.<br>
@@ -193,7 +202,7 @@ but <strong>"genuinely great for the right person — and not for some others."<
 Articles that only line up the 5-star praise — I don't trust those.<br>
 That's why I wanted to write this section honestly.</p>
 
-<h2>Pricing and color — there are actually two models</h2>
+<h2 id="pricing-and-color--there-are-actually-tw">Pricing and color — there are actually two models</h2>
 <p class="hairstar-img"><img src="/images/wp-content/uploads/2026/04/hairstar_h2_6_price.jpg" alt="Pink and black hair brushes" class="wp-image-3930" /></p>
 
 <p>For full transparency, here's something worth knowing:<br>
@@ -223,7 +232,7 @@ Wrapping and gift-presentation options should be available.</p>
 
 <p>If you'd like to take a closer look, you can <a href="https://px.a8.net/svt/ejp?a8mat=4B1KXL+8DUSHE+56FE+5YRHE" target="_blank" rel="noopener sponsored">check the PRO specs and stock on the official page</a>.</p>
 
-<h2>Three things to check before gifting</h2>
+<h2 id="three-things-to-check-before-gifting">Three things to check before gifting</h2>
 <p class="hairstar-img"><img src="/images/wp-content/uploads/2026/04/hairstar_h2_7_check.jpg" alt="Writing notes at desk at night" class="wp-image-3931" /></p>
 
 <p>To everyone who read this far, here are <strong>three things I'd really check</strong> before pulling the trigger on this as a gift:</p>
@@ -251,7 +260,7 @@ Other articles I wrote with the same intention, in case they're useful:<br>
 • <a href="https://en.freelife50.com/ninomiya-sodegaura-hiking-en/">A hike from Ninomiya Fruit Park to Sodegaura Beach</a><br>
 • <a href="https://en.freelife50.com/komachi-shrine-takamatsu-hiking-en/">Komachi Shrine and Mt. Takamatsu hike</a></p>
 
-<h2>Closing</h2>
+<h2 id="closing">Closing</h2>
 <p class="hairstar-img"><img src="/images/wp-content/uploads/2026/04/hairstar_h2_8_summary.jpg" alt="Japanese couple in kitchen evening" class="wp-image-3932" /></p>
 
 <p>The "magic brush" that convinced the tigers on Reiwa no Tora.<br>

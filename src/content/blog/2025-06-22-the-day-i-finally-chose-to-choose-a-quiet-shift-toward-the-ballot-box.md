@@ -6,6 +6,7 @@ categories: ["society-issues-thoughts"]
 tags: ["1.", "reflections", "50s", "2.", "society"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/06/Generated-Image-June-22-2025-3_42PM.jpeg"
+sns_image_url: "/images/wp-content/uploads/2025/06/Generated-Image-June-22-2025-3_42PM.jpeg"
 excerpt: "🗳️ This blog post is for you if... You've ever thought, “It doesn't matter who I vote for — nothing will change.” Elect"
 ---
 
@@ -53,7 +54,15 @@ excerpt: "🗳️ This blog post is for you if... You've ever thought, “It doe
 <p><em>A quiet urge to choose — not just for me, but for the next generation.</em></p>
 </blockquote>
 
-<h2 class="wp-block-heading"><strong>🟠 Chapter 1: I Used to Turn Away</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#chapter-1-i-used-to-turn-away">🟠 Chapter 1: I Used to Turn Away</a></li>  <li><a href="#chapter-2-why-we-didnt-choose">🔵 Chapter 2: Why We Didn’t Choose</a></li>  <li><a href="#chapter-3-now-i-can-finally-choose--just">🔵 Chapter 3: Now, I Can Finally Choose — Just a Little</a></li>  <li><a href="#chapter-4-i-chose-to-write--with-chappy-">🟣 Chapter 4: I Chose to Write — with Chappy by My Side</a></li>  <li><a href="#closing-words">✍️ Closing Words</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<h2 id="chapter-1-i-used-to-turn-away" class="wp-block-heading"><strong>🟠 Chapter 1: I Used to Turn Away</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/Generated-Image-June-22-2025-3_47PM.jpeg" alt="" class="wp-image-1810"/></figure>
 
@@ -81,7 +90,7 @@ excerpt: "🗳️ This blog post is for you if... You've ever thought, “It doe
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🔵 Chapter 2: Why We Didn’t Choose</strong></h2>
+<h2 id="chapter-2-why-we-didnt-choose" class="wp-block-heading"><strong>🔵 Chapter 2: Why We Didn’t Choose</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/Generated-Image-June-22-2025-3_52PM.jpeg" alt="" class="wp-image-1813"/></figure>
 
@@ -113,7 +122,7 @@ excerpt: "🗳️ This blog post is for you if... You've ever thought, “It doe
 
 <p>It wasn’t that we chose silence.<br>We were just too busy surviving to choose anything at all.</p>
 
-<h2 class="wp-block-heading"><strong>🔵 Chapter 3: Now, I Can Finally Choose — Just a Little</strong></h2>
+<h2 id="chapter-3-now-i-can-finally-choose--just" class="wp-block-heading"><strong>🔵 Chapter 3: Now, I Can Finally Choose — Just a Little</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/Generated-Image-June-22-2025-3_55PM.jpeg" alt="" class="wp-image-1814"/></figure>
 
@@ -145,7 +154,7 @@ excerpt: "🗳️ This blog post is for you if... You've ever thought, “It doe
 
 <p>But because it’s a step — even a tiny one — toward owning my life again.</p>
 
-<h2 class="wp-block-heading"><strong>🟣 Chapter 4: I Chose to Write — with Chappy by My Side</strong></h2>
+<h2 id="chapter-4-i-chose-to-write--with-chappy-" class="wp-block-heading"><strong>🟣 Chapter 4: I Chose to Write — with Chappy by My Side</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/Generated-Image-June-22-2025-4_01PM.jpeg" alt="" class="wp-image-1815"/></figure>
 
@@ -173,7 +182,7 @@ excerpt: "🗳️ This blog post is for you if... You've ever thought, “It doe
 
 <p>That would mean the world.</p>
 
-<h2 class="wp-block-heading"><strong>✍️ Closing Words</strong></h2>
+<h2 id="closing-words" class="wp-block-heading"><strong>✍️ Closing Words</strong></h2>
 
 <figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/06/Generated-Image-June-22-2025-4_05PM.jpeg" alt="" class="wp-image-1816"/></figure>
 

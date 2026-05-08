@@ -6,6 +6,7 @@ categories: ["life-with-momiji"]
 tags: ["dog-gut-health", "additive-free-food", "human-grade-pet-food", "picky-eater-dog", "dog-food-review"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/08/PXL_20250331_212930138.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/08/PXL_20250331_212930138.jpg"
 excerpt: "PAW'S GREEN DELI natural dog food review. Why we chose premium additive-free food for our Shiba Inu and whether it's worth the price."
 ---
 
@@ -39,7 +40,17 @@ excerpt: "PAW'S GREEN DELI natural dog food review. Why we chose premium additiv
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Chapter 1: Why Gut Health Matters More Than Ever</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#chapter-1-why-gut-health-matters-more-th">Chapter 1: Why Gut Health Matters More Than Ever</a></li>  <li><a href="#chapter-2-what-is-paws-green-deli">Chapter 2: What Is PAW'S GREEN DELI?</a></li>  <li><a href="#chapter-3-who-might-benefit-most">Chapter 3: Who Might Benefit Most?</a></li>  <li><a href="#chapter-4-what-about-price">Chapter 4: What About Price?</a></li>  <li><a href="#chapter-5-things-to-know-before-you-buy">Chapter 5: Things to Know Before You Buy</a></li>  <li><a href="#chapter-6-what-makes-it-family-food">Chapter 6: What Makes It “Family Food”?</a></li>  <li><a href="#chapter-7-summary-amp-final-thoughts">Chapter 7: Summary &amp; Final Thoughts</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="chapter-1-why-gut-health-matters-more-th" class="wp-block-heading"><strong>Chapter 1: Why Gut Health Matters More Than Ever</strong></h2>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20240302_102503346.jpg" alt="" class="wp-image-2039"/></figure>
 
@@ -51,7 +62,7 @@ excerpt: "PAW'S GREEN DELI natural dog food review. Why we chose premium additiv
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Chapter 2: What Is PAW'S GREEN DELI?</strong></h2>
+<h2 id="chapter-2-what-is-paws-green-deli" class="wp-block-heading"><strong>Chapter 2: What Is PAW'S GREEN DELI?</strong></h2>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250503_054349956.jpg" alt="" class="wp-image-2040"/></figure>
 
@@ -65,7 +76,7 @@ excerpt: "PAW'S GREEN DELI natural dog food review. Why we chose premium additiv
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Chapter 3: Who Might Benefit Most?</strong></h2>
+<h2 id="chapter-3-who-might-benefit-most" class="wp-block-heading"><strong>Chapter 3: Who Might Benefit Most?</strong></h2>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250528_013021476.jpg" alt="" class="wp-image-2041"/></figure>
 
@@ -84,7 +95,7 @@ excerpt: "PAW'S GREEN DELI natural dog food review. Why we chose premium additiv
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Chapter 4: What About Price?</strong></h2>
+<h2 id="chapter-4-what-about-price" class="wp-block-heading"><strong>Chapter 4: What About Price?</strong></h2>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250511_015939262.jpg" alt="" class="wp-image-2042"/></figure>
 
@@ -104,7 +115,7 @@ excerpt: "PAW'S GREEN DELI natural dog food review. Why we chose premium additiv
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Chapter 5: Things to Know Before You Buy</strong></h2>
+<h2 id="chapter-5-things-to-know-before-you-buy" class="wp-block-heading"><strong>Chapter 5: Things to Know Before You Buy</strong></h2>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250427_053856229.jpg" alt="" class="wp-image-2043"/></figure>
 
@@ -121,7 +132,7 @@ excerpt: "PAW'S GREEN DELI natural dog food review. Why we chose premium additiv
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Chapter 6: What Makes It “Family Food”?</strong></h2>
+<h2 id="chapter-6-what-makes-it-family-food" class="wp-block-heading"><strong>Chapter 6: What Makes It “Family Food”?</strong></h2>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20240229_174955836.jpg" alt="" class="wp-image-2045"/></figure>
 
@@ -139,7 +150,7 @@ excerpt: "PAW'S GREEN DELI natural dog food review. Why we chose premium additiv
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Chapter 7: Summary &amp; Final Thoughts</strong></h2>
+<h2 id="chapter-7-summary-amp-final-thoughts" class="wp-block-heading"><strong>Chapter 7: Summary &amp; Final Thoughts</strong></h2>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20241204_024617342.jpg" alt="" class="wp-image-2046"/></figure>
 

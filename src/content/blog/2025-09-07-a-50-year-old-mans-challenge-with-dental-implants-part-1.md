@@ -6,6 +6,7 @@ categories: ["prepared-life"]
 tags: ["dental-implant", "dental-treatment-experience", "health-in-your-50s", "wisdom-tooth-extraction"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/09/9b2cb386802d6cbc075cf1f4fc1bd508.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/09/9b2cb386802d6cbc075cf1f4fc1bd508.jpg"
 excerpt: "─ A Journey Beginning with Wisdom Tooth Extraction ─ 📖 Estimated reading time: 7–8 minutes This article is for people w"
 ---
 
@@ -31,7 +32,17 @@ excerpt: "─ A Journey Beginning with Wisdom Tooth Extraction ─ 📖 Estimate
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Struggling to Take the First Step</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#struggling-to-take-the-first-step">Struggling to Take the First Step</a></li>  <li><a href="#losing-the-joy-of-eating">Losing the Joy of Eating</a></li>  <li><a href="#the-day-i-finally-made-the-call">The Day I Finally Made the Call</a></li>  <li><a href="#two-paths-ahead-of-me">Two Paths Ahead of Me</a></li>  <li><a href="#the-high-costis-it-worth-paying">The High Cost—Is It Worth Paying?</a></li>  <li><a href="#what-i-want-to-do-after-treatment">What I Want to Do After Treatment</a></li>  <li><a href="#summary-amp-next-episode-preview">Summary &amp; Next Episode Preview</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="struggling-to-take-the-first-step" class="wp-block-heading"><strong>Struggling to Take the First Step</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-07T06_09_08.693Z.jpg" alt="" class="wp-image-2241"/></figure>
 
@@ -43,7 +54,7 @@ excerpt: "─ A Journey Beginning with Wisdom Tooth Extraction ─ 📖 Estimate
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Losing the Joy of Eating</strong></h2>
+<h2 id="losing-the-joy-of-eating" class="wp-block-heading"><strong>Losing the Joy of Eating</strong></h2>
 
 <p>Chewing on the left hurt, so I only chewed on the right.<br>But then my right cheek started burning as if it were scalded.<br>I could still eat, but I couldn’t <em>enjoy</em> food anymore.</p>
 
@@ -51,7 +62,7 @@ excerpt: "─ A Journey Beginning with Wisdom Tooth Extraction ─ 📖 Estimate
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>The Day I Finally Made the Call</strong></h2>
+<h2 id="the-day-i-finally-made-the-call" class="wp-block-heading"><strong>The Day I Finally Made the Call</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-07T06_18_23.742Z.jpg" alt="" class="wp-image-2244"/></figure>
 
@@ -65,7 +76,7 @@ excerpt: "─ A Journey Beginning with Wisdom Tooth Extraction ─ 📖 Estimate
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Two Paths Ahead of Me</strong></h2>
+<h2 id="two-paths-ahead-of-me" class="wp-block-heading"><strong>Two Paths Ahead of Me</strong></h2>
 
 <h3 class="wp-block-heading"><strong>Option 1: “Go Straight to Implants”</strong></h3>
 
@@ -80,7 +91,7 @@ excerpt: "─ A Journey Beginning with Wisdom Tooth Extraction ─ 📖 Estimate
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>The High Cost—Is It Worth Paying?</strong></h2>
+<h2 id="the-high-costis-it-worth-paying" class="wp-block-heading"><strong>The High Cost—Is It Worth Paying?</strong></h2>
 
 <p>Implants typically cost <strong>¥300,000–¥500,000 (≈ $2,000–$3,500)</strong> per tooth.</p>
 
@@ -101,7 +112,7 @@ excerpt: "─ A Journey Beginning with Wisdom Tooth Extraction ─ 📖 Estimate
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>What I Want to Do After Treatment</strong></h2>
+<h2 id="what-i-want-to-do-after-treatment" class="wp-block-heading"><strong>What I Want to Do After Treatment</strong></h2>
 
 <ul class="wp-block-list"><li>Bite into thick slices of chashu pork at my favorite ramen shop.<br></li>
 
@@ -125,7 +136,7 @@ excerpt: "─ A Journey Beginning with Wisdom Tooth Extraction ─ 📖 Estimate
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Summary &amp; Next Episode Preview</strong></h2>
+<h2 id="summary-amp-next-episode-preview" class="wp-block-heading"><strong>Summary &amp; Next Episode Preview</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-07T06_28_27.159Z.jpg" alt="" class="wp-image-2245"/></figure>
 

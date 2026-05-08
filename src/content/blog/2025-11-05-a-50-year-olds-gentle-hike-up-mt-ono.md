@@ -6,6 +6,7 @@ categories: ["healing-walks"]
 tags: ["beginnerfriendlyhike", "daytripfromtokyo", "easyhike", "fujiviewtrail", "japannature"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/11/PXL_20251102_040609226.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/11/PXL_20251102_040609226.jpg"
 excerpt: "Mt. Ono hiking guide in Kanagawa, Japan. An easy beginner-friendly trail with stunning Mt. Fuji views and peaceful countryside atmosphere."
 ---
 
@@ -40,7 +41,17 @@ excerpt: "Mt. Ono hiking guide in Kanagawa, Japan. An easy beginner-friendly tra
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🗺️ Mt. Ōno Hiking Info</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#mt-ōno-hiking-info">🗺️ Mt. Ōno Hiking Info</a></li>  <li><a href="#trail-charm-1--stump-santas-greet-you">🎅 Trail Charm #1 – “Stump Santas” Greet You</a></li>  <li><a href="#trail-charm-2--yamasakis-handmade-goods">🏡 Trail Charm #2 – Yamasaki’s Handmade Goods</a></li>  <li><a href="#trail-charm-3--same-height-as-tokyo-skyt">🐇 Trail Charm #3 – “Same Height as Tokyo Skytree!”</a></li>  <li><a href="#pampas-grass-and-mt-fuji--the-golden-vie">🌾 Pampas Grass and Mt. Fuji — The Golden Viewpoint</a></li>  <li><a href="#summit--a-place-of-prayer-and-peace">⛩️ Summit — A Place of Prayer and Peace</a></li>  <li><a href="#rest-areas-and-facilities">🪑 Rest Areas and Facilities</a></li>  <li><a href="#why-mt-ōno-feels-special">🏞️ Why Mt. Ōno Feels Special</a></li>  <li><a href="#mt-ōno--a-living-satoyama-of-kanagawa">🌟 Mt. Ōno — A Living Satoyama of Kanagawa</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="mt-ōno-hiking-info" class="wp-block-heading"><strong>🗺️ Mt. Ōno Hiking Info</strong></h2>
 
 <figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td><strong>Item</strong></td><td><strong>Details</strong></td></tr><tr><td>🏔️ Mountain</td><td>Mt. Ōno (大野山)</td></tr><tr><td>📍 Location</td><td>Yamakita, Kanagawa Prefecture</td></tr><tr><td>🚗 Access (Car)</td><td>Start from free parking at <strong>Yamakita Tsuburano Park</strong> (about 25 cars)<br><a href="https://www.google.com/maps/place/%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E7%AB%8B+%E5%B1%B1%E5%8C%97%E3%81%A4%E3%81%B6%E3%82%89%E3%81%AE%E5%85%AC%E5%9C%92/@35.3696599,139.0492738,17z/data=!3m1!4b1!4m6!3m5!1s0x60190b3a12a919e9:0xbc14aacee7e9b5fe!8m2!3d35.3696599!4d139.0518487!16s%2Fg%2F11rxssq8v2?entry=ttu" target="_blank" rel="noreferrer noopener">📍 神奈川県立 山北つぶらの公園（Kanagawa Prefectural Yamakita Tsuburano Park）</a></td></tr><tr><td>🚃 Access (Train)</td><td>JR Gotemba Line “Yamakita Station” → 90 min walk or town bus toward <em>Kyōwa no Mori</em></td></tr><tr><td>⏱ Duration</td><td>Round trip 2.5–3 h (one way 70–80 min)</td></tr><tr><td>📏 Elevation</td><td>723 m / gain approx. 320 m</td></tr><tr><td>💪 Difficulty</td><td>★☆☆☆☆ – Beginner / Family friendly</td></tr><tr><td>🌸 Best Seasons</td><td>Autumn (Susuki fields) / Spring (Cherry blossoms + Fuji view)</td></tr><tr><td>🚻 Toilets</td><td>Available at parking area and summit – clean and well maintained</td></tr><tr><td>🪑 Rest Areas</td><td>At entrance, midpoint, and summit with benches &amp; water</td></tr><tr><td>🐕 Pet</td><td>Allowed (on leash)</td></tr><tr><td>💰 Cost</td><td>Free entry / Free parking</td></tr></tbody></table></figure>
 
@@ -62,7 +73,7 @@ excerpt: "Mt. Ono hiking guide in Kanagawa, Japan. An easy beginner-friendly tra
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🎅 Trail Charm #1 – “Stump Santas” Greet You</strong></h2>
+<h2 id="trail-charm-1--stump-santas-greet-you" class="wp-block-heading"><strong>🎅 Trail Charm #1 – “Stump Santas” Greet You</strong></h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_033541936.jpg" alt="" class="wp-image-2653"/></figure>
 </div>
@@ -80,7 +91,7 @@ excerpt: "Mt. Ono hiking guide in Kanagawa, Japan. An easy beginner-friendly tra
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🏡 Trail Charm #2 – Yamasaki’s Handmade Goods</strong></h2>
+<h2 id="trail-charm-2--yamasakis-handmade-goods" class="wp-block-heading"><strong>🏡 Trail Charm #2 – Yamasaki’s Handmade Goods</strong></h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_030500392.jpg" alt="" class="wp-image-2657"/></figure>
 </div>
@@ -107,7 +118,7 @@ excerpt: "Mt. Ono hiking guide in Kanagawa, Japan. An easy beginner-friendly tra
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🐇 Trail Charm #3 – “Same Height as Tokyo Skytree!”</strong></h2>
+<h2 id="trail-charm-3--same-height-as-tokyo-skyt" class="wp-block-heading"><strong>🐇 Trail Charm #3 – “Same Height as Tokyo Skytree!”</strong></h2>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_032958586.MP_.jpg" alt="" class="wp-image-2660"/></figure>
 
@@ -119,7 +130,7 @@ excerpt: "Mt. Ono hiking guide in Kanagawa, Japan. An easy beginner-friendly tra
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🌾 Pampas Grass and Mt. Fuji — The Golden Viewpoint</strong></h2>
+<h2 id="pampas-grass-and-mt-fuji--the-golden-vie" class="wp-block-heading"><strong>🌾 Pampas Grass and Mt. Fuji — The Golden Viewpoint</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_032618898.jpg" alt="" class="wp-image-2664"/></figure>
 
@@ -131,7 +142,7 @@ excerpt: "Mt. Ono hiking guide in Kanagawa, Japan. An easy beginner-friendly tra
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>⛩️ Summit — A Place of Prayer and Peace</strong></h2>
+<h2 id="summit--a-place-of-prayer-and-peace" class="wp-block-heading"><strong>⛩️ Summit — A Place of Prayer and Peace</strong></h2>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_040131142.jpg" alt="" class="wp-image-2665"/></figure>
 
@@ -143,7 +154,7 @@ excerpt: "Mt. Ono hiking guide in Kanagawa, Japan. An easy beginner-friendly tra
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🪑 Rest Areas and Facilities</strong></h2>
+<h2 id="rest-areas-and-facilities" class="wp-block-heading"><strong>🪑 Rest Areas and Facilities</strong></h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_040538124.jpg" alt="" class="wp-image-2666"/></figure>
 </div>
@@ -181,7 +192,7 @@ excerpt: "Mt. Ono hiking guide in Kanagawa, Japan. An easy beginner-friendly tra
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🏞️ Why Mt. Ōno Feels Special</strong></h2>
+<h2 id="why-mt-ōno-feels-special" class="wp-block-heading"><strong>🏞️ Why Mt. Ōno Feels Special</strong></h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_040637575.jpg" alt="" class="wp-image-2670"/></figure>
 </div>
@@ -201,7 +212,7 @@ excerpt: "Mt. Ono hiking guide in Kanagawa, Japan. An easy beginner-friendly tra
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🌟 Mt. Ōno — A Living Satoyama of Kanagawa</strong></h2>
+<h2 id="mt-ōno--a-living-satoyama-of-kanagawa" class="wp-block-heading"><strong>🌟 Mt. Ōno — A Living Satoyama of Kanagawa</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251102_040159865.jpg" alt="" class="wp-image-2673"/></figure>
 

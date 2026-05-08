@@ -5,12 +5,22 @@ slug: "this-post-traces-a-quiet-journey-on-a-super-cub-through-dshi-en"
 categories: ["healing-walks"]
 tags: ["super-cub-journey", "doshi-road", "mt-fuji-and-lake-yamanaka", "water-source-ride", "forest-to-city-connection"]
 eyecatch: "/images/wp-content/uploads/2025/05/PXL_20250504_004823239-scaled.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/05/PXL_20250504_004823239-scaled.jpg"
 lang: "en"
 excerpt: "Have you ever stopped to think about that?"
 ---
+<h2 id="main-content">Main Text</h2>
+
 
 <p>🕒 About 3 minutes to read.</p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<nav id="toc" class="post-toc">
+<p><strong>Table of Contents</strong></p>
+<ul>
+<li><a href="#main-content">Main Text</a></li>
+</ul>
+</nav>
 
 <h4>"Where does the city's water come from?"</h4>
 
@@ -93,3 +103,10 @@ excerpt: "Have you ever stopped to think about that?"
 <p>Your “just because” kind of day might lead to something unexpectedly meaningful.<br>Take a slow ride, and let Dōshi’s forest remind you of the quiet connections that shape our lives.</p>
 
 <figure class="wp-block-image aligncenter size-large is-resized"><img src="/images/wp-content/uploads/2025/05/image-3.png" alt="" class="wp-image-363" style="width:384px;height:auto"/></figure>
+
+<blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
+<ul class="wp-block-list">
+<li><a href="https://freelife50.com/ultra-time-efficient-a-50-year-old-guy-conquered-two-1700m-peaks-in-just-2-5-hours/">Mt. Okura-takamaru &amp; Mt. Hamaiba-maru: Two 1700m Peaks in 2.5 Hours Near Tokyo</a></li>
+<li><a href="https://freelife50.com/sagamihara-oodako-matsuri-2025-en/">I Waited Four Hours at the Sagamihara Giant Kite Festival. My Wife Went Home First, My Face Turned Red, and It Was Still Worth It</a></li>
+<li><a href="https://freelife50.com/nagoyama-bussharitou-himeji-en/">Japan's Hidden Gandhara: A Buddhist Stupa in Himeji That Blew My Mind</a></li>
+</ul></blockquote>

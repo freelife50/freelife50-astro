@@ -5,6 +5,7 @@ slug: "shocking-crash-through-a-beginners-eyes-yuki-tsunodas-major-crash-amp-en"
 categories: ["society-issues-thoughts"]
 tags: ["yuki-tsunoda", "safety-technology", "beginner-view", "life-saving", "from-japan"]
 eyecatch: "/images/wp-content/uploads/2025/05/aee1e3cf9dafbf735620316563aec2f9.png"
+sns_image_url: "/images/wp-content/uploads/2025/05/aee1e3cf9dafbf735620316563aec2f9.png"
 lang: "en"
 excerpt: "—[Shocking Crash Through a Beginner’s Eyes!] Yuki Tsunoda’s Major Crash &amp; Incredible Life-Saving Safety Tech — Answering “Why Do They Risk It All?”"
 ---
@@ -17,7 +18,21 @@ excerpt: "—[Shocking Crash Through a Beginner’s Eyes!] Yuki Tsunoda’s Majo
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3>Chapter 1: What’s F1 All About? My Honest Thoughts</h3>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#chapter-1-whats-f1-all-about-my-honest-t">Chapter 1: What’s F1 All About? My Honest Thoughts</a></li>
+<li><a href="#chapter-2-what-happened-in-yuki-tsunodas">Chapter 2: What Happened in Yuki Tsunoda’s Crash?</a></li>
+<li><a href="#chapter-3-what-are-the-life-saving-safet">Chapter 3: What Are the Life-Saving Safety Technologies in F1?</a></li>
+<li><a href="#chapter-4-my-thoughts">Chapter 4: My Thoughts</a></li>
+<li><a href="#chapter-5-summary">Chapter 5: Summary</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h3 id="chapter-1-whats-f1-all-about-my-honest-t">Chapter 1: What’s F1 All About? My Honest Thoughts</h3>
 
 <p>I don’t know much about F1, but when my kid was little, we watched an anime called “Initial D” together.<br>I thought the racing looked really cool, but I also thought if people did that kind of driving on public roads, it would be dangerous and they’d definitely get caught by the police.</p>
 
@@ -31,7 +46,7 @@ excerpt: "—[Shocking Crash Through a Beginner’s Eyes!] Yuki Tsunoda’s Majo
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3>Chapter 2: What Happened in Yuki Tsunoda’s Crash?</h3>
+<h3 id="chapter-2-what-happened-in-yuki-tsunodas">Chapter 2: What Happened in Yuki Tsunoda’s Crash?</h3>
 
 <p>On May 17, 2025, during qualifying for the Emilia Romagna GP, Tsunoda lost control at turn 5 and crashed badly.<br>His car flew into the air and landed upside down, but amazingly, he got out of the car on his own and wasn’t hurt.</p>
 
@@ -48,7 +63,7 @@ excerpt: "—[Shocking Crash Through a Beginner’s Eyes!] Yuki Tsunoda’s Majo
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3>Chapter 3: What Are the Life-Saving Safety Technologies in F1?</h3>
+<h3 id="chapter-3-what-are-the-life-saving-safet">Chapter 3: What Are the Life-Saving Safety Technologies in F1?</h3>
 
 <p>Tsunoda was able to walk away unharmed because of advanced safety equipment, such as:</p>
 
@@ -69,7 +84,7 @@ excerpt: "—[Shocking Crash Through a Beginner’s Eyes!] Yuki Tsunoda’s Majo
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3>Chapter 4: My Thoughts</h3>
+<h3 id="chapter-4-my-thoughts">Chapter 4: My Thoughts</h3>
 
 <p>At first glance, F1 looks incredibly cool, but it’s also a sport filled with real dangers — that much became clear to me.<br>However, it’s precisely because of the latest safety technologies and equipment that drivers can risk their lives and push their limits safely.</p>
 
@@ -81,7 +96,7 @@ excerpt: "—[Shocking Crash Through a Beginner’s Eyes!] Yuki Tsunoda’s Majo
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3>Chapter 5: Summary</h3>
+<h3 id="chapter-5-summary">Chapter 5: Summary</h3>
 
 <p>Yuki Tsunoda’s safe escape from the crash clearly shows how much F1 safety technology has evolved.<br>F1 is not just a sport about speed and looking cool, but a life-risking battle where drivers push their limits while protecting their lives.</p>
 

@@ -6,6 +6,7 @@ categories: ["healing-walks"]
 tags: ["dog-friendly-walk", "hidden-gem", "japan", "life-in-my-50s", "machida"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/12/Gemini_Generated_Image_sx2fzesx2fzesx2f.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/12/Gemini_Generated_Image_sx2fzesx2fzesx2f.jpg"
 excerpt: "(Parking / Lunch / Footwear / Dog-Friendly Tips) Reading time: About 12 minutes Who This Article Is For First-time visit"
 ---
 
@@ -39,7 +40,17 @@ excerpt: "(Parking / Lunch / Footwear / Dog-Friendly Tips) Reading time: About 1
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">When I Went &amp; How Crowded It Felt</h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#when-i-went-amp-how-crowded-it-felt">When I Went &amp; How Crowded It Felt</a></li>  <li><a href="#parking-get-this-wrong-and-youll-regret-">Parking: Get This Wrong and You’ll Regret It</a></li>  <li><a href="#footwear-amp-elevation-more-tiring-than-">Footwear &amp; Elevation: More Tiring Than It Looks</a></li>  <li><a href="#lunch-amp-snacks-dont-assume-youll-find-">Lunch &amp; Snacks: Don’t Assume You’ll Find Food</a></li>  <li><a href="#visiting-with-dogs-based-on-real-experie">Visiting with Dogs (Based on Real Experience)</a></li>  <li><a href="#machida-squirrel-garden-skipped-this-tim">Machida Squirrel Garden (Skipped This Time)</a></li>  <li><a href="#yakushi-hall-event-just-the-facts">Yakushi Hall Event (Just the Facts)</a></li>  <li><a href="#restrooms-very-important-in-winter">Restrooms (Very Important in Winter)</a></li>  <li><a href="#final-thoughts">Final Thoughts</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="when-i-went-amp-how-crowded-it-felt" class="wp-block-heading">When I Went &amp; How Crowded It Felt</h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/IMG_1818.jpg" alt="" class="wp-image-2974"/></figure>
 </div>
@@ -74,7 +85,7 @@ excerpt: "(Parking / Lunch / Footwear / Dog-Friendly Tips) Reading time: About 1
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"> Parking: Get This Wrong and You’ll Regret It</h2>
+<h2 id="parking-get-this-wrong-and-youll-regret-" class="wp-block-heading"> Parking: Get This Wrong and You’ll Regret It</h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/IMG_1809.jpg" alt="" class="wp-image-2961"/></figure>
 </div>
@@ -124,7 +135,7 @@ excerpt: "(Parking / Lunch / Footwear / Dog-Friendly Tips) Reading time: About 1
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Footwear &amp; Elevation: More Tiring Than It Looks</h2>
+<h2 id="footwear-amp-elevation-more-tiring-than-" class="wp-block-heading">Footwear &amp; Elevation: More Tiring Than It Looks</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/IMG_1798.jpg" alt="" class="wp-image-2962"/></figure>
 
@@ -170,7 +181,7 @@ excerpt: "(Parking / Lunch / Footwear / Dog-Friendly Tips) Reading time: About 1
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Lunch &amp; Snacks: Don’t Assume You’ll Find Food</h2>
+<h2 id="lunch-amp-snacks-dont-assume-youll-find-" class="wp-block-heading">Lunch &amp; Snacks: Don’t Assume You’ll Find Food</h2>
 
 <h3 class="wp-block-heading">Teriyaki Chicken Sandwich</h3>
 
@@ -235,7 +246,7 @@ excerpt: "(Parking / Lunch / Footwear / Dog-Friendly Tips) Reading time: About 1
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Visiting with Dogs (Based on Real Experience)</h2>
+<h2 id="visiting-with-dogs-based-on-real-experie" class="wp-block-heading">Visiting with Dogs (Based on Real Experience)</h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/IMG_1842.jpg" alt="" class="wp-image-2965"/></figure>
 </div>
@@ -259,7 +270,7 @@ excerpt: "(Parking / Lunch / Footwear / Dog-Friendly Tips) Reading time: About 1
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Machida Squirrel Garden (Skipped This Time)</h2>
+<h2 id="machida-squirrel-garden-skipped-this-tim" class="wp-block-heading">Machida Squirrel Garden (Skipped This Time)</h2>
 
 <p>Right next door is <strong>Machida Squirrel Garden</strong>.</p>
 
@@ -274,7 +285,7 @@ excerpt: "(Parking / Lunch / Footwear / Dog-Friendly Tips) Reading time: About 1
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Yakushi Hall Event (Just the Facts)</h2>
+<h2 id="yakushi-hall-event-just-the-facts" class="wp-block-heading">Yakushi Hall Event (Just the Facts)</h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/IMG_1834.jpg" alt="" class="wp-image-2975"/></figure>
 </div>
@@ -300,7 +311,7 @@ excerpt: "(Parking / Lunch / Footwear / Dog-Friendly Tips) Reading time: About 1
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Restrooms (Very Important in Winter)</h2>
+<h2 id="restrooms-very-important-in-winter" class="wp-block-heading">Restrooms (Very Important in Winter)</h2>
 
 <p>There are several restrooms in the park.<br><strong>The West Garden restroom is the best.</strong></p>
 
@@ -315,7 +326,7 @@ excerpt: "(Parking / Lunch / Footwear / Dog-Friendly Tips) Reading time: About 1
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Final Thoughts</h2>
+<h2 id="final-thoughts" class="wp-block-heading">Final Thoughts</h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/IMG_1827.jpg" alt="" class="wp-image-2977"/></figure>
 </div>

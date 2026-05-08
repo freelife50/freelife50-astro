@@ -6,6 +6,7 @@ categories: ["prepared-life"]
 tags: ["note-pin", "ai-voice-recorder", "transcription-gadget", "ai-summary-tool", "memory-aid"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/06/Generated-Image-June-16-2025-3_32PM.jpeg"
+sns_image_url: "/images/wp-content/uploads/2025/06/Generated-Image-June-16-2025-3_32PM.jpeg"
 excerpt: "Memory glasses for the mind? Or just another shiny gadget? 🟦 This article is for you if... You're curious about AI gadg"
 ---
 
@@ -47,7 +48,15 @@ excerpt: "Memory glasses for the mind? Or just another shiny gadget? 🟦 This a
 <p>So today, I’m sharing my inner tug-of-war—between craving this shiny AI gadget and questioning whether I actually need it.</p>
 </blockquote>
 
-<h2 class="wp-block-heading">🟦 Chapter １：My First Assistant Is ChatGPT. Could NotePin Be the Second?</h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#chapter-１：my-first-assistant-is-chatgpt-">🟦 Chapter １：My First Assistant Is ChatGPT. Could NotePin Be the Second?</a></li>  <li><a href="#chapter-2-why-i-want-itand-why-im-hesita">🟦 Chapter 2: Why I Want It—And Why I’m Hesitating</a></li>  <li><a href="#chapter-3-a-hearing-aid-for-memory--wher">🟦 Chapter 3: A “Hearing Aid” for Memory? – Where NotePin Could Really Shine</a></li>  <li><a href="#chapter-4-like-an-external-hard-drive-fo">🟦 Chapter 4: Like an External Hard Drive for My Brain – Using NotePin as a Memory Tool</a></li>  <li><a href="#chapter-5-living-with-ai--notepin-as-a-c">🟦 Chapter 5: Living with AI – NotePin as a Companion for the Future</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<h2 id="chapter-１：my-first-assistant-is-chatgpt-" class="wp-block-heading">🟦 Chapter １：My First Assistant Is ChatGPT. Could NotePin Be the Second?</h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/Generated-Image-June-16-2025-3_52PM.jpeg" alt="" class="wp-image-1747"/></figure>
 
@@ -67,7 +76,7 @@ excerpt: "Memory glasses for the mind? Or just another shiny gadget? 🟦 This a
 
 <p>📎 <strong>Learn more about NotePin — the AI-powered voice recorder that transcribes and summarizes.</strong><br>👉 <a class="" href="https://www.plaud.ai/products/notepin?srsltid=AfmBOooMdbQWrmaswJ-6aYAkOvAZFN2UM1D_ayg0WYP_054a18SC103U">Official product page</a></p>
 
-<h2 class="wp-block-heading">🟦 Chapter 2: Why I Want It—And Why I’m Hesitating</h2>
+<h2 id="chapter-2-why-i-want-itand-why-im-hesita" class="wp-block-heading">🟦 Chapter 2: Why I Want It—And Why I’m Hesitating</h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/Generated-Image-June-16-2025-3_54PM.jpeg" alt="" class="wp-image-1748"/></figure>
 
@@ -99,7 +108,7 @@ excerpt: "Memory glasses for the mind? Or just another shiny gadget? 🟦 This a
 
 <p>Even if it’s just a gadget.</p>
 
-<h2 class="wp-block-heading">🟦 Chapter 3: A “Hearing Aid” for Memory? – Where NotePin Could Really Shine</h2>
+<h2 id="chapter-3-a-hearing-aid-for-memory--wher" class="wp-block-heading">🟦 Chapter 3: A “Hearing Aid” for Memory? – Where NotePin Could Really Shine</h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/Generated-Image-June-16-2025-3_56PM.jpeg" alt="" class="wp-image-1749"/></figure>
 
@@ -123,7 +132,7 @@ excerpt: "Memory glasses for the mind? Or just another shiny gadget? 🟦 This a
 
 <p>I haven’t bought it yet.<br>But… emotionally?<br>I’m already halfway there.</p>
 
-<h2 class="wp-block-heading">🟦 Chapter 4: Like an External Hard Drive for My Brain – Using NotePin as a Memory Tool</h2>
+<h2 id="chapter-4-like-an-external-hard-drive-fo" class="wp-block-heading">🟦 Chapter 4: Like an External Hard Drive for My Brain – Using NotePin as a Memory Tool</h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/Generated-Image-June-16-2025-3_58PM.jpeg" alt="" class="wp-image-1750"/></figure>
 
@@ -147,7 +156,7 @@ excerpt: "Memory glasses for the mind? Or just another shiny gadget? 🟦 This a
 
 <p>And honestly, that’s the kind of support I’ve been needing.</p>
 
-<h2 class="wp-block-heading">🟦 Chapter 5: Living with AI – NotePin as a Companion for the Future</h2>
+<h2 id="chapter-5-living-with-ai--notepin-as-a-c" class="wp-block-heading">🟦 Chapter 5: Living with AI – NotePin as a Companion for the Future</h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/Generated-Image-June-16-2025-4_00PM.jpeg" alt="" class="wp-image-1751"/></figure>
 

@@ -5,6 +5,7 @@ slug: "they-say-a-big-quake-might-hit-but-if-theres-no-water-even-the-toilet-en"
 categories: ["prepared-life"]
 tags: ["防災対策", "ローリングストック", "水の備え", "備える暮らし", "50代ライフ"]
 eyecatch: "/images/wp-content/uploads/2025/06/Gemini_Generated_Image_xcnwpxcnwpxcnwpx.png"
+sns_image_url: "/images/wp-content/uploads/2025/06/Gemini_Generated_Image_xcnwpxcnwpxcnwpx.png"
 lang: "en"
 excerpt: "Recently, keywords like “Shindo 6-strong” (seismic intensity level) started trending on social media in Japan. Although no major earthquake actually occurred,..."
 ---
@@ -17,12 +18,22 @@ excerpt: "Recently, keywords like “Shindo 6-strong” (seismic intensity level
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#chapter-1-why-are-people-talking-about-e">📝 Chapter 1: Why Are People Talking About Earthquakes Again?</a></li>  <li><a href="#chapter-2-the-first-step-in-preparedness">🥫 Chapter 2: The First Step in Preparedness—Rolling Stock</a></li>  <li><a href="#chapter-3-to-be-honest-i-wasnt-prepared">🫣 Chapter 3: To Be Honest, I Wasn’t Prepared</a></li>  <li><a href="#chapter-4-water-isnt-a-given">💧 Chapter 4: Water Isn’t a Given</a></li>  <li><a href="#chapter-5-well-figure-it-out-later-is-a-">🤔 Chapter 5: “We’ll Figure It Out Later” Is a Trap</a></li>  <li><a href="#final-thoughts-preparedness-doesnt-have-">🧭 Final Thoughts: Preparedness Doesn’t Have to Be Overwhelming</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
 <blockquote class="wp-block-quote"><p>When I saw “Shindo 6-strong” pop up on my phone, I got chills.<br>“Wait... did an earthquake just happen somewhere?”<br>But when I checked, there was no major quake—just online rumors causing a buzz.</p>
 
 <p>That momentary fear? It passed by the next day.<br>And I found myself thinking:<br>“Is it really okay to just move on like nothing happened?”</p>
 </blockquote>
 
-<h2>📝 Chapter 1: Why Are People Talking About Earthquakes Again?</h2>
+<h2 id="chapter-1-why-are-people-talking-about-e">📝 Chapter 1: Why Are People Talking About Earthquakes Again?</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_es1js3es1js3es1j.png" alt="" class="wp-image-1491"/></figure>
 
@@ -31,7 +42,7 @@ excerpt: "Recently, keywords like “Shindo 6-strong” (seismic intensity level
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2>🥫 Chapter 2: The First Step in Preparedness—Rolling Stock</h2>
+<h2 id="chapter-2-the-first-step-in-preparedness">🥫 Chapter 2: The First Step in Preparedness—Rolling Stock</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_4a9z7n4a9z7n4a9z.png" alt="" class="wp-image-1492"/></figure>
 
@@ -40,7 +51,7 @@ excerpt: "Recently, keywords like “Shindo 6-strong” (seismic intensity level
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2>🫣 Chapter 3: To Be Honest, I Wasn’t Prepared</h2>
+<h2 id="chapter-3-to-be-honest-i-wasnt-prepared">🫣 Chapter 3: To Be Honest, I Wasn’t Prepared</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_2x61vc2x61vc2x61.png" alt="" class="wp-image-1494"/></figure>
 
@@ -49,7 +60,7 @@ excerpt: "Recently, keywords like “Shindo 6-strong” (seismic intensity level
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 </blockquote>
 
-<h2>💧 Chapter 4: Water Isn’t a Given</h2>
+<h2 id="chapter-4-water-isnt-a-given">💧 Chapter 4: Water Isn’t a Given</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_h1fsxjh1fsxjh1fs.png" alt="" class="wp-image-1495"/></figure>
 
@@ -58,14 +69,14 @@ excerpt: "Recently, keywords like “Shindo 6-strong” (seismic intensity level
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2>🤔 Chapter 5: “We’ll Figure It Out Later” Is a Trap</h2>
+<h2 id="chapter-5-well-figure-it-out-later-is-a-">🤔 Chapter 5: “We’ll Figure It Out Later” Is a Trap</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_vqzicevqzicevqzi.png" alt="" class="wp-image-1496"/></figure>
 
 <blockquote class="wp-block-quote"><p>“I’m fine now.”<br>“I’ll deal with it if something happens.”<br>That kind of thinking just delays the inevitable.<br>Even companies hesitate to spend a few hundred yen on supplies.<br>But when disaster strikes, panic buying begins—and nothing is left.<br>That’s why just doing a little bit now makes a big difference later.</p>
 </blockquote>
 
-<h2>🧭 Final Thoughts: Preparedness Doesn’t Have to Be Overwhelming</h2>
+<h2 id="final-thoughts-preparedness-doesnt-have-">🧭 Final Thoughts: Preparedness Doesn’t Have to Be Overwhelming</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_cjwwrfcjwwrfcjww.png" alt="" class="wp-image-1497"/></figure>
 
@@ -85,3 +96,10 @@ excerpt: "Recently, keywords like “Shindo 6-strong” (seismic intensity level
 
 <p>Because maybe, just maybe,<br>That’s how we turn “we’ll be okay” into <em>actually being okay</em>.</p>
 </blockquote>
+
+<blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
+<ul class="wp-block-list">
+<li><a href="https://freelife50.com/coffee-addicts-weight-loss-just-switch-your-daily-brew/">Coffee Addict's Weight Loss: Just Switch Your Daily Brew</a></li>
+<li><a href="https://freelife50.com/most-unsolicited-offers-are-better-refused-my-story/">Life Advice at 50: Why Most Unsolicited Offers Are Better Refused</a></li>
+<li><a href="https://freelife50.com/a-man-in-his-50s-finally-bought-an-iphone-17/">iPhone 17 Review: A 50-Year-Old Japanese Man Finally Makes the Switch</a></li>
+</ul></blockquote>

@@ -6,6 +6,7 @@ categories: ["healing-walks"]
 tags: ["Kobo-yama、Cherry", "blossom", "Hike、Kanagawa", "Hiking、Hadano、Tsurumaki-onsen、Midoriya", "Farm、BBQ、Sakura、Beginner"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/04/Gemini_Generated_Image_5usz3j5usz3j5usz.jpg"
+sns_image_url: "/images/wp-content/uploads/2026/04/Gemini_Generated_Image_5usz3j5usz3j5usz.jpg"
 excerpt: "A complete guide to hiking Kobo-yama and BBQ near Tokyo. Cherry blossoms, beginner-friendly trails from Hadano to Tsurumaki Onsen, and Midoriya Farm B"
 ---
 
@@ -51,7 +52,17 @@ excerpt: "A complete guide to hiking Kobo-yama and BBQ near Tokyo. Cherry blosso
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>The Gear? Just Your Phone, Your Wallet, and a Card</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#the-gear-just-your-phone-your-wallet-and">The Gear? Just Your Phone, Your Wallet, and a Card</a></li>  <li><a href="#full-day-itinerary">Full Day Itinerary</a></li>  <li><a href="#tsurumaki-onsen-station--cherry-blossoms">Tsurumaki-onsen Station — Cherry Blossoms Before You Even Start</a></li>  <li><a href="#trail-difficulty--genuinely-manageable-f">Trail Difficulty — Genuinely Manageable for Beginners</a></li>  <li><a href="#the-history--legends-of-kōbō-daishi-on-t">The History — Legends of Kōbō Daishi on the Summit</a></li>  <li><a href="#after-the-hike--aeon-then-midoriya-farm">After the Hike — AEON, Then Midoriya Farm</a></li>  <li><a href="#bus-info-for-the-return">Bus Info for the Return</a></li>  <li><a href="#wrapping-up">Wrapping Up</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="the-gear-just-your-phone-your-wallet-and" class="wp-block-heading"><strong>The Gear? Just Your Phone, Your Wallet, and a Card</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/Gemini_Generated_Image_m84bzwm84bzwm84b.jpg" alt="" class="wp-image-3341"/></figure>
 
@@ -77,7 +88,7 @@ excerpt: "A complete guide to hiking Kobo-yama and BBQ near Tokyo. Cherry blosso
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Full Day Itinerary</strong></h2>
+<h2 id="full-day-itinerary" class="wp-block-heading"><strong>Full Day Itinerary</strong></h2>
 
 <figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td><strong>Time</strong></td><td><strong>Location / Activity</strong></td></tr><tr><td>9:15 AM</td><td>Depart Tsurumaki-onsen Station</td></tr><tr><td>10:30 AM</td><td>Arrive at Kōbō-yama</td></tr><tr><td>11:15 AM</td><td>AEON (grocery shopping)</td></tr><tr><td>12:00–3:00 PM</td><td>BBQ at Midoriya Farm</td></tr><tr><td>3:21 PM</td><td>Bus from Kamiotiai stop</td></tr><tr><td>3:55 PM</td><td>Arrive at Hadano Station</td></tr></tbody></table></figure>
 
@@ -85,7 +96,7 @@ excerpt: "A complete guide to hiking Kobo-yama and BBQ near Tokyo. Cherry blosso
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Tsurumaki-onsen Station — Cherry Blossoms Before You Even Start</strong></h2>
+<h2 id="tsurumaki-onsen-station--cherry-blossoms" class="wp-block-heading"><strong>Tsurumaki-onsen Station — Cherry Blossoms Before You Even Start</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/IMG_3121.jpg" alt="" class="wp-image-3340"/></figure>
 
@@ -97,7 +108,7 @@ excerpt: "A complete guide to hiking Kobo-yama and BBQ near Tokyo. Cherry blosso
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Trail Difficulty — Genuinely Manageable for Beginners</strong></h2>
+<h2 id="trail-difficulty--genuinely-manageable-f" class="wp-block-heading"><strong>Trail Difficulty — Genuinely Manageable for Beginners</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/IMG_3144.jpg" alt="" class="wp-image-3342"/></figure>
 
@@ -126,7 +137,7 @@ excerpt: "A complete guide to hiking Kobo-yama and BBQ near Tokyo. Cherry blosso
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>The History — Legends of Kōbō Daishi on the Summit</strong></h2>
+<h2 id="the-history--legends-of-kōbō-daishi-on-t" class="wp-block-heading"><strong>The History — Legends of Kōbō Daishi on the Summit</strong></h2>
 
 <p>The mountain takes its name from <strong>Kōbō Daishi (Kūkai)</strong>, the revered Buddhist monk who is said to have trained here during the Heian period.</p>
 
@@ -159,7 +170,7 @@ excerpt: "A complete guide to hiking Kobo-yama and BBQ near Tokyo. Cherry blosso
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>After the Hike — AEON, Then Midoriya Farm</strong></h2>
+<h2 id="after-the-hike--aeon-then-midoriya-farm" class="wp-block-heading"><strong>After the Hike — AEON, Then Midoriya Farm</strong></h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/IMG_3147.jpg" alt="" class="wp-image-3346"/></figure>
 </div>
@@ -218,7 +229,7 @@ excerpt: "A complete guide to hiking Kobo-yama and BBQ near Tokyo. Cherry blosso
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Bus Info for the Return</strong></h2>
+<h2 id="bus-info-for-the-return" class="wp-block-heading"><strong>Bus Info for the Return</strong></h2>
 
 <p>From the <strong>Kamiotiai bus stop</strong> — about a 1-minute walk from the farm — you can catch a bus back to Hadano Station.</p>
 
@@ -237,7 +248,7 @@ excerpt: "A complete guide to hiking Kobo-yama and BBQ near Tokyo. Cherry blosso
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Wrapping Up</strong></h2>
+<h2 id="wrapping-up" class="wp-block-heading"><strong>Wrapping Up</strong></h2>
 
 <p>Everything about Kōbō-yama felt just right.</p>
 

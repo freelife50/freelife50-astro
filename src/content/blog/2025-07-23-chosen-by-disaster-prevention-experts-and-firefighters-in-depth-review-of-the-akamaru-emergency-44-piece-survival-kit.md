@@ -6,6 +6,7 @@ categories: ["prepared-life"]
 tags: ["44-piece-set", "72-hour-rule", "akamru-disaster-kit", "disaster-preparedness", "disaster-prevention"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/07/Google_AI_Studio_2025-07-22T19_21_07.296Z.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/07/Google_AI_Studio_2025-07-22T19_21_07.296Z.jpg"
 excerpt: "In-depth review of the Akamaru 44-piece emergency survival kit, chosen by disaster prevention experts and firefighters. Quality, practicality, and val"
 ---
 
@@ -37,7 +38,17 @@ excerpt: "In-depth review of the Akamaru 44-piece emergency survival kit, chosen
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Chapter 1: “Isn’t a Cheap Set Good Enough?”… Think Again.</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#chapter-1-isnt-a-cheap-set-good-enough-t">Chapter 1: “Isn’t a Cheap Set Good Enough?”… Think Again.</a></li>  <li><a href="#chapter-2-44-carefully-selected-items-by">Chapter 2: 44 Carefully Selected Items by Experts</a></li>  <li><a href="#chapter-3-cheap-isnt-enough-anymore--her">Chapter 3: Cheap Isn’t Enough Anymore — Here’s How This Kit Stands Out</a></li>  <li><a href="#chapter-4-the-key-is-sustainable-prepare">Chapter 4: The Key Is “Sustainable Preparedness”</a></li>  <li><a href="#chapter-5-if-its-a-hassle-just-get-this-">Chapter 5: If It’s a Hassle, Just Get This One Kit — Prepare Now.</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="chapter-1-isnt-a-cheap-set-good-enough-t" class="wp-block-heading"><strong>Chapter 1: “Isn’t a Cheap Set Good Enough?”… Think Again.</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/07/Google_AI_Studio_2025-07-22T19_26_26.184Z.jpg" alt="" class="wp-image-1993"/></figure>
 
@@ -72,7 +83,7 @@ excerpt: "In-depth review of the Akamaru 44-piece emergency survival kit, chosen
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Chapter 2: 44 Carefully Selected Items by Experts</strong></h2>
+<h2 id="chapter-2-44-carefully-selected-items-by" class="wp-block-heading"><strong>Chapter 2: 44 Carefully Selected Items by Experts</strong></h2>
 
 <figure class="wp-block-image aligncenter"><img src="https://www28.a8.net/svt/bgt?aid=250722401245&amp;wid=001&amp;eno=01&amp;mid=s00000025626001003000&amp;mc=1" alt=""/></figure>
 
@@ -125,7 +136,7 @@ excerpt: "In-depth review of the Akamaru 44-piece emergency survival kit, chosen
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Chapter 3: Cheap Isn’t Enough Anymore — Here’s How This Kit Stands Out</strong></h2>
+<h2 id="chapter-3-cheap-isnt-enough-anymore--her" class="wp-block-heading"><strong>Chapter 3: Cheap Isn’t Enough Anymore — Here’s How This Kit Stands Out</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/07/Google_AI_Studio_2025-07-22T19_33_30.367Z.jpg" alt="" class="wp-image-1994"/></figure>
 
@@ -187,7 +198,7 @@ excerpt: "In-depth review of the Akamaru 44-piece emergency survival kit, chosen
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Chapter 4: The Key Is “Sustainable Preparedness”</strong></h2>
+<h2 id="chapter-4-the-key-is-sustainable-prepare" class="wp-block-heading"><strong>Chapter 4: The Key Is “Sustainable Preparedness”</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/07/Google_AI_Studio_2025-07-22T19_38_32.454Z.jpg" alt="" class="wp-image-1995"/></figure>
 
@@ -243,7 +254,7 @@ excerpt: "In-depth review of the Akamaru 44-piece emergency survival kit, chosen
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Chapter 5: If It’s a Hassle, Just Get This One Kit — Prepare Now.</strong></h2>
+<h2 id="chapter-5-if-its-a-hassle-just-get-this-" class="wp-block-heading"><strong>Chapter 5: If It’s a Hassle, Just Get This One Kit — Prepare Now.</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/07/Google_AI_Studio_2025-07-22T19_43_02.610Z.jpg" alt="" class="wp-image-1996"/></figure>
 

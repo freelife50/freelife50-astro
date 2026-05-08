@@ -6,6 +6,7 @@ categories: ["healing-walks"]
 tags: ["cherryblossoms", "dogfriendlyjapan", "hanami", "harumeki", "kanagawatrip"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/03/IMG_3007.jpg"
+sns_image_url: "/images/wp-content/uploads/2026/03/IMG_3007.jpg"
 excerpt: "A cherry blossom walk with a Shiba Inu in Kanagawa, Japan. Dog-friendly spring outing guide with trail tips, scenic spots, and practical info for pet "
 ---
 
@@ -49,7 +50,17 @@ excerpt: "A cherry blossom walk with a Shiba Inu in Kanagawa, Japan. Dog-friendl
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Before You Go (Access Info)</h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#before-you-go-access-info">Before You Go (Access Info)</a></li>  <li><a href="#walking-along-the-riverbank">Walking Along the Riverbank</a></li>  <li><a href="#the-meaning-behind-the-name">The Meaning Behind the Name</a></li>  <li><a href="#the-shrine-by-the-river">The Shrine by the River</a></li>  <li><a href="#momiji-the-shiba-inu">Momiji the Shiba Inu</a></li>  <li><a href="#summary">Summary</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="before-you-go-access-info" class="wp-block-heading">Before You Go (Access Info)</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_3024.jpg" alt="" class="wp-image-3314"/></figure>
 
@@ -79,7 +90,7 @@ excerpt: "A cherry blossom walk with a Shiba Inu in Kanagawa, Japan. Dog-friendl
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Walking Along the Riverbank</h2>
+<h2 id="walking-along-the-riverbank" class="wp-block-heading">Walking Along the Riverbank</h2>
 
 <div class="wp-block-columns"><div class="wp-block-column" style="flex-basis:66.66%"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_3006.jpg" alt="" class="wp-image-3309"/></figure>
 </div>
@@ -112,7 +123,7 @@ excerpt: "A cherry blossom walk with a Shiba Inu in Kanagawa, Japan. Dog-friendl
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">The Meaning Behind the Name</h2>
+<h2 id="the-meaning-behind-the-name" class="wp-block-heading">The Meaning Behind the Name</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_3010.jpg" alt="" class="wp-image-3311"/></figure>
 
@@ -130,7 +141,7 @@ excerpt: "A cherry blossom walk with a Shiba Inu in Kanagawa, Japan. Dog-friendl
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">The Shrine by the River</h2>
+<h2 id="the-shrine-by-the-river" class="wp-block-heading">The Shrine by the River</h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_3014.jpg" alt="" class="wp-image-3312"/></figure>
 </div>
@@ -155,7 +166,7 @@ excerpt: "A cherry blossom walk with a Shiba Inu in Kanagawa, Japan. Dog-friendl
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Momiji the Shiba Inu</h2>
+<h2 id="momiji-the-shiba-inu" class="wp-block-heading">Momiji the Shiba Inu</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/image-2.jpg" alt="" class="wp-image-3317"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
 
@@ -185,7 +196,7 @@ excerpt: "A cherry blossom walk with a Shiba Inu in Kanagawa, Japan. Dog-friendl
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Summary</h2>
+<h2 id="summary" class="wp-block-heading">Summary</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_3028.jpg" alt="" class="wp-image-3315"/></figure>
 

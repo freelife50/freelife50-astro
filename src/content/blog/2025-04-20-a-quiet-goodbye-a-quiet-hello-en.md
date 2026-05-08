@@ -5,9 +5,12 @@ slug: "a-quiet-goodbye-a-quiet-hello-en"
 categories: ["life-with-momiji"]
 tags: ["memories-of-sakura", "shiba-inu-momiji", "beyond-pet-loss", "cycle-of-life-and-love", "quiet-new-beginning"]
 eyecatch: "/images/wp-content/uploads/2025/04/image-19.png"
+sns_image_url: "/images/wp-content/uploads/2025/04/image-19.png"
 lang: "en"
 excerpt: "Through loss comes new light.This is a quiet story of parting, healing, and the warmth that returns with time."
 ---
+<h2 id="main-content">Main Text</h2>
+
 
 <blockquote class="wp-block-quote"><p><strong>Through loss comes new light.</strong><br>This is a quiet story of parting, healing, and the warmth that returns with time.</p></blockquote>
 
@@ -34,6 +37,13 @@ excerpt: "Through loss comes new light.This is a quiet story of parting, healing
 <p>She had been by our side every single day since she was born. Her absence left a void in our home — a silence too deep for words.</p>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<nav id="toc" class="post-toc">
+<p><strong>Table of Contents</strong></p>
+<ul>
+<li><a href="#main-content">Main Text</a></li>
+</ul>
+</nav>
 
 <p>A few weeks after saying goodbye to Sakura, we came across a discounted Shiba Inu left unsold at a pet store.</p>
 
@@ -83,3 +93,10 @@ excerpt: "Through loss comes new light.This is a quiet story of parting, healing
 <p>I hope this little story gently touches someone’s heart, and perhaps helps them take a small step forward.</p>
 
 <p>I’ll continue to write, gently and quietly, about our days together with Momiji.</p>
+
+<blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
+<ul class="wp-block-list">
+<li><a href="https://freelife50.com/doggyman-white-vs-green-which-whident-chew-is-best/">DoggyMan White vs Green Whident Chew Review: Which Is Best for Your Dog?</a></li>
+<li><a href="https://freelife50.com/this-post-shares-a-peaceful-spring-outing-to-kannonzaki-with-my-wife-en/">This post shares a peaceful spring outing to Kannonzaki with my wife and our Shiba Inu, Momiji.</a></li>
+<li><a href="https://freelife50.com/grands-grain-free-dog-food-review-shiba-inu-en/">I Did the Research for My Shiba Inu: Is GRANDS Grain-Free Dog Food Worth It?</a></li>
+</ul></blockquote>

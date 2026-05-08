@@ -6,6 +6,7 @@ categories: ["prepared-life"]
 tags: ["prius", "car-inspection", "car-maintenance", "family-memories", "life-with-car"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/10/Image_fx-2.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/10/Image_fx-2.jpg"
 excerpt: "── Reflecting on “Fixed Costs” and “The Value of Time” 📖 Reading time: about 12 minutes 🎯 What You’ll Learn (Summary)"
 ---
 
@@ -26,7 +27,17 @@ excerpt: "── Reflecting on “Fixed Costs” and “The Value of Time” �
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>1️⃣ Is $1,700 Expensive or Cheap?</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#1-is-1700-expensive-or-cheap">1️⃣ Is $1,700 Expensive or Cheap?</a></li>  <li><a href="#2-the-real-annual-cost-of-a-15-year-old-">2️⃣ The Real Annual Cost of a 15-Year-Old Prius</a></li>  <li><a href="#3-replace-or-maintain-the-true-value-of-">3️⃣ Replace or Maintain? The True Value of Family Time</a></li>  <li><a href="#4-the-1700-breakdown--repairs-that-keep-">4️⃣ The $1,700 Breakdown — Repairs That Keep Her Alive</a></li>  <li><a href="#5-can-it-last-another-10-years">5️⃣ Can It Last Another 10 Years?</a></li>  <li><a href="#6-fifteen-years-of-family-miles">6️⃣ Fifteen Years of Family Miles</a></li>  <li><a href="#7-toward-25-years-together">7️⃣ Toward 25 Years Together</a></li>  <li><a href="#afterword">💬 Afterword</a></li>  <li><a href="#prius-chans-true-worth-summary">🚙 Prius-chan’s True Worth (Summary)</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="1-is-1700-expensive-or-cheap" class="wp-block-heading"><strong>1️⃣ Is $1,700 Expensive or Cheap?</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/Gemini_Generated_Image_4643ew4643ew4643.jpg" alt="" class="wp-image-2615"/></figure>
 
@@ -40,7 +51,7 @@ excerpt: "── Reflecting on “Fixed Costs” and “The Value of Time” �
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>2️⃣ The Real Annual Cost of a 15-Year-Old Prius</strong></h2>
+<h2 id="2-the-real-annual-cost-of-a-15-year-old-" class="wp-block-heading"><strong>2️⃣ The Real Annual Cost of a 15-Year-Old Prius</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/10/cfc1d329d104cd9748f9c13c8fd015f5.jpg" alt="" class="wp-image-2617"/></figure>
 
@@ -52,7 +63,7 @@ excerpt: "── Reflecting on “Fixed Costs” and “The Value of Time” �
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>3️⃣ Replace or Maintain? The True Value of Family Time</strong></h2>
+<h2 id="3-replace-or-maintain-the-true-value-of-" class="wp-block-heading"><strong>3️⃣ Replace or Maintain? The True Value of Family Time</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/Gemini_Generated_Image_d1b6ded1b6ded1b6.jpg" alt="" class="wp-image-2624"/></figure>
 
@@ -77,7 +88,7 @@ excerpt: "── Reflecting on “Fixed Costs” and “The Value of Time” �
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>4️⃣ The $1,700 Breakdown — Repairs That Keep Her Alive</strong></h2>
+<h2 id="4-the-1700-breakdown--repairs-that-keep-" class="wp-block-heading"><strong>4️⃣ The $1,700 Breakdown — Repairs That Keep Her Alive</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/f7e55013a287e52a94edb27b6849b983-1.jpg" alt="" class="wp-image-2620"/></figure>
 
@@ -122,7 +133,7 @@ excerpt: "── Reflecting on “Fixed Costs” and “The Value of Time” �
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>5️⃣ Can It Last Another 10 Years?</strong></h2>
+<h2 id="5-can-it-last-another-10-years" class="wp-block-heading"><strong>5️⃣ Can It Last Another 10 Years?</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/ab17e9bc2caf6a2daff7e748ee5272d9.jpg" alt="" class="wp-image-2621"/></figure>
 
@@ -144,7 +155,7 @@ excerpt: "── Reflecting on “Fixed Costs” and “The Value of Time” �
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>6️⃣ Fifteen Years of Family Miles</strong></h2>
+<h2 id="6-fifteen-years-of-family-miles" class="wp-block-heading"><strong>6️⃣ Fifteen Years of Family Miles</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/6974f9ef6e7860bbaf3047e11b45fe1c.jpg" alt="" class="wp-image-2625"/></figure>
 
@@ -166,7 +177,7 @@ excerpt: "── Reflecting on “Fixed Costs” and “The Value of Time” �
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>7️⃣ Toward 25 Years Together</strong></h2>
+<h2 id="7-toward-25-years-together" class="wp-block-heading"><strong>7️⃣ Toward 25 Years Together</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/a8ca23794a8ecd2e76fb7cd50fb5e50b.jpg" alt="" class="wp-image-2626"/></figure>
 
@@ -180,13 +191,13 @@ excerpt: "── Reflecting on “Fixed Costs” and “The Value of Time” �
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>💬 Afterword</strong></h2>
+<h2 id="afterword" class="wp-block-heading"><strong>💬 Afterword</strong></h2>
 
 <p>The dents, the scratches, the memories —<br>they’re not flaws. They’re our timeline.<br>I’ll keep driving this car, until the day I hear her final engine sound.</p>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🚙 Prius-chan’s True Worth (Summary)</strong></h2>
+<h2 id="prius-chans-true-worth-summary" class="wp-block-heading"><strong>🚙 Prius-chan’s True Worth (Summary)</strong></h2>
 
 <figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td><strong>Item</strong></td><td><strong>Value</strong></td></tr><tr><td>Annual Cost</td><td>≈ $2,000/year ($165/month)</td></tr><tr><td>Inspection</td><td>$1,710 (fair, justified)</td></tr><tr><td>Expected Lifespan</td><td>+10 years / +100,000 km</td></tr><tr><td>Verdict</td><td>Maintenance over replacement — memories matter</td></tr></tbody></table></figure>
 

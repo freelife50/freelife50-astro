@@ -8,12 +8,13 @@ interface Props {
   categories: string[];
   tags: string[];
   eyecatch?: string;
+  snsImage?: string;
   excerpt?: string;
   lang?: string;
   slug?: string;
 }
 
-const { title, date, categories, tags, eyecatch, excerpt, lang = 'ja', slug } = Astro.props;
+const { title, date, categories, tags, eyecatch, snsImage, excerpt, lang = 'ja', slug } = Astro.props;
 
 // 英語記事の場合は hreflang を設定（日本語版同士の対応記事は今のところなし）
 const EN_SITE = 'https://en.freelife50.com';
@@ -33,9 +34,22 @@ const catNames: Record<string, string> = {
   'food-nostalgia': '食と懐かしさ',
 };
 
+const catNamesEn: Record<string, string> = {
+  'blog-sidejob': 'Blogging & Side Hustles',
+  'life-with-momiji': 'Life with Momiji',
+  'prepared-life': 'Preparedness & Daily Life',
+  'healing-walks': 'Healing & Walks',
+  'society-issues-thoughts': 'Society, News & Reflections',
+  'shumi-taiken-etc': 'Hobbies, Experiences & More',
+  'food-nostalgia': 'Food & Nostalgia',
+};
+
+const activeCatNames = lang === 'en' ? catNamesEn : catNames;
+const catBase = lang === 'en' ? '/en/category/' : '/category/';
+
 const formattedDate = new Date(date).toLocaleDateString('ja-JP', { year: 'numeric', month: 'long', day: 'numeric' });
 ---
-<BaseLayout title={title} description={excerpt} ogImage={eyecatch} ogType="article" lang={lang} hreflangEnUrl={hreflangEnUrl}>
+<BaseLayout title={title} description={excerpt} ogImage={snsImage ?? eyecatch} ogType="article" lang={lang} hreflangEnUrl={hreflangEnUrl}>
   <div class="layout-wrap">
     <article>
       <header class="post-header">
@@ -43,7 +57,7 @@ const formattedDate = new Date(date).toLocaleDateString('ja-JP', { year: 'numeri
         <div class="post-meta">
           <time datetime={date}>{formattedDate}</time>
           {categories.map(cat => (
-            <a href={`/category/${cat}/`} class="cat-badge">{catNames[cat] || cat}</a>
+            <a href={`${catBase}${cat}/`} class="cat-badge">{activeCatNames[cat] || cat}</a>
           ))}
         </div>
       </header>
@@ -67,6 +81,6 @@ const formattedDate = new Date(date).toLocaleDateString('ja-JP', { year: 'numeri
       )}
     </article>
 
-    <Sidebar />
+    <Sidebar lang={lang === 'en' ? 'en' : 'ja'} />
   </div>
 </BaseLayout>

@@ -6,6 +6,7 @@ categories: ["society-issues-thoughts"]
 tags: ["50s-office-life", "funny-work-stories", "how-to-handle-trouble", "workplace-relationships", "workplace-trouble"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-15T10_37_38.090Z.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-15T10_37_38.090Z.jpg"
 excerpt: "A 50-year-old dad solves a mysterious PC wallpaper glitch. Dual monitors, display settings detective work, and tech troubleshooting tips for everyday "
 ---
 
@@ -28,7 +29,17 @@ excerpt: "A 50-year-old dad solves a mysterious PC wallpaper glitch. Dual monito
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>1. The Silent Treatment Strategy</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#1-the-silent-treatment-strategy">1. The Silent Treatment Strategy</a></li>  <li><a href="#2-playing-the-oh-first-ive-heard-of-it-c">2. Playing the “Oh, First I’ve Heard of It” Card</a></li>  <li><a href="#3-the-price-tag-counterattack">3. The Price Tag Counterattack</a></li>  <li><a href="#4-the-wall-incident--now-i-remember">4. The Wall Incident – Now I Remember</a></li>  <li><a href="#5-detective-oji-sans-theory-and-honest-o">5. Detective Oji-san’s Theory and Honest Opinion</a></li>  <li><a href="#6-grateful-for-a-workplace-where-we-can-">6. Grateful for a Workplace Where We Can Laugh</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="1-the-silent-treatment-strategy" class="wp-block-heading"><strong>1. The Silent Treatment Strategy</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-15T10_49_15.204Z.jpg" alt="" class="wp-image-2074"/></figure>
 
@@ -38,7 +49,7 @@ excerpt: "A 50-year-old dad solves a mysterious PC wallpaper glitch. Dual monito
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>2. Playing the “Oh, First I’ve Heard of It” Card</strong></h2>
+<h2 id="2-playing-the-oh-first-ive-heard-of-it-c" class="wp-block-heading"><strong>2. Playing the “Oh, First I’ve Heard of It” Card</strong></h2>
 
 <p>Eventually, she walked over.<br>“I broke the monitor. I told Mr. So-and-so, and he swapped in the spare one.”</p>
 
@@ -50,7 +61,7 @@ excerpt: "A 50-year-old dad solves a mysterious PC wallpaper glitch. Dual monito
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>3. The Price Tag Counterattack</strong></h2>
+<h2 id="3-the-price-tag-counterattack" class="wp-block-heading"><strong>3. The Price Tag Counterattack</strong></h2>
 
 <p>Since she was being so casual about it, I casually mentioned the price of our <em>most expensive</em> monitor.<br>Her smile twitched.</p>
 
@@ -62,7 +73,7 @@ excerpt: "A 50-year-old dad solves a mysterious PC wallpaper glitch. Dual monito
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>4. The Wall Incident – Now I Remember</strong></h2>
+<h2 id="4-the-wall-incident--now-i-remember" class="wp-block-heading"><strong>4. The Wall Incident – Now I Remember</strong></h2>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/08/image-3.jpg" alt="" class="wp-image-2081"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
 
@@ -76,7 +87,7 @@ excerpt: "A 50-year-old dad solves a mysterious PC wallpaper glitch. Dual monito
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>5. Detective Oji-san’s Theory and Honest Opinion</strong></h2>
+<h2 id="5-detective-oji-sans-theory-and-honest-o" class="wp-block-heading"><strong>5. Detective Oji-san’s Theory and Honest Opinion</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-15T11_31_25.994Z.jpg" alt="" class="wp-image-2082"/></figure>
 
@@ -105,7 +116,7 @@ excerpt: "A 50-year-old dad solves a mysterious PC wallpaper glitch. Dual monito
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>6. Grateful for a Workplace Where We Can Laugh</strong></h2>
+<h2 id="6-grateful-for-a-workplace-where-we-can-" class="wp-block-heading"><strong>6. Grateful for a Workplace Where We Can Laugh</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-15T11_43_00.764Z.jpg" alt="" class="wp-image-2083"/></figure>
 

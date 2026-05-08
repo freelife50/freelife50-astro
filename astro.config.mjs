@@ -206,7 +206,8 @@ const EN_SLUGS = new Set(${JSON.stringify(enSlugs)});
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
-    const host = url.hostname;
+    // X-Original-Host は freelife50-cache-bypass Worker が付与する実際のホスト名
+    const host = request.headers.get('x-original-host') || request.headers.get('host') || url.hostname;
     const path = url.pathname;
 
     // -----------------------------------------------------------------------
@@ -215,15 +216,18 @@ export default {
     if (host === 'en.freelife50.com') {
       // / または /en/ へのアクセス → /en/index.html をリライト
       if (path === '/' || path === '') {
-        const rewriteUrl = new URL('/en/', url);
-        rewriteUrl.hostname = url.hostname; // ホスト名は維持
-        return env.ASSETS.fetch(new Request(rewriteUrl.toString(), request));
+        return env.ASSETS.fetch(new Request('https://freelife50.com/en/', {
+          method: request.method,
+          headers: request.headers,
+        }));
       }
 
       // /page/N → /en/page/N をリライト
       if (/^\\/page\\/\\d+\\/?$/.test(path)) {
-        const rewriteUrl = new URL('/en' + path, url);
-        return env.ASSETS.fetch(new Request(rewriteUrl.toString(), request));
+        return env.ASSETS.fetch(new Request('https://freelife50.com/en' + path, {
+          method: request.method,
+          headers: request.headers,
+        }));
       }
 
       // 記事詳細ページ: 日本語記事への直アクセスは freelife50.com にリダイレクト
@@ -232,7 +236,9 @@ export default {
         !slug.includes('/') &&
         !/\\.\\w+$/.test(slug) &&  // .xml/.txt/.css 等の静的ファイルは除外
         !['category', 'tag', 'en', 'images', 'rss', '_astro'].includes(slug.split('/')[0]);
-      if (isArticleSlug && !EN_SLUGS.has(slug)) {
+      // EN記事の判定: EN_SLUGSに含まれるか、-en サフィックスで終わるスラッグ
+      const isEnSlug = EN_SLUGS.has(slug) || slug.endsWith('-en');
+      if (isArticleSlug && !isEnSlug) {
         return Response.redirect('https://freelife50.com' + path, 301);
       }
     }
@@ -243,7 +249,9 @@ export default {
     if (host === 'freelife50.com' || host === 'www.freelife50.com') {
       const slug = path.replace(/^\\//, '').replace(/\\/$/, '');
       // 英語記事への直アクセスは en.freelife50.com にリダイレクト
-      if (slug && EN_SLUGS.has(slug)) {
+      // EN_SLUGSに含まれるか、-en サフィックスで終わるスラッグは英語記事
+      const isEnSlug = slug && (EN_SLUGS.has(slug) || slug.endsWith('-en'));
+      if (isEnSlug) {
         return Response.redirect('https://en.freelife50.com' + path, 301);
       }
     }

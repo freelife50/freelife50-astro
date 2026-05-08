@@ -6,6 +6,7 @@ categories: ["life-with-momiji"]
 tags: ["grands", "dogfood", "grainfree", "dognutrition", "petfood"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/04/grands_01_eyecatch.jpg"
+sns_image_url: "/images/wp-content/uploads/2026/04/grands_01_eyecatch.jpg"
 excerpt: "About 5 minutes to read. Every time I fill Momiji's bowl, the same thought crosses my mind. \"Is this actually good for h"
 ---
 
@@ -27,7 +28,15 @@ excerpt: "About 5 minutes to read. Every time I fill Momiji's bowl, the same tho
 
 <p><strong>Bottom line:</strong> The price reflects the quality of ingredients. But it's not for everyone.</p>
 
-<h2 class="wp-block-heading">Why I Started Questioning My Dog's Food</h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#why-i-started-questioning-my-dogs-food">Why I Started Questioning My Dog's Food</a></li>  <li><a href="#what-is-grands">What Is GRANDS?</a></li>  <li><a href="#whats-actually-in-it">What's Actually in It?</a></li>  <li><a href="#why-it-might-be-a-good-fit-for-shiba-inu">Why It Might Be a Good Fit for Shiba Inus</a></li>  <li><a href="#what-users-are-saying">What Users Are Saying</a></li>  <li><a href="#price-and-where-to-buy">Price and Where to Buy</a></li>  <li><a href="#final-thoughts">Final Thoughts</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<h2 id="why-i-started-questioning-my-dogs-food" class="wp-block-heading">Why I Started Questioning My Dog's Food</h2>
 
 <p>My Shiba Inu's name is Momiji. She's fluffy, reddish-brown, and surprisingly affectionate and friendly — far more sociable than you'd expect from a Shiba Inu.</p>
 
@@ -39,7 +48,7 @@ excerpt: "About 5 minutes to read. Every time I fill Momiji's bowl, the same tho
 
 <p class="has-text-align-center"></p>
 
-<h2 class="wp-block-heading">What Is GRANDS?</h2>
+<h2 id="what-is-grands" class="wp-block-heading">What Is GRANDS?</h2>
 
 <p>Here's a quick overview.</p>
 
@@ -60,7 +69,7 @@ excerpt: "About 5 minutes to read. Every time I fill Momiji's bowl, the same tho
 
 <p class="has-text-align-center"></p>
 
-<h2 class="wp-block-heading">What's Actually in It?</h2>
+<h2 id="whats-actually-in-it" class="wp-block-heading">What's Actually in It?</h2>
 
 <p>The biggest selling point is the ingredient composition.</p>
 
@@ -79,7 +88,7 @@ excerpt: "About 5 minutes to read. Every time I fill Momiji's bowl, the same tho
 
 <p class="has-text-align-center"></p>
 
-<h2 class="wp-block-heading">Why It Might Be a Good Fit for Shiba Inus</h2>
+<h2 id="why-it-might-be-a-good-fit-for-shiba-inu" class="wp-block-heading">Why It Might Be a Good Fit for Shiba Inus</h2>
 
 <p>This was the part I cared most about.</p>
 
@@ -93,7 +102,7 @@ excerpt: "About 5 minutes to read. Every time I fill Momiji's bowl, the same tho
 
 <p class="has-text-align-center"></p>
 
-<h2 class="wp-block-heading">What Users Are Saying</h2>
+<h2 id="what-users-are-saying" class="wp-block-heading">What Users Are Saying</h2>
 
 <p>Here's what I found in real user reviews — good and bad:</p>
 
@@ -119,7 +128,7 @@ excerpt: "About 5 minutes to read. Every time I fill Momiji's bowl, the same tho
 
 <p class="has-text-align-center"></p>
 
-<h2 class="wp-block-heading">Price and Where to Buy</h2>
+<h2 id="price-and-where-to-buy" class="wp-block-heading">Price and Where to Buy</h2>
 
 <p>There's a <strong>first-time trial offer with free shipping</strong> available. Starting with one bag to see how your dog responds is the most practical approach.</p>
 
@@ -131,7 +140,7 @@ excerpt: "About 5 minutes to read. Every time I fill Momiji's bowl, the same tho
 
 <p class="has-text-align-center"></p>
 
-<h2 class="wp-block-heading">Final Thoughts</h2>
+<h2 id="final-thoughts" class="wp-block-heading">Final Thoughts</h2>
 
 <p>I've stood in the pet food aisle more than once trying to read an ingredient label, only to give up and put it back.</p>
 

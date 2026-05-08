@@ -5,12 +5,22 @@ slug: "this-post-reflects-on-the-flower-moon-of-maynot-a-dazzling-moon-but-a-en"
 categories: ["healing-walks"]
 tags: ["flower-moon", "full-moon-vibes", "quiet-moments", "subtle-beauty", "evening-with-dog"]
 eyecatch: "/images/wp-content/uploads/2025/05/c7c4b8e96cfebf0b8e9ec9c7d26ed477.png"
+sns_image_url: "/images/wp-content/uploads/2025/05/c7c4b8e96cfebf0b8e9ec9c7d26ed477.png"
 lang: "en"
 excerpt: "Isn't a full moon supposed to be bright and dazzling?"
 ---
+<h2 id="main-content">Main Text</h2>
+
 
 <p>🕒 About 1 minutes to read.</p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<nav id="toc" class="post-toc">
+<p><strong>Table of Contents</strong></p>
+<ul>
+<li><a href="#main-content">Main Text</a></li>
+</ul>
+</nav>
 
 <p><strong>Isn't a full moon supposed to be bright and dazzling?</strong></p>
 
@@ -54,3 +64,10 @@ excerpt: "Isn't a full moon supposed to be bright and dazzling?"
 
 <blockquote class="wp-block-quote"><p><em>The power of quiet existence is always there, even unseen. Like the gentle glow of the full moon, words silently support someone out there.</em></p>
 </blockquote>
+
+<blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
+<ul class="wp-block-list">
+<li><a href="https://freelife50.com/sagamihara-oodako-matsuri-2025-en/">I Waited Four Hours at the Sagamihara Giant Kite Festival. My Wife Went Home First, My Face Turned Red, and It Was Still Worth It</a></li>
+<li><a href="https://freelife50.com/nagoyama-bussharitou-himeji-en/">Japan's Hidden Gandhara: A Buddhist Stupa in Himeji That Blew My Mind</a></li>
+<li><a href="https://freelife50.com/hakone-museum-of-art-gardener-en/">My Wife Rejected the Zoo, So We Went to Hakone Museum of Art — and the Gardeners Won My Heart</a></li>
+</ul></blockquote>

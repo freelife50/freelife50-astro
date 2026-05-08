@@ -6,6 +6,7 @@ categories: ["prepared-life"]
 tags: ["breast-cancer-screening", "health-in-50s", "mammography", "pain-relief-tips", "radiation-dose"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-27T19_11_45.960Z.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-27T19_11_45.960Z.jpg"
 excerpt: "Why mammogram compression is necessary and tips to reduce pain. A radiologist explains what to expect during breast screening in simple terms."
 ---
 
@@ -48,7 +49,17 @@ excerpt: "Why mammogram compression is necessary and tips to reduce pain. A radi
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>【Key Point】3 Practical Tips to Ease the Pain</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#key-point3-practical-tips-to-ease-the-pa">【Key Point】3 Practical Tips to Ease the Pain</a></li>  <li><a href="#reason-1-white-paper-analogy--revealing-">Reason 1: White Paper Analogy — Revealing Hidden Cancer</a></li>  <li><a href="#reason-2-pancake-batter--creating-a-clea">Reason 2: Pancake Batter — Creating a Clearer Image</a></li>  <li><a href="#reason-3-shadow-puppets--sharpening-the-">Reason 3: Shadow Puppets — Sharpening the Details</a></li>  <li><a href="#reason-4-tripod-for-night-photography--p">Reason 4: Tripod for Night Photography — Preventing Motion Blur</a></li>  <li><a href="#reason-5-dictionary-vs-magazine--reducin">Reason 5: Dictionary vs. Magazine — Reducing Radiation Dose</a></li>  <li><a href="#others">■Others</a></li>  <li><a href="#final-words-a-few-seconds-that-protect-y">Final Words: A Few Seconds That Protect Your Future</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="key-point3-practical-tips-to-ease-the-pa" class="wp-block-heading"><strong>【Key Point】3 Practical Tips to Ease the Pain</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-27T19_19_52.162Z.jpg" alt="" class="wp-image-2363"/></figure>
 
@@ -64,7 +75,7 @@ excerpt: "Why mammogram compression is necessary and tips to reduce pain. A radi
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Reason 1: White Paper Analogy — Revealing Hidden Cancer</strong></h2>
+<h2 id="reason-1-white-paper-analogy--revealing-" class="wp-block-heading"><strong>Reason 1: White Paper Analogy — Revealing Hidden Cancer</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-27T19_29_44.774Z.jpg" alt="" class="wp-image-2367"/></figure>
 
@@ -76,7 +87,7 @@ excerpt: "Why mammogram compression is necessary and tips to reduce pain. A radi
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Reason 2: Pancake Batter — Creating a Clearer Image</strong></h2>
+<h2 id="reason-2-pancake-batter--creating-a-clea" class="wp-block-heading"><strong>Reason 2: Pancake Batter — Creating a Clearer Image</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-27T19_36_55.195Z.jpg" alt="" class="wp-image-2370"/></figure>
 
@@ -88,7 +99,7 @@ excerpt: "Why mammogram compression is necessary and tips to reduce pain. A radi
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Reason 3: Shadow Puppets — Sharpening the Details</strong></h2>
+<h2 id="reason-3-shadow-puppets--sharpening-the-" class="wp-block-heading"><strong>Reason 3: Shadow Puppets — Sharpening the Details</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-27T19_40_27.618Z.jpg" alt="" class="wp-image-2373"/></figure>
 
@@ -100,7 +111,7 @@ excerpt: "Why mammogram compression is necessary and tips to reduce pain. A radi
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Reason 4: Tripod for Night Photography — Preventing Motion Blur</strong></h2>
+<h2 id="reason-4-tripod-for-night-photography--p" class="wp-block-heading"><strong>Reason 4: Tripod for Night Photography — Preventing Motion Blur</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Gemini_Generated_Image_iawp4fiawp4fiawp.jpg" alt="" class="wp-image-2377"/></figure>
 
@@ -112,7 +123,7 @@ excerpt: "Why mammogram compression is necessary and tips to reduce pain. A radi
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Reason 5: Dictionary vs. Magazine — Reducing Radiation Dose</strong></h2>
+<h2 id="reason-5-dictionary-vs-magazine--reducin" class="wp-block-heading"><strong>Reason 5: Dictionary vs. Magazine — Reducing Radiation Dose</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-27T20_12_42.686Z.jpg" alt="" class="wp-image-2380"/></figure>
 
@@ -124,7 +135,7 @@ excerpt: "Why mammogram compression is necessary and tips to reduce pain. A radi
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">■Others</h2>
+<h2 id="others" class="wp-block-heading">■Others</h2>
 
 <h3 class="wp-block-heading"><strong>Radiation Facts You Should Know</strong></h3>
 
@@ -163,7 +174,7 @@ excerpt: "Why mammogram compression is necessary and tips to reduce pain. A radi
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Final Words: A Few Seconds That Protect Your Future</strong></h2>
+<h2 id="final-words-a-few-seconds-that-protect-y" class="wp-block-heading"><strong>Final Words: A Few Seconds That Protect Your Future</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-27T20_18_16.186Z.jpg" alt="" class="wp-image-2383"/></figure>
 

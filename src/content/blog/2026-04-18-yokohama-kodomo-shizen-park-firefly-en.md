@@ -5,6 +5,7 @@ slug: "yokohama-kodomo-shizen-park-firefly-en"
 categories: ["healing-walks"]
 tags: ["kodomo-shizen-park", "genji-firefly", "yokohama-walk", "dog-walk", "kanagawa-hiking"]
 eyecatch: "/images/wp-content/uploads/2026/04/yokohama-kodomo-park-entrance-map-dog-en.jpg"
+sns_image_url: "/images/wp-content/uploads/2026/04/yokohama-kodomo-park-entrance-map-dog-en.jpg"
 lang: "en"
 excerpt: "A New Year walk in Yokohama Kodomo Shizen Park with my Shiba Inu and wife. Ducks on the pond, a snow-capped Mt. Fuji, and a protected Genji firefly ha"
 ---
@@ -28,7 +29,15 @@ excerpt: "A New Year walk in Yokohama Kodomo Shizen Park with my Shiba Inu and w
 <p><strong>Short version (before I ramble)</strong><br>
 Right in the middle of Yokohama, there's a "just-right" nature park with ponds, woods, rice paddies, Mt. Fuji views — and a protected Genji firefly habitat. Winter feels crisp and calm. In June, the fireflies show up.</p>
 
-<h2>Kodomo Shizen Park in Asahi Ward, Yokohama: the basics</h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#kodomo-shizen-park-in-asahi-ward-yokoham">Kodomo Shizen Park in Asahi Ward, Yokohama: the basics</a></li>  <li><a href="#the-entrance-map-tells-you-this-place-is">The entrance map tells you this place is bigger than you thought</a></li>  <li><a href="#ducks-on-the-pond-and-the-quiet-of-winte">Ducks on the pond, and the quiet of winter water</a></li>  <li><a href="#mt-fuji-snow-capped-in-the-middle-of-yok">Mt. Fuji, snow-capped, in the middle of Yokohama</a></li>  <li><a href="#momiji-turns-into-a-puppy-in-the-winter-">Momiji turns into a puppy in the winter woods</a></li>  <li><a href="#we-stumbled-on-a-genji-firefly-habitat">We stumbled on a Genji firefly habitat</a></li>  <li><a href="#i-want-to-come-back-in-june--after-i-sor">I want to come back in June — after I sort out my mosquito plan</a></li>  <li><a href="#wrapping-up">Wrapping up</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<h2 id="kodomo-shizen-park-in-asahi-ward-yokoham">Kodomo Shizen Park in Asahi Ward, Yokohama: the basics</h2>
 <figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/04/yokohama-kodomo-park-entrance-map-dog-en.jpg" alt="Shiba Inu Momiji sitting in front of the Kodomo Shizen Park entrance map"><figcaption>At the park entrance. Momiji already has her "let's go" face on</figcaption></figure>
 
 <p>Before I dive into the walk, here's a quick rundown of the place.</p>
@@ -44,7 +53,7 @@ Right in the middle of Yokohama, there's a "just-right" nature park with ponds, 
 
 <p>Finding a park this green within walking distance of a train station is a rarity in Kanagawa. The whole site sits in a <em>yato</em> (valley) along the headwaters of the Futamata River — a geography that keeps woods, ponds, and rice paddies all tangled together in a surprisingly old-Japan way.</p>
 
-<h2>The entrance map tells you this place is bigger than you thought</h2>
+<h2 id="the-entrance-map-tells-you-this-place-is">The entrance map tells you this place is bigger than you thought</h2>
 <figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/04/yokohama-kodomo-park-area-map-sign-en.jpg" alt="Signboard showing the BBQ area map at Kodomo Shizen Park"><figcaption>One look at the map and my wife and I both went, "this is three times bigger than we pictured"</figcaption></figure>
 
 <p>Right after the parking lot, the first thing we met was a big park map.</p>
@@ -53,7 +62,7 @@ Right in the middle of Yokohama, there's a "just-right" nature park with ponds, 
 
 <p>"We're not doing the whole park today," my wife said. Momiji looked up at us with a face that said, "Can we go already?" We aimed for the water first.</p>
 
-<h2>Ducks on the pond, and the quiet of winter water</h2>
+<h2 id="ducks-on-the-pond-and-the-quiet-of-winte">Ducks on the pond, and the quiet of winter water</h2>
 <figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/04/yokohama-kodomo-park-ducks-pond-en.jpg" alt="A group of ducks floating on Oike Pond at Kodomo Shizen Park"><figcaption>Light bouncing off the water, with ducks drifting wherever they liked</figcaption></figure>
 
 <p>At Oike Pond, sunlight was glinting off the surface, and several ducks were floating around without a care in the world.</p>
@@ -66,7 +75,7 @@ Right in the middle of Yokohama, there's a "just-right" nature park with ponds, 
 
 <p>Warm and calm, yet somehow crisp and still. Very much a winter scene.</p>
 
-<h2>Mt. Fuji, snow-capped, in the middle of Yokohama</h2>
+<h2 id="mt-fuji-snow-capped-in-the-middle-of-yok">Mt. Fuji, snow-capped, in the middle of Yokohama</h2>
 <figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/04/yokohama-kodomo-park-mt-fuji-view-en.jpg" alt="Snow-capped Mt. Fuji seen from Kodomo Shizen Park in Yokohama"><figcaption>A clear view of Mt. Fuji between the trees</figcaption></figure>
 
 <p>Somewhere along the path, I glanced up, and there was Mt. Fuji, clean as can be, framed by the trees.</p>
@@ -75,7 +84,7 @@ Right in the middle of Yokohama, there's a "just-right" nature park with ponds, 
 
 <p>Catching a snowy Fuji right after the New Year feels like a good omen. My wife and I stood there for a while, joking that maybe this year would turn out to be a decent one.</p>
 
-<h2>Momiji turns into a puppy in the winter woods</h2>
+<h2 id="momiji-turns-into-a-puppy-in-the-winter-">Momiji turns into a puppy in the winter woods</h2>
 <figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/04/yokohama-kodomo-park-dog-running-meadow-en.jpg" alt="Shiba Inu Momiji running through a dry winter meadow at Kodomo Shizen Park"><figcaption>Momiji on a full-speed dash across the dry meadow</figcaption></figure>
 
 <p>After we circled the pond, we headed into the woods a bit.</p>
@@ -88,7 +97,7 @@ Right in the middle of Yokohama, there's a "just-right" nature park with ponds, 
 
 <p>A few other families with dogs were out too. Not crowded, not empty. A nice in-between.</p>
 
-<h2>We stumbled on a Genji firefly habitat</h2>
+<h2 id="we-stumbled-on-a-genji-firefly-habitat">We stumbled on a Genji firefly habitat</h2>
 <figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/04/yokohama-kodomo-park-firefly-habitat-panel-en.jpg" alt="Interpretive signboard for the Genji firefly habitat at Kodomo Shizen Park, a Yokohama City Natural Monument"><figcaption>Officially designated by Yokohama City. I stood there reading the panel for a while</figcaption></figure>
 
 <p>Further along the trail, I spotted a wooden post with the kanji for "natural monument" (天然記念物).</p>
@@ -103,7 +112,7 @@ Right in the middle of Yokohama, there's a "just-right" nature park with ponds, 
 
 <p>A sturdy fence keeps people out of the core habitat. You can feel the long-term work of locals and volunteers in how carefully this place is kept.</p>
 
-<h2>I want to come back in June — after I sort out my mosquito plan</h2>
+<h2 id="i-want-to-come-back-in-june--after-i-sor">I want to come back in June — after I sort out my mosquito plan</h2>
 <figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/04/yokohama-kodomo-park-rice-paddy-en.jpg" alt="Educational rice paddy and fence near the firefly waterway at Kodomo Shizen Park"><figcaption>The edge of the educational rice paddy. In June, this area is supposedly magical</figcaption></figure>
 
 <p>Here's a small confession: I have never actually seen fireflies properly.</p>
@@ -122,7 +131,7 @@ Right in the middle of Yokohama, there's a "just-right" nature park with ponds, 
 
 <p>(For another walk around Yokohama's hidden nature, you might enjoy <a href="https://en.freelife50.com/theres-a-mt-takao-in-yokohama-you-know/">Yokohama's own "Mt. Takao" — a 13km hike in Midori Ward</a>.)</p>
 
-<h2>Wrapping up</h2>
+<h2 id="wrapping-up">Wrapping up</h2>
 
 <p>New Year's Day, with my wife and Momiji, at Kodomo Shizen Park.</p>
 

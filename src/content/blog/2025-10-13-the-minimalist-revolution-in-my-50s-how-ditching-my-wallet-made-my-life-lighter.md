@@ -6,6 +6,7 @@ categories: ["prepared-life"]
 tags: ["decluttering", "minimalism", "cashless", "moneyclip", "simpleliving"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/10/Gemini_Generated_Image_vcumfevcumfevcum.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/10/Gemini_Generated_Image_vcumfevcumfevcum.jpg"
 excerpt: "How ditching my wallet for a 10g money clip changed my life at 50. A minimalist revolution story about the freedom of carrying less."
 ---
 
@@ -44,7 +45,17 @@ excerpt: "How ditching my wallet for a 10g money clip changed my life at 50. A m
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong> The 10g Revolution — 5 Freedoms from CL CARBONLIFE</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#the-10g-revolution--5-freedoms-from-cl-c">The 10g Revolution — 5 Freedoms from CL CARBONLIFE</a></li>  <li><a href="#breaking-the-long-wallet-myth">Breaking the Long-Wallet Myth</a></li>  <li><a href="#the-11-miracle--discovering-cl-carbonlif">The $11 Miracle — Discovering CL CARBONLIFE</a></li>  <li><a href="#one-card-is-enough-coins-are-history">One Card Is Enough, Coins Are History</a></li>  <li><a href="#owning-less--gaining-freedom">Owning Less = Gaining Freedom</a></li>  <li><a href="#conclusion--10-grams-of-freedom-in-my-po">Conclusion — 10 Grams of Freedom in My Pocket</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="the-10g-revolution--5-freedoms-from-cl-c" class="wp-block-heading"><strong> The 10g Revolution — 5 Freedoms from CL CARBONLIFE</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/Google_AI_Studio_2025-10-12T21_33_02.688Z.jpg" alt="" class="wp-image-2479"/></figure>
 
@@ -74,7 +85,7 @@ excerpt: "How ditching my wallet for a 10g money clip changed my life at 50. A m
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong> Breaking the Long-Wallet Myth</strong></h2>
+<h2 id="breaking-the-long-wallet-myth" class="wp-block-heading"><strong> Breaking the Long-Wallet Myth</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/Gemini_Generated_Image_pw5eypw5eypw5eyp.jpg" alt="" class="wp-image-2480"/></figure>
 
@@ -92,7 +103,7 @@ excerpt: "How ditching my wallet for a 10g money clip changed my life at 50. A m
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>The $11 Miracle — Discovering CL CARBONLIFE</strong></h2>
+<h2 id="the-11-miracle--discovering-cl-carbonlif" class="wp-block-heading"><strong>The $11 Miracle — Discovering CL CARBONLIFE</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/Gemini_Generated_Image_mvsr82mvsr82mvsr.jpg" alt="" class="wp-image-2481"/></figure>
 
@@ -100,7 +111,7 @@ excerpt: "How ditching my wallet for a 10g money clip changed my life at 50. A m
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong> One Card Is Enough, Coins Are History</strong></h2>
+<h2 id="one-card-is-enough-coins-are-history" class="wp-block-heading"><strong> One Card Is Enough, Coins Are History</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/Gemini_Generated_Image_4tlofk4tlofk4tlo.jpg" alt="" class="wp-image-2482"/></figure>
 
@@ -112,7 +123,7 @@ excerpt: "How ditching my wallet for a 10g money clip changed my life at 50. A m
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong> Owning Less = Gaining Freedom</strong></h2>
+<h2 id="owning-less--gaining-freedom" class="wp-block-heading"><strong> Owning Less = Gaining Freedom</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/Gemini_Generated_Image_xzjr2bxzjr2bxzjr.jpg" alt="" class="wp-image-2483"/></figure>
 
@@ -122,7 +133,7 @@ excerpt: "How ditching my wallet for a 10g money clip changed my life at 50. A m
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong> Conclusion — 10 Grams of Freedom in My Pocket</strong></h2>
+<h2 id="conclusion--10-grams-of-freedom-in-my-po" class="wp-block-heading"><strong> Conclusion — 10 Grams of Freedom in My Pocket</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/Gemini_Generated_Image_p8n3y9p8n3y9p8n3.jpg" alt="" class="wp-image-2484"/></figure>
 

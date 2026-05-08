@@ -6,6 +6,7 @@ categories: ["prepared-life"]
 tags: ["digital-drivers-license-japan", "digital-medication-record", "digitalization-in-the-50s", "loss-prevention-tips", "my-number-card-integration"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/10/20251005_1557_IC-Card-Holder_simple_compose_01k6sjfkyaenrabv9bqf1bnhe5.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/10/20251005_1557_IC-Card-Holder_simple_compose_01k6sjfkyaenrabv9bqf1bnhe5.jpg"
 excerpt: "— but you still can’t ditch loss-prevention habits or the paper medication record 📖 Reading time: 12–14 min 🎯 What you"
 ---
 
@@ -29,7 +30,17 @@ excerpt: "— but you still can’t ditch loss-prevention habits or the paper me
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>👋 Intro: A 50-something finally catches the digital wave</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#intro-a-50-something-finally-catches-the">👋 Intro: A 50-something finally catches the digital wave</a></li>  <li><a href="#what-is-the-myna-drivers-license-in-3-li">💳 What is the “MyNa Driver’s License”? (In 3 lines)</a></li>  <li><a href="#the-one-line-verdict">🆕 The one-line verdict</a></li>  <li><a href="#the-pros-from-experience">💡The “Pros” (from experience)</a></li>  <li><a href="#the-cons">⚠️ The “Cons”</a></li>  <li><a href="#what-you-can-do-now-vs-later">📱What you can do now vs later</a></li>  <li><a href="#my-slightly-meh-memories-with-myna-healt">🚶My slightly “meh” memories with MyNa Health Insurance</a></li>  <li><a href="#the-first-hurdleunification-at-the-drivi">🏛️ The first hurdle—unification at the driving school</a></li>  <li><a href="#what-got-better-after-switching">💡 What got better after switching</a></li>  <li><a href="#what-worried-me">⚠️ What worried me</a></li>  <li><a href="#important-loss-risk-countermeasures-for-">🛡️ (Important) Loss-risk countermeasures for the 50s</a></li>  <li><a href="#why-i-still-carry-the-paper-medication-r">💊 Why I still carry the paper medication record (お薬手帳)</a></li>  <li><a href="#what-im-looking-forward-tophone-based-my">🚀 What I’m looking forward to—phone-based MyNa Driver’s License</a></li>  <li><a href="#a-50-somethings-verdict">✅ A 50-something’s verdict</a></li>  <li><a href="#ready-to-start-do-these-first">🚀 Ready to start? Do these first</a></li>  <li><a href="#what-would-you-prioritize">💬 What would you prioritize?</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="intro-a-50-something-finally-catches-the" class="wp-block-heading"><strong>👋 Intro: A 50-something finally catches the digital wave</strong></h2>
 
 <p>Hi there. I’m a guy in my 50s living in Kanagawa.<br>I’ve lived through paper-heavy Showa, PC-internet Heisei, and now the AI-flavored Reiwa.</p>
 
@@ -43,7 +54,7 @@ excerpt: "— but you still can’t ditch loss-prevention habits or the paper me
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>💳 What is the “MyNa Driver’s License”? (In 3 lines)</strong></h2>
+<h2 id="what-is-the-myna-drivers-license-in-3-li" class="wp-block-heading"><strong>💳 What is the “MyNa Driver’s License”? (In 3 lines)</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/20251005_1600_Futuristic-Identity-Integration_simple_compose_01k6sjntgzf31a7pvpgv0d1syk.jpg" alt="" class="wp-image-2430"/></figure>
 
@@ -58,7 +69,7 @@ excerpt: "— but you still can’t ditch loss-prevention habits or the paper me
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🆕 The one-line verdict</strong></h2>
+<h2 id="the-one-line-verdict" class="wp-block-heading"><strong>🆕 The one-line verdict</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/20251005_1601_Cinematic-Card-Dilemma_simple_compose_01k6sjq4eze75sv5zvax2e1fp9.jpg" alt="" class="wp-image-2431"/></figure>
 
@@ -88,7 +99,7 @@ excerpt: "— but you still can’t ditch loss-prevention habits or the paper me
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>💡The “Pros” (from experience)</strong></h2>
+<h2 id="the-pros-from-experience" class="wp-block-heading"><strong>💡The “Pros” (from experience)</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/Google_AI_Studio_2025-10-05T07_29_54.336Z.jpg" alt="" class="wp-image-2432"/></figure>
 
@@ -118,7 +129,7 @@ excerpt: "— but you still can’t ditch loss-prevention habits or the paper me
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>⚠️ The “Cons”</strong></h2>
+<h2 id="the-cons" class="wp-block-heading"><strong>⚠️ The “Cons”</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/Google_AI_Studio_2025-10-05T07_32_26.267Z.jpg" alt="" class="wp-image-2433"/></figure>
 
@@ -147,7 +158,7 @@ excerpt: "— but you still can’t ditch loss-prevention habits or the paper me
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>📱What you can do now vs later</strong></h2>
+<h2 id="what-you-can-do-now-vs-later" class="wp-block-heading"><strong>📱What you can do now vs later</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/Google_AI_Studio_2025-10-05T07_33_57.147Z.jpg" alt="" class="wp-image-2434"/></figure>
 
@@ -181,7 +192,7 @@ excerpt: "— but you still can’t ditch loss-prevention habits or the paper me
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🚶My slightly “meh” memories with MyNa Health Insurance</strong></h2>
+<h2 id="my-slightly-meh-memories-with-myna-healt" class="wp-block-heading"><strong>🚶My slightly “meh” memories with MyNa Health Insurance</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/Google_AI_Studio_2025-10-05T07_40_18.108Z.jpg" alt="" class="wp-image-2435"/></figure>
 
@@ -195,7 +206,7 @@ excerpt: "— but you still can’t ditch loss-prevention habits or the paper me
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🏛️ The first hurdle—unification at the driving school</strong></h2>
+<h2 id="the-first-hurdleunification-at-the-drivi" class="wp-block-heading"><strong>🏛️ The first hurdle—unification at the driving school</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/Google_AI_Studio_2025-10-05T07_43_50.549Z.jpg" alt="" class="wp-image-2436"/></figure>
 
@@ -237,7 +248,7 @@ excerpt: "— but you still can’t ditch loss-prevention habits or the paper me
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>💡 What got better after switching</strong></h2>
+<h2 id="what-got-better-after-switching" class="wp-block-heading"><strong>💡 What got better after switching</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/Google_AI_Studio_2025-10-05T07_45_20.512Z.jpg" alt="" class="wp-image-2437"/></figure>
 
@@ -251,7 +262,7 @@ excerpt: "— but you still can’t ditch loss-prevention habits or the paper me
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>⚠️ What worried me</strong></h2>
+<h2 id="what-worried-me" class="wp-block-heading"><strong>⚠️ What worried me</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/Google_AI_Studio_2025-10-05T07_47_40.210Z.jpg" alt="" class="wp-image-2438"/></figure>
 
@@ -261,7 +272,7 @@ excerpt: "— but you still can’t ditch loss-prevention habits or the paper me
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🛡️ (Important) Loss-risk countermeasures for the 50s</strong></h2>
+<h2 id="important-loss-risk-countermeasures-for-" class="wp-block-heading"><strong>🛡️ (Important) Loss-risk countermeasures for the 50s</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/Google_AI_Studio_2025-10-05T07_49_36.023Z.jpg" alt="" class="wp-image-2439"/></figure>
 
@@ -282,7 +293,7 @@ excerpt: "— but you still can’t ditch loss-prevention habits or the paper me
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>💊 Why I still carry the paper medication record (お薬手帳)</strong></h2>
+<h2 id="why-i-still-carry-the-paper-medication-r" class="wp-block-heading"><strong>💊 Why I still carry the paper medication record (お薬手帳)</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/Google_AI_Studio_2025-10-05T07_52_08.522Z.jpg" alt="" class="wp-image-2440"/></figure>
 
@@ -294,7 +305,7 @@ excerpt: "— but you still can’t ditch loss-prevention habits or the paper me
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🚀 What I’m looking forward to—phone-based MyNa Driver’s License</strong></h2>
+<h2 id="what-im-looking-forward-tophone-based-my" class="wp-block-heading"><strong>🚀 What I’m looking forward to—phone-based MyNa Driver’s License</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/Google_AI_Studio_2025-10-05T07_53_21.618Z.jpg" alt="" class="wp-image-2441"/></figure>
 
@@ -329,7 +340,7 @@ excerpt: "— but you still can’t ditch loss-prevention habits or the paper me
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>✅  A 50-something’s verdict</strong></h2>
+<h2 id="a-50-somethings-verdict" class="wp-block-heading"><strong>✅  A 50-something’s verdict</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/Google_AI_Studio_2025-10-05T07_56_37.379Z.jpg" alt="" class="wp-image-2442"/></figure>
 
@@ -339,7 +350,7 @@ excerpt: "— but you still can’t ditch loss-prevention habits or the paper me
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🚀 Ready to start? Do these first</strong></h2>
+<h2 id="ready-to-start-do-these-first" class="wp-block-heading"><strong>🚀 Ready to start? Do these first</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/Google_AI_Studio_2025-10-05T07_58_34.378Z.jpg" alt="" class="wp-image-2443"/></figure>
 
@@ -360,7 +371,7 @@ excerpt: "— but you still can’t ditch loss-prevention habits or the paper me
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>💬 What would <em>you</em> prioritize?</strong></h2>
+<h2 id="what-would-you-prioritize" class="wp-block-heading"><strong>💬 What would <em>you</em> prioritize?</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/10/Google_AI_Studio_2025-10-05T08_01_01.773Z.jpg" alt="" class="wp-image-2444"/></figure>
 

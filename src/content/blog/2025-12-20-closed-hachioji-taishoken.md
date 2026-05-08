@@ -6,6 +6,7 @@ categories: ["food-nostalgia"]
 tags: ["food-and-life", "hachioji-gourmet", "hachioji-taishoken", "life-in-your-50s", "local-ramen-shop"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/12/PXL_20251214_083741949.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/12/PXL_20251214_083741949.jpg"
 excerpt: "A farewell visit to the legendary Hachioji Taishoken ramen shop. Why I chose miso for my last bowl at this beloved Tokyo-area ramen institution."
 ---
 
@@ -32,7 +33,17 @@ excerpt: "A farewell visit to the legendary Hachioji Taishoken ramen shop. Why I
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Hachioji Taishoken Has Finally Closed… 😢</h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#hachioji-taishoken-has-finally-closed">Hachioji Taishoken Has Finally Closed… 😢</a></li>  <li><a href="#choosing-the-limited-time-miso-ramen--on">Choosing the Limited-Time Miso Ramen — On Purpose</a></li>  <li><a href="#the-tough-looking-old-man-behind-the-cou">The Tough-Looking Old Man Behind the Counter</a></li>  <li><a href="#a-bowl-of-ramen-that-walked-alongside-my">A Bowl of Ramen That Walked Alongside My Life</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="hachioji-taishoken-has-finally-closed" class="wp-block-heading">Hachioji Taishoken Has Finally Closed… 😢</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_q38mvmq38mvmq38m.jpg" alt="" class="wp-image-2929"/></figure>
 
@@ -42,7 +53,7 @@ excerpt: "A farewell visit to the legendary Hachioji Taishoken ramen shop. Why I
 
 <p>On days when work wore me down,<br>or when my mood sank for no clear reason,<br>seeing that yellow sign made me think,<br>“Well… I’ll at least eat until I’m full.”</p>
 
-<h2 class="wp-block-heading">Choosing the Limited-Time Miso Ramen — On Purpose</h2>
+<h2 id="choosing-the-limited-time-miso-ramen--on" class="wp-block-heading">Choosing the Limited-Time Miso Ramen — On Purpose</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251214_083741949.jpg" alt="" class="wp-image-2926"/></figure>
 
@@ -80,7 +91,7 @@ excerpt: "A farewell visit to the legendary Hachioji Taishoken ramen shop. Why I
 
 <p>From tomorrow, I’ll live like a herbivore for a week.<br>Vegetables only.<br>…Probably. (laughs)</p>
 
-<h2 class="wp-block-heading">The Tough-Looking Old Man Behind the Counter</h2>
+<h2 id="the-tough-looking-old-man-behind-the-cou" class="wp-block-heading">The Tough-Looking Old Man Behind the Counter</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_k5pdxrk5pdxrk5pd.jpg" alt="" class="wp-image-2931"/></figure>
 
@@ -104,7 +115,7 @@ excerpt: "A farewell visit to the legendary Hachioji Taishoken ramen shop. Why I
 
 <p>The words that came to mind were simple:<br>“He ran the whole race.”</p>
 
-<h2 class="wp-block-heading">A Bowl of Ramen That Walked Alongside My Life</h2>
+<h2 id="a-bowl-of-ramen-that-walked-alongside-my" class="wp-block-heading">A Bowl of Ramen That Walked Alongside My Life</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_iipepxiipepxiipe.jpg" alt="" class="wp-image-2932"/></figure>
 

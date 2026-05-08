@@ -6,6 +6,7 @@ categories: ["healing-walks"]
 tags: ["sagami-odako-festival", "giant-kite-japan", "japan-traditional-festival", "kanagawa-travel", "shiba-inu"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/04/odako_3297-1.jpg"
+sns_image_url: "/images/wp-content/uploads/2026/04/odako_3297-1.jpg"
 excerpt: "About 5 minutes Hi, I&#8217;m Hiroshi. &#8220;I&#8217;ve heard of it, but I&#8217;ve never actually been.&#8221; You kno"
 ---
 

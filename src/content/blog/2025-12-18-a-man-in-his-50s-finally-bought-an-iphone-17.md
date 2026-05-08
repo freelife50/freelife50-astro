@@ -6,6 +6,7 @@ categories: ["prepared-life"]
 tags: ["iphone-vs-pixel", "iphone17", "life-in-your-50s", "mac-ecosystem", "smartphone-choice"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/12/Gemini_Generated_Image_vselxfvselxfvsel.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/12/Gemini_Generated_Image_vselxfvselxfvsel.jpg"
 excerpt: "iPhone 17 honest review from a 50-year-old first-time buyer in Japan. What surprised me, what I love, and whether the upgrade is worth it."
 ---
 
@@ -32,7 +33,17 @@ excerpt: "iPhone 17 honest review from a 50-year-old first-time buyer in Japan. 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">I Was Satisfied. But Something Started to Bug Me.</h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#i-was-satisfied-but-something-started-to">I Was Satisfied. But Something Started to Bug Me.</a></li>  <li><a href="#the-biggest-fear-data-transfer">The Biggest Fear: Data Transfer</a></li>  <li><a href="#a-long-and-winding-smartphone-journey">A Long and Winding Smartphone Journey</a></li>  <li><a href="#mac--pixel-vs-mac--iphone">Mac × Pixel vs Mac × iPhone</a></li>  <li><a href="#selling-the-pixel-a-trust-building-middl">Selling the Pixel (A Trust-Building Middle-Aged Man)</a></li>  <li><a href="#final-thoughts">Final Thoughts</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="i-was-satisfied-but-something-started-to" class="wp-block-heading">I Was Satisfied. But Something Started to Bug Me.</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_4ssq6m4ssq6m4ssq.jpg" alt="" class="wp-image-2915"/></figure>
 
@@ -74,7 +85,7 @@ excerpt: "iPhone 17 honest review from a 50-year-old first-time buyer in Japan. 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>The Biggest Fear: Data Transfer</strong></h2>
+<h2 id="the-biggest-fear-data-transfer" class="wp-block-heading"><strong>The Biggest Fear: Data Transfer</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_xp7gr3xp7gr3xp7g.jpg" alt="" class="wp-image-2916"/></figure>
 
@@ -109,7 +120,7 @@ excerpt: "iPhone 17 honest review from a 50-year-old first-time buyer in Japan. 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>A Long and Winding Smartphone Journey</strong></h2>
+<h2 id="a-long-and-winding-smartphone-journey" class="wp-block-heading"><strong>A Long and Winding Smartphone Journey</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_3jnjlh3jnjlh3jnj.jpg" alt="" class="wp-image-2917"/></figure>
 
@@ -143,7 +154,7 @@ excerpt: "iPhone 17 honest review from a 50-year-old first-time buyer in Japan. 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Mac × Pixel vs Mac × iPhone</strong></h2>
+<h2 id="mac--pixel-vs-mac--iphone" class="wp-block-heading"><strong>Mac × Pixel vs Mac × iPhone</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_p3dyuop3dyuop3dy.jpg" alt="" class="wp-image-2918"/></figure>
 
@@ -181,7 +192,7 @@ excerpt: "iPhone 17 honest review from a 50-year-old first-time buyer in Japan. 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Selling the Pixel (A Trust-Building Middle-Aged Man)</strong></h2>
+<h2 id="selling-the-pixel-a-trust-building-middl" class="wp-block-heading"><strong>Selling the Pixel (A Trust-Building Middle-Aged Man)</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_elyejcelyejcelye.jpg" alt="" class="wp-image-2919"/></figure>
 
@@ -197,7 +208,7 @@ excerpt: "iPhone 17 honest review from a 50-year-old first-time buyer in Japan. 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Final Thoughts</strong></h2>
+<h2 id="final-thoughts" class="wp-block-heading"><strong>Final Thoughts</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_xei2zixei2zixei2.jpg" alt="" class="wp-image-2920"/></figure>
 

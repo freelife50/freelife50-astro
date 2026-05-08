@@ -6,6 +6,7 @@ categories: ["society-issues-thoughts"]
 tags: ["japan-election", "upper-house2025", "abbreviation-problem", "constitutional-democratic-party", "democratic-party-for-the-people"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/07/Google_AI_Studio_2025-07-19T05_53_33.205Z.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/07/Google_AI_Studio_2025-07-19T05_53_33.205Z.jpg"
 excerpt: "Introduction | Why This Frustrates Me So Much Japan's 2025 House of Councillors election. The official voting instructio"
 ---
 
@@ -23,7 +24,17 @@ excerpt: "Introduction | Why This Frustrates Me So Much Japan's 2025 House of Co
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Chapter 1 | Write "Democratic Party," and It Goes to the CDP Anyway</h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#chapter-1--write-democratic-party-and-it">Chapter 1 | Write "Democratic Party," and It Goes to the CDP Anyway</a></li>  <li><a href="#chapter-2--why-does-this-unfriendly-syst">Chapter 2 | Why Does This Unfriendly System Still Exist?</a></li>  <li><a href="#chapter-3--if-this-were-truly-voter-firs">Chapter 3 | If This Were Truly Voter-First, It Wouldn't Look Like This</a></li>  <li><a href="#chapter-4--small-dishonesty-has-kept-jap">Chapter 4 | Small Dishonesty Has Kept Japan in Stagnation for 30 Years</a></li>  <li><a href="#chapter-5--at-least-protect-your-own-vot">Chapter 5 | At Least, Protect Your Own Vote</a></li>  <li><a href="#conclusion--this-country-wont-change-by-">Conclusion | This Country Won't Change by Politicians Alone — It's Voters Who Decide</a></li>  <li><a href="#one-last-thing">One Last Thing</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="chapter-1--write-democratic-party-and-it" class="wp-block-heading">Chapter 1 | Write "Democratic Party," and It Goes to the CDP Anyway</h2>
 
 <p>Both parties have officially registered the same abbreviation: <strong>“Democratic Party.”</strong></p>
 
@@ -39,7 +50,7 @@ excerpt: "Introduction | Why This Frustrates Me So Much Japan's 2025 House of Co
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Chapter 2 | Why Does This Unfriendly System Still Exist?</h2>
+<h2 id="chapter-2--why-does-this-unfriendly-syst" class="wp-block-heading">Chapter 2 | Why Does This Unfriendly System Still Exist?</h2>
 
 <p><strong>Because It Benefits Politicians, Not Voters.</strong></p>
 
@@ -53,7 +64,7 @@ excerpt: "Introduction | Why This Frustrates Me So Much Japan's 2025 House of Co
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Chapter 3 | If This Were Truly Voter-First, It Wouldn't Look Like This</h2>
+<h2 id="chapter-3--if-this-were-truly-voter-firs" class="wp-block-heading">Chapter 3 | If This Were Truly Voter-First, It Wouldn't Look Like This</h2>
 
 <blockquote class="wp-block-quote"><p>“Either the official name or abbreviation is fine.”</p>
 </blockquote>
@@ -66,7 +77,7 @@ excerpt: "Introduction | Why This Frustrates Me So Much Japan's 2025 House of Co
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Chapter 4 | Small Dishonesty Has Kept Japan in Stagnation for 30 Years</h2>
+<h2 id="chapter-4--small-dishonesty-has-kept-jap" class="wp-block-heading">Chapter 4 | Small Dishonesty Has Kept Japan in Stagnation for 30 Years</h2>
 
 <p>You might think: <strong>"This is such a small, trivial issue."</strong><br>But this is exactly where Japan’s deeper problems show.</p>
 
@@ -81,7 +92,7 @@ excerpt: "Introduction | Why This Frustrates Me So Much Japan's 2025 House of Co
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Chapter 5 | At Least, Protect Your Own Vote</h2>
+<h2 id="chapter-5--at-least-protect-your-own-vot" class="wp-block-heading">Chapter 5 | At Least, Protect Your Own Vote</h2>
 
 <p>Politicians won’t change this.<br>Don’t expect the system to improve on its own.</p>
 
@@ -93,7 +104,7 @@ excerpt: "Introduction | Why This Frustrates Me So Much Japan's 2025 House of Co
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Conclusion | This Country Won't Change by Politicians Alone — It's Voters Who Decide</h2>
+<h2 id="conclusion--this-country-wont-change-by-" class="wp-block-heading">Conclusion | This Country Won't Change by Politicians Alone — It's Voters Who Decide</h2>
 
 <p>Leave things to politicians, and nothing will change — only what benefits them remains.<br>The only power to change the future lies in each voter’s single ballot.</p>
 
@@ -101,7 +112,7 @@ excerpt: "Introduction | Why This Frustrates Me So Much Japan's 2025 House of Co
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">One Last Thing</h2>
+<h2 id="one-last-thing" class="wp-block-heading">One Last Thing</h2>
 
 <p><strong>“It’s fine to write the abbreviation.” — Don’t fall for that line.</strong><br><strong>At least, protect your own vote.</strong></p>
 

@@ -1,4 +1,8 @@
 ---
+import sharp from 'sharp';
+import { join } from 'path';
+import { existsSync } from 'fs';
+
 interface Props {
   title: string;
   slug: string;
@@ -20,11 +24,30 @@ const catNames: Record<string, string> = {
   'food-nostalgia': '食と懐かしさ',
 };
 
+// ビルド時に画像の縦横比を判定（?v=... クエリストリングを除去してからパス解決）
+let isPortrait = false;
+if (eyecatch) {
+  const eyecatchClean = eyecatch.split('?')[0];
+  const imagePath = join(process.cwd(), 'public', eyecatchClean);
+  if (existsSync(imagePath)) {
+    try {
+      const meta = await sharp(imagePath).metadata();
+      isPortrait = (meta.height ?? 0) > (meta.width ?? 1);
+    } catch {
+      // 判定失敗時は横長扱い
+    }
+  }
+}
+
+const thumbClass = isPortrait
+  ? 'post-card__thumb post-card__thumb--portrait'
+  : 'post-card__thumb';
+
 const formattedDate = new Date(date).toLocaleDateString('ja-JP', { year: 'numeric', month: 'long', day: 'numeric' });
 ---
 <article class="post-card">
   {eyecatch
-    ? <img class="post-card__thumb" src={eyecatch} alt={title} loading="lazy" />
+    ? <img class={thumbClass} src={eyecatch} alt={title} loading="lazy" />
     : <div class="post-card__thumb-placeholder">No Image</div>
   }
   <div class="post-card__body">

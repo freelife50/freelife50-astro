@@ -5,12 +5,22 @@ slug: "this-post-shares-a-peaceful-spring-outing-to-kannonzaki-with-my-wife-en"
 categories: ["life-with-momiji"]
 tags: ["kannonzaki-views", "shiba-inu-momiji", "spring-by-the-sea", "lighthouse-holiday", "outing-with-momiji"]
 eyecatch: "/images/wp-content/uploads/2025/04/PXL_20250430_032628184-scaled.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/04/PXL_20250430_032628184-scaled.jpg"
 lang: "en"
 excerpt: "This post shares a peaceful spring outing to Kannonzaki with my wife and our Shiba Inu, Momiji.If you're in need of a gentle breeze for your heart, this story..."
 ---
+<h2 id="main-content">Main Text</h2>
+
 
 <p>🕒 About 2 minutes to read.</p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<nav id="toc" class="post-toc">
+<p><strong>Table of Contents</strong></p>
+<ul>
+<li><a href="#main-content">Main Text</a></li>
+</ul>
+</nav>
 
 <blockquote class="wp-block-quote"><p><strong>This post shares a peaceful spring outing to Kannonzaki with my wife and our Shiba Inu, Momiji.</strong><br>If you're in need of a gentle breeze for your heart, this story might be the perfect break.</p></blockquote>
 
@@ -79,3 +89,10 @@ excerpt: "This post shares a peaceful spring outing to Kannonzaki with my wife a
 <p>That’s the kind of feeling I brought back from this spring day in Kannonzaki.</p>
 
 <figure class="wp-block-image aligncenter size-large is-resized"><img src="/images/wp-content/uploads/2025/04/PXL_20250430_035933537-scaled.jpg" alt="" class="wp-image-285" style="width:376px;height:auto"/></figure>
+
+<blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
+<ul class="wp-block-list">
+<li><a href="https://freelife50.com/doggyman-white-vs-green-which-whident-chew-is-best/">DoggyMan White vs Green Whident Chew Review: Which Is Best for Your Dog?</a></li>
+<li><a href="https://freelife50.com/a-quiet-goodbye-a-quiet-hello-en/">A Quiet Goodbye, A Quiet Hello</a></li>
+<li><a href="https://freelife50.com/what-i-thought-about-protecting-life-on-japans-cat-protection-day-en/">What I Thought About Protecting Life on Japans Cat Protection Day</a></li>
+</ul></blockquote>

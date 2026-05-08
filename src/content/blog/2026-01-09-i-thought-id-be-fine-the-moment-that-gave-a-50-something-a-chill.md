@@ -6,6 +6,7 @@ categories: ["society-issues-thoughts"]
 tags: ["coupletalk", "internationalcalls", "investmentscam", "lifeinyour50s", "mindset"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/01/Gemini_Generated_Image_2ykpa52ykpa52ykp.jpg"
+sns_image_url: "/images/wp-content/uploads/2026/01/Gemini_Generated_Image_2ykpa52ykpa52ykp.jpg"
 excerpt: "Reading time: About 5 minutes Who this is for People in their 50s who feel their heart wobble a bit when they hear a “go"
 ---
 
@@ -31,7 +32,17 @@ excerpt: "Reading time: About 5 minutes Who this is for People in their 50s who 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">The Night My Finger Froze Over the Call Button</h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#the-night-my-finger-froze-over-the-call-">The Night My Finger Froze Over the Call Button</a></li>  <li><a href="#truly-kind-people--and-people-who-only-l">Truly Kind People — and People Who Only Look Kind</a></li>  <li><a href="#the-people-who-say-im-fine-are-the-most-">The People Who Say “I’m Fine” Are the Most at Risk</a></li>  <li><a href="#instead-of-doubting-i-just-check">Instead of “Doubting,” I Just “Check”</a></li>  <li><a href="#mistakes-hit-harder-in-your-50s">Mistakes Hit Harder in Your 50s</a></li>  <li><a href="#trusting-people-and-protecting-yourself-">Trusting People and Protecting Yourself Can Coexist</a></li>  <li><a href="#a-small-thought-to-keep-with-you">A Small Thought to Keep With You</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="the-night-my-finger-froze-over-the-call-" class="wp-block-heading">The Night My Finger Froze Over the Call Button</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_2ykpa52ykpa52ykp.jpg" alt="" class="wp-image-3029"/></figure>
 
@@ -63,7 +74,7 @@ excerpt: "Reading time: About 5 minutes Who this is for People in their 50s who 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Truly Kind People — and People Who Only Look Kind</h2>
+<h2 id="truly-kind-people--and-people-who-only-l" class="wp-block-heading">Truly Kind People — and People Who Only Look Kind</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_9u96b79u96b79u96.jpg" alt="" class="wp-image-3030"/></figure>
 
@@ -83,7 +94,7 @@ excerpt: "Reading time: About 5 minutes Who this is for People in their 50s who 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">The People Who Say “I’m Fine” Are the Most at Risk</h2>
+<h2 id="the-people-who-say-im-fine-are-the-most-" class="wp-block-heading">The People Who Say “I’m Fine” Are the Most at Risk</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_4qsuqb4qsuqb4qsu.jpg" alt="" class="wp-image-3031"/></figure>
 
@@ -105,7 +116,7 @@ excerpt: "Reading time: About 5 minutes Who this is for People in their 50s who 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Instead of “Doubting,” I Just “Check”</h2>
+<h2 id="instead-of-doubting-i-just-check" class="wp-block-heading">Instead of “Doubting,” I Just “Check”</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_grrmmjgrrmmjgrrm.jpg" alt="" class="wp-image-3032"/></figure>
 
@@ -132,7 +143,7 @@ excerpt: "Reading time: About 5 minutes Who this is for People in their 50s who 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Mistakes Hit Harder in Your 50s</h2>
+<h2 id="mistakes-hit-harder-in-your-50s" class="wp-block-heading">Mistakes Hit Harder in Your 50s</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_dzqmvldzqmvldzqm.jpg" alt="" class="wp-image-3033"/></figure>
 
@@ -150,7 +161,7 @@ excerpt: "Reading time: About 5 minutes Who this is for People in their 50s who 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Trusting People and Protecting Yourself Can Coexist</h2>
+<h2 id="trusting-people-and-protecting-yourself-" class="wp-block-heading">Trusting People and Protecting Yourself Can Coexist</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_keqlyekeqlyekeql.jpg" alt="" class="wp-image-3034"/></figure>
 
@@ -166,7 +177,7 @@ excerpt: "Reading time: About 5 minutes Who this is for People in their 50s who 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">A Small Thought to Keep With You</h2>
+<h2 id="a-small-thought-to-keep-with-you" class="wp-block-heading">A Small Thought to Keep With You</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_i6icoci6icoci6ic.jpg" alt="" class="wp-image-3035"/></figure>
 

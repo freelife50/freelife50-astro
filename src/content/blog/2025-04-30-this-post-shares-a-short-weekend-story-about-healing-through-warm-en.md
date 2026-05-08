@@ -5,9 +5,12 @@ slug: "this-post-shares-a-short-weekend-story-about-healing-through-warm-en"
 categories: ["healing-walks"]
 tags: ["sento-life-in-japan", "ordinary-everyday", "relieving-back-pain", "toast-with-momiji", "living-with-community"]
 eyecatch: "/images/wp-content/uploads/2025/04/PXL_20250429_071620825-1-scaled.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/04/PXL_20250429_071620825-1-scaled.jpg"
 lang: "en"
 excerpt: "Yesterday, I took my bike and headed out to a local public bathhouse, \"Machida Sakura no Yu,\" to ease my lower back pain. It’s about a 10–15 minute ride from..."
 ---
+<h2 id="main-content">Main Text</h2>
+
 
 <p> Yesterday, I took my bike and headed out to a local public bathhouse, "Machida Sakura no Yu," to ease my lower back pain. It’s about a 10–15 minute ride from home. The weather was perfect for a casual outing.</p>
 
@@ -29,6 +32,13 @@ excerpt: "Yesterday, I took my bike and headed out to a local public bathhouse, 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
+<nav id="toc" class="post-toc">
+<p><strong>Table of Contents</strong></p>
+<ul>
+<li><a href="#main-content">Main Text</a></li>
+</ul>
+</nav>
+
 <blockquote class="wp-block-quote"><p>Sento Is Where Everyday Japan Lives</p>
 </blockquote>
 
@@ -43,3 +53,10 @@ excerpt: "Yesterday, I took my bike and headed out to a local public bathhouse, 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 <p>And that was my quietly kind little weekend.</p>
+
+<blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
+<ul class="wp-block-list">
+<li><a href="https://freelife50.com/a-50-something-guy-visits-ichiyajo-at-0c-walking-with-my-dog-to-clear-my-mind/">Dog-Friendly Winter Walk at Ishigakiyama (Ichiyajo) in Odawara, Japan</a></li>
+<li><a href="https://freelife50.com/a-surprisingly-quiet-sunday-at-year-end-a-no-regret-walking-guide-to-machida-yakushiike-park/">Machida Yakushiike Park: A Surprisingly Quiet Year-End Walk Near Tokyo</a></li>
+<li><a href="https://freelife50.com/sagamihara-oodako-matsuri-2025-en/">I Waited Four Hours at the Sagamihara Giant Kite Festival. My Wife Went Home First, My Face Turned Red, and It Was Still Worth It</a></li>
+</ul></blockquote>

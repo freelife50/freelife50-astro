@@ -6,6 +6,7 @@ categories: ["society-issues-thoughts"]
 tags: ["bureaucracy-in-japan", "commission-business", "fake-reforms", "furusato-tax", "hidden-taxation"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/07/Google_AI_Studio_2025-07-26T01_16_44.817Z.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/07/Google_AI_Studio_2025-07-26T01_16_44.817Z.jpg"
 excerpt: "– Point-based returns will end in September 2025, quietly stripped from us. 🎯 Purpose of This Article This article is f"
 ---
 
@@ -18,7 +19,17 @@ excerpt: "– Point-based returns will end in September 2025, quietly stripped f
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Chapter 1｜Furusato Nozei Is a Good System – Or It Was</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#chapter-1｜furusato-nozei-is-a-good-syste">Chapter 1｜Furusato Nozei Is a Good System – Or It Was</a></li>  <li><a href="#chapter-2｜the-system-quietly-changed-in-">Chapter 2｜The System Quietly Changed in Fall 2024</a></li>  <li><a href="#chapter-3｜who-gained-and-who-lost">Chapter 3｜Who Gained and Who Lost?</a></li>  <li><a href="#chapter-4｜points-are-banned-fees-stay-do">Chapter 4｜Points Are Banned. Fees Stay. Does That Make Sense?</a></li>  <li><a href="#chapter-5｜who-gave-the-final-green-light">Chapter 5｜Who Gave the Final Green Light?</a></li>  <li><a href="#chapter-6｜who-is-this-system-really-for">Chapter 6｜Who Is This System Really For?</a></li>  <li><a href="#chapter-7｜this-is-why-i-choose-to-speak-">Chapter 7｜This Is Why I Choose to Speak Up</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="chapter-1｜furusato-nozei-is-a-good-syste" class="wp-block-heading"><strong>Chapter 1｜Furusato Nozei Is a Good System – Or It Was</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/07/Google_AI_Studio_2025-07-26T01_19_08.064Z.jpg" alt="" class="wp-image-2010"/></figure>
 
@@ -45,7 +56,7 @@ excerpt: "– Point-based returns will end in September 2025, quietly stripped f
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Chapter 2｜The System Quietly Changed in Fall 2024</strong></h2>
+<h2 id="chapter-2｜the-system-quietly-changed-in-" class="wp-block-heading"><strong>Chapter 2｜The System Quietly Changed in Fall 2024</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/07/Google_AI_Studio_2025-07-26T01_20_51.466Z.jpg" alt="" class="wp-image-2011"/></figure>
 
@@ -70,7 +81,7 @@ excerpt: "– Point-based returns will end in September 2025, quietly stripped f
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Chapter 3｜Who Gained and Who Lost?</strong></h2>
+<h2 id="chapter-3｜who-gained-and-who-lost" class="wp-block-heading"><strong>Chapter 3｜Who Gained and Who Lost?</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/07/Google_AI_Studio_2025-07-26T01_22_22.717Z.jpg" alt="" class="wp-image-2012"/></figure>
 
@@ -90,7 +101,7 @@ excerpt: "– Point-based returns will end in September 2025, quietly stripped f
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Chapter 4｜Points Are Banned. Fees Stay. Does That Make Sense?</strong></h2>
+<h2 id="chapter-4｜points-are-banned-fees-stay-do" class="wp-block-heading"><strong>Chapter 4｜Points Are Banned. Fees Stay. Does That Make Sense?</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/07/Google_AI_Studio_2025-07-26T01_23_44.879Z.jpg" alt="" class="wp-image-2013"/></figure>
 
@@ -117,7 +128,7 @@ excerpt: "– Point-based returns will end in September 2025, quietly stripped f
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Chapter 5｜Who Gave the Final Green Light?</strong></h2>
+<h2 id="chapter-5｜who-gave-the-final-green-light" class="wp-block-heading"><strong>Chapter 5｜Who Gave the Final Green Light?</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/07/Google_AI_Studio_2025-07-26T01_25_25.960Z.jpg" alt="" class="wp-image-2014"/></figure>
 
@@ -158,7 +169,7 @@ excerpt: "– Point-based returns will end in September 2025, quietly stripped f
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Chapter 6｜Who Is This System Really For?</strong></h2>
+<h2 id="chapter-6｜who-is-this-system-really-for" class="wp-block-heading"><strong>Chapter 6｜Who Is This System Really For?</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/07/Google_AI_Studio_2025-07-26T01_26_47.861Z.jpg" alt="" class="wp-image-2015"/></figure>
 
@@ -176,7 +187,7 @@ excerpt: "– Point-based returns will end in September 2025, quietly stripped f
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Chapter 7｜This Is Why I Choose to Speak Up</strong></h2>
+<h2 id="chapter-7｜this-is-why-i-choose-to-speak-" class="wp-block-heading"><strong>Chapter 7｜This Is Why I Choose to Speak Up</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/07/Google_AI_Studio_2025-07-26T01_28_11.615Z.jpg" alt="" class="wp-image-2016"/></figure>
 

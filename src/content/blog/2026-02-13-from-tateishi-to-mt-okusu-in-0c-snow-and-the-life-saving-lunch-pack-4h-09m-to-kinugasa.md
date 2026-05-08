@@ -6,6 +6,7 @@ categories: ["healing-walks"]
 tags: ["japan-hiking", "yokosuka", "miura-peninsula", "mt-okusu", "winter-hike"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/02/image-1.jpg"
+sns_image_url: "/images/wp-content/uploads/2026/02/image-1.jpg"
 excerpt: "Winter hiking report from Tateishi to Mt. Okusu in 0°C snow. A 4-hour trail guide through the Miura Peninsula with gear tips and survival lessons for "
 ---
 
@@ -63,7 +64,17 @@ excerpt: "Winter hiking report from Tateishi to Mt. Okusu in 0°C snow. A 4-hour
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Route Overview &amp; Pace (Actual Log: 08:23–12:32)</h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#route-overview-amp-pace-actual-log-08231">Route Overview &amp; Pace (Actual Log: 08:23–12:32)</a></li>  <li><a href="#detailed-hiking-log">Detailed Hiking Log</a></li>  <li><a href="#final-thoughts">Final Thoughts</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="route-overview-amp-pace-actual-log-08231" class="wp-block-heading">Route Overview &amp; Pace (Actual Log: 08:23–12:32)</h2>
 
 <p>Before the main story,<br>here is a numerical overview of the route.</p>
 
@@ -109,7 +120,7 @@ excerpt: "Winter hiking report from Tateishi to Mt. Okusu in 0°C snow. A 4-hour
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Detailed Hiking Log</h2>
+<h2 id="detailed-hiking-log" class="wp-block-heading">Detailed Hiking Log</h2>
 
 <h3 class="wp-block-heading">Before Starting: Cloudy, Light Snow, 0°C</h3>
 
@@ -410,7 +421,7 @@ excerpt: "Winter hiking report from Tateishi to Mt. Okusu in 0°C snow. A 4-hour
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Final Thoughts</h2>
+<h2 id="final-thoughts" class="wp-block-heading">Final Thoughts</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/02/Gemini_Generated_Image_a6m72ca6m72ca6m7.jpg" alt="" class="wp-image-3191"/></figure>
 

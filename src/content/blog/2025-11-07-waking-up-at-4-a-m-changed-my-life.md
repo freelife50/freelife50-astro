@@ -6,6 +6,7 @@ categories: ["healing-walks"]
 tags: ["deanplushtoy", "earlyrising", "humanconnection", "introvert", "libefest"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/11/PXL_20251028_125018198.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/11/PXL_20251028_125018198.jpg"
 excerpt: "How waking up at 4 AM transformed my life in my 50s. The morning routine, productivity gains, and health benefits of becoming an early riser in Japan."
 ---
 
@@ -31,7 +32,17 @@ excerpt: "How waking up at 4 AM transformed my life in my 50s. The morning routi
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Prologue — 550 Yen or 590 Yen, That Is the Question</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#prologue--550-yen-or-590-yen-that-is-the">Prologue — 550 Yen or 590 Yen, That Is the Question</a></li>  <li><a href="#life-at-4-am--finding-three-hours-of-tru">Life at 4 A.M. — Finding Three Hours of True Freedom</a></li>  <li><a href="#a-small-plush-swinging-on-my-bag">A Small Plush, Swinging on My Bag</a></li>  <li><a href="#the-power-of-volunteering--a-connection-">The Power of Volunteering — A “Connection Device”</a></li>  <li><a href="#the-moment-someone-spoke">The Moment Someone Spoke</a></li>  <li><a href="#light-connections--the-perfect-distance">“Light Connections” — The Perfect Distance</a></li>  <li><a href="#the-reason-i-could-receive-it">The Reason I Could Receive It</a></li>  <li><a href="#epilogue--the-plush-the-590-yen-breakfas">Epilogue — The Plush, the 590-Yen Breakfast, and the 3 Hours of Freedom</a></li>  <li><a href="#a-small-reminder-for-you">☕ A Small Reminder, for You</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="prologue--550-yen-or-590-yen-that-is-the" class="wp-block-heading"><strong>Prologue — 550 Yen or 590 Yen, That Is the Question</strong></h2>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_rmonj0rmonj0rmon.jpg" alt="" class="wp-image-2689"/></figure>
 
@@ -49,7 +60,7 @@ excerpt: "How waking up at 4 AM transformed my life in my 50s. The morning routi
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Life at 4 A.M. — Finding Three Hours of True Freedom</strong></h2>
+<h2 id="life-at-4-am--finding-three-hours-of-tru" class="wp-block-heading"><strong>Life at 4 A.M. — Finding Three Hours of True Freedom</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_kei228kei228kei2.jpg" alt="" class="wp-image-2693"/></figure>
 
@@ -69,7 +80,7 @@ excerpt: "How waking up at 4 AM transformed my life in my 50s. The morning routi
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>A Small Plush, Swinging on My Bag</strong></h2>
+<h2 id="a-small-plush-swinging-on-my-bag" class="wp-block-heading"><strong>A Small Plush, Swinging on My Bag</strong></h2>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_raxjzmraxjzmraxj.jpg" alt="" class="wp-image-2696"/></figure>
 
@@ -83,7 +94,7 @@ excerpt: "How waking up at 4 AM transformed my life in my 50s. The morning routi
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>The Power of Volunteering — A “Connection Device”</strong></h2>
+<h2 id="the-power-of-volunteering--a-connection-" class="wp-block-heading"><strong>The Power of Volunteering — A “Connection Device”</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_o10az7o10az7o10a.jpg" alt="" class="wp-image-2701"/></figure>
 
@@ -99,7 +110,7 @@ excerpt: "How waking up at 4 AM transformed my life in my 50s. The morning routi
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>The Moment Someone Spoke</strong></h2>
+<h2 id="the-moment-someone-spoke" class="wp-block-heading"><strong>The Moment Someone Spoke</strong></h2>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_jposkojposkojpos.jpg" alt="" class="wp-image-2702"/></figure>
 
@@ -121,7 +132,7 @@ excerpt: "How waking up at 4 AM transformed my life in my 50s. The morning routi
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>“Light Connections” — The Perfect Distance</strong></h2>
+<h2 id="light-connections--the-perfect-distance" class="wp-block-heading"><strong>“Light Connections” — The Perfect Distance</strong></h2>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_gqnow1gqnow1gqno.jpg" alt="" class="wp-image-2703"/></figure>
 
@@ -135,7 +146,7 @@ excerpt: "How waking up at 4 AM transformed my life in my 50s. The morning routi
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>The Reason I Could Receive It</strong></h2>
+<h2 id="the-reason-i-could-receive-it" class="wp-block-heading"><strong>The Reason I Could Receive It</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/Image_fx-3.jpg" alt="" class="wp-image-2706"/></figure>
 
@@ -149,7 +160,7 @@ excerpt: "How waking up at 4 AM transformed my life in my 50s. The morning routi
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Epilogue — The Plush, the 590-Yen Breakfast, and the 3 Hours of Freedom</strong></h2>
+<h2 id="epilogue--the-plush-the-590-yen-breakfas" class="wp-block-heading"><strong>Epilogue — The Plush, the 590-Yen Breakfast, and the 3 Hours of Freedom</strong></h2>
 
 <figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_40cs0z40cs0z40cs.jpg" alt="" class="wp-image-2710" style="width:800px;height:auto"/></figure>
 
@@ -165,7 +176,7 @@ excerpt: "How waking up at 4 AM transformed my life in my 50s. The morning routi
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>☕ A Small Reminder, for You</strong></h2>
+<h2 id="a-small-reminder-for-you" class="wp-block-heading"><strong>☕ A Small Reminder, for You</strong></h2>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_x0r2ntx0r2ntx0r2.jpg" alt="" class="wp-image-2711"/></figure>
 

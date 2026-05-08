@@ -6,6 +6,7 @@ categories: ["healing-walks"]
 tags: ["dog-friendly", "hiking", "history", "ishigakiyama-castle", "japan"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/01/IMG_2342.jpg"
+sns_image_url: "/images/wp-content/uploads/2026/01/IMG_2342.jpg"
 excerpt: "A winter dog walk at Ishigakiyama (Ichiyajo) castle ruins in Odawara, Japan. Dog-friendly trail guide with tips for cold-weather hiking with pets."
 ---
 
@@ -30,7 +31,17 @@ excerpt: "A winter dog walk at Ishigakiyama (Ichiyajo) castle ruins in Odawara, 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Why I decided to visit Ichiyajo</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#why-i-decided-to-visit-ichiyajo">Why I decided to visit Ichiyajo</a></li>  <li><a href="#was-ichiyajo-really-built-in-one-night">Was Ichiyajo really built in one night?</a></li>  <li><a href="#what-i-felt-looking-at-the-stone-walls">What I felt looking at the stone walls</a></li>  <li><a href="#walking-with-a-dog-honest-impressions">Walking with a dog: honest impressions</a></li>  <li><a href="#the-view-that-made-everything-connect">The view that made everything connect</a></li>  <li><a href="#reality-check-it-was-freezing-felt-like-">Reality check: it was freezing (felt like 0°C)</a></li>  <li><a href="#summer-warnings-pit-vipers-and-ticks">Summer warnings: pit vipers and ticks</a></li>  <li><a href="#driving-access-fine-for-me-but">Driving access: fine for me, but…</a></li>  <li><a href="#parking-and-toilets-very-important">Parking and toilets (very important)</a></li>  <li><a href="#yoroizuka-farm-planning-matters-with-a-d">Yoroizuka Farm: planning matters with a dog</a></li>  <li><a href="#final-thoughts">Final thoughts</a></li>  <li><a href="#basic-info">Basic info</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="why-i-decided-to-visit-ichiyajo" class="wp-block-heading"><strong>Why I decided to visit Ichiyajo</strong></h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/IMG_2338.jpg" alt="" class="wp-image-3076"/></figure>
 </div>
@@ -54,7 +65,7 @@ excerpt: "A winter dog walk at Ishigakiyama (Ichiyajo) castle ruins in Odawara, 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Was Ichiyajo really built in one night?</strong></h2>
+<h2 id="was-ichiyajo-really-built-in-one-night" class="wp-block-heading"><strong>Was Ichiyajo really built in one night?</strong></h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/IMG_2370.jpg" alt="" class="wp-image-3079"/></figure>
 </div>
@@ -82,7 +93,7 @@ excerpt: "A winter dog walk at Ishigakiyama (Ichiyajo) castle ruins in Odawara, 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>What I felt looking at the stone walls</strong></h2>
+<h2 id="what-i-felt-looking-at-the-stone-walls" class="wp-block-heading"><strong>What I felt looking at the stone walls</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/IMG_2344.jpg" alt="" class="wp-image-3085"/></figure>
 
@@ -102,7 +113,7 @@ excerpt: "A winter dog walk at Ishigakiyama (Ichiyajo) castle ruins in Odawara, 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Walking with a dog: honest impressions</strong></h2>
+<h2 id="walking-with-a-dog-honest-impressions" class="wp-block-heading"><strong>Walking with a dog: honest impressions</strong></h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/IMG_2337.jpg" alt="" class="wp-image-3086"/></figure>
 </div>
@@ -135,7 +146,7 @@ excerpt: "A winter dog walk at Ishigakiyama (Ichiyajo) castle ruins in Odawara, 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>The view that made everything connect</strong></h2>
+<h2 id="the-view-that-made-everything-connect" class="wp-block-heading"><strong>The view that made everything connect</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/IMG_2379.jpg" alt="" class="wp-image-3090"/></figure>
 
@@ -147,7 +158,7 @@ excerpt: "A winter dog walk at Ishigakiyama (Ichiyajo) castle ruins in Odawara, 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Reality check: it was freezing (felt like 0°C)</strong></h2>
+<h2 id="reality-check-it-was-freezing-felt-like-" class="wp-block-heading"><strong>Reality check: it was freezing (felt like 0°C)</strong></h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/IMG_2377.jpg" alt="" class="wp-image-3091"/></figure>
 </div>
@@ -176,7 +187,7 @@ excerpt: "A winter dog walk at Ishigakiyama (Ichiyajo) castle ruins in Odawara, 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Summer warnings: pit vipers and ticks</strong></h2>
+<h2 id="summer-warnings-pit-vipers-and-ticks" class="wp-block-heading"><strong>Summer warnings: pit vipers and ticks</strong></h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/IMG_2353.jpg" alt="" class="wp-image-3095"/></figure>
 </div>
@@ -202,7 +213,7 @@ excerpt: "A winter dog walk at Ishigakiyama (Ichiyajo) castle ruins in Odawara, 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Driving access: fine for me, but…</strong></h2>
+<h2 id="driving-access-fine-for-me-but" class="wp-block-heading"><strong>Driving access: fine for me, but…</strong></h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/IMG_2334.jpg" alt="" class="wp-image-3097"/></figure>
 </div>
@@ -224,7 +235,7 @@ excerpt: "A winter dog walk at Ishigakiyama (Ichiyajo) castle ruins in Odawara, 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Parking and toilets (very important)</strong></h2>
+<h2 id="parking-and-toilets-very-important" class="wp-block-heading"><strong>Parking and toilets (very important)</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/IMG_2335.jpg" alt="" class="wp-image-3098"/></figure>
 
@@ -238,7 +249,7 @@ excerpt: "A winter dog walk at Ishigakiyama (Ichiyajo) castle ruins in Odawara, 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Yoroizuka Farm: planning matters with a dog</strong></h2>
+<h2 id="yoroizuka-farm-planning-matters-with-a-d" class="wp-block-heading"><strong>Yoroizuka Farm: planning matters with a dog</strong></h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/IMG_2388.jpg" alt="" class="wp-image-3099"/></figure>
 </div>
@@ -273,7 +284,7 @@ excerpt: "A winter dog walk at Ishigakiyama (Ichiyajo) castle ruins in Odawara, 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Final thoughts</strong></h2>
+<h2 id="final-thoughts" class="wp-block-heading"><strong>Final thoughts</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/IMG_2391.jpg" alt="" class="wp-image-3101"/></figure>
 
@@ -293,7 +304,7 @@ excerpt: "A winter dog walk at Ishigakiyama (Ichiyajo) castle ruins in Odawara, 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Basic info</strong></h2>
+<h2 id="basic-info" class="wp-block-heading"><strong>Basic info</strong></h2>
 
 <p>📍 <a href="https://www.city.odawara.kanagawa.jp/public-i/park/ishigaki-p.html" target="_blank" rel="noreferrer noopener">石垣山一夜城歴史公園（Ishigakiyama Ichiyajo Historic Park）</a><br>Historic park built by Toyotomi Hideyoshi, overlooking Odawara Castle.</p>
 

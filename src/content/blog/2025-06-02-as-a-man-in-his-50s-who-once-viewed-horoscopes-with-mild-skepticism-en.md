@@ -5,6 +5,7 @@ slug: "as-a-man-in-his-50s-who-once-viewed-horoscopes-with-mild-skepticism-en"
 categories: ["society-issues-thoughts"]
 tags: ["shiitake-uranai", "gentle-horoscope", "healing-words", "empathetic-blogging", "gen-x-perspective"]
 eyecatch: "/images/wp-content/uploads/2025/06/Gemini_Generated_Image_wqmut6wqmut6wqmu.png"
+sns_image_url: "/images/wp-content/uploads/2025/06/Gemini_Generated_Image_wqmut6wqmut6wqmu.png"
 lang: "en"
 excerpt: "This article is for those who’ve ever wondered, “What exactly is Shiitake Uranai?”As a man in his 50s who once viewed horoscopes with mild skepticism, I’d like..."
 ---
@@ -40,12 +41,22 @@ excerpt: "This article is for those who’ve ever wondered, “What exactly is S
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#chapter-1-what-kind-of-name-is-that-i-th">🟦 Chapter 1: “What kind of name is that?!” I thought.</a></li>  <li><a href="#chapter-2-i-didnt-not-believe-but-still">🟨 Chapter 2: I didn’t not believe… but still.</a></li>  <li><a href="#chapter-3-a-kindness-that-felt-almost-li">🟩 Chapter 3: A kindness that felt almost like philosophy</a></li>  <li><a href="#chapter-4-for-the-days-you-just-made-it-">🟥 Chapter 4: For the days you just… made it through</a></li>  <li><a href="#conclusion-shiitake-uranai-is-a-gentle-m">🟩 Conclusion: Shiitake Uranai is a gentle medicine—made of words</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
 <p><strong><em>👤 Who Might Enjoy This Article</em></strong></p>
 
 <p>・If you’ve been feeling mentally or emotionally drained lately<br>・If horoscopes aren’t usually your thing—but you’re curious<br>・If you’re trying to sort through your feelings but can’t quite find the words<br>・If you long for kind, healing language that gently reflects your emotions<br>・If you were born in the Showa era and always thought horoscopes were just for young people</p>
 </blockquote>
 
-<h2>🟦 Chapter 1: “What kind of name is that?!” I thought.</h2>
+<h2 id="chapter-1-what-kind-of-name-is-that-i-th">🟦 Chapter 1: “What kind of name is that?!” I thought.</h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_7a9zlk7a9zlk7a9z.png" alt="" class="wp-image-1533"/></figure>
 
@@ -60,7 +71,7 @@ excerpt: "This article is for those who’ve ever wondered, “What exactly is S
 <p>It didn’t feel like “fortune-telling” at all.<br>It felt more like therapy—or a quiet kind of counseling that speaks to your inner self.</p>
 </blockquote>
 
-<h2>🟨 Chapter 2: I didn’t not believe… but still.</h2>
+<h2 id="chapter-2-i-didnt-not-believe-but-still">🟨 Chapter 2: I didn’t not believe… but still.</h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_jvc2zdjvc2zdjvc2.png" alt="" class="wp-image-1535"/></figure>
 
@@ -77,7 +88,7 @@ excerpt: "This article is for those who’ve ever wondered, “What exactly is S
 <p>It’s comfort.<br>And <em>Shiitake Uranai</em> delivers that comfort in just the right way.</p>
 </blockquote>
 
-<h2>🟩 Chapter 3: A kindness that felt almost like philosophy</h2>
+<h2 id="chapter-3-a-kindness-that-felt-almost-li">🟩 Chapter 3: A kindness that felt almost like philosophy</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_ou48p8ou48p8ou48.png" alt="" class="wp-image-1536"/></figure>
 
@@ -96,7 +107,7 @@ excerpt: "This article is for those who’ve ever wondered, “What exactly is S
 <p>But this horoscope—it helped me hear my own voice again.</p>
 </blockquote>
 
-<h2>🟥 Chapter 4: For the days you just… made it through</h2>
+<h2 id="chapter-4-for-the-days-you-just-made-it-">🟥 Chapter 4: For the days you just… made it through</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_75ao8x75ao8x75ao.png" alt="" class="wp-image-1537"/></figure>
 
@@ -113,7 +124,7 @@ excerpt: "This article is for those who’ve ever wondered, “What exactly is S
 <p>It doesn’t feel like fortune-telling anymore.<br>It feels like a message of support.<br>Not the kind that pushes you forward,<br>but the kind that walks beside you, at your pace.</p>
 </blockquote>
 
-<h2>🟩 Conclusion: Shiitake Uranai is a gentle medicine—made of words</h2>
+<h2 id="conclusion-shiitake-uranai-is-a-gentle-m">🟩 Conclusion: Shiitake Uranai is a gentle medicine—made of words</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_7fqm037fqm037fqm.png" alt="" class="wp-image-1538"/></figure>
 
@@ -133,3 +144,10 @@ excerpt: "This article is for those who’ve ever wondered, “What exactly is S
 
 <p>This is the kind of horoscope I want to keep coming back to.<br>The kind I want to quietly reread on the nights I just want to say,<br>“Well… I lived another day.”</p>
 </blockquote>
+
+<blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
+<ul class="wp-block-list">
+<li><a href="https://freelife50.com/the-day-i-finally-chose-to-choose-a-quiet-shift-toward-the-ballot-box/">Why I Finally Started Voting in Japan: A Quiet Shift Toward the Ballot Box at 50</a></li>
+<li><a href="https://freelife50.com/shocked-by-my-sons-gen-z-values/">Gen X vs Gen Z Values: What My Son's Generation Taught Me About Life in Japan</a></li>
+<li><a href="https://freelife50.com/i-thought-id-be-fine-the-moment-that-gave-a-50-something-a-chill/">Life in Your 50s: \&quot;I Thought I'd Be Fine\&quot; — A Wake-Up Call About Personal Safety</a></li>
+</ul></blockquote>

@@ -6,6 +6,7 @@ categories: ["prepared-life"]
 tags: ["bone-conduction-headphones", "challenge-in-50s", "extraordinary-experience", "gadget-review", "music-and-fitness"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/08/water_astronaut_sync400_800low.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/08/water_astronaut_sync400_800low.jpg"
 excerpt: "Reading Time: about 8 minutes This article is for people who… Feel bored with their usual pool routine Want to swim with"
 ---
 
@@ -33,7 +34,17 @@ excerpt: "Reading Time: about 8 minutes This article is for people who… Feel b
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">The Underwater Instrumentality Project Begins</h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#the-underwater-instrumentality-project-b">The Underwater Instrumentality Project Begins</a></li>  <li><a href="#enter-technology-and-my-struggles">Enter Technology (and My Struggles)</a></li>  <li><a href="#a-savior-appears">A Savior Appears</a></li>  <li><a href="#choosing-the-gear-high-end-vs-budget">Choosing the Gear: High-End vs. Budget</a></li>  <li><a href="#diving-into-space">Diving into “Space”</a></li>  <li><a href="#pros-amp-cons-after-trying">Pros &amp; Cons After Trying</a></li>  <li><a href="#conclusion-totally-worth-it-for-a-trial">Conclusion: Totally Worth It for a Trial</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="the-underwater-instrumentality-project-b" class="wp-block-heading">The Underwater Instrumentality Project Begins</h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-30T03_13_55.457Z.jpg" alt="" class="wp-image-2183"/></figure>
 
@@ -51,7 +62,7 @@ excerpt: "Reading Time: about 8 minutes This article is for people who… Feel b
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Enter Technology (and My Struggles)</h2>
+<h2 id="enter-technology-and-my-struggles" class="wp-block-heading">Enter Technology (and My Struggles)</h2>
 
 <p>Back in my youth, that idea was pure fantasy. But now, thanks to bone-conduction earphones, it’s a reality.</p>
 
@@ -63,7 +74,7 @@ excerpt: "Reading Time: about 8 minutes This article is for people who… Feel b
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">A Savior Appears</h2>
+<h2 id="a-savior-appears" class="wp-block-heading">A Savior Appears</h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2025/08/image-9.png" alt="" class="wp-image-2199" style="width:346px;height:auto"/></figure>
 </div>
@@ -82,7 +93,7 @@ excerpt: "Reading Time: about 8 minutes This article is for people who… Feel b
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Choosing the Gear: High-End vs. Budget</h2>
+<h2 id="choosing-the-gear-high-end-vs-budget" class="wp-block-heading">Choosing the Gear: High-End vs. Budget</h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/08/image-10.jpg" alt="" class="wp-image-2200"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
 </div>
@@ -103,7 +114,7 @@ excerpt: "Reading Time: about 8 minutes This article is for people who… Feel b
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Diving into “Space”</h2>
+<h2 id="diving-into-space" class="wp-block-heading">Diving into “Space”</h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/08/Gemini_Generated_Image_lope4ilope4ilope.jpg" alt="" class="wp-image-2202"/></figure>
 
@@ -123,7 +134,7 @@ excerpt: "Reading Time: about 8 minutes This article is for people who… Feel b
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Pros &amp; Cons After Trying</h2>
+<h2 id="pros-amp-cons-after-trying" class="wp-block-heading">Pros &amp; Cons After Trying</h2>
 
 <p><strong>👍 What was great</strong></p>
 
@@ -145,7 +156,7 @@ excerpt: "Reading Time: about 8 minutes This article is for people who… Feel b
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Conclusion: Totally Worth It for a Trial</h2>
+<h2 id="conclusion-totally-worth-it-for-a-trial" class="wp-block-heading">Conclusion: Totally Worth It for a Trial</h2>
 
 <p>If your pool sessions feel monotonous, this is worth trying.</p>
 

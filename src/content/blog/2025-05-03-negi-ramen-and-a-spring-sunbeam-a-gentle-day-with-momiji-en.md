@@ -5,9 +5,12 @@ slug: "negi-ramen-and-a-spring-sunbeam-a-gentle-day-with-momiji-en"
 categories: ["life-with-momiji"]
 tags: ["ramen-addict", "negi-ramen", "momiji-and-me", "spring-sunbeam", "simple-joy"]
 eyecatch: "/images/wp-content/uploads/2025/05/PXL_20250503_012544543-scaled.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/05/PXL_20250503_012544543-scaled.jpg"
 lang: "en"
 excerpt: "Negi Ramen and a Spring Sunbeam – A Gentle Day with Momiji."
 ---
+<h2 id="main-content">Main Text</h2>
+
 
 <p>🕒 About 1 minutes to read.</p>
 <p>Negi Ramen and a Spring Sunbeam – A Gentle Day with Momiji.</p>
@@ -23,6 +26,13 @@ excerpt: "Negi Ramen and a Spring Sunbeam – A Gentle Day with Momiji."
 <p>I took my time with today’s bowl, gently blowing on each bite. It made me think, "Yep, today’s another good day."</p>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<nav id="toc" class="post-toc">
+<p><strong>Table of Contents</strong></p>
+<ul>
+<li><a href="#main-content">Main Text</a></li>
+</ul>
+</nav>
 
 <p>I don’t write these posts thinking about whether they’ll help someone or not. But maybe, just maybe, someone out there will read this and feel a little better.</p>
 
@@ -44,3 +54,10 @@ excerpt: "Negi Ramen and a Spring Sunbeam – A Gentle Day with Momiji."
 <p>Nothing special. Just a calm, beautiful day. But maybe it’s these kinds of days that help us really appreciate life. I hope more days like this come along.</p>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/PXL_20250503_054349956-scaled.jpg" alt="" class="wp-image-336"/></figure>
+
+<blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
+<ul class="wp-block-list">
+<li><a href="https://freelife50.com/what-i-thought-about-protecting-life-on-japans-cat-protection-day-en/">What I Thought About Protecting Life on Japans Cat Protection Day</a></li>
+<li><a href="https://freelife50.com/grands-grain-free-dog-food-review-shiba-inu-en/">I Did the Research for My Shiba Inu: Is GRANDS Grain-Free Dog Food Worth It?</a></li>
+<li><a href="https://freelife50.com/momiji-rabies-vaccine-en/">Momiji Knew. Taking My Shiba Inu for Her Annual Rabies Vaccine</a></li>
+</ul></blockquote>

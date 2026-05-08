@@ -6,6 +6,7 @@ categories: ["healing-walks"]
 tags: ["hiking50s", "easyhike", "gentlehike", "lowmountain", "beginners-hike"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/11/PXL_20251123_035024152.NIGHT_-1.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/11/PXL_20251123_035024152.NIGHT_-1.jpg"
 excerpt: "Just 15 minutes from the parking lot to the summit. Fall colors, quiet trails, and a touch of history. Visited: November"
 ---
 
@@ -55,7 +56,17 @@ excerpt: "Just 15 minutes from the parking lot to the summit. Fall colors, quiet
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>⭐Why I Chose This Mountain That Day</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#why-i-chose-this-mountain-that-day">⭐Why I Chose This Mountain That Day</a></li>  <li><a href="#the-hike-was-my-wifes-idea">⭐ The Hike Was My Wife’s Idea</a></li>  <li><a href="#access-15-minutes-to-the-summit">⭐ Access: 15 Minutes to the Summit</a></li>  <li><a href="#two-main-routes-we-picked-the-left-one">⭐ Two Main Routes (We Picked the Left One)</a></li>  <li><a href="#at-the-summit-fall-colors--quiet--big-vi">⭐ At the Summit: Fall Colors + Quiet + Big Views</a></li>  <li><a href="#a-mountain-full-of-history">⭐A Mountain Full of History</a></li>  <li><a href="#nearby-hot-spring">⭐Nearby Hot Spring</a></li>  <li><a href="#final-thoughts">⭐Final Thoughts</a></li>  <li><a href="#basic-information">📍 Basic Information</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="why-i-chose-this-mountain-that-day" class="wp-block-heading"><strong>⭐Why I Chose This Mountain That Day</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251123_034829286.jpg" alt="" class="wp-image-2792"/></figure>
 
@@ -67,7 +78,7 @@ excerpt: "Just 15 minutes from the parking lot to the summit. Fall colors, quiet
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>⭐ The Hike Was My Wife’s Idea</strong></h2>
+<h2 id="the-hike-was-my-wifes-idea" class="wp-block-heading"><strong>⭐ The Hike Was My Wife’s Idea</strong></h2>
 
 <p>It was the morning of November 23rd.<br>I was frozen at my desk, thinking:</p>
 
@@ -81,7 +92,7 @@ excerpt: "Just 15 minutes from the parking lot to the summit. Fall colors, quiet
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>⭐  Access: 15 Minutes to the Summit</strong></h2>
+<h2 id="access-15-minutes-to-the-summit" class="wp-block-heading"><strong>⭐  Access: 15 Minutes to the Summit</strong></h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251123_042732443.jpg" alt="" class="wp-image-2794"/></figure>
 </div>
@@ -145,7 +156,7 @@ excerpt: "Just 15 minutes from the parking lot to the summit. Fall colors, quiet
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>⭐ Two Main Routes (We Picked the Left One)</strong></h2>
+<h2 id="two-main-routes-we-picked-the-left-one" class="wp-block-heading"><strong>⭐ Two Main Routes (We Picked the Left One)</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251123_034317939.MP_.jpg" alt="" class="wp-image-2796"/></figure>
 
@@ -187,7 +198,7 @@ excerpt: "Just 15 minutes from the parking lot to the summit. Fall colors, quiet
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>⭐  At the Summit: Fall Colors + Quiet + Big Views</strong></h2>
+<h2 id="at-the-summit-fall-colors--quiet--big-vi" class="wp-block-heading"><strong>⭐  At the Summit: Fall Colors + Quiet + Big Views</strong></h2>
 
 <h3 class="wp-block-heading"><strong>⛩ Torii Gate &amp; Shrine</strong></h3>
 
@@ -245,7 +256,7 @@ excerpt: "Just 15 minutes from the parking lot to the summit. Fall colors, quiet
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>⭐A Mountain Full of History</strong></h2>
+<h2 id="a-mountain-full-of-history" class="wp-block-heading"><strong>⭐A Mountain Full of History</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251123_034857239.jpg" alt="" class="wp-image-2801"/></figure>
 
@@ -266,7 +277,7 @@ excerpt: "Just 15 minutes from the parking lot to the summit. Fall colors, quiet
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>⭐Nearby Hot Spring</strong></h2>
+<h2 id="nearby-hot-spring" class="wp-block-heading"><strong>⭐Nearby Hot Spring</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/Gemini_Generated_Image_qeoto1qeoto1qeot.jpg" alt="" class="wp-image-2802"/></figure>
 
@@ -278,7 +289,7 @@ excerpt: "Just 15 minutes from the parking lot to the summit. Fall colors, quiet
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>⭐Final Thoughts</strong></h2>
+<h2 id="final-thoughts" class="wp-block-heading"><strong>⭐Final Thoughts</strong></h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/11/PXL_20251123_031529164.MP_.jpg" alt="" class="wp-image-2803"/></figure>
 </div>
@@ -307,7 +318,7 @@ excerpt: "Just 15 minutes from the parking lot to the summit. Fall colors, quiet
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>📍 Basic Information </strong></h2>
+<h2 id="basic-information" class="wp-block-heading"><strong>📍 Basic Information </strong></h2>
 
 <p><strong>Mt. Zukkō (頭高山 / Zukkō-yama)</strong></p>
 

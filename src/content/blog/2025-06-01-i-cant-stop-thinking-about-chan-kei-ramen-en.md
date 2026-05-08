@@ -5,6 +5,7 @@ slug: "i-cant-stop-thinking-about-chan-kei-ramen-en"
 categories: ["food-nostalgia"]
 tags: ["chan-kei-ramen", "ramen", "showa-style-ramen", "nostalgia", "morning-ramen"]
 eyecatch: "/images/wp-content/uploads/2025/06/Gemini_Generated_Image_ujglssujglssujgl.png"
+sns_image_url: "/images/wp-content/uploads/2025/06/Gemini_Generated_Image_ujglssujglssujgl.png"
 lang: "en"
 excerpt: "I thought I knew ramen. But seeing photos of Chan-Kei Ramen made something inside me jump—like my taste buds had memories I hadn’t lived yet.It wasn’t just the..."
 ---
@@ -12,7 +13,17 @@ excerpt: "I thought I knew ramen. But seeing photos of Chan-Kei Ramen made somet
 <p>🕒 About 2 minutes to read.</p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2>🍜 Chapter 1: The Ramen I Didn’t Know I Was Missing</h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#chapter-1-the-ramen-i-didnt-know-i-was-m">🍜 Chapter 1: The Ramen I Didn’t Know I Was Missing</a></li>  <li><a href="#chapter-2-a-bowl-overflowing-with-sincer">🍜 Chapter 2: A Bowl Overflowing with Sincerity</a></li>  <li><a href="#chapter-3-reuniting-with-my-younger-self">🍜 Chapter 3: Reuniting with My Younger Self Through a Bowl of Ramen</a></li>  <li><a href="#chapter-4-when-cheap-isnt-enough-anymore">🍜 Chapter 4: When Cheap Isn’t Enough Anymore</a></li>  <li><a href="#chapter-5-a-ramen-shop-that-feels-like-a">🍜 Chapter 5: A Ramen Shop That Feels Like a Time Machine</a></li>  <li><a href="#chapter-6-the-pride-behind-the-steam">🍜 Chapter 6: The Pride Behind the Steam</a></li>  <li><a href="#final-thoughts-why-i-keep-coming-back-to">🧾 Final Thoughts: Why I Keep Coming Back to Chan-Kei Ramen</a></li>  <li><a href="#recommended-articles">Recommended Articles</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="chapter-1-the-ramen-i-didnt-know-i-was-m">🍜 Chapter 1: The Ramen I Didn’t Know I Was Missing</h2>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_mek1jmmek1jmmek1.png" alt="" class="wp-image-1472"/></figure>
 
@@ -21,7 +32,7 @@ excerpt: "I thought I knew ramen. But seeing photos of Chan-Kei Ramen made somet
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2>🍜 Chapter 2: A Bowl Overflowing with Sincerity</h2>
+<h2 id="chapter-2-a-bowl-overflowing-with-sincer">🍜 Chapter 2: A Bowl Overflowing with Sincerity</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_qf6eucqf6eucqf6e.png" alt="" class="wp-image-1474"/></figure>
 
@@ -30,7 +41,7 @@ excerpt: "I thought I knew ramen. But seeing photos of Chan-Kei Ramen made somet
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2>🍜 Chapter 3: Reuniting with My Younger Self Through a Bowl of Ramen</h2>
+<h2 id="chapter-3-reuniting-with-my-younger-self">🍜 Chapter 3: Reuniting with My Younger Self Through a Bowl of Ramen</h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_dfmnj9dfmnj9dfmn.png" alt="" class="wp-image-1484"/></figure>
 
@@ -39,7 +50,7 @@ excerpt: "I thought I knew ramen. But seeing photos of Chan-Kei Ramen made somet
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2>🍜 Chapter 4: When Cheap Isn’t Enough Anymore</h2>
+<h2 id="chapter-4-when-cheap-isnt-enough-anymore">🍜 Chapter 4: When Cheap Isn’t Enough Anymore</h2>
 
 <div class="wp-block-columns"><div class="wp-block-column" style="flex-basis:100%"><figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_aelnavaelnavaeln.png" alt="" class="wp-image-1476"/></figure>
 </div>
@@ -50,7 +61,7 @@ excerpt: "I thought I knew ramen. But seeing photos of Chan-Kei Ramen made somet
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2>🍜 Chapter 5: A Ramen Shop That Feels Like a Time Machine</h2>
+<h2 id="chapter-5-a-ramen-shop-that-feels-like-a">🍜 Chapter 5: A Ramen Shop That Feels Like a Time Machine</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_bdue0zbdue0zbdue.png" alt="" class="wp-image-1480"/></figure>
 
@@ -59,7 +70,7 @@ excerpt: "I thought I knew ramen. But seeing photos of Chan-Kei Ramen made somet
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2>🍜 Chapter 6: The Pride Behind the Steam</h2>
+<h2 id="chapter-6-the-pride-behind-the-steam">🍜 Chapter 6: The Pride Behind the Steam</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_ocjbp6ocjbp6ocjb.png" alt="" class="wp-image-1481"/></figure>
 
@@ -68,7 +79,7 @@ excerpt: "I thought I knew ramen. But seeing photos of Chan-Kei Ramen made somet
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2>🧾 Final Thoughts: Why I Keep Coming Back to Chan-Kei Ramen</h2>
+<h2 id="final-thoughts-why-i-keep-coming-back-to">🧾 Final Thoughts: Why I Keep Coming Back to Chan-Kei Ramen</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_haydjwhaydjwhayd.png" alt="" class="wp-image-1482"/></figure>
 
@@ -81,4 +92,11 @@ excerpt: "I thought I knew ramen. But seeing photos of Chan-Kei Ramen made somet
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2>Recommended Articles</h2>
+<h2 id="recommended-articles">Recommended Articles</h2>
+
+<blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
+<ul class="wp-block-list">
+<li><a href="https://freelife50.com/a-50-something-guy-my-quest-to-become-the-spicy-king/">Mouko Tanmen Nakamoto Challenge: Can a 50-Year-Old Handle 10x Spicy Hokkyoku Ramen?</a></li>
+<li><a href="https://freelife50.com/closed-hachioji-taishoken/">Hachioji Taishoken (Closed): My Last Bowl of Miso at a Legendary Ramen Shop</a></li>
+<li><a href="https://freelife50.com/review-imeea-double-wall-stainless-ramen-bowl-totally-worth-it/">IMEEA Double-Wall Ramen Bowl Review: Best Insulated Bowl for Japanese Noodles</a></li>
+</ul></blockquote>

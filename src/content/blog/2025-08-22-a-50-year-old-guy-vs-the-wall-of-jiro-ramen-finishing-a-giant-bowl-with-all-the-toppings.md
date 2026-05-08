@@ -6,6 +6,7 @@ categories: ["food-nostalgia"]
 tags: ["ramen-jiro", "ramen-dai", "zen-mashi", "food-challenge", "big-eater"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/08/PXL_20250819_024110182.MP_.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/08/PXL_20250819_024110182.MP_.jpg"
 excerpt: "Can a 50-year-old finish a Ramen Jiro large bowl with all toppings? A first-timer's honest experience at Japan's most intimidating ramen chain."
 ---
 
@@ -35,7 +36,17 @@ excerpt: "Can a 50-year-old finish a Ramen Jiro large bowl with all toppings? A 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">The Bucket-List Dream</h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#the-bucket-list-dream">The Bucket-List Dream</a></li>  <li><a href="#my-first-encounter-with-jiro">My First Encounter with Jiro</a></li>  <li><a href="#frozen-at-the-ticket-machine">Frozen at the Ticket Machine</a></li>  <li><a href="#what-is-zenmashi">What Is Zenmashi?</a></li>  <li><a href="#the-fortress-appears">The Fortress Appears</a></li>  <li><a href="#hitting-the-wall-and-entering-the-zone">Hitting the Wall and Entering “The Zone”</a></li>  <li><a href="#flavor-hacks-that-saved-me">Flavor Hacks That Saved Me</a></li>  <li><a href="#the-bittersweet-finish">The Bittersweet Finish</a></li>  <li><a href="#next-challenge">Next Challenge?</a></li>  <li><a href="#shop-info-ramen-jiro-mejirodai">Shop Info: Ramen Jiro Mejirodai</a></li>  <li><a href="#for-future-challengers">For Future Challengers</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="the-bucket-list-dream" class="wp-block-heading">The Bucket-List Dream</h2>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250819_025310134.jpg" alt="" class="wp-image-2143"/></figure>
 
@@ -45,7 +56,7 @@ excerpt: "Can a 50-year-old finish a Ramen Jiro large bowl with all toppings? A 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">My First Encounter with Jiro</h2>
+<h2 id="my-first-encounter-with-jiro" class="wp-block-heading">My First Encounter with Jiro</h2>
 
 <figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-21T22_59_17.782Z.jpg" alt="" class="wp-image-2144"/></figure>
 
@@ -61,7 +72,7 @@ excerpt: "Can a 50-year-old finish a Ramen Jiro large bowl with all toppings? A 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Frozen at the Ticket Machine</h2>
+<h2 id="frozen-at-the-ticket-machine" class="wp-block-heading">Frozen at the Ticket Machine</h2>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250819_021959939.jpg" alt="" class="wp-image-2145"/></figure>
 
@@ -73,7 +84,7 @@ excerpt: "Can a 50-year-old finish a Ramen Jiro large bowl with all toppings? A 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">What Is Zenmashi?</h2>
+<h2 id="what-is-zenmashi" class="wp-block-heading">What Is Zenmashi?</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250819_022330983.jpg" alt="" class="wp-image-2147"/></figure>
 
@@ -92,7 +103,7 @@ excerpt: "Can a 50-year-old finish a Ramen Jiro large bowl with all toppings? A 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">The Fortress Appears</h2>
+<h2 id="the-fortress-appears" class="wp-block-heading">The Fortress Appears</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250819_024110182.MP_.jpg" alt="" class="wp-image-2148"/></figure>
 
@@ -110,7 +121,7 @@ excerpt: "Can a 50-year-old finish a Ramen Jiro large bowl with all toppings? A 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Hitting the Wall and Entering “The Zone”</h2>
+<h2 id="hitting-the-wall-and-entering-the-zone" class="wp-block-heading">Hitting the Wall and Entering “The Zone”</h2>
 
 <p>Then came the wall. My stomach screamed: <em>“Stop now!”</em></p>
 
@@ -118,7 +129,7 @@ excerpt: "Can a 50-year-old finish a Ramen Jiro large bowl with all toppings? A 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Flavor Hacks That Saved Me</h2>
+<h2 id="flavor-hacks-that-saved-me" class="wp-block-heading">Flavor Hacks That Saved Me</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250819_023020594.jpg" alt="" class="wp-image-2149"/></figure>
 
@@ -135,7 +146,7 @@ excerpt: "Can a 50-year-old finish a Ramen Jiro large bowl with all toppings? A 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">The Bittersweet Finish</h2>
+<h2 id="the-bittersweet-finish" class="wp-block-heading">The Bittersweet Finish</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250819_025118497.jpg" alt="" class="wp-image-2150"/></figure>
 
@@ -145,7 +156,7 @@ excerpt: "Can a 50-year-old finish a Ramen Jiro large bowl with all toppings? A 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Next Challenge?</h2>
+<h2 id="next-challenge" class="wp-block-heading">Next Challenge?</h2>
 
 <p>I survived Zenmashi. The first half was heaven. The last half, pure suffering.</p>
 
@@ -157,7 +168,7 @@ excerpt: "Can a 50-year-old finish a Ramen Jiro large bowl with all toppings? A 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Shop Info: Ramen Jiro Mejirodai</h2>
+<h2 id="shop-info-ramen-jiro-mejirodai" class="wp-block-heading">Shop Info: Ramen Jiro Mejirodai</h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/08/PXL_20250819_025212187.jpg" alt="" class="wp-image-2151"/></figure>
 
@@ -177,7 +188,7 @@ excerpt: "Can a 50-year-old finish a Ramen Jiro large bowl with all toppings? A 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">For Future Challengers</h2>
+<h2 id="for-future-challengers" class="wp-block-heading">For Future Challengers</h2>
 
 <p>If you’re tempted to try Zenmashi yourself:</p>
 

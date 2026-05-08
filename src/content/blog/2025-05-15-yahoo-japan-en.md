@@ -5,6 +5,7 @@ slug: "hanakimi-anime-2025-en"
 categories: ["shumi-taiken-etc"]
 tags: ["hanazakari-no-kimitachi-e", "anime-adaptation", "shojo-manga", "nostalgic-drama", "life-reflections-in-my-50s"]
 eyecatch: "/images/wp-content/uploads/2025/05/2d746b30b5a977a1250be21185295675.png"
+sns_image_url: "/images/wp-content/uploads/2025/05/2d746b30b5a977a1250be21185295675.png"
 lang: "en"
 excerpt: "In 2025, the beloved shojo manga Hanazakari no Kimitachi e is finally getting its first anime adaptation — 20 years after it ended. As a total beginner, I did some digging."
 ---
@@ -21,7 +22,17 @@ excerpt: "In 2025, the beloved shojo manga Hanazakari no Kimitachi e is finally 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2>What Is Hanazakari no Kimitachi e?</h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#what-is-hanazakari-no-kimitachi-e">What Is Hanazakari no Kimitachi e?</a></li>  <li><a href="#the-drama-i-vaguely-remember">The Drama I Vaguely Remember</a></li>  <li><a href="#2025-finally-the-first-anime-adaptation">2025: Finally, the First Anime Adaptation</a></li>  <li><a href="#a-note-to-the-reader">A Note to the Reader</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="what-is-hanazakari-no-kimitachi-e">What Is Hanazakari no Kimitachi e?</h2>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/6f8a40c80614c5981b2b73e47f64a9bc.png" alt="" class="wp-image-722"/></figure>
 
@@ -31,7 +42,7 @@ excerpt: "In 2025, the beloved shojo manga Hanazakari no Kimitachi e is finally 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2>The Drama I Vaguely Remember</h2>
+<h2 id="the-drama-i-vaguely-remember">The Drama I Vaguely Remember</h2>
 
 <p>When the 2007 TV drama aired, it starred Maki Horikita—alongside Shun Oguri, Toma Ikuta, Hiro Mizushima, and Masaki Okada. Looking back, that's an incredibly star-studded cast.</p>
 
@@ -41,7 +52,7 @@ excerpt: "In 2025, the beloved shojo manga Hanazakari no Kimitachi e is finally 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2>2025: Finally, the First Anime Adaptation</h2>
+<h2 id="2025-finally-the-first-anime-adaptation">2025: Finally, the First Anime Adaptation</h2>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/002ff346c43cbf8dd63c5df962e3a53f.png" alt="" class="wp-image-723"/></figure>
 
@@ -55,7 +66,7 @@ excerpt: "In 2025, the beloved shojo manga Hanazakari no Kimitachi e is finally 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2>A Note to the Reader</h2>
+<h2 id="a-note-to-the-reader">A Note to the Reader</h2>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/6f3a1668148111d31c0541d24ae55165.png" alt="" class="wp-image-725"/></figure>
 
@@ -66,3 +77,10 @@ excerpt: "In 2025, the beloved shojo manga Hanazakari no Kimitachi e is finally 
 
 <blockquote class="wp-block-quote"><p><em>The featured and in-post images in this article were created using AI (ChatGPT). These are original illustrations and do not replicate any existing characters or copyrighted works.</em></p>
 </blockquote>
+
+<blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
+<ul class="wp-block-list">
+<li><a href="https://freelife50.com/i-didnt-even-watch-it-but-i-cried-anyway-a-50-something-loners-story-en/">I Didnt Even Watch It, But I Cried Anyway  A 50-Something Loners Story</a></li>
+<li><a href="https://freelife50.com/a-man-in-his-50s-goes-to-see-avatar/">Avatar Movie Review: A 50-Year-Old's Honest Take — Mild Emotions, Rich Experience</a></li>
+<li><a href="https://freelife50.com/this-is-a-quiet-essay-about-rediscovering-passion-in-your-50s-en/">This is a quiet essay about rediscovering passion in your 50s, inspired by a random anime moment. If youve ever wondered if its too late to start overmaybe this story is for you.</a></li>
+</ul></blockquote>

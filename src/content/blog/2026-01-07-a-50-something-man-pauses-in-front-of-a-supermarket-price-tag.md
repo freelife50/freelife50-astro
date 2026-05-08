@@ -6,6 +6,7 @@ categories: ["society-issues-thoughts"]
 tags: ["future-of-japan", "household-finances", "index-investing", "inflation", "life-in-your-50s"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/01/Gemini_Generated_Image_kupts5kupts5kupt.jpg"
+sns_image_url: "/images/wp-content/uploads/2026/01/Gemini_Generated_Image_kupts5kupts5kupt.jpg"
 excerpt: "A Quiet Story About Where to Keep Your Money Estimated reading time: about 4 minutes Who this is for People who find the"
 ---
 
@@ -32,7 +33,17 @@ excerpt: "A Quiet Story About Where to Keep Your Money Estimated reading time: a
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Everything feels more expensive lately</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#everything-feels-more-expensive-lately">Everything feels more expensive lately</a></li>  <li><a href="#discount-stickersand-my-own-quiet-frugal">Discount stickers—and my own quiet frugality</a></li>  <li><a href="#inflation-hits-older-people-harder">Inflation hits older people harder</a></li>  <li><a href="#the-japan-i-remember-as-a-child">The Japan I remember as a child</a></li>  <li><a href="#japan-is-a-country-that-once-stood-up-fr">Japan is a country that once stood up from the bottom</a></li>  <li><a href="#dont-wait-for-the-countrystart-with-your">Don’t wait for the country—start with your own household</a></li>  <li><a href="#my-simple-answer">My simple answer</a></li>  <li><a href="#final-thoughts">Final thoughts</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="everything-feels-more-expensive-lately" class="wp-block-heading"><strong>Everything feels more expensive lately</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_2ox0oq2ox0oq2ox0.jpg" alt="" class="wp-image-2997"/></figure>
 
@@ -46,7 +57,7 @@ excerpt: "A Quiet Story About Where to Keep Your Money Estimated reading time: a
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Discount stickers—and my own quiet frugality</strong></h2>
+<h2 id="discount-stickersand-my-own-quiet-frugal" class="wp-block-heading"><strong>Discount stickers—and my own quiet frugality</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_2wkj752wkj752wkj.jpg" alt="" class="wp-image-2998"/></figure>
 
@@ -66,7 +77,7 @@ excerpt: "A Quiet Story About Where to Keep Your Money Estimated reading time: a
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Inflation hits older people harder</strong></h2>
+<h2 id="inflation-hits-older-people-harder" class="wp-block-heading"><strong>Inflation hits older people harder</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_e4p19qe4p19qe4p1.jpg" alt="" class="wp-image-2999"/></figure>
 
@@ -93,7 +104,7 @@ excerpt: "A Quiet Story About Where to Keep Your Money Estimated reading time: a
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>The Japan I remember as a child</strong></h2>
+<h2 id="the-japan-i-remember-as-a-child" class="wp-block-heading"><strong>The Japan I remember as a child</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_zaeezfzaeezfzaee.jpg" alt="" class="wp-image-3000"/></figure>
 
@@ -109,7 +120,7 @@ excerpt: "A Quiet Story About Where to Keep Your Money Estimated reading time: a
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Japan is a country that once stood up from the bottom</strong></h2>
+<h2 id="japan-is-a-country-that-once-stood-up-fr" class="wp-block-heading"><strong>Japan is a country that once stood up from the bottom</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_49g1js49g1js49g1.jpg" alt="" class="wp-image-3001"/></figure>
 
@@ -127,7 +138,7 @@ excerpt: "A Quiet Story About Where to Keep Your Money Estimated reading time: a
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Don’t wait for the country—start with your own household</strong></h2>
+<h2 id="dont-wait-for-the-countrystart-with-your" class="wp-block-heading"><strong>Don’t wait for the country—start with your own household</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_bu8kjdbu8kjdbu8k.jpg" alt="" class="wp-image-3002"/></figure>
 
@@ -147,7 +158,7 @@ excerpt: "A Quiet Story About Where to Keep Your Money Estimated reading time: a
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>My simple answer</strong></h2>
+<h2 id="my-simple-answer" class="wp-block-heading"><strong>My simple answer</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_nz23ftnz23ftnz23.jpg" alt="" class="wp-image-3003"/></figure>
 
@@ -170,7 +181,7 @@ excerpt: "A Quiet Story About Where to Keep Your Money Estimated reading time: a
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Final thoughts</strong></h2>
+<h2 id="final-thoughts" class="wp-block-heading"><strong>Final thoughts</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/Gemini_Generated_Image_8880id8880id8880.jpg" alt="" class="wp-image-3004"/></figure>
 

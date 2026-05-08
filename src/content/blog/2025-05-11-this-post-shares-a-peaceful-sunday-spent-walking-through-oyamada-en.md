@@ -5,12 +5,26 @@ slug: "this-post-shares-a-peaceful-sunday-spent-walking-through-oyamada-en"
 categories: ["healing-walks"]
 tags: ["日曜日の過ごし方", "柴犬もみじ", "心を整える時間", "ピザとビール", "犬との暮らし"]
 eyecatch: "/images/wp-content/uploads/2025/05/PXL_20250511_020405923-scaled.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/05/PXL_20250511_020405923-scaled.jpg"
 lang: "en"
 excerpt: "Taking a breath in nature can sometimes loosen the weight we didn’t even realize we were carrying. Having a nearby place like this might be what gives us the..."
 ---
 
 <p>🕒 About 2 minutes to read.</p>
-<h3>A Bright Morning Draws Me Back</h3>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#a-bright-morning-draws-me-back">A Bright Morning Draws Me Back</a></li>
+<li><a href="#the-boomerang-routine-with-momiji">The Boomerang Routine with Momiji</a></li>
+<li><a href="#through-the-totoro-like-forest-trail">Through the Totoro-Like Forest Trail</a></li>
+<li><a href="#a-gentle-climb-to-a-wide-view">A Gentle Climb to a Wide View</a></li>
+<li><a href="#cooling-off-at-the-front-door">Cooling Off at the Front Door</a></li>
+<li><a href="#ok-mart-pizza-and-momijis-watchful-eyes">OK Mart Pizza and Momiji’s Watchful Eyes</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<h3 id="a-bright-morning-draws-me-back">A Bright Morning Draws Me Back</h3>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/PXL_20250511_020712400-scaled.jpg" alt="" class="wp-image-571"/></figure>
 </div>
@@ -27,7 +41,7 @@ excerpt: "Taking a breath in nature can sometimes loosen the weight we didn’t 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3>The Boomerang Routine with Momiji</h3>
+<h3 id="the-boomerang-routine-with-momiji">The Boomerang Routine with Momiji</h3>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/PXL_20250511_015939262-scaled.jpg" alt="" class="wp-image-572"/></figure>
 
@@ -36,7 +50,7 @@ excerpt: "Taking a breath in nature can sometimes loosen the weight we didn’t 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3>Through the Totoro-Like Forest Trail</h3>
+<h3 id="through-the-totoro-like-forest-trail">Through the Totoro-Like Forest Trail</h3>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/PXL_20250511_024128507-scaled.jpg" alt="" class="wp-image-581"/></figure>
 </div>
@@ -53,7 +67,7 @@ excerpt: "Taking a breath in nature can sometimes loosen the weight we didn’t 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3>A Gentle Climb to a Wide View</h3>
+<h3 id="a-gentle-climb-to-a-wide-view">A Gentle Climb to a Wide View</h3>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/PXL_20250511_022543354-scaled.jpg" alt="" class="wp-image-582"/></figure>
 </div>
@@ -67,7 +81,7 @@ excerpt: "Taking a breath in nature can sometimes loosen the weight we didn’t 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3>Cooling Off at the Front Door</h3>
+<h3 id="cooling-off-at-the-front-door">Cooling Off at the Front Door</h3>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/PXL_20250511_041222928-scaled.jpg" alt="" class="wp-image-584"/></figure>
 
@@ -76,7 +90,7 @@ excerpt: "Taking a breath in nature can sometimes loosen the weight we didn’t 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3>OK Mart Pizza and Momiji’s Watchful Eyes</h3>
+<h3 id="ok-mart-pizza-and-momijis-watchful-eyes">OK Mart Pizza and Momiji’s Watchful Eyes</h3>
 
 <blockquote class="wp-block-quote"><p><em>Lately, I've been hooked on the pizza from OK Mart. I used to make fun of it a little, but honestly, the crust is surprisingly good. Having it with a beer in the afternoon is pure bliss. Meanwhile, Momiji stares at me from behind the curtain—clearly aiming for the pizza. She's been shadowing me the whole time like a tiny, fluffy food thief.</em></p>
 </blockquote>
@@ -87,3 +101,10 @@ excerpt: "Taking a breath in nature can sometimes loosen the weight we didn’t 
 
 <blockquote class="wp-block-quote"><p><em>These are just a few more pieces from our everyday life — slow, simple, and full of little smiles. If you liked this one, I think you’ll enjoy these too.</em></p>
 </blockquote>
+
+<blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
+<ul class="wp-block-list">
+<li><a href="https://freelife50.com/sagamihara-oodako-matsuri-2025-en/">I Waited Four Hours at the Sagamihara Giant Kite Festival. My Wife Went Home First, My Face Turned Red, and It Was Still Worth It</a></li>
+<li><a href="https://freelife50.com/nagoyama-bussharitou-himeji-en/">Japan's Hidden Gandhara: A Buddhist Stupa in Himeji That Blew My Mind</a></li>
+<li><a href="https://freelife50.com/hakone-museum-of-art-gardener-en/">My Wife Rejected the Zoo, So We Went to Hakone Museum of Art — and the Gardeners Won My Heart</a></li>
+</ul></blockquote>

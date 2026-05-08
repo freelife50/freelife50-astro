@@ -6,6 +6,7 @@ categories: ["society-issues-thoughts"]
 tags: ["gen", "generation", "juniors", "gap", "different"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/09/82d5d449a721eb919fabecb3a10a14f7.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/09/82d5d449a721eb919fabecb3a10a14f7.jpg"
 excerpt: "── A $3,500 MacBook Pro vs. $3,500 in My Generation 📖 Estimated Reading Time: 6–7 minutes 🎯 Who Should Read This Post"
 ---
 
@@ -31,7 +32,17 @@ excerpt: "── A $3,500 MacBook Pro vs. $3,500 in My Generation 📖 Estimated
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>My Son’s Choice: A Weapon to Shape His Dream</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#my-sons-choice-a-weapon-to-shape-his-dre">My Son’s Choice: A Weapon to Shape His Dream</a></li>  <li><a href="#where-3500-went-my-waste-vs-his-investme">Where $3,500 Went: My Waste vs. His Investment</a></li>  <li><a href="#gen-z-values-and-work-the-company-as-a-s">Gen Z Values and Work: The Company as a “Stopover”</a></li>  <li><a href="#the-dankai-junior-struggle-living-defens">The Dankai Junior Struggle: Living Defensively in the “Ice Age”</a></li>  <li><a href="#conclusion-a-way-of-life-reflected-in-mo">Conclusion: A Way of Life Reflected in Money</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="my-sons-choice-a-weapon-to-shape-his-dre" class="wp-block-heading"><strong>My Son’s Choice: A Weapon to Shape His Dream</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-25T20_34_21.291Z.jpg" alt="" class="wp-image-2333"/></figure>
 
@@ -43,7 +54,7 @@ excerpt: "── A $3,500 MacBook Pro vs. $3,500 in My Generation 📖 Estimated
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Where $3,500 Went: My Waste vs. His Investment</strong></h2>
+<h2 id="where-3500-went-my-waste-vs-his-investme" class="wp-block-heading"><strong>Where $3,500 Went: My Waste vs. His Investment</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-25T20_36_37.819Z.jpg" alt="" class="wp-image-2338"/></figure>
 
@@ -53,7 +64,7 @@ excerpt: "── A $3,500 MacBook Pro vs. $3,500 in My Generation 📖 Estimated
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Gen Z Values and Work: The Company as a “Stopover”</strong></h2>
+<h2 id="gen-z-values-and-work-the-company-as-a-s" class="wp-block-heading"><strong>Gen Z Values and Work: The Company as a “Stopover”</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-25T20_45_39.968Z.jpg" alt="" class="wp-image-2341"/></figure>
 
@@ -65,7 +76,7 @@ excerpt: "── A $3,500 MacBook Pro vs. $3,500 in My Generation 📖 Estimated
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>The </strong><strong><em>Dankai Junior</em></strong><strong> Struggle: Living Defensively in the “Ice Age”</strong></h2>
+<h2 id="the-dankai-junior-struggle-living-defens" class="wp-block-heading"><strong>The </strong><strong><em>Dankai Junior</em></strong><strong> Struggle: Living Defensively in the “Ice Age”</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-25T20_57_39.669Z-1.jpg" alt="" class="wp-image-2349"/></figure>
 
@@ -75,7 +86,7 @@ excerpt: "── A $3,500 MacBook Pro vs. $3,500 in My Generation 📖 Estimated
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Conclusion: A Way of Life Reflected in Money</strong></h2>
+<h2 id="conclusion-a-way-of-life-reflected-in-mo" class="wp-block-heading"><strong>Conclusion: A Way of Life Reflected in Money</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-25T21_01_07.032Z.jpg" alt="" class="wp-image-2354"/></figure>
 

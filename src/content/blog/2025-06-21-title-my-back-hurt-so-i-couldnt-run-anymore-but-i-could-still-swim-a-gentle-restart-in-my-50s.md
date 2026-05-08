@@ -6,6 +6,7 @@ categories: ["prepared-life"]
 tags: ["gentle-fitness", "swimming-in-your50s", "back-pain-relief", "healthy-aging", "start-small"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/06/Generated-Image-June-21-2025-10_01AM.jpeg"
+sns_image_url: "/images/wp-content/uploads/2025/06/Generated-Image-June-21-2025-10_01AM.jpeg"
 excerpt: "Subtitle: You don’t have to push yourself to the limit. Just floating can be enough. 🕐 Estimated Reading Time: about 5–"
 ---
 
@@ -23,7 +24,15 @@ excerpt: "Subtitle: You don’t have to push yourself to the limit. Just floatin
 
 <p><em>I’m still new to it. But something is definitely shifting in me. And if you’re standing still, wondering what you can do next, maybe my story will quietly nudge you forward.</em></p>
 
-<h2 class="wp-block-heading"><strong><em>🏊 Chapter 1: I Couldn't Run, But I Could Still Swim</em></strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#chapter-1-i-couldnt-run-but-i-could-stil">🏊 Chapter 1: I Couldn't Run, But I Could Still Swim</a></li>  <li><a href="#chapter-2-if-you-cant-run-just-float--my">💧 Chapter 2: If You Can't Run, Just Float — My Pool Days Begin</a></li>  <li><a href="#chapter-3-change-is-slow-but-it-happens">🌱 Chapter 3: Change Is Slow, but It Happens</a></li>  <li><a href="#chapter-4-i-dont-know-where-this-leads-b">🚶‍♂️ Chapter 4: I Don’t Know Where This Leads. But That’s Okay.</a></li>  <li><a href="#final-thoughts-start-small-like-sauna-sm">🧖‍♂️ Final Thoughts: Start Small. Like, Sauna Small.</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<h2 id="chapter-1-i-couldnt-run-but-i-could-stil" class="wp-block-heading"><strong><em>🏊 Chapter 1: I Couldn't Run, But I Could Still Swim</em></strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/Generated-Image-June-21-2025-10_08AM.jpeg" alt="" class="wp-image-1788"/></figure>
 
@@ -45,7 +54,7 @@ excerpt: "Subtitle: You don’t have to push yourself to the limit. Just floatin
 
 <p><em>I remember lying there in bed, staring at the ceiling, thinking:</em><em><br></em><em> “Maybe I can’t run anymore. But maybe… I can still swim.”</em></p>
 
-<h2 class="wp-block-heading"><strong><em>💧 Chapter 2: If You Can't Run, Just Float — My Pool Days Begin</em></strong></h2>
+<h2 id="chapter-2-if-you-cant-run-just-float--my" class="wp-block-heading"><strong><em>💧 Chapter 2: If You Can't Run, Just Float — My Pool Days Begin</em></strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/e6dbcd4173eae3a03d37927bb7cccdc0.png" alt="" class="wp-image-1791"/></figure>
 
@@ -71,7 +80,7 @@ excerpt: "Subtitle: You don’t have to push yourself to the limit. Just floatin
 
 <p><em>And that’s how it began—not with a goal, but with a foot in the water.</em></p>
 
-<h2 class="wp-block-heading"><strong><em>🌱 Chapter 3: Change Is Slow, but It Happens</em></strong></h2>
+<h2 id="chapter-3-change-is-slow-but-it-happens" class="wp-block-heading"><strong><em>🌱 Chapter 3: Change Is Slow, but It Happens</em></strong></h2>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/06/2867bf29d796098d808b9eb71251fddb.png" alt="" class="wp-image-1792"/></figure>
 
@@ -99,7 +108,7 @@ excerpt: "Subtitle: You don’t have to push yourself to the limit. Just floatin
 
 <p><em>And in your 50s, maybe that kind of change is the one that lasts.</em></p>
 
-<h2 class="wp-block-heading"><strong><em>🚶‍♂️ Chapter 4: I Don’t Know Where This Leads. But That’s Okay.</em></strong></h2>
+<h2 id="chapter-4-i-dont-know-where-this-leads-b" class="wp-block-heading"><strong><em>🚶‍♂️ Chapter 4: I Don’t Know Where This Leads. But That’s Okay.</em></strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/Generated-Image-June-21-2025-10_35AM.jpeg" alt="" class="wp-image-1793"/></figure>
 
@@ -121,7 +130,7 @@ excerpt: "Subtitle: You don’t have to push yourself to the limit. Just floatin
 
 <p><em>Maybe I’ll find something new tomorrow.</em><em><br></em><em> Maybe not.</em><em><br></em><em> But today, I swam.</em><em><br></em><em> And that matters.</em></p>
 
-<h2 class="wp-block-heading"><strong><em>🧖‍♂️ Final Thoughts: Start Small. Like, Sauna Small.</em></strong></h2>
+<h2 id="final-thoughts-start-small-like-sauna-sm" class="wp-block-heading"><strong><em>🧖‍♂️ Final Thoughts: Start Small. Like, Sauna Small.</em></strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/22ef65b8a01accd075686d56f8414b5e.png" alt="" class="wp-image-1794"/></figure>
 

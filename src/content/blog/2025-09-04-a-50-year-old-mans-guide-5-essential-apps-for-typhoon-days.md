@@ -6,6 +6,7 @@ categories: ["prepared-life"]
 tags: ["disaster-apps", "disaster-awareness", "emergency-information", "evacuation-info", "life-in-your-50s"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-04T08_50_25.992Z.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-04T08_50_25.992Z.jpg"
 excerpt: "📖 Estimated Reading Time: 7–8 minutes ■ What This Article Delivers “When a typhoon approaches, TV and the internet over"
 ---
 
@@ -38,7 +39,17 @@ excerpt: "📖 Estimated Reading Time: 7–8 minutes ■ What This Article Deliv
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>1. Weathernews</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#1-weathernews">1. Weathernews</a></li>  <li><a href="#2-yahoo-disaster-alert">2. Yahoo! Disaster Alert</a></li>  <li><a href="#3-nerv-disaster-prevention">3. NERV Disaster Prevention</a></li>  <li><a href="#4-nhk-news-amp-disaster-prevention">4. NHK News &amp; Disaster Prevention</a></li>  <li><a href="#5-national-evacuation-shelter-guide">5. National Evacuation Shelter Guide</a></li>  <li><a href="#quick-comparison-table">Quick Comparison Table</a></li>  <li><a href="#usage-scenarios-before-during-and-after-">Usage Scenarios: Before, During, and After a Typhoon</a></li>  <li><a href="#best-app-combinations">Best App Combinations</a></li>  <li><a href="#final-thoughts-turning-information-into-">Final Thoughts: Turning Information into Action</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="1-weathernews" class="wp-block-heading"><strong>1. Weathernews</strong></h2>
 
 <p><strong>The go-to app for tracking typhoon paths and rain clouds</strong></p>
 
@@ -51,7 +62,7 @@ excerpt: "📖 Estimated Reading Time: 7–8 minutes ■ What This Article Deliv
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>2. Yahoo! Disaster Alert</strong></h2>
+<h2 id="2-yahoo-disaster-alert" class="wp-block-heading"><strong>2. Yahoo! Disaster Alert</strong></h2>
 
 <p><strong>Protects the whole family with multi-location alerts</strong></p>
 
@@ -64,7 +75,7 @@ excerpt: "📖 Estimated Reading Time: 7–8 minutes ■ What This Article Deliv
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>3. NERV Disaster Prevention</strong></h2>
+<h2 id="3-nerv-disaster-prevention" class="wp-block-heading"><strong>3. NERV Disaster Prevention</strong></h2>
 
 <p><strong>Fastest alerts with intuitive maps</strong></p>
 
@@ -77,7 +88,7 @@ excerpt: "📖 Estimated Reading Time: 7–8 minutes ■ What This Article Deliv
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>4. NHK News &amp; Disaster Prevention</strong></h2>
+<h2 id="4-nhk-news-amp-disaster-prevention" class="wp-block-heading"><strong>4. NHK News &amp; Disaster Prevention</strong></h2>
 
 <p><strong>Trusted news and live coverage</strong></p>
 
@@ -90,7 +101,7 @@ excerpt: "📖 Estimated Reading Time: 7–8 minutes ■ What This Article Deliv
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>5. National Evacuation Shelter Guide</strong></h2>
+<h2 id="5-national-evacuation-shelter-guide" class="wp-block-heading"><strong>5. National Evacuation Shelter Guide</strong></h2>
 
 <p><strong>The app you’ll need when you actually evacuate</strong></p>
 
@@ -103,13 +114,13 @@ excerpt: "📖 Estimated Reading Time: 7–8 minutes ■ What This Article Deliv
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Quick Comparison Table</strong></h2>
+<h2 id="quick-comparison-table" class="wp-block-heading"><strong>Quick Comparison Table</strong></h2>
 
 <figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td><strong>App</strong></td><td><strong>Strengths</strong></td><td><strong>Weaknesses</strong></td></tr><tr><td><strong>Weathernews</strong></td><td>Detailed forecasts, blackout risks, expert commentary</td><td>No official evacuation info</td></tr><tr><td><strong>Yahoo! Alerts</strong></td><td>Evacuation notices, multiple locations, handbook</td><td>No fine-grained forecasts or videos</td></tr><tr><td><strong>NERV</strong></td><td>Fastest alerts, clear maps</td><td>Lacks extra functions</td></tr><tr><td><strong>NHK</strong></td><td>Reliability, live streaming, wide coverage</td><td>Slower alerts, no shelter data</td></tr><tr><td><strong>Shelter Guide</strong></td><td>Find shelters, offline use</td><td>No weather or alerts</td></tr></tbody></table></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Usage Scenarios: Before, During, and After a Typhoon</strong></h2>
+<h2 id="usage-scenarios-before-during-and-after-" class="wp-block-heading"><strong>Usage Scenarios: Before, During, and After a Typhoon</strong></h2>
 
 <ul class="wp-block-list"><li><strong>3 days before</strong>: Weathernews for typhoon path, Yahoo! for hazard maps<br></li>
 
@@ -124,7 +135,7 @@ excerpt: "📖 Estimated Reading Time: 7–8 minutes ■ What This Article Deliv
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Best App Combinations</strong></h2>
+<h2 id="best-app-combinations" class="wp-block-heading"><strong>Best App Combinations</strong></h2>
 
 <ul class="wp-block-list"><li><strong>Basic Set</strong>: <em>Yahoo! Alerts</em> + <em>Weathernews</em><em><br></em> → Balance between official notices and detailed forecasts.<br></li>
 
@@ -137,7 +148,7 @@ excerpt: "📖 Estimated Reading Time: 7–8 minutes ■ What This Article Deliv
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Final Thoughts: Turning Information into Action</strong></h2>
+<h2 id="final-thoughts-turning-information-into-" class="wp-block-heading"><strong>Final Thoughts: Turning Information into Action</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-04T08_52_25.775Z.jpg" alt="" class="wp-image-2230"/></figure>
 

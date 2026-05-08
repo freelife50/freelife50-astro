@@ -6,6 +6,7 @@ categories: ["prepared-life"]
 tags: ["sleep-better", "luxury-pillow", "made-in-japan", "neck-pain-relief", "back-pain-support"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/07/image.png"
+sns_image_url: "/images/wp-content/uploads/2025/07/image.png"
 excerpt: "Honest review of a premium Japanese pillow for stiff necks and better sleep. Is a $250 pillow worth it for a 50-year-old? Real experience, pros and co"
 ---
 
@@ -42,7 +43,15 @@ excerpt: "Honest review of a premium Japanese pillow for stiff necks and better 
 <p>Sleep takes up one-third of our life.<br>If that part improves, maybe the rest of life starts feeling better too.<br>Suddenly, investing in sleep didn’t sound so silly anymore.</p>
 </blockquote>
 
-<h2 class="wp-block-heading"><strong>🛏️ Chapter 1: I Didn't Expect Much from a Pillow—Until I Found This One</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#chapter-1-i-didnt-expect-much-from-a-pil">🛏️ Chapter 1: I Didn't Expect Much from a Pillow—Until I Found This One</a></li>  <li><a href="#chapter-2-what-makes-the-makura-special">Chapter 2: What Makes THE MAKURA Special?</a></li>  <li><a href="#chapter-3-still-not-mine--but-somehow-i-">Chapter 3: Still Not Mine — But Somehow, I Feel a Shift Coming</a></li>  <li><a href="#chapter-4-maybe-its-time--to-treat-sleep">Chapter 4: Maybe It’s Time — To Treat Sleep Like It Matters</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<h2 id="chapter-1-i-didnt-expect-much-from-a-pil" class="wp-block-heading"><strong>🛏️ Chapter 1: I Didn't Expect Much from a Pillow—Until I Found This One</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/07/image-1.png" alt="" class="wp-image-1866"/></figure>
 
@@ -68,7 +77,7 @@ excerpt: "Honest review of a premium Japanese pillow for stiff necks and better 
 
 <p></p>
 
-<h2 class="wp-block-heading"><strong>Chapter 2: What Makes THE MAKURA Special?</strong></h2>
+<h2 id="chapter-2-what-makes-the-makura-special" class="wp-block-heading"><strong>Chapter 2: What Makes THE MAKURA Special?</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/07/image-2.png" alt="" class="wp-image-1868"/></figure>
 
@@ -100,7 +109,7 @@ excerpt: "Honest review of a premium Japanese pillow for stiff necks and better 
 
 <p></p>
 
-<h2 class="wp-block-heading"><strong>Chapter 3: Still Not Mine — But Somehow, I Feel a Shift Coming</strong></h2>
+<h2 id="chapter-3-still-not-mine--but-somehow-i-" class="wp-block-heading"><strong>Chapter 3: Still Not Mine — But Somehow, I Feel a Shift Coming</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/07/image-3.png" alt="" class="wp-image-1869"/></figure>
 
@@ -167,7 +176,7 @@ excerpt: "Honest review of a premium Japanese pillow for stiff necks and better 
 
 <p></p>
 
-<h2 class="wp-block-heading"><strong>Chapter 4: Maybe It’s Time — To Treat Sleep Like It Matters</strong></h2>
+<h2 id="chapter-4-maybe-its-time--to-treat-sleep" class="wp-block-heading"><strong>Chapter 4: Maybe It’s Time — To Treat Sleep Like It Matters</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/07/image-4.png" alt="" class="wp-image-1870"/></figure>
 

@@ -6,6 +6,7 @@ categories: ["society-issues-thoughts"]
 tags: ["anime", "challenge", "in-your-50s", "life-lesson", "limited-time"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/06/Gemini_Generated_Image_vr1jbsvr1jbsvr1j.png"
+sns_image_url: "/images/wp-content/uploads/2025/06/Gemini_Generated_Image_vr1jbsvr1jbsvr1j.png"
 excerpt: "A Story of Midlife, Hope, and a Manga That Helped Me Begin Again 🕐 Estimated reading time: about 6 minutes ⛳ Purpose Th"
 ---
 
@@ -39,7 +40,15 @@ excerpt: "A Story of Midlife, Hope, and a Manga That Helped Me Begin Again 🕐 
 
 <p>But even now, I realize — deep down — I still want to throw.<br>Maybe not like before, but still… I want to reach someone.</p>
 
-<h2 class="wp-block-heading">🟦 Chapter 1: Why We Can Still Stand — Even If We’re No Longer Perfect</h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#chapter-1-why-we-can-still-stand--even-i">🟦 Chapter 1: Why We Can Still Stand — Even If We’re No Longer Perfect</a></li>  <li><a href="#chapter-2-this-isnt-a-do-over--its-me-th">🟦 Chapter 2: This Isn’t a Do-Over — It’s Me, Throwing as I Am Now</a></li>  <li><a href="#chapter-3-one-pitch-one-heart--its-not-a">🟦 Chapter 3: One Pitch, One Heart — It’s Not About How Much, But What’s Inside</a></li>  <li><a href="#chapter-4-the-words-that-got-me-to-stand">🟨 Chapter 4: The Words That Got Me to Stand Again</a></li>  <li><a href="#chapter-5-today-i-threw-one-more-pitch">🟦 Chapter 5: Today, I Threw One More Pitch</a></li>  <li><a href="#conclusion-what-will-you-put-into-your-l">🟧 Conclusion: What Will You Put Into Your Last Three Pitches?</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<h2 id="chapter-1-why-we-can-still-stand--even-i" class="wp-block-heading">🟦 Chapter 1: Why We Can Still Stand — Even If We’re No Longer Perfect</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_t3h3txt3h3txt3h3.png" alt="" class="wp-image-1664"/></figure>
 
@@ -75,7 +84,7 @@ excerpt: "A Story of Midlife, Hope, and a Manga That Helped Me Begin Again 🕐 
 
 <p>So I stand up — even if I’m not perfect anymore.</p>
 
-<h2 class="wp-block-heading">🟦 Chapter 2: This Isn’t a Do-Over — It’s Me, Throwing as I Am Now</h2>
+<h2 id="chapter-2-this-isnt-a-do-over--its-me-th" class="wp-block-heading">🟦 Chapter 2: This Isn’t a Do-Over — It’s Me, Throwing as I Am Now</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_uozn0duozn0duozn.png" alt="" class="wp-image-1666"/></figure>
 
@@ -97,7 +106,7 @@ excerpt: "A Story of Midlife, Hope, and a Manga That Helped Me Begin Again 🕐 
 
 <p>And honestly, that’s enough.</p>
 
-<h2 class="wp-block-heading">🟦 Chapter 3: One Pitch, One Heart — It’s Not About How Much, But What’s Inside</h2>
+<h2 id="chapter-3-one-pitch-one-heart--its-not-a" class="wp-block-heading">🟦 Chapter 3: One Pitch, One Heart — It’s Not About How Much, But What’s Inside</h2>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/06/734d911fcfdc79c35b7d88d35baaf3e0.png" alt="" class="wp-image-1668"/></figure>
 
@@ -129,7 +138,7 @@ excerpt: "A Story of Midlife, Hope, and a Manga That Helped Me Begin Again 🕐 
 
 <p>Because when you know you only have three pitches left…<br>Every. Single. One.<br>Becomes powerful.</p>
 
-<h2 class="wp-block-heading">🟨 Chapter 4: The Words That Got Me to Stand Again</h2>
+<h2 id="chapter-4-the-words-that-got-me-to-stand" class="wp-block-heading">🟨 Chapter 4: The Words That Got Me to Stand Again</h2>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_b921ydb921ydb921.png" alt="" class="wp-image-1669"/></figure>
 
@@ -166,7 +175,7 @@ excerpt: "A Story of Midlife, Hope, and a Manga That Helped Me Begin Again 🕐 
 
 <p>That’s my mound.</p>
 
-<h2 class="wp-block-heading">🟦 Chapter 5: Today, I Threw One More Pitch</h2>
+<h2 id="chapter-5-today-i-threw-one-more-pitch" class="wp-block-heading">🟦 Chapter 5: Today, I Threw One More Pitch</h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/cedeac9e3139deb8e673118f2dc4197a.png" alt="" class="wp-image-1671"/></figure>
 
@@ -197,7 +206,7 @@ excerpt: "A Story of Midlife, Hope, and a Manga That Helped Me Begin Again 🕐 
 
 <p>Just one pitch.<br>But one with everything I’ve got today.</p>
 
-<h2 class="wp-block-heading">🟧 Conclusion: What Will You Put Into Your Last Three Pitches?</h2>
+<h2 id="conclusion-what-will-you-put-into-your-l" class="wp-block-heading">🟧 Conclusion: What Will You Put Into Your Last Three Pitches?</h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/2afd603de1b0b7b886c298d8d3ec0e89-1.png" alt="" class="wp-image-1676"/></figure>
 

@@ -6,6 +6,7 @@ categories: ["healing-walks"]
 tags: ["dog-friendly-trip", "shiba-inu-momiji", "rainy-day-drive", "tokyo-bay-ferry", "chiba-road-trip"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/10/PXL_20251013_015034524.MP_.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/10/PXL_20251013_015034524.MP_.jpg"
 excerpt: "A dog-friendly day trip from Tokyo across Tokyo Bay Ferry to Chiba. Real driving route, pet ferry rules, and tips for rainy-day adventures with your d"
 ---
 

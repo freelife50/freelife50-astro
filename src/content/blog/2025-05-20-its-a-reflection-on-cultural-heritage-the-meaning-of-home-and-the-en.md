@@ -5,6 +5,7 @@ slug: "its-a-reflection-on-cultural-heritage-the-meaning-of-home-and-the-en"
 categories: ["healing-walks"]
 tags: ["鹿島踊り", "伝統芸能", "日本の文化", "無形文化遺産", "ユネスコ登録"]
 eyecatch: "/images/wp-content/uploads/2025/05/3a38784f303640fd2ed6f3c63cac89ed.png"
+sns_image_url: "/images/wp-content/uploads/2025/05/3a38784f303640fd2ed6f3c63cac89ed.png"
 lang: "en"
 excerpt: "It was one of those days where the ride just felt perfect.The air was fresh, the scenery stunning. My Super Cub glided smoothly through the mountain curves."
 ---
@@ -16,7 +17,25 @@ excerpt: "It was one of those days where the ride just felt perfect.The air was 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3>🌍 A Perfect Day for Touring in Okutama</h3>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#a-perfect-day-for-touring-in-okutama">🌍 A Perfect Day for Touring in Okutama</a></li>
+<li><a href="#the-mysterious-dance-at-the-visitor-cent">The Mysterious Dance at the Visitor Center</a></li>
+<li><a href="#why-are-these-old-guys-dressed-as-women">Why Are These Old Guys Dressed as Women?</a></li>
+<li><a href="#a-tradition-dating-back-to-the-edo-perio">A Tradition Dating Back to the Edo Period</a></li>
+<li><a href="#the-sunken-village-and-the-people-who-st">The Sunken Village and the People Who Still Dance</a></li>
+<li><a href="#how-dance-keeps-the-hometown-alive">How Dance Keeps the Hometown Alive</a></li>
+<li><a href="#just-a-random-stop-but">Just a Random Stop, But──</a></li>
+<li><a href="#sometimes-world-class-culture-hides-in-t">Sometimes, World-Class Culture Hides in the Hills</a></li>
+<li><a href="#final-thoughts-when-culture-quietly-move">🌍 Final Thoughts: When Culture Quietly Moves the Heart</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h3 id="a-perfect-day-for-touring-in-okutama">🌍 A Perfect Day for Touring in Okutama</h3>
 
 <p>It was one of those days where the ride just felt perfect.<br>The air was fresh, the scenery stunning. My Super Cub glided smoothly through the mountain curves.</p>
 
@@ -34,7 +53,7 @@ excerpt: "It was one of those days where the ride just felt perfect.The air was 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3>The Mysterious Dance at the Visitor Center</h3>
+<h3 id="the-mysterious-dance-at-the-visitor-cent">The Mysterious Dance at the Visitor Center</h3>
 
 <p>While browsing the exhibition, I noticed a strange photo:<br>a man with a white-painted face, dressed in a bright red kimono, wearing a glittering crown.</p>
 
@@ -68,7 +87,7 @@ excerpt: "It was one of those days where the ride just felt perfect.The air was 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3>Why Are These Old Guys Dressed as Women?</h3>
+<h3 id="why-are-these-old-guys-dressed-as-women">Why Are These Old Guys Dressed as Women?</h3>
 
 <p>I couldn’t shake the image, so I did some digging online.</p>
 
@@ -88,7 +107,7 @@ excerpt: "It was one of those days where the ride just felt perfect.The air was 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3>A Tradition Dating Back to the Edo Period</h3>
+<h3 id="a-tradition-dating-back-to-the-edo-perio">A Tradition Dating Back to the Edo Period</h3>
 
 <p>Digging deeper, I found that <em>Kashima Odori</em> goes all the way back to the early Edo period.<br>It was originally called <em>Gion Odori</em>, and over time, one line in the lyrics—“Let us dance the Kashima Odori”—gave the tradition its new name.</p>
 
@@ -110,7 +129,7 @@ excerpt: "It was one of those days where the ride just felt perfect.The air was 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3>The Sunken Village and the People Who Still Dance</h3>
+<h3 id="the-sunken-village-and-the-people-who-st">The Sunken Village and the People Who Still Dance</h3>
 
 <p>And then came the part that truly shook me.</p>
 
@@ -140,7 +159,7 @@ excerpt: "It was one of those days where the ride just felt perfect.The air was 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3>How Dance Keeps the Hometown Alive</h3>
+<h3 id="how-dance-keeps-the-hometown-alive">How Dance Keeps the Hometown Alive</h3>
 
 <p>Why was it the <strong>dance</strong> that survived?<br>Why not the buildings, or the roads, or the shrines?</p>
 
@@ -166,7 +185,7 @@ excerpt: "It was one of those days where the ride just felt perfect.The air was 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3>Just a Random Stop, But──</h3>
+<h3 id="just-a-random-stop-but">Just a Random Stop, But──</h3>
 
 <p>Honestly, I had no plan.<br>I was just cruising on my Cub, enjoying the breeze, when I thought,<br>"Hey, there's a visitor center. Might as well take a peek."</p>
 
@@ -188,7 +207,7 @@ excerpt: "It was one of those days where the ride just felt perfect.The air was 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3>Sometimes, World-Class Culture Hides in the Hills</h3>
+<h3 id="sometimes-world-class-culture-hides-in-t">Sometimes, World-Class Culture Hides in the Hills</h3>
 
 <p>When I hear “UNESCO-registered” or “Intangible Cultural Heritage,”<br>I picture something grand—<br>Kyoto’s Gion Festival, the Great Buddha of Nara…<br>major landmarks, spotlighted in guidebooks and glossy posters.</p>
 
@@ -218,7 +237,7 @@ excerpt: "It was one of those days where the ride just felt perfect.The air was 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h3>🌍 Final Thoughts: When Culture Quietly Moves the Heart</h3>
+<h3 id="final-thoughts-when-culture-quietly-move">🌍 Final Thoughts: When Culture Quietly Moves the Heart</h3>
 
 <p>I stopped by without a plan.<br>And found the spirit of a village that has lived for over 400 years.</p>
 

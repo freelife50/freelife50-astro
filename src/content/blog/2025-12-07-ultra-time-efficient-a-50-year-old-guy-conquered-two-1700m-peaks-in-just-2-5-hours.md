@@ -6,6 +6,7 @@ categories: ["healing-walks"]
 tags: ["mount", "okurakamaru", "hamayba", "peak", "fuji"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/12/PXL_20251130_024444364.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/12/PXL_20251130_024444364.jpg"
 excerpt: "(Okura-takamaru & Hamaiba-maru / Out-and-Back Route) Estimated Reading Time: 10 minutes ( Laughs included, tears not inc"
 ---
 
@@ -32,7 +33,17 @@ excerpt: "(Okura-takamaru & Hamaiba-maru / Out-and-Back Route) Estimated Reading
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Conclusion</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#conclusion">Conclusion</a></li>  <li><a href="#why-i-chose-okura-takamaru">Why I Chose Okura-takamaru</a></li>  <li><a href="#what-kind-of-mountains-are-they">What Kind of Mountains Are They?</a></li>  <li><a href="#access-amp-parking-important">Access &amp; Parking (IMPORTANT!)</a></li>  <li><a href="#real-time-hiking-log">Real-Time Hiking Log</a></li>  <li><a href="#pros-amp-cons-i-actually-felt">Pros &amp; Cons I Actually Felt</a></li>  <li><a href="#recommended-footwear-amp-gear">Recommended Footwear &amp; Gear</a></li>  <li><a href="#summary">Summary</a></li>  <li><a href="#＜hike-data＞">＜Hike Data＞</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="conclusion" class="wp-block-heading"><strong>Conclusion</strong></h2>
 
 <p>This hike feels <strong>way easier</strong> than Mt. Tōno-dake,<br>yet you get <strong>two</strong> 1700m peaks + jaw-dropping views in just <strong>2.5 hours</strong>.<br>Honestly… it feels like cheating.</p>
 
@@ -66,7 +77,7 @@ excerpt: "(Okura-takamaru & Hamaiba-maru / Out-and-Back Route) Estimated Reading
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Why I Chose Okura-takamaru</strong></h2>
+<h2 id="why-i-chose-okura-takamaru" class="wp-block-heading"><strong>Why I Chose Okura-takamaru</strong></h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251130_021211127.jpg" alt="" class="wp-image-2850"/></figure>
 </div>
@@ -89,7 +100,7 @@ excerpt: "(Okura-takamaru & Hamaiba-maru / Out-and-Back Route) Estimated Reading
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>What Kind of Mountains Are They?</strong></h2>
+<h2 id="what-kind-of-mountains-are-they" class="wp-block-heading"><strong>What Kind of Mountains Are They?</strong></h2>
 
 <h3 class="wp-block-heading"><strong>Mt. Okura-takamaru (1781m)</strong></h3>
 
@@ -137,7 +148,7 @@ excerpt: "(Okura-takamaru & Hamaiba-maru / Out-and-Back Route) Estimated Reading
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Access &amp; Parking (IMPORTANT!)</strong></h2>
+<h2 id="access-amp-parking-important" class="wp-block-heading"><strong>Access &amp; Parking (IMPORTANT!)</strong></h2>
 
 <ul class="wp-block-list"><li>Chūō Expressway → Ōtsuki IC<br></li>
 
@@ -154,7 +165,7 @@ excerpt: "(Okura-takamaru & Hamaiba-maru / Out-and-Back Route) Estimated Reading
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Real-Time Hiking Log</strong></h2>
+<h2 id="real-time-hiking-log" class="wp-block-heading"><strong>Real-Time Hiking Log</strong></h2>
 
 <p>— A 50-Year-Old Guy’s Honest Timeline —</p>
 
@@ -237,7 +248,7 @@ excerpt: "(Okura-takamaru & Hamaiba-maru / Out-and-Back Route) Estimated Reading
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Pros &amp; Cons I Actually Felt</strong></h2>
+<h2 id="pros-amp-cons-i-actually-felt" class="wp-block-heading"><strong>Pros &amp; Cons I Actually Felt</strong></h2>
 
 <h3 class="wp-block-heading"><strong>What Was Great</strong></h3>
 
@@ -259,7 +270,7 @@ excerpt: "(Okura-takamaru & Hamaiba-maru / Out-and-Back Route) Estimated Reading
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Recommended Footwear &amp; Gear</strong></h2>
+<h2 id="recommended-footwear-amp-gear" class="wp-block-heading"><strong>Recommended Footwear &amp; Gear</strong></h2>
 
 <div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251130_020937547.jpg" alt="" class="wp-image-2858"/></figure>
 </div>
@@ -279,7 +290,7 @@ excerpt: "(Okura-takamaru & Hamaiba-maru / Out-and-Back Route) Estimated Reading
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Summary</strong></h2>
+<h2 id="summary" class="wp-block-heading"><strong>Summary</strong></h2>
 
 <figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/12/PXL_20251130_024314515.jpg" alt="" class="wp-image-2845"/></figure>
 
@@ -302,7 +313,7 @@ excerpt: "(Okura-takamaru & Hamaiba-maru / Out-and-Back Route) Estimated Reading
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>＜Hike Data＞</strong></h2>
+<h2 id="＜hike-data＞" class="wp-block-heading"><strong>＜Hike Data＞</strong></h2>
 
 <ul class="wp-block-list"><li><strong>Date:</strong> Nov 30, 2025<br></li>
 

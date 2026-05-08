@@ -6,6 +6,7 @@ categories: ["food-nostalgia"]
 tags: ["ramen", "mouko-tanmen-nakamoto", "hokkyoku-ramen", "spicychallenge", "50schallenge"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-16T12_45_13.534Z.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-16T12_45_13.534Z.jpg"
 excerpt: "⏱ This blog takes about 7 minutes to read What This Story Is About The theme is simple: “Even in your 50s, you can still"
 ---
 
@@ -29,7 +30,17 @@ excerpt: "⏱ This blog takes about 7 minutes to read What This Story Is About T
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Chapter 1: The Wall of Ordering, and the Kitchen Guy</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#chapter-1-the-wall-of-ordering-and-the-k">Chapter 1: The Wall of Ordering, and the Kitchen Guy</a></li>  <li><a href="#chapter-2-the-first-battle--veggie-hokky">Chapter 2: The First Battle — Veggie Hokkyoku 10x (Extra-Large)</a></li>  <li><a href="#chapter-3-the-true-path--pure-hokkyoku-1">Chapter 3: The True Path — Pure Hokkyoku 10x (Extra-Large)</a></li>  <li><a href="#chapter-4-victory-and-its-price">Chapter 4: Victory and Its Price</a></li>  <li><a href="#epilogue-beyond-the-spice">Epilogue: Beyond the Spice</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="chapter-1-the-wall-of-ordering-and-the-k" class="wp-block-heading"><strong>Chapter 1: The Wall of Ordering, and the Kitchen Guy</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-16T12_52_49.533Z.jpg" alt="" class="wp-image-2100"/></figure>
 
@@ -96,7 +107,7 @@ excerpt: "⏱ This blog takes about 7 minutes to read What This Story Is About T
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Chapter 2: The First Battle — Veggie Hokkyoku 10x (Extra-Large)</strong></h2>
+<h2 id="chapter-2-the-first-battle--veggie-hokky" class="wp-block-heading"><strong>Chapter 2: The First Battle — Veggie Hokkyoku 10x (Extra-Large)</strong></h2>
 
 <p>For my first attempt, I chose the veggie version. Why?<br>Because I’m 50, so I thought: <em>“At least add some veggies for health.”</em><em><br></em> (Yeah, eating lava noodles and still thinking “health.” Ridiculous, right?)</p>
 
@@ -118,7 +129,7 @@ excerpt: "⏱ This blog takes about 7 minutes to read What This Story Is About T
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Chapter 3: The True Path — Pure Hokkyoku 10x (Extra-Large)</strong></h2>
+<h2 id="chapter-3-the-true-path--pure-hokkyoku-1" class="wp-block-heading"><strong>Chapter 3: The True Path — Pure Hokkyoku 10x (Extra-Large)</strong></h2>
 
 <p>A few days later, something nagged at me.<br>“…Can I really call myself the Spicy King?”</p>
 
@@ -146,7 +157,7 @@ excerpt: "⏱ This blog takes about 7 minutes to read What This Story Is About T
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Chapter 4: Victory and Its Price</strong></h2>
+<h2 id="chapter-4-victory-and-its-price" class="wp-block-heading"><strong>Chapter 4: Victory and Its Price</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/08/Google_AI_Studio_2025-08-16T13_00_02.195Z.jpg" alt="" class="wp-image-2101"/></figure>
 
@@ -164,7 +175,7 @@ excerpt: "⏱ This blog takes about 7 minutes to read What This Story Is About T
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Epilogue: Beyond the Spice</strong></h2>
+<h2 id="epilogue-beyond-the-spice" class="wp-block-heading"><strong>Epilogue: Beyond the Spice</strong></h2>
 
 <p>We often set limits because of age.<br>But sometimes, when you try, you realize you can still do more.</p>
 

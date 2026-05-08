@@ -6,6 +6,7 @@ categories: ["healing-walks"]
 tags: ["beer-after-hike", "hidden-gem", "hiking-in-japan", "kanagawa-nature", "low-mountain-hike"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/01/Gemini_Generated_Image_hii4vhii4vhii4vh.jpg"
+sns_image_url: "/images/wp-content/uploads/2026/01/Gemini_Generated_Image_hii4vhii4vhii4vh.jpg"
 excerpt: "Discover Yokohama's hidden \"Mt. Takao\" — a 13km hike from Enkaisan to Kamakura with history, ocean views, and tower blocks. Complete trail guide for b"
 ---
 
@@ -35,9 +36,19 @@ excerpt: "Discover Yokohama's hidden \"Mt. Takao\" — a 13km hike from Enkaisan
 <p>Welcome to the <strong>not-Tokyo Mt. Takao</strong>.</p>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#i-went-to-mt-takao-this-weekend">“I Went to Mt. Takao This Weekend.”</a></li>  <li><a href="#route-amp-stats-from-my-activity-log">Route &amp; Stats (From My Activity Log)</a></li>  <li><a href="#course-breakdown-from-satoyama-to-sacred">Course Breakdown: From Satoyama to Sacred Ground</a></li>  <li><a href="#a-few-words-from-a-middle-aged-hiker">A Few Words From a Middle-Aged Hiker</a></li>  <li><a href="#final-thoughts">Final Thoughts</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
 </blockquote>
 
-<h2 class="wp-block-heading"><strong>“I Went to Mt. Takao This Weekend.”</strong></h2>
+<h2 id="i-went-to-mt-takao-this-weekend" class="wp-block-heading"><strong>“I Went to Mt. Takao This Weekend.”</strong></h2>
 
 <figure class="wp-block-image aligncenter size-large is-resized"><img src="/images/wp-content/uploads/2026/01/image.jpg" alt="" class="wp-image-3048" style="width:626px;height:auto"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
 
@@ -57,7 +68,7 @@ excerpt: "Discover Yokohama's hidden \"Mt. Takao\" — a 13km hike from Enkaisan
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Route &amp; Stats (From My Activity Log)</strong></h2>
+<h2 id="route-amp-stats-from-my-activity-log" class="wp-block-heading"><strong>Route &amp; Stats (From My Activity Log)</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/01/image-1.jpg" alt="" class="wp-image-3046"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
 
@@ -86,7 +97,7 @@ excerpt: "Discover Yokohama's hidden \"Mt. Takao\" — a 13km hike from Enkaisan
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Course Breakdown: From Satoyama to Sacred Ground</strong></h2>
+<h2 id="course-breakdown-from-satoyama-to-sacred" class="wp-block-heading"><strong>Course Breakdown: From Satoyama to Sacred Ground</strong></h2>
 
 <h3 class="wp-block-heading"><strong>Start → Niiharu Citizen’s Forest</strong></h3>
 
@@ -190,7 +201,7 @@ excerpt: "Discover Yokohama's hidden \"Mt. Takao\" — a 13km hike from Enkaisan
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>A Few Words From a Middle-Aged Hiker</strong></h2>
+<h2 id="a-few-words-from-a-middle-aged-hiker" class="wp-block-heading"><strong>A Few Words From a Middle-Aged Hiker</strong></h2>
 
 <p>Learned the hard way, so you don’t have to:</p>
 
@@ -203,7 +214,7 @@ excerpt: "Discover Yokohama's hidden \"Mt. Takao\" — a 13km hike from Enkaisan
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Final Thoughts</strong></h2>
+<h2 id="final-thoughts" class="wp-block-heading"><strong>Final Thoughts</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2026/01/image-2.jpg" alt="" class="wp-image-3056"/></figure>
 

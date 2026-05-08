@@ -6,6 +6,7 @@ categories: ["prepared-life"]
 tags: ["smart-ring", "wearable-tech", "health-monitoring", "fall-detection", "future-gadgets"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/06/image-2.png"
+sns_image_url: "/images/wp-content/uploads/2025/06/image-2.png"
 excerpt: "Not just tech — a gentle wishlist from someone in his 50s, written with a bit of imagination and a lot of heart. 🌱 Who"
 ---
 
@@ -59,7 +60,15 @@ excerpt: "Not just tech — a gentle wishlist from someone in his 50s, written w
 <p>This blog isn’t just about smart rings.<br>It’s about imagining a future where technology isn’t just smart —<br><strong>it’s present, aware, and kind.</strong></p>
 </blockquote>
 
-<h2 class="wp-block-heading"><strong>🟦 1. What if I died at home?</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#1-what-if-i-died-at-home">🟦 1. What if I died at home?</a></li>  <li><a href="#2-the-night-my-child-didnt-come-home">🟩 2. The night my child didn’t come home</a></li>  <li><a href="#3-breathing-beating-being-watched--in-a-">🟥 3. Breathing, beating, being watched — in a good way</a></li>  <li><a href="#4-she-didnt-return-from-the-mountain">🟨 4. She didn’t return from the mountain</a></li>  <li><a href="#5-when-my-mother-stood-up-in-the-dark">🟧 5. When my mother stood up in the dark</a></li>  <li><a href="#6-the-train-the-beer-and-the-alarm-i-did">🟪 6. The train, the beer, and the alarm I didn’t hear</a></li>  <li><a href="#7-maybe-the-ai-is-my-other-self">🟫 7. Maybe the AI is my other self</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<h2 id="1-what-if-i-died-at-home" class="wp-block-heading"><strong>🟦 1. What if I died at home?</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/image-1-1.png" alt="" class="wp-image-1823"/></figure>
 
@@ -87,7 +96,7 @@ excerpt: "Not just tech — a gentle wishlist from someone in his 50s, written w
 
 <p>And maybe,<br>just maybe —<br>if there was a small ring on your finger that could say “you’re not alone” at the end...<br>that might be enough to make life — and death — a little gentler.</p>
 
-<h2 class="wp-block-heading"><strong>🟩 2. The night my child didn’t come home</strong></h2>
+<h2 id="2-the-night-my-child-didnt-come-home" class="wp-block-heading"><strong>🟩 2. The night my child didn’t come home</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/image-2-1.png" alt="" class="wp-image-1824"/></figure>
 
@@ -125,7 +134,7 @@ excerpt: "Not just tech — a gentle wishlist from someone in his 50s, written w
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>🟥 3. Breathing, beating, being watched — in a good way</strong></h2>
+<h2 id="3-breathing-beating-being-watched--in-a-" class="wp-block-heading"><strong>🟥 3. Breathing, beating, being watched — in a good way</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/image-3.png" alt="" class="wp-image-1825"/></figure>
 
@@ -161,7 +170,7 @@ excerpt: "Not just tech — a gentle wishlist from someone in his 50s, written w
 
 <p class="has-text-align-center"><a href="https://px.a8.net/svt/ejp?a8mat=459QR8+4QVFEA+5QLS+BWVTE">睡眠投資は、指先から。AIスマートリング【RingConn (リンコン)】</a></p>
 
-<h2 class="wp-block-heading"><strong>🟨 4. She didn’t return from the mountain</strong></h2>
+<h2 id="4-she-didnt-return-from-the-mountain" class="wp-block-heading"><strong>🟨 4. She didn’t return from the mountain</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/image-4.png" alt="" class="wp-image-1826"/></figure>
 
@@ -197,7 +206,7 @@ excerpt: "Not just tech — a gentle wishlist from someone in his 50s, written w
 
 <p class="has-text-align-center"><a href="https://px.a8.net/svt/ejp?a8mat=459QR8+4QVFEA+5QLS+BWVTE">睡眠投資は、指先から。AIスマートリング【RingConn (リンコン)】</a></p>
 
-<h2 class="wp-block-heading"><strong>🟧 5. When my mother stood up in the dark</strong></h2>
+<h2 id="5-when-my-mother-stood-up-in-the-dark" class="wp-block-heading"><strong>🟧 5. When my mother stood up in the dark</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/image-5.png" alt="" class="wp-image-1827"/></figure>
 
@@ -231,7 +240,7 @@ excerpt: "Not just tech — a gentle wishlist from someone in his 50s, written w
 
 <p>For families, caregivers, and the people they love —<br><strong>this kind of invisible protection might be the gentlest gift.</strong></p>
 
-<h2 class="wp-block-heading"><strong>🟪 6. The train, the beer, and the alarm I didn’t hear</strong></h2>
+<h2 id="6-the-train-the-beer-and-the-alarm-i-did" class="wp-block-heading"><strong>🟪 6. The train, the beer, and the alarm I didn’t hear</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/image-6.png" alt="" class="wp-image-1828"/></figure>
 
@@ -265,7 +274,7 @@ excerpt: "Not just tech — a gentle wishlist from someone in his 50s, written w
 
 <p>It’s small.<br>But it could change everything.</p>
 
-<h2 class="wp-block-heading"><strong>🟫 7. Maybe the AI is my other self</strong></h2>
+<h2 id="7-maybe-the-ai-is-my-other-self" class="wp-block-heading"><strong>🟫 7. Maybe the AI is my other self</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/image-7.png" alt="" class="wp-image-1829"/></figure>
 

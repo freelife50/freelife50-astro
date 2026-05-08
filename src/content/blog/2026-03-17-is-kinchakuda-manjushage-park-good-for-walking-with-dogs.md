@@ -6,6 +6,7 @@ categories: ["healing-walks"]
 tags: ["dog-friendly-park", "dog-walk-japan", "hidaka-saitama", "japanese-countryside-walk", "kinchakuda-manjushage-park"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/03/Gemini_Generated_Image_p1df1ip1df1ip1df.jpg"
+sns_image_url: "/images/wp-content/uploads/2026/03/Gemini_Generated_Image_p1df1ip1df1ip1df.jpg"
 excerpt: "Is Kinchakuda Manjushage Park dog-friendly? A first-hand walking guide with a Shiba Inu. Access info, rules for dogs, and what to expect at this popul"
 ---
 
@@ -65,7 +66,17 @@ excerpt: "Is Kinchakuda Manjushage Park dog-friendly? A first-hand walking guide
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Basic Information About Kinchakuda Manjushage Park</h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#basic-information-about-kinchakuda-manju">Basic Information About Kinchakuda Manjushage Park</a></li>  <li><a href="#i-just-wanted-to-walk-near-a-river">I Just Wanted to Walk Near a River</a></li>  <li><a href="#it-was-bigger-than-i-expected">It Was Bigger Than I Expected</a></li>  <li><a href="#momiji-got-excited-about-the-river">Momiji Got Excited About the River</a></li>  <li><a href="#i-only-realized-later-that-this-place-is">I Only Realized Later That This Place Is Famous</a></li>  <li><a href="#final-thoughts">Final Thoughts</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="basic-information-about-kinchakuda-manju" class="wp-block-heading">Basic Information About Kinchakuda Manjushage Park</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2964.jpg" alt="" class="wp-image-3291"/></figure>
 
@@ -133,7 +144,7 @@ excerpt: "Is Kinchakuda Manjushage Park dog-friendly? A first-hand walking guide
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">I Just Wanted to Walk Near a River</h2>
+<h2 id="i-just-wanted-to-walk-near-a-river" class="wp-block-heading">I Just Wanted to Walk Near a River</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2983.jpg" alt="" class="wp-image-3292"/></figure>
 
@@ -171,7 +182,7 @@ excerpt: "Is Kinchakuda Manjushage Park dog-friendly? A first-hand walking guide
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">It Was Bigger Than I Expected</h2>
+<h2 id="it-was-bigger-than-i-expected" class="wp-block-heading">It Was Bigger Than I Expected</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/image.jpg" alt="" class="wp-image-3293"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
 
@@ -203,7 +214,7 @@ excerpt: "Is Kinchakuda Manjushage Park dog-friendly? A first-hand walking guide
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Momiji Got Excited About the River</h2>
+<h2 id="momiji-got-excited-about-the-river" class="wp-block-heading">Momiji Got Excited About the River</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/image-1.jpg" alt="" class="wp-image-3294"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
 
@@ -231,7 +242,7 @@ excerpt: "Is Kinchakuda Manjushage Park dog-friendly? A first-hand walking guide
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">I Only Realized Later That This Place Is Famous</h2>
+<h2 id="i-only-realized-later-that-this-place-is" class="wp-block-heading">I Only Realized Later That This Place Is Famous</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/Gemini_Generated_Image_w0xifnw0xifnw0xi.jpg" alt="" class="wp-image-3297"/></figure>
 
@@ -283,7 +294,7 @@ excerpt: "Is Kinchakuda Manjushage Park dog-friendly? A first-hand walking guide
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">Final Thoughts</h2>
+<h2 id="final-thoughts" class="wp-block-heading">Final Thoughts</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/03/IMG_2971.jpg" alt="" class="wp-image-3298"/></figure>
 

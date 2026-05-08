@@ -6,6 +6,7 @@ categories: ["blog-sidejob"]
 tags: ["ai-comparison", "chatgpt", "gemini", "life-over-50", "lifelong-learning"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/12/Gemini_Generated_Image_ej00cwej00cwej00-1.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/12/Gemini_Generated_Image_ej00cwej00cwej00-1.jpg"
 excerpt: "ChatGPT vs Gemini vs Claude — which AI subscription is worth paying for? A 50-year-old's honest comparison and the best way to split your AI budget."
 ---
 
@@ -37,7 +38,17 @@ excerpt: "ChatGPT vs Gemini vs Claude — which AI subscription is worth paying 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Honestly, I struggled a lot with this decision.</strong><strong><br></strong><strong> No, really. </strong><strong><em>A lot.</em></strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#honestly-i-struggled-a-lot-with-this-dec">Honestly, I struggled a lot with this decision. No, really. A lot.</a></li>  <li><a href="#a-quick-look-at-the-specs">A Quick Look at the Specs</a></li>  <li><a href="#chatgpt-felt-easy-to-talk-to">ChatGPT Felt Easy to Talk To</a></li>  <li><a href="#so-what-do-i-actually-use-ai-for">So What Do I Actually Use AI For?</a></li>  <li><a href="#naruto-and-sasuke-made-it-click-bear-wit">Naruto and Sasuke Made It Click (Bear With Me)</a></li>  <li><a href="#my-winning-pattern--this-is-how-i-actual">My Winning Pattern — This Is How I Actually Use Them</a></li>  <li><a href="#so-which-one-should-you-pay-for">So… Which One Should You Pay For?</a></li>  <li><a href="#even-the-time-spent-hesitating-isnt-wast">Even the Time Spent Hesitating Isn’t Wasted</a></li>  <li><a href="#final-thoughts">Final Thoughts</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="honestly-i-struggled-a-lot-with-this-dec" class="wp-block-heading"><strong>Honestly, I struggled a lot with this decision.</strong><strong><br></strong><strong> No, really. </strong><strong><em>A lot.</em></strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_qoutmxqoutmxqout.jpg" alt="" class="wp-image-2898"/></figure>
 
@@ -59,7 +70,7 @@ excerpt: "ChatGPT vs Gemini vs Claude — which AI subscription is worth paying 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>A Quick Look at the Specs</strong></h2>
+<h2 id="a-quick-look-at-the-specs" class="wp-block-heading"><strong>A Quick Look at the Specs</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_j4fh2dj4fh2dj4fh.jpg" alt="" class="wp-image-2899"/></figure>
 
@@ -91,7 +102,7 @@ excerpt: "ChatGPT vs Gemini vs Claude — which AI subscription is worth paying 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>ChatGPT Felt Easy to Talk To</strong></h2>
+<h2 id="chatgpt-felt-easy-to-talk-to" class="wp-block-heading"><strong>ChatGPT Felt Easy to Talk To</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_57wbk957wbk957wb.jpg" alt="" class="wp-image-2900"/></figure>
 
@@ -111,7 +122,7 @@ excerpt: "ChatGPT vs Gemini vs Claude — which AI subscription is worth paying 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>So What Do I Actually Use AI For?</strong></h2>
+<h2 id="so-what-do-i-actually-use-ai-for" class="wp-block-heading"><strong>So What Do I Actually Use AI For?</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_5bn9ap5bn9ap5bn9.jpg" alt="" class="wp-image-2901"/></figure>
 
@@ -182,7 +193,7 @@ excerpt: "ChatGPT vs Gemini vs Claude — which AI subscription is worth paying 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Naruto and Sasuke Made It Click (Bear With Me)</strong></h2>
+<h2 id="naruto-and-sasuke-made-it-click-bear-wit" class="wp-block-heading"><strong>Naruto and Sasuke Made It Click (Bear With Me)</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_cnswfgcnswfgcnsw.jpg" alt="" class="wp-image-2904"/></figure>
 
@@ -199,7 +210,7 @@ excerpt: "ChatGPT vs Gemini vs Claude — which AI subscription is worth paying 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading">My Winning Pattern — This Is How I Actually Use Them</h2>
+<h2 id="my-winning-pattern--this-is-how-i-actual" class="wp-block-heading">My Winning Pattern — This Is How I Actually Use Them</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_avgwc6avgwc6avgw.jpg" alt="" class="wp-image-2905"/></figure>
 
@@ -216,7 +227,7 @@ excerpt: "ChatGPT vs Gemini vs Claude — which AI subscription is worth paying 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>So… Which One Should You Pay For?</strong></h2>
+<h2 id="so-which-one-should-you-pay-for" class="wp-block-heading"><strong>So… Which One Should You Pay For?</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_a3iku9a3iku9a3ik.jpg" alt="" class="wp-image-2906"/></figure>
 
@@ -241,7 +252,7 @@ excerpt: "ChatGPT vs Gemini vs Claude — which AI subscription is worth paying 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Even the Time Spent Hesitating Isn’t Wasted</strong></h2>
+<h2 id="even-the-time-spent-hesitating-isnt-wast" class="wp-block-heading"><strong>Even the Time Spent Hesitating Isn’t Wasted</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_hn7jn5hn7jn5hn7j.jpg" alt="" class="wp-image-2907"/></figure>
 
@@ -257,7 +268,7 @@ excerpt: "ChatGPT vs Gemini vs Claude — which AI subscription is worth paying 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Final Thoughts</strong></h2>
+<h2 id="final-thoughts" class="wp-block-heading"><strong>Final Thoughts</strong></h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/12/Gemini_Generated_Image_mopefhmopefhmope.jpg" alt="" class="wp-image-2908"/></figure>
 

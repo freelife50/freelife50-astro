@@ -6,6 +6,7 @@ categories: ["shumi-taiken-etc"]
 tags: ["mfghost", "initial-d", "takumi-legacy", "car-manga", "street-racing-culture"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/06/Generated-Image-June-19-2025-7_38PM.jpeg"
+sns_image_url: "/images/wp-content/uploads/2025/06/Generated-Image-June-19-2025-7_38PM.jpeg"
 excerpt: "MF Ghost and Initial D connection explained. Two Subarus across generations, the legacy of Takumi Fujiwara, and why 50-year-old car fans love this ani"
 ---
 
@@ -50,7 +51,15 @@ excerpt: "MF Ghost and Initial D connection explained. Two Subarus across genera
 
 <p>This post is my attempt to reconnect with that part of myself — a 50-something guy who once fell in love with <em>Initial D</em>, and is now quietly revving up again.</p>
 
-<h2 class="wp-block-heading"><strong>🇺🇸 Chapter 1: Why Everyone’s Talking About “What Happened to Takumi”</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#chapter-1-why-everyones-talking-about-wh">🇺🇸 Chapter 1: Why Everyone’s Talking About “What Happened to Takumi”</a></li>  <li><a href="#chapter-2-why-takumi-no-longer-drives--a">🇺🇸 Chapter 2: Why Takumi No Longer Drives – and How MF Ghost Extends His Legacy</a></li>  <li><a href="#chapter-3-two-new-subarus--a-new-generat">🇺🇸 Chapter 3: Two New Subarus – A New Generation Hits the Road</a></li>  <li><a href="#chapter-4-driving-isnt-just-about-cars--">🇺🇸 Chapter 4: Driving Isn’t Just About Cars — It’s About Who We Become</a></li>  <li><a href="#chapter-5-the-drive-isnt-over--a-message">🇺🇸 Chapter 5: The Drive Isn’t Over – A Message for the Gen X Generation</a></li>  <li><a href="#chapter-6-the-road-ahead--whats-waiting-">🇺🇸 Chapter 6: The Road Ahead – What’s Waiting Beyond the Curve?</a></li>  <li><a href="#chapter-7-this-is-for-the-ones-who-still">🇺🇸 Chapter 7: This Is for the Ones Who Still Feel the Engine Start Inside</a></li>  <li><a href="#afterword-from-one-who-never-became-a-st">🇺🇸 Afterword: From One Who Never Became a Street Racer</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<h2 id="chapter-1-why-everyones-talking-about-wh" class="wp-block-heading"><strong>🇺🇸 Chapter 1: Why Everyone’s Talking About “What Happened to Takumi”</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/Generated-Image-June-19-2025-7_43PM.jpeg" alt="" class="wp-image-1762"/></figure>
 
@@ -90,7 +99,7 @@ excerpt: "MF Ghost and Initial D connection explained. Two Subarus across genera
 
 <p>Takumi may not be behind the wheel anymore.<br>But the drive?<br><strong>That’s not over.</strong><strong><br></strong> And neither is the story.</p>
 
-<h2 class="wp-block-heading"><strong>🇺🇸 Chapter 2: Why Takumi No Longer Drives – and How </strong><strong><em>MF Ghost</em></strong><strong> Extends His Legacy</strong></h2>
+<h2 id="chapter-2-why-takumi-no-longer-drives--a" class="wp-block-heading"><strong>🇺🇸 Chapter 2: Why Takumi No Longer Drives – and How </strong><strong><em>MF Ghost</em></strong><strong> Extends His Legacy</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/Generated-Image-June-19-2025-7_48PM.jpeg" alt="" class="wp-image-1765"/></figure>
 
@@ -118,7 +127,7 @@ excerpt: "MF Ghost and Initial D connection explained. Two Subarus across genera
 
 <p><em>MF Ghost</em> isn’t just a new car manga.<br>It’s what happens when the hero passes the baton — not because he’s done,<br>but because the race has changed.</p>
 
-<h2 class="wp-block-heading"><strong>🇺🇸 Chapter 3: Two New Subarus – A New Generation Hits the Road</strong></h2>
+<h2 id="chapter-3-two-new-subarus--a-new-generat" class="wp-block-heading"><strong>🇺🇸 Chapter 3: Two New Subarus – A New Generation Hits the Road</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/Generated-Image-June-19-2025-7_59PM.jpeg" alt="" class="wp-image-1766"/></figure>
 
@@ -146,7 +155,7 @@ excerpt: "MF Ghost and Initial D connection explained. Two Subarus across genera
 
 <p>In <em>starting again</em>.</p>
 
-<h2 class="wp-block-heading"><strong>🇺🇸 Chapter 4: Driving Isn’t Just About Cars — It’s About Who We Become</strong></h2>
+<h2 id="chapter-4-driving-isnt-just-about-cars--" class="wp-block-heading"><strong>🇺🇸 Chapter 4: Driving Isn’t Just About Cars — It’s About Who We Become</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/Generated-Image-June-19-2025-8_01PM.jpeg" alt="" class="wp-image-1767"/></figure>
 
@@ -170,7 +179,7 @@ excerpt: "MF Ghost and Initial D connection explained. Two Subarus across genera
 
 <p>And here’s the truth:<br><strong>Every time you choose to move forward — even slowly —</strong><strong><br></strong><strong> you’re still driving.</strong></p>
 
-<h2 class="wp-block-heading"><strong>🇺🇸 Chapter 5: The Drive Isn’t Over – A Message for the Gen X Generation</strong></h2>
+<h2 id="chapter-5-the-drive-isnt-over--a-message" class="wp-block-heading"><strong>🇺🇸 Chapter 5: The Drive Isn’t Over – A Message for the Gen X Generation</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/Generated-Image-June-19-2025-8_16PM.jpeg" alt="" class="wp-image-1768"/></figure>
 
@@ -196,7 +205,7 @@ excerpt: "MF Ghost and Initial D connection explained. Two Subarus across genera
 
 <p>It’s still there.</p>
 
-<h2 class="wp-block-heading">🇺🇸 Chapter 6: The Road Ahead – What’s Waiting Beyond the Curve?</h2>
+<h2 id="chapter-6-the-road-ahead--whats-waiting-" class="wp-block-heading">🇺🇸 Chapter 6: The Road Ahead – What’s Waiting Beyond the Curve?</h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/Generated-Image-June-19-2025-8_18PM.jpeg" alt="" class="wp-image-1769"/></figure>
 
@@ -220,7 +229,7 @@ excerpt: "MF Ghost and Initial D connection explained. Two Subarus across genera
 
 <p><strong>The road doesn’t end.<br>It only turns.</strong></p>
 
-<h2 class="wp-block-heading">🇺🇸 Chapter 7: This Is for the Ones Who Still Feel the Engine Start Inside</h2>
+<h2 id="chapter-7-this-is-for-the-ones-who-still" class="wp-block-heading">🇺🇸 Chapter 7: This Is for the Ones Who Still Feel the Engine Start Inside</h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/Generated-Image-June-19-2025-8_20PM.jpeg" alt="" class="wp-image-1770"/></figure>
 
@@ -240,7 +249,7 @@ excerpt: "MF Ghost and Initial D connection explained. Two Subarus across genera
 
 <p><strong>Let’s start the engine again.<br>Not because we have to.<br>But because we still <em>can</em>.</strong></p>
 
-<h2 class="wp-block-heading">🇺🇸 Afterword: From One Who Never Became a Street Racer</h2>
+<h2 id="afterword-from-one-who-never-became-a-st" class="wp-block-heading">🇺🇸 Afterword: From One Who Never Became a Street Racer</h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/Generated-Image-June-19-2025-8_25PM.jpeg" alt="" class="wp-image-1771"/></figure>
 

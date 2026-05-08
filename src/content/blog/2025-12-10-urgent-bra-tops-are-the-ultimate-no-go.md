@@ -6,6 +6,7 @@ categories: ["prepared-life"]
 tags: ["chest", "x-ray", "health", "checkup", "tips"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/12/Image_fx-1.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/12/Image_fx-1.jpg"
 excerpt: "Why you should skip the bra top for medical imaging. A Japanese radiologic technologist explains what to wear for CT scans, X-rays, and MRI in a fun, "
 ---
 
@@ -30,7 +31,17 @@ excerpt: "Why you should skip the bra top for medical imaging. A Japanese radiol
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Conclusion: A Single T-shirt Is the Most Powerful Outfit on Earth for Chest X-rays</strong></h2>
+<p><strong>Table of Contents</strong></p>
+
+<ol class="wp-block-list">
+<li><a href="#conclusion-a-single-t-shirt-is-the-most-">Conclusion: A Single T-shirt Is the Most Powerful Outfit on Earth for Chest X-rays</a></li>  <li><a href="#the-season-every-radiologic-technologist">The Season Every Radiologic Technologist Secretly Dreads</a></li>  <li><a href="#why-bras-are-ng--a-gentle-explanation-fr">Why Bras Are NG — A Gentle Explanation From a Professional</a></li>  <li><a href="#so-what-should-you-wear">So What Should You Wear?</a></li>  <li><a href="#how-to-prepare-on-the-day-from-a-techs-r">How to Prepare on the Day (From a Tech’s Real Perspective)</a></li>  <li><a href="#a-retake-hurts-everyone">A Retake Hurts Everyone</a></li>  <li><a href="#a-radiologic-technologists-honest-reques">A Radiologic Technologist’s Honest Request</a></li>  <li><a href="#clothing-checklist">Clothing Checklist</a></li>  <li><a href="#final-message-your-cooperation-makes-hea">Final Message: Your Cooperation Makes Healthcare Better</a></li>
+</ol>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 id="conclusion-a-single-t-shirt-is-the-most-" class="wp-block-heading"><strong>Conclusion: A Single T-shirt Is the Most Powerful Outfit on Earth for Chest X-rays</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/12/Image_fx-2.jpg" alt="" class="wp-image-2884"/></figure>
 
@@ -55,7 +66,7 @@ excerpt: "Why you should skip the bra top for medical imaging. A Japanese radiol
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>The Season Every Radiologic Technologist Secretly Dreads</strong></h2>
+<h2 id="the-season-every-radiologic-technologist" class="wp-block-heading"><strong>The Season Every Radiologic Technologist Secretly Dreads</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/12/Image_fx-3.jpg" alt="" class="wp-image-2885"/></figure>
 
@@ -82,7 +93,7 @@ excerpt: "Why you should skip the bra top for medical imaging. A Japanese radiol
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Why Bras Are NG — A Gentle Explanation From a Professional</strong></h2>
+<h2 id="why-bras-are-ng--a-gentle-explanation-fr" class="wp-block-heading"><strong>Why Bras Are NG — A Gentle Explanation From a Professional</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/12/Image_fx-5.jpg" alt="" class="wp-image-2887"/></figure>
 
@@ -144,7 +155,7 @@ excerpt: "Why you should skip the bra top for medical imaging. A Japanese radiol
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>So What Should You Wear?</strong></h2>
+<h2 id="so-what-should-you-wear" class="wp-block-heading"><strong>So What Should You Wear?</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/12/Image_fx-6.jpg" alt="" class="wp-image-2888"/></figure>
 
@@ -171,7 +182,7 @@ excerpt: "Why you should skip the bra top for medical imaging. A Japanese radiol
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>How to Prepare on the Day (From a Tech’s Real Perspective)</strong></h2>
+<h2 id="how-to-prepare-on-the-day-from-a-techs-r" class="wp-block-heading"><strong>How to Prepare on the Day (From a Tech’s Real Perspective)</strong></h2>
 
 <ul class="wp-block-list"><li>Wear your normal clothes to the venue<br></li>
 
@@ -192,7 +203,7 @@ excerpt: "Why you should skip the bra top for medical imaging. A Japanese radiol
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>A Retake Hurts </strong><strong><em>Everyone</em></strong></h2>
+<h2 id="a-retake-hurts-everyone" class="wp-block-heading"><strong>A Retake Hurts </strong><strong><em>Everyone</em></strong></h2>
 
 <p>A retake means:</p>
 
@@ -211,7 +222,7 @@ excerpt: "Why you should skip the bra top for medical imaging. A Japanese radiol
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>A Radiologic Technologist’s Honest Request</strong></h2>
+<h2 id="a-radiologic-technologists-honest-reques" class="wp-block-heading"><strong>A Radiologic Technologist’s Honest Request</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/12/Image_fx-7.jpg" alt="" class="wp-image-2889"/></figure>
 
@@ -227,7 +238,7 @@ excerpt: "Why you should skip the bra top for medical imaging. A Japanese radiol
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Clothing Checklist</strong></h2>
+<h2 id="clothing-checklist" class="wp-block-heading"><strong>Clothing Checklist</strong></h2>
 
 <h3 class="wp-block-heading"><strong>✔ Clothing on arrival</strong></h3>
 
@@ -247,7 +258,7 @@ excerpt: "Why you should skip the bra top for medical imaging. A Japanese radiol
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 class="wp-block-heading"><strong>Final Message: Your Cooperation Makes Healthcare Better</strong></h2>
+<h2 id="final-message-your-cooperation-makes-hea" class="wp-block-heading"><strong>Final Message: Your Cooperation Makes Healthcare Better</strong></h2>
 
 <figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/12/Image_fx-8.jpg" alt="" class="wp-image-2890"/></figure>
 
