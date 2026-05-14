@@ -6,7 +6,7 @@ categories: ["healing-walks"]
 tags: ["Zama", "Serizawa Park", "Shiba Inu", "park walk", "war history"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/05/zama-serizawa-park/serizawa-park-eyecatch.jpg"
-sns_image_url: "/images/wp-content/uploads/2026/05/zama-serizawa-park/serizawa-park-sns.jpg"
+sns_image_url: "/images/wp-content/uploads/2026/05/zama-serizawa-park/serizawa-park-sns-v2.jpg"
 excerpt: "A walk through Serizawa Park in Zama, Kanagawa, with my wife and our Shiba Inu Momiji. Beautiful lawns, aircraft noise overhead, a preserved wartime tunnel, memorials for Taiwanese youth workers, and a small sign that quietly explained why the park paths were so well maintained."
 ---
 

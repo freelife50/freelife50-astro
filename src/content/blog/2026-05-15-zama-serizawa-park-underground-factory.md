@@ -6,7 +6,7 @@ categories: ["healing-walks"]
 tags: ["座間市", "芹沢公園", "柴犬", "公園散歩", "戦争遺産"]
 lang: "ja"
 eyecatch: "/images/wp-content/uploads/2026/05/zama-serizawa-park/serizawa-park-eyecatch.jpg"
-sns_image_url: "/images/wp-content/uploads/2026/05/zama-serizawa-park/serizawa-park-sns.jpg"
+sns_image_url: "/images/wp-content/uploads/2026/05/zama-serizawa-park/serizawa-park-sns-v2.jpg"
 excerpt: "妻と紅葉を連れて座間市の芹沢公園へ。芝生も遊歩道も整っていて、でも空には飛行機の音。地下壕、台湾少年工の碑、防衛省からの交付金の看板を見て、ただの市民公園では終わらない散歩になった。"
 ---
 
