@@ -368,6 +368,11 @@ excerpt: "A casual visit to the Riken Yamamoto exhibition at Yokosuka Museum of 
 
 <p>I was inside the building, but the outside world kept slipping in.</p>
 
+<figure class="wp-block-image size-large">
+  <img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-window-portrait-mosaic-eye-bar.jpg?v=20260520" alt="A person with their face pixelated standing inside Yokosuka Museum of Art in front of a large window, with translucent rooftop panels and the sea visible outside" loading="lazy"/>
+  <figcaption>Even from inside the museum, the rooftop and the sea felt close. The face has been pixelated for privacy.</figcaption>
+</figure>
+
 <p>Then I realized something.</p>
 
 <p>The beautiful view before the entrance. The rooftop floor letting light through. All of it had been part of the setup.</p>
