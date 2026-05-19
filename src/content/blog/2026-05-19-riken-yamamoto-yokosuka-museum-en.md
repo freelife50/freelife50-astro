@@ -140,14 +140,22 @@ excerpt: "A casual visit to the Riken Yamamoto exhibition at Yokosuka Museum of 
 
 <p>I stepped on it. Nothing happened, of course. But it felt strange in a good way.</p>
 
-<p>Later I learned that the gallery is underneath those panels, and the floor works like a skylight. In other words, the person walking outside is helping bring light to the exhibition room below.</p>
+<p>Later I looked it up and learned that Yokosuka Museum of Art was designed to make use of its site between the sea and the hills.</p>
 
-<p>Someone outside becomes part of the space for someone inside.</p>
+<p>Parts of the rooftop and exterior floor are grating-like or translucent, allowing natural light to fall into the spaces below.</p>
+
+<p>When I was walking there, I only thought, "This floor is kind of see-through." But under my feet, the museum space was still continuing.</p>
+
+<p>People walking above, people viewing exhibitions below, the scenery outside, and the light inside the building.</p>
+
+<p>All of those things seemed loosely connected, and later I slowly understood: this, too, was Riken Yamamoto's architecture.</p>
+
+<p>It felt as if the presence of people outside and the light falling from above were part of the museum experience.</p>
 
 <p>I thought, "That's interesting." At that moment, I still did not really understand what it meant.</p>
 
 <div class="wp-block-columns is-layout-flex" style="gap:0.75em">
-  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-rooftop-skylight.jpg?v=20260519" alt="Translucent pale green panels on the rooftop of Yokosuka Museum of Art, with Tokyo Bay visible beyond them" loading="lazy"/><figcaption>A floor that also works as light. Just walking there made me feel connected to the gallery below.</figcaption></figure></div>
+  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-rooftop-skylight.jpg?v=20260519" alt="Translucent pale green panels on the rooftop of Yokosuka Museum of Art, with Tokyo Bay visible beyond them" loading="lazy"/><figcaption>Natural light falls through the floor. Looking back, this was part of the museum experience too.</figcaption></figure></div>
   <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-rooftop-terrace-grating.jpg?v=20260519" alt="The gray grating floor of the Yokosuka Museum of Art rooftop terrace, looking out toward the sea" loading="lazy"/><figcaption>The rooftop was not just a viewing spot. It felt like part of the museum experience.</figcaption></figure></div>
 </div>
 
@@ -356,21 +364,21 @@ excerpt: "A casual visit to the Riken Yamamoto exhibition at Yokosuka Museum of 
 
 <p>Then I realized something.</p>
 
-<p>The beautiful view before the entrance. The rooftop floor that brought light below. All of it had been part of the design.</p>
+<p>The beautiful view before the entrance. The light falling from the rooftop floor. All of it felt connected as part of the building experience.</p>
 
 <p>Before the exhibition "showed" me anything, the building had already made me feel it.</p>
 
-<p>I later confirmed that Yokosuka Museum of Art itself was designed by Riken Yamamoto.</p>
+<p>I later confirmed that Yokosuka Museum of Art opened in 2007 and was designed by Riken Yamamoto. The building itself is also treated as one of his major works.</p>
 
 <p>The venue was a work, and the work was the venue.</p>
 
-<p>So when I came to an architecture exhibition and kept looking at the scenery, maybe I had simply been guided there by Yamamoto's architecture.</p>
+<p>So when I came to an architecture exhibition and kept looking at the scenery, maybe I had already been experiencing the building itself before I even looked closely at the exhibition.</p>
 
 <p>Well played.</p>
 
 <div class="wp-block-columns is-layout-flex" style="gap:0.75em">
   <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-green-roof-model.jpg?v=20260519" alt="A model of Yokosuka Museum of Art, showing the green roof and white building nestled into the site" loading="lazy"/><figcaption>Seeing the model after walking the building connected the experience in my head.</figcaption></figure></div>
-  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-sns.jpg?v=20260519" alt="Translucent rooftop panels at Yokosuka Museum of Art, with the cloudy sky and sea in the distance" loading="lazy"/><figcaption>Walking over this floor may have been part of the exhibition all along.</figcaption></figure></div>
+  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-sns.jpg?v=20260519" alt="Translucent rooftop panels at Yokosuka Museum of Art, with the cloudy sky and sea in the distance" loading="lazy"/><figcaption>Before I even looked at the exhibition, the building itself already felt like part of it.</figcaption></figure></div>
 </div>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
