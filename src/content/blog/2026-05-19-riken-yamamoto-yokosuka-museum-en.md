@@ -5,8 +5,8 @@ slug: "riken-yamamoto-yokosuka-museum-en"
 categories: ["healing-walks"]
 tags: ["Riken Yamamoto", "Yokosuka Museum of Art", "architecture", "scale models", "community"]
 lang: "en"
-eyecatch: "/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-eyecatch.jpg"
-sns_image_url: "/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-sns.jpg"
+eyecatch: "/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-eyecatch.jpg?v=20260519"
+sns_image_url: "/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-sns.jpg?v=20260519"
 excerpt: "A casual visit to the Riken Yamamoto exhibition at Yokosuka Museum of Art with my wife and our Shiba Inu, Momiji. I am no architecture expert, but the models, drawings, roof terrace, and sea view quietly taught me something about community."
 ---
 
@@ -95,7 +95,7 @@ excerpt: "A casual visit to the Riken Yamamoto exhibition at Yokosuka Museum of 
 <p>No answer. She was already dreaming.</p>
 
 <figure class="wp-block-image size-large">
-  <img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-exterior-sign.jpg" alt="A sign on the lawn outside Yokosuka Museum of Art, with the low white museum building and the sea in the background" loading="lazy"/>
+  <img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-exterior-sign.jpg?v=20260519" alt="A sign on the lawn outside Yokosuka Museum of Art, with the low white museum building and the sea in the background" loading="lazy"/>
   <figcaption>From the parking area, the view was already doing half the work of the exhibition.</figcaption>
 </figure>
 
@@ -120,8 +120,8 @@ excerpt: "A casual visit to the Riken Yamamoto exhibition at Yokosuka Museum of 
 <p>A building that was not trying to show off somehow made me more curious.</p>
 
 <div class="wp-block-columns is-layout-flex" style="gap:0.75em">
-  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-building-photo.jpg" alt="A displayed photograph of Yokosuka Museum of Art, showing the low white building settled into the seaside landscape" loading="lazy"/><figcaption>Even in the exhibition photo, the building seemed to belong to the landscape rather than sit on top of it.</figcaption></figure></div>
-  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-waterfront-photo.jpg" alt="A displayed waterfront architecture photograph from the Riken Yamamoto exhibition, with people standing near the building" loading="lazy"/><figcaption>Seeing people in the photo made the architecture feel less like an object and more like a place.</figcaption></figure></div>
+  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-building-photo.jpg?v=20260519" alt="A displayed photograph of Yokosuka Museum of Art, showing the low white building settled into the seaside landscape" loading="lazy"/><figcaption>Even in the exhibition photo, the building seemed to belong to the landscape rather than sit on top of it.</figcaption></figure></div>
+  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-waterfront-photo.jpg?v=20260519" alt="A displayed waterfront architecture photograph from the Riken Yamamoto exhibition, with people standing near the building" loading="lazy"/><figcaption>Seeing people in the photo made the architecture feel less like an object and more like a place.</figcaption></figure></div>
 </div>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
@@ -147,12 +147,12 @@ excerpt: "A casual visit to the Riken Yamamoto exhibition at Yokosuka Museum of 
 <p>I thought, "That's interesting." At that moment, I still did not really understand what it meant.</p>
 
 <div class="wp-block-columns is-layout-flex" style="gap:0.75em">
-  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-rooftop-skylight.jpg" alt="Translucent pale green panels on the rooftop of Yokosuka Museum of Art, with Tokyo Bay visible beyond them" loading="lazy"/><figcaption>A floor that also works as light. Just walking there made me feel connected to the gallery below.</figcaption></figure></div>
-  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-rooftop-terrace-grating.jpg" alt="The gray grating floor of the Yokosuka Museum of Art rooftop terrace, looking out toward the sea" loading="lazy"/><figcaption>The rooftop was not just a viewing spot. It felt like part of the museum experience.</figcaption></figure></div>
+  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-rooftop-skylight.jpg?v=20260519" alt="Translucent pale green panels on the rooftop of Yokosuka Museum of Art, with Tokyo Bay visible beyond them" loading="lazy"/><figcaption>A floor that also works as light. Just walking there made me feel connected to the gallery below.</figcaption></figure></div>
+  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-rooftop-terrace-grating.jpg?v=20260519" alt="The gray grating floor of the Yokosuka Museum of Art rooftop terrace, looking out toward the sea" loading="lazy"/><figcaption>The rooftop was not just a viewing spot. It felt like part of the museum experience.</figcaption></figure></div>
 </div>
 
 <figure class="wp-block-image size-large">
-  <img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-rooftop-terrace-sea.jpg" alt="A wide rooftop terrace at Yokosuka Museum of Art with low railings, gray flooring, a cloudy sky, and the sea beyond" loading="lazy"/>
+  <img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-rooftop-terrace-sea.jpg?v=20260519" alt="A wide rooftop terrace at Yokosuka Museum of Art with low railings, gray flooring, a cloudy sky, and the sea beyond" loading="lazy"/>
   <figcaption>The cloudy sky made the place feel even quieter. It suited the building.</figcaption>
 </figure>
 
@@ -169,7 +169,7 @@ excerpt: "A casual visit to the Riken Yamamoto exhibition at Yokosuka Museum of 
 <p>I entered the gallery.</p>
 
 <figure class="wp-block-image size-large">
-  <img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-eyecatch.jpg" alt="The entrance sign for the Riken Yamamoto exhibition at Yokosuka Museum of Art, with blue text on a white wall" loading="lazy"/>
+  <img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-eyecatch.jpg?v=20260519" alt="The entrance sign for the Riken Yamamoto exhibition at Yokosuka Museum of Art, with blue text on a white wall" loading="lazy"/>
   <figcaption>The exhibition began quietly, with this simple entrance sign.</figcaption>
 </figure>
 
@@ -196,8 +196,8 @@ excerpt: "A casual visit to the Riken Yamamoto exhibition at Yokosuka Museum of 
 <p>That landed more deeply than I expected.</p>
 
 <div class="wp-block-columns is-layout-flex" style="gap:0.75em">
-  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-small-house-model.jpg" alt="A small white architectural model displayed in the Riken Yamamoto exhibition, with tiny rooms and details visible" loading="lazy"/><figcaption>The small rooms were so detailed that I kept leaning closer.</figcaption></figure></div>
-  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-exhibition-text.jpg" alt="A bilingual Japanese and English explanation panel in the Riken Yamamoto exhibition" loading="lazy"/><figcaption>I read the explanations, but my eyes kept searching for signs of everyday life.</figcaption></figure></div>
+  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-small-house-model.jpg?v=20260519" alt="A small white architectural model displayed in the Riken Yamamoto exhibition, with tiny rooms and details visible" loading="lazy"/><figcaption>The small rooms were so detailed that I kept leaning closer.</figcaption></figure></div>
+  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-exhibition-text.jpg?v=20260519" alt="A bilingual Japanese and English explanation panel in the Riken Yamamoto exhibition" loading="lazy"/><figcaption>I read the explanations, but my eyes kept searching for signs of everyday life.</figcaption></figure></div>
 </div>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
@@ -221,8 +221,8 @@ excerpt: "A casual visit to the Riken Yamamoto exhibition at Yokosuka Museum of 
 <p>That felt like the starting point.</p>
 
 <div class="wp-block-columns is-layout-flex" style="gap:0.75em">
-  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-living-in-city-drawing-01.jpg" alt="Riken Yamamoto's LIVING IN THE CITY drawing, showing a tall residential tower rising within an urban scene" loading="lazy"/><figcaption>A tower of homes inside a city. I did not fully understand it, but I could not stop looking.</figcaption></figure></div>
-  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-living-in-city-wide.jpg" alt="A wide urban drawing from the Riken Yamamoto exhibition, with layered buildings, stairs, and city structures" loading="lazy"/><figcaption>The lines had a sense of people living inside them. That was different from the models, and just as interesting.</figcaption></figure></div>
+  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-living-in-city-drawing-01.jpg?v=20260519" alt="Riken Yamamoto's LIVING IN THE CITY drawing, showing a tall residential tower rising within an urban scene" loading="lazy"/><figcaption>A tower of homes inside a city. I did not fully understand it, but I could not stop looking.</figcaption></figure></div>
+  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-living-in-city-wide.jpg?v=20260519" alt="A wide urban drawing from the Riken Yamamoto exhibition, with layered buildings, stairs, and city structures" loading="lazy"/><figcaption>The lines had a sense of people living inside them. That was different from the models, and just as interesting.</figcaption></figure></div>
 </div>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
@@ -254,8 +254,8 @@ excerpt: "A casual visit to the Riken Yamamoto exhibition at Yokosuka Museum of 
 <p>"Original experiences are powerful," I thought, and went back to the models.</p>
 
 <div class="wp-block-columns is-layout-flex" style="gap:0.75em">
-  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-white-model-shiki.jpg" alt="A white architectural model in the Riken Yamamoto exhibition, showing passages and semi-outdoor spaces between buildings" loading="lazy"/><figcaption>Not inside, not outside. Hard to explain in words, but the model helped me feel it.</figcaption></figure></div>
-  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-museum-model.jpg" alt="A model of Yokosuka Museum of Art, showing the green roof and the building connected gently with the ground" loading="lazy"/><figcaption>The museum itself blurs the line between building and ground. Maybe that is another kind of threshold.</figcaption></figure></div>
+  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-white-model-shiki.jpg?v=20260519" alt="A white architectural model in the Riken Yamamoto exhibition, showing passages and semi-outdoor spaces between buildings" loading="lazy"/><figcaption>Not inside, not outside. Hard to explain in words, but the model helped me feel it.</figcaption></figure></div>
+  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-museum-model.jpg?v=20260519" alt="A model of Yokosuka Museum of Art, showing the green roof and the building connected gently with the ground" loading="lazy"/><figcaption>The museum itself blurs the line between building and ground. Maybe that is another kind of threshold.</figcaption></figure></div>
 </div>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
@@ -281,12 +281,12 @@ excerpt: "A casual visit to the Riken Yamamoto exhibition at Yokosuka Museum of 
 <p>"They are actually living here," I thought.</p>
 
 <div class="wp-block-columns is-layout-flex" style="gap:0.75em">
-  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-gazebo-model.jpg" alt="A model of Riken Yamamoto's own house GAZEBO, showing the layered residence and rooftop frame" loading="lazy"/><figcaption>His own house felt less like a finished answer and more like an experiment in how to live.</figcaption></figure></div>
-  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-gazebo-steel-frame.jpg" alt="A close view of the steel-frame model of GAZEBO, with a grid-like rooftop structure" loading="lazy"/><figcaption>The thin frame changed depending on where I stood. I kept moving around it.</figcaption></figure></div>
+  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-gazebo-model.jpg?v=20260519" alt="A model of Riken Yamamoto's own house GAZEBO, showing the layered residence and rooftop frame" loading="lazy"/><figcaption>His own house felt less like a finished answer and more like an experiment in how to live.</figcaption></figure></div>
+  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-gazebo-steel-frame.jpg?v=20260519" alt="A close view of the steel-frame model of GAZEBO, with a grid-like rooftop structure" loading="lazy"/><figcaption>The thin frame changed depending on where I stood. I kept moving around it.</figcaption></figure></div>
 </div>
 
 <figure class="wp-block-image size-large">
-  <img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-gazebo-city-photo.jpg" alt="A photograph of GAZEBO standing in an urban neighborhood, surrounded by other buildings" loading="lazy"/>
+  <img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-gazebo-city-photo.jpg?v=20260519" alt="A photograph of GAZEBO standing in an urban neighborhood, surrounded by other buildings" loading="lazy"/>
   <figcaption>Seeing the real building in the city made the model feel suddenly alive.</figcaption>
 </figure>
 
@@ -325,22 +325,22 @@ excerpt: "A casual visit to the Riken Yamamoto exhibition at Yokosuka Museum of 
 <p>Yes. I was with the two-centimeter people.</p>
 
 <div class="wp-block-columns is-layout-flex" style="gap:0.75em">
-  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-housing-drawing.jpg" alt="A bird's-eye drawing of a housing complex, showing layered homes and green shared spaces" loading="lazy"/><figcaption>The drawing seemed to show not only homes, but also places where people might cross paths.</figcaption></figure></div>
-  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-hotakubo-courtyard-model.jpg" alt="A model of Hotakubo Housing, with a green courtyard and tiny figures between the residential blocks" loading="lazy"/><figcaption>An apartment complex model that somehow looked inviting. This changed how I was seeing the exhibition.</figcaption></figure></div>
+  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-housing-drawing.jpg?v=20260519" alt="A bird's-eye drawing of a housing complex, showing layered homes and green shared spaces" loading="lazy"/><figcaption>The drawing seemed to show not only homes, but also places where people might cross paths.</figcaption></figure></div>
+  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-hotakubo-courtyard-model.jpg?v=20260519" alt="A model of Hotakubo Housing, with a green courtyard and tiny figures between the residential blocks" loading="lazy"/><figcaption>An apartment complex model that somehow looked inviting. This changed how I was seeing the exhibition.</figcaption></figure></div>
 </div>
 
 <div class="wp-block-columns is-layout-flex" style="gap:0.75em">
-  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-pangyo-housing-model.jpg" alt="A model of a Pangyo Housing-style apartment complex, with decks and green paths connecting the units" loading="lazy"/><figcaption>Homes and paths seemed to overlap. That distance between people felt comfortable.</figcaption></figure></div>
-  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-apartment-community-model.jpg" alt="A detailed apartment community model, showing balconies, shared spaces, and many small figures" loading="lazy"/><figcaption>So much detail. The tiny people looked as if they really had lives there.</figcaption></figure></div>
+  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-pangyo-housing-model.jpg?v=20260519" alt="A model of a Pangyo Housing-style apartment complex, with decks and green paths connecting the units" loading="lazy"/><figcaption>Homes and paths seemed to overlap. That distance between people felt comfortable.</figcaption></figure></div>
+  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-apartment-community-model.jpg?v=20260519" alt="A detailed apartment community model, showing balconies, shared spaces, and many small figures" loading="lazy"/><figcaption>So much detail. The tiny people looked as if they really had lives there.</figcaption></figure></div>
 </div>
 
 <div class="wp-block-columns is-layout-flex" style="gap:0.75em">
-  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-city-green-patches.jpg" alt="An urban planning drawing with white city blocks and small green patches scattered through the city" loading="lazy"/><figcaption>Green spaces scattered through the city. Maybe he was seeing the city itself as a kind of shared home.</figcaption></figure></div>
-  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-city-scale-model.jpg" alt="A white city-scale model with clusters of buildings and paths arranged in three dimensions" loading="lazy"/><figcaption>From house to housing complex to city. Even as the scale grew, the human presence remained.</figcaption></figure></div>
+  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-city-green-patches.jpg?v=20260519" alt="An urban planning drawing with white city blocks and small green patches scattered through the city" loading="lazy"/><figcaption>Green spaces scattered through the city. Maybe he was seeing the city itself as a kind of shared home.</figcaption></figure></div>
+  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-city-scale-model.jpg?v=20260519" alt="A white city-scale model with clusters of buildings and paths arranged in three dimensions" loading="lazy"/><figcaption>From house to housing complex to city. Even as the scale grew, the human presence remained.</figcaption></figure></div>
 </div>
 
 <figure class="wp-block-image size-large">
-  <img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-large-housing-model.jpg" alt="A large curved housing model with residential blocks, roads, and trees arranged around the site" loading="lazy"/>
+  <img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-large-housing-model.jpg?v=20260519" alt="A large curved housing model with residential blocks, roads, and trees arranged around the site" loading="lazy"/>
   <figcaption>The larger the model became, the more I found myself imagining how people would actually live there.</figcaption>
 </figure>
 
@@ -369,8 +369,8 @@ excerpt: "A casual visit to the Riken Yamamoto exhibition at Yokosuka Museum of 
 <p>Well played.</p>
 
 <div class="wp-block-columns is-layout-flex" style="gap:0.75em">
-  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-green-roof-model.jpg" alt="A model of Yokosuka Museum of Art, showing the green roof and white building nestled into the site" loading="lazy"/><figcaption>Seeing the model after walking the building connected the experience in my head.</figcaption></figure></div>
-  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-sns.jpg" alt="Translucent rooftop panels at Yokosuka Museum of Art, with the cloudy sky and sea in the distance" loading="lazy"/><figcaption>Walking over this floor may have been part of the exhibition all along.</figcaption></figure></div>
+  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-green-roof-model.jpg?v=20260519" alt="A model of Yokosuka Museum of Art, showing the green roof and white building nestled into the site" loading="lazy"/><figcaption>Seeing the model after walking the building connected the experience in my head.</figcaption></figure></div>
+  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-sns.jpg?v=20260519" alt="Translucent rooftop panels at Yokosuka Museum of Art, with the cloudy sky and sea in the distance" loading="lazy"/><figcaption>Walking over this floor may have been part of the exhibition all along.</figcaption></figure></div>
 </div>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
@@ -402,7 +402,7 @@ excerpt: "A casual visit to the Riken Yamamoto exhibition at Yokosuka Museum of 
 <p>That is what I felt the two-centimeter people in Yokosuka had taught me.</p>
 
 <figure class="wp-block-image size-large">
-  <img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-rooftop-terrace-sea.jpg" alt="The rooftop terrace of Yokosuka Museum of Art facing Tokyo Bay under a cloudy sky" loading="lazy"/>
+  <img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-rooftop-terrace-sea.jpg?v=20260519" alt="The rooftop terrace of Yokosuka Museum of Art facing Tokyo Bay under a cloudy sky" loading="lazy"/>
   <figcaption>Even without architecture knowledge, I could feel why this place was special.</figcaption>
 </figure>
 
