@@ -1,6 +1,7 @@
 ---
 import BaseLayout from './BaseLayout.astro';
 import Sidebar from '../components/Sidebar.astro';
+import { slugifyTag } from '../utils/slug';
 
 interface Props {
   title: string;
@@ -52,6 +53,7 @@ const catNamesEn: Record<string, string> = {
 const activeCatNames = lang === 'en' ? catNamesEn : catNames;
 const catBase = lang === 'en' ? '/en/category/' : '/category/';
 const tagBase = lang === 'en' ? '/en/tag/' : '/tag/';
+const tagItems = tags.map(tag => ({ label: tag, slug: slugifyTag(tag) }));
 
 const dateLocale = lang === 'en' ? 'en-US' : 'ja-JP';
 const formattedDate = new Date(date).toLocaleDateString(dateLocale, {
@@ -93,8 +95,10 @@ const formattedDate = new Date(date).toLocaleDateString(dateLocale, {
 
       {tags.length > 0 && (
         <div class="tag-list">
-          {tags.map(tag => (
-            <span class="tag"><a href={`${tagBase}${tag}/`}>{tag}</a></span>
+          {tagItems.map(tag => (
+            <span class="tag">
+              {tag.slug ? <a href={`${tagBase}${tag.slug}/`}>{tag.label}</a> : tag.label}
+            </span>
           ))}
         </div>
       )}

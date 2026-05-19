@@ -3,20 +3,28 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import PostCard from '../../../components/PostCard.astro';
 import Sidebar from '../../../components/Sidebar.astro';
+import { slugifyTag } from '../../../utils/slug';
 
 export async function getStaticPaths() {
   const allPosts = await getCollection('blog');
   // en.freelife50.com は英語記事のみ（lang: en）
   const enPosts = allPosts.filter(p => p.data.lang === 'en');
-  const tags = new Set(enPosts.flatMap(p => p.data.tags));
-  const asciiTags = Array.from(tags).filter(tag => /^[\x00-\x7F]+$/.test(tag) && tag.length < 100);
-  return asciiTags.map(tag => ({
-    params: { slug: tag },
+  const tagMap = new Map<string, string[]>();
+
+  for (const tag of new Set(enPosts.flatMap(p => p.data.tags))) {
+    if (tag.length >= 100) continue;
+    const slug = slugifyTag(tag);
+    if (!slug) continue;
+    tagMap.set(slug, [...(tagMap.get(slug) ?? []), tag]);
+  }
+
+  return Array.from(tagMap.entries()).map(([slug, tagLabels]) => ({
+    params: { slug },
     props: {
       posts: enPosts
-        .filter(p => p.data.tags.includes(tag))
+        .filter(p => p.data.tags.some(tag => tagLabels.includes(tag)))
         .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()),
-      tag,
+      tag: tagLabels[0],
     },
   }));
 }

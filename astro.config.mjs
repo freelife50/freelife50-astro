@@ -272,12 +272,43 @@ function generateWorkerCode(enSlugs) {
  */
 const EN_SLUGS = new Set(${JSON.stringify(enSlugs)});
 
+function slugifyTagSegment(value) {
+  return value
+    .normalize('NFKD')
+    .replace(/[\\u0300-\\u036f]/g, '')
+    .toLowerCase()
+    .replace(/&/g, ' and ')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+}
+
+function normalizeTagUrl(url, host, path) {
+  const match = path.match(/^\\/(?:(en)\\/)?tag\\/([^/]+)\\/?$/);
+  if (!match) return null;
+
+  const prefix = match[1] ? '/en/tag/' : '/tag/';
+  const rawSegment = match[2];
+  let decoded;
+  try {
+    decoded = decodeURIComponent(rawSegment);
+  } catch {
+    return null;
+  }
+  const slug = slugifyTagSegment(decoded);
+  if (!slug || rawSegment === slug) return null;
+
+  const origin = host === 'en.freelife50.com' ? 'https://en.freelife50.com' : 'https://freelife50.com';
+  return Response.redirect(origin + prefix + slug + '/' + url.search, 301);
+}
+
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
     // X-Original-Host は freelife50-cache-bypass Worker が付与する実際のホスト名
     const host = request.headers.get('x-original-host') || request.headers.get('host') || url.hostname;
     const path = url.pathname;
+    const tagRedirect = normalizeTagUrl(url, host, path);
+    if (tagRedirect) return tagRedirect;
 
     // -----------------------------------------------------------------------
     // en.freelife50.com へのアクセス
