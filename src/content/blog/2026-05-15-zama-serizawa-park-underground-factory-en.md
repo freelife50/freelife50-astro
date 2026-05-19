@@ -97,7 +97,6 @@ excerpt: "A walk through Serizawa Park in Zama, Kanagawa, with my wife and our S
 <div class="wp-block-columns is-layout-flex" style="gap:0.75em">
   <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/zama-serizawa-park/serizawa-green-path.jpg" alt="A straight green park path surrounded by trees" loading="lazy"/></figure></div>
   <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/zama-serizawa-park/serizawa-flower-bed.jpg" alt="Flower bed and park scenery at Serizawa Park" loading="lazy"/></figure></div>
-  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/zama-serizawa-park/serizawa-big-tree.jpg" alt="A large tree standing in the lawn area of Serizawa Park" loading="lazy"/></figure></div>
 </div>
 
 <h2 id="slide">The 50-Meter Roller Slide Is Actually Long</h2>
@@ -218,7 +217,7 @@ excerpt: "A walk through Serizawa Park in Zama, Kanagawa, with my wife and our S
 <p>We had talked about stopping somewhere on the way home, but both humans were tired enough that we went straight back. Sometimes that is how a good walk ends.</p>
 
 <div class="wp-block-columns is-layout-flex" style="gap:0.75em">
-  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/zama-serizawa-park/serizawa-momiji-field.jpg" alt="Momiji walking through a grassy field at Serizawa Park" loading="lazy"/></figure></div>
+  <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/zama-serizawa-park/serizawa-roller-slide-slope.jpg" alt="The slope of the roller slide at Serizawa Park" loading="lazy"/></figure></div>
   <div class="wp-block-column"><figure class="wp-block-image"><img src="/images/wp-content/uploads/2026/05/zama-serizawa-park/serizawa-woodpile.jpg" alt="Stacked wood beside the forest area" loading="lazy"/></figure></div>
 </div>
 

@@ -1,5 +1,5 @@
 ---
-title: "How MRI Machines Work: A Radiologist Explains Why They're So Loud"
+title: "How MRI Machines Work: A 50-Something Guy Explains Why They're So Loud"
 date: "2025-09-30"
 slug: "mris-loud-live-show-water-instruments-played-by-a-giant-magnet-a-50s-guy-explains-the-magic"
 categories: ["prepared-life"]

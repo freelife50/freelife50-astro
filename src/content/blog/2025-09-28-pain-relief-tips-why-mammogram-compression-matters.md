@@ -7,7 +7,7 @@ tags: ["breast-cancer-screening", "health-in-50s", "mammography", "pain-relief-t
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-27T19_11_45.960Z.jpg"
 sns_image_url: "/images/wp-content/uploads/2025/09/Google_AI_Studio_2025-09-27T19_11_45.960Z.jpg"
-excerpt: "Why mammogram compression is necessary and tips to reduce pain. A radiologist explains what to expect during breast screening in simple terms."
+excerpt: "Why mammogram compression is necessary and tips to reduce pain. A plain explanation of what to expect during breast screening."
 ---
 
 <p>5 Reasons It Saves Lives &amp; 3 Ways to Ease the Pain</p>
