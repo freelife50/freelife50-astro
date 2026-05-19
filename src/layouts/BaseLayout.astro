@@ -62,14 +62,16 @@ if (selectedOgImagePath && existsSync(selectedOgImagePath)) {
 }
 
 const categories = [
-  { slug: 'blog-sidejob', name: 'ブログ運営と副業' },
-  { slug: 'life-with-momiji', name: 'もみじと暮らす' },
-  { slug: 'prepared-life', name: '備えと暮らし' },
-  { slug: 'healing-walks', name: '癒しと散策' },
-  { slug: 'society-issues-thoughts', name: '社会・時事・思考' },
-  { slug: 'shumi-taiken-etc', name: '趣味・体験・その他' },
-  { slug: 'food-nostalgia', name: '食と懐かしさ' },
+  { slug: 'blog-sidejob', name: 'ブログ運営と副業', nameEn: 'Side Hustles' },
+  { slug: 'life-with-momiji', name: 'もみじと暮らす', nameEn: 'Momiji' },
+  { slug: 'prepared-life', name: '備えと暮らし', nameEn: 'Preparedness' },
+  { slug: 'healing-walks', name: '癒しと散策', nameEn: 'Walks' },
+  { slug: 'society-issues-thoughts', name: '社会・時事・思考', nameEn: 'Reflections' },
+  { slug: 'shumi-taiken-etc', name: '趣味・体験・その他', nameEn: 'Experiences' },
+  { slug: 'food-nostalgia', name: '食と懐かしさ', nameEn: 'Food' },
 ];
+const isEn = lang === 'en';
+const navCategoryBase = isEn ? '/en/category/' : '/category/';
 ---
 <!DOCTYPE html>
 <html lang={lang}>
@@ -100,7 +102,7 @@ const categories = [
   )}
   {hreflangJaUrl && (
     <>
-      <link rel="alternate" hreflang="en" href={`${EN_SITE}${Astro.url.pathname}`} />
+      <link rel="alternate" hreflang="en" href={canonicalUrl} />
       <link rel="alternate" hreflang="ja" href={hreflangJaUrl} />
       <link rel="alternate" hreflang="x-default" href={hreflangJaUrl} />
     </>
@@ -121,7 +123,7 @@ const categories = [
       </div>
       <nav class="site-nav">
         {categories.slice(0, 4).map(cat => (
-          <a href={`/category/${cat.slug}/`}>{cat.name}</a>
+          <a href={`${navCategoryBase}${cat.slug}/`}>{isEn ? cat.nameEn : cat.name}</a>
         ))}
       </nav>
     </div>

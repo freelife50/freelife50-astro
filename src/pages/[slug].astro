@@ -15,6 +15,21 @@ export async function getStaticPaths() {
 
 const { post } = Astro.props;
 const { Content } = await render(post);
+
+const allPosts = await getCollection('blog');
+const postsBySlug = new Map(allPosts.map(item => [item.data.slug, item]));
+const slug = post.data.slug;
+const alternateSlug = post.data.alternateSlug
+  ?? (post.data.lang === 'en' && slug.endsWith('-en') ? slug.slice(0, -3) : undefined)
+  ?? (post.data.lang !== 'en' && postsBySlug.has(`${slug}-en`) ? `${slug}-en` : undefined);
+
+const hreflangJaUrl = post.data.lang === 'en' && alternateSlug && postsBySlug.has(alternateSlug)
+  ? `https://freelife50.com/${alternateSlug}/`
+  : undefined;
+
+const hreflangEnUrl = post.data.lang !== 'en' && alternateSlug && postsBySlug.has(alternateSlug)
+  ? `https://en.freelife50.com/${alternateSlug}/`
+  : undefined;
 ---
 <PostLayout
   title={post.data.title}
@@ -26,6 +41,8 @@ const { Content } = await render(post);
   excerpt={post.data.excerpt}
   lang={post.data.lang}
   slug={post.data.slug}
+  hreflangJaUrl={hreflangJaUrl}
+  hreflangEnUrl={hreflangEnUrl}
 >
   <Content />
 </PostLayout>

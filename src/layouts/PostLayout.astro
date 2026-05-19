@@ -12,17 +12,22 @@ interface Props {
   excerpt?: string;
   lang?: string;
   slug?: string;
+  hreflangJaUrl?: string;
+  hreflangEnUrl?: string;
 }
 
-const { title, date, categories, tags, eyecatch, snsImage, excerpt, lang = 'ja', slug } = Astro.props;
-
-// 英語記事の場合は hreflang を設定（日本語版同士の対応記事は今のところなし）
-const EN_SITE = 'https://en.freelife50.com';
-const JA_SITE = 'https://freelife50.com';
-// 英語記事 → hreflangJaUrl を省略（対応日本語版がないため）
-// BaseLayout 側で hreflangEnUrl のみ渡す形にする
-const hreflangEnUrl = lang === 'en' && slug ? `${EN_SITE}/${slug}/` : undefined;
-
+const {
+  title,
+  date,
+  categories,
+  tags,
+  eyecatch,
+  snsImage,
+  excerpt,
+  lang = 'ja',
+  hreflangJaUrl,
+  hreflangEnUrl,
+} = Astro.props;
 
 const catNames: Record<string, string> = {
   'blog-sidejob': 'ブログ運営と副業',
@@ -46,10 +51,19 @@ const catNamesEn: Record<string, string> = {
 
 const activeCatNames = lang === 'en' ? catNamesEn : catNames;
 const catBase = lang === 'en' ? '/en/category/' : '/category/';
+const tagBase = lang === 'en' ? '/en/tag/' : '/tag/';
 
 const formattedDate = new Date(date).toLocaleDateString('ja-JP', { year: 'numeric', month: 'long', day: 'numeric' });
 ---
-<BaseLayout title={title} description={excerpt} ogImage={snsImage ?? eyecatch} ogType="article" lang={lang} hreflangEnUrl={hreflangEnUrl}>
+<BaseLayout
+  title={title}
+  description={excerpt}
+  ogImage={snsImage ?? eyecatch}
+  ogType="article"
+  lang={lang}
+  hreflangJaUrl={hreflangJaUrl}
+  hreflangEnUrl={hreflangEnUrl}
+>
   <div class="layout-wrap">
     <article>
       <header class="post-header">
@@ -75,7 +89,7 @@ const formattedDate = new Date(date).toLocaleDateString('ja-JP', { year: 'numeri
       {tags.length > 0 && (
         <div class="tag-list">
           {tags.map(tag => (
-            <span class="tag"><a href={`/tag/${tag}/`}>{tag}</a></span>
+            <span class="tag"><a href={`${tagBase}${tag}/`}>{tag}</a></span>
           ))}
         </div>
       )}

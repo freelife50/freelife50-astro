@@ -10,9 +10,10 @@ interface Props {
   categories: string[];
   eyecatch?: string;
   excerpt?: string;
+  lang?: 'ja' | 'en';
 }
 
-const { title, slug, date, categories, eyecatch, excerpt } = Astro.props;
+const { title, slug, date, categories, eyecatch, excerpt, lang = 'ja' } = Astro.props;
 
 const catNames: Record<string, string> = {
   'blog-sidejob': 'ブログ運営と副業',
@@ -22,6 +23,16 @@ const catNames: Record<string, string> = {
   'society-issues-thoughts': '社会・時事・思考',
   'shumi-taiken-etc': '趣味・体験・その他',
   'food-nostalgia': '食と懐かしさ',
+};
+
+const catNamesEn: Record<string, string> = {
+  'blog-sidejob': 'Blogging & Side Hustles',
+  'life-with-momiji': 'Life with Momiji',
+  'prepared-life': 'Preparedness & Daily Life',
+  'healing-walks': 'Healing & Walks',
+  'society-issues-thoughts': 'Society, News & Reflections',
+  'shumi-taiken-etc': 'Hobbies, Experiences & More',
+  'food-nostalgia': 'Food & Nostalgia',
 };
 
 // ビルド時に画像の縦横比を判定（?v=... クエリストリングを除去してからパス解決）
@@ -43,7 +54,10 @@ const thumbClass = isPortrait
   ? 'post-card__thumb post-card__thumb--portrait'
   : 'post-card__thumb';
 
-const formattedDate = new Date(date).toLocaleDateString('ja-JP', { year: 'numeric', month: 'long', day: 'numeric' });
+const isEn = lang === 'en';
+const activeCatNames = isEn ? catNamesEn : catNames;
+const catBase = isEn ? '/en/category/' : '/category/';
+const formattedDate = new Date(date).toLocaleDateString(isEn ? 'en-US' : 'ja-JP', { year: 'numeric', month: 'long', day: 'numeric' });
 ---
 <article class="post-card">
   {eyecatch
@@ -54,7 +68,7 @@ const formattedDate = new Date(date).toLocaleDateString('ja-JP', { year: 'numeri
     <div class="post-card__meta">
       <time datetime={date}>{formattedDate}</time>
       {categories.map(cat => (
-        <a href={`/category/${cat}/`} class="cat-badge">{catNames[cat] || cat}</a>
+        <a href={`${catBase}${cat}/`} class="cat-badge">{activeCatNames[cat] || cat}</a>
       ))}
     </div>
     <h2 class="post-card__title">

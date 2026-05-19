@@ -33,6 +33,7 @@ const totalPages = Math.ceil(sorted.length / PAGE_SIZE);
           categories={post.data.categories}
           eyecatch={post.data.eyecatch}
           excerpt={post.data.excerpt}
+          lang="en"
         />
       ))}
       {totalPages > 1 && (

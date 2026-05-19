@@ -13,6 +13,7 @@ const blog = defineCollection({
     sns_image_url: z.string().optional(),
     lang: z.enum(['ja', 'en']).default('ja'),
     excerpt: z.string().optional(),
+    alternateSlug: z.string().optional(),
   }),
 });
 

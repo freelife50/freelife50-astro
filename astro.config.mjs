@@ -1,7 +1,7 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
-import { writeFileSync } from 'fs';
+import { existsSync, readdirSync, statSync, writeFileSync } from 'fs';
 import { fileURLToPath } from 'url';
 import { join } from 'path';
 
@@ -194,6 +194,75 @@ const EN_SLUGS = [
   'i-cancelled-all-my-insurance-at-50-what-coverage-do-you-really-need-en',
 ];
 
+function xmlEscape(value) {
+  return value
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+function collectIndexRoutes(dir, routePrefix = '') {
+  const routes = new Set();
+  if (!existsSync(dir)) return routes;
+
+  for (const entry of readdirSync(dir)) {
+    const fullPath = join(dir, entry);
+    const stat = statSync(fullPath);
+    if (stat.isFile() && entry === 'index.html') {
+      routes.add(`${routePrefix || '/'}`.replace(/\/?$/, '/'));
+    }
+    if (stat.isDirectory()) {
+      for (const route of collectIndexRoutes(fullPath, `${routePrefix}/${entry}`)) {
+        routes.add(route);
+      }
+    }
+  }
+
+  return routes;
+}
+
+function generateEnglishSitemaps(distPath) {
+  const enSlugSet = new Set(EN_SLUGS);
+  const routes = new Set(['/']);
+  const enDir = join(distPath, 'en');
+
+  for (const route of collectIndexRoutes(enDir, '/en')) {
+    if (route === '/en/') {
+      routes.add('/');
+    } else if (/^\/en\/(privacy-policy|contact|profile|disclaimer)\/$/.test(route)) {
+      routes.add(route.replace(/^\/en/, ''));
+    } else {
+      routes.add(route);
+    }
+  }
+
+  for (const entry of readdirSync(distPath)) {
+    const fullPath = join(distPath, entry);
+    if (!statSync(fullPath).isDirectory()) continue;
+    if (entry === 'en' || entry.startsWith('_')) continue;
+
+    const hasIndex = existsSync(join(fullPath, 'index.html'));
+    const isEnArticle = enSlugSet.has(entry) || entry.endsWith('-en');
+    if (hasIndex && isEnArticle) {
+      routes.add(`/${entry}/`);
+    }
+  }
+
+  const urls = Array.from(routes)
+    .sort((a, b) => a.localeCompare(b))
+    .map(route => `  <url><loc>${xmlEscape(`https://en.freelife50.com${route}`)}</loc></url>`)
+    .join('\n');
+
+  const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls}\n</urlset>\n`;
+  const sitemapIndex = `<?xml version="1.0" encoding="UTF-8"?>\n<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n  <sitemap><loc>https://en.freelife50.com/sitemap-0.xml</loc></sitemap>\n</sitemapindex>\n`;
+  const robots = `User-agent: *\nAllow: /\n\nSitemap: https://en.freelife50.com/sitemap-index.xml\n`;
+
+  writeFileSync(join(distPath, 'en-sitemap-0.xml'), sitemap, 'utf-8');
+  writeFileSync(join(distPath, 'en-sitemap-index.xml'), sitemapIndex, 'utf-8');
+  writeFileSync(join(distPath, 'en-robots.txt'), robots, 'utf-8');
+}
+
 function generateWorkerCode(enSlugs) {
   return `/**
  * freelife50.com / en.freelife50.com
@@ -214,6 +283,36 @@ export default {
     // en.freelife50.com へのアクセス
     // -----------------------------------------------------------------------
     if (host === 'en.freelife50.com') {
+      if (path === '/robots.txt') {
+        return env.ASSETS.fetch(new Request('https://freelife50.com/en-robots.txt', {
+          method: request.method,
+          headers: request.headers,
+        }));
+      }
+
+      if (path === '/sitemap-index.xml' || path === '/sitemap.xml') {
+        return env.ASSETS.fetch(new Request('https://freelife50.com/en-sitemap-index.xml', {
+          method: request.method,
+          headers: request.headers,
+        }));
+      }
+
+      if (path === '/sitemap-0.xml') {
+        return env.ASSETS.fetch(new Request('https://freelife50.com/en-sitemap-0.xml', {
+          method: request.method,
+          headers: request.headers,
+        }));
+      }
+
+      const enStaticPaths = new Set(['/privacy-policy/', '/contact/', '/profile/', '/disclaimer/']);
+      const normalizedPath = path.endsWith('/') ? path : path + '/';
+      if (enStaticPaths.has(normalizedPath)) {
+        return env.ASSETS.fetch(new Request('https://freelife50.com/en' + normalizedPath + url.search, {
+          method: request.method,
+          headers: request.headers,
+        }));
+      }
+
       // / または /en/ へのアクセス → /en/index.html をリライト
       if (path === '/' || path === '') {
         return env.ASSETS.fetch(new Request('https://freelife50.com/en/', {
@@ -272,7 +371,9 @@ const cloudflareWorkerPlugin = {
     'astro:build:done': ({ dir }) => {
       const distPath = fileURLToPath(dir);
       const workerPath = join(distPath, '_worker.js');
+      generateEnglishSitemaps(distPath);
       writeFileSync(workerPath, generateWorkerCode(EN_SLUGS), 'utf-8');
+      console.log('[en-sitemap] dist/en-sitemap-index.xml と dist/en-sitemap-0.xml を生成しました');
       console.log('[cloudflare-worker] dist/_worker.js を生成しました');
     },
   },
