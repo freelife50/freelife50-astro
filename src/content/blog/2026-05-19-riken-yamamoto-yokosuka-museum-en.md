@@ -84,7 +84,15 @@ excerpt: "A casual visit to the Riken Yamamoto exhibition at Yokosuka Museum of 
 
 <p>"Wait here for a bit, okay?"</p>
 
-<p>It was October, so the car was not hot. Momiji curled up and fell asleep in about five seconds.</p>
+<p>It was a cool October day, and the temperature inside the car seemed safe, so we decided to let her wait for just a short time.</p>
+
+<p>Of course, on a hot day or for a long time, that is absolutely something to avoid.</p>
+
+<p>By the way, the parking lot was underground.</p>
+
+<p>So Momiji was on underground standby.</p>
+
+<p>Momiji curled up and fell asleep in about five seconds.</p>
 
 <p>That was fast. Too fast.</p>
 
@@ -117,6 +125,10 @@ excerpt: "A casual visit to the Riken Yamamoto exhibition at Yokosuka Museum of 
 
 <p>So that is why it does not try to stand out.</p>
 
+<p>Come to think of it, the parking lot was underground too.</p>
+
+<p>This museum really does tuck itself into the ground.</p>
+
 <p>A building that was not trying to show off somehow made me more curious.</p>
 
 <div class="wp-block-columns is-layout-flex" style="gap:0.75em">
@@ -140,15 +152,7 @@ excerpt: "A casual visit to the Riken Yamamoto exhibition at Yokosuka Museum of 
 
 <p>I stepped on it. Nothing happened, of course. But it felt strange in a good way.</p>
 
-<p>Later I looked it up and learned that Yokosuka Museum of Art was designed to make use of its site between the sea and the hills.</p>
-
-<p>Parts of the rooftop and exterior floor are grating-like or translucent, allowing natural light to fall into the spaces below.</p>
-
-<p>When I was walking there, I only thought, "This floor is kind of see-through." But under my feet, the museum space was still continuing.</p>
-
-<p>People walking above, people viewing exhibitions below, the scenery outside, and the light inside the building.</p>
-
-<p>All of those things seemed loosely connected, and later I slowly understood: this, too, was Riken Yamamoto's architecture.</p>
+<p>Later I learned that there is gallery space beneath those panels, and the rooftop is designed so natural light can reach the spaces below.</p>
 
 <p>It felt as if the presence of people outside and the light falling from above were part of the museum experience.</p>
 
@@ -216,7 +220,7 @@ excerpt: "A casual visit to the Riken Yamamoto exhibition at Yokosuka Museum of 
 
 <p>The title was <strong><em>LIVING IN THE CITY</em></strong>.</p>
 
-<p>In the middle of a European-looking cityscape, a tall narrow tower rose upward. Homes were stacked inside it.</p>
+<p>In a scene that felt like an old city, narrow towers and buildings overlapped and rose upward.</p>
 
 <p>People were living there. Very high above the city.</p>
 
@@ -322,6 +326,8 @@ excerpt: "A casual visit to the Riken Yamamoto exhibition at Yokosuka Museum of 
 
 <p>At the city scale, the models showed green patches scattered through the urban fabric. A proposal for communities of roughly 400 to 700 people sharing common spaces.</p>
 
+<p>It felt like the story of someone who kept questioning the assumption that one home always equals one family.</p>
+
 <p>The man who had walked in thinking, "Architecture is just a place to live, right?" was now looking at an apartment complex model and thinking, "That looks enjoyable."</p>
 
 <p>Yamamoto had slowly got me.</p>
@@ -364,15 +370,15 @@ excerpt: "A casual visit to the Riken Yamamoto exhibition at Yokosuka Museum of 
 
 <p>Then I realized something.</p>
 
-<p>The beautiful view before the entrance. The light falling from the rooftop floor. All of it felt connected as part of the building experience.</p>
+<p>The beautiful view before the entrance. The rooftop floor letting light through. All of it had been part of the setup.</p>
 
 <p>Before the exhibition "showed" me anything, the building had already made me feel it.</p>
 
-<p>I later confirmed that Yokosuka Museum of Art opened in 2007 and was designed by Riken Yamamoto. The building itself is also treated as one of his major works.</p>
+<p>Later, I learned that Yokosuka Museum of Art itself was designed by Riken Yamamoto.</p>
 
 <p>The venue was a work, and the work was the venue.</p>
 
-<p>So when I came to an architecture exhibition and kept looking at the scenery, maybe I had already been experiencing the building itself before I even looked closely at the exhibition.</p>
+<p>So when I came to an architecture exhibition and kept looking at the scenery, maybe I was being quietly guided by Riken Yamamoto all along.</p>
 
 <p>Well played.</p>
 
@@ -395,6 +401,8 @@ excerpt: "A casual visit to the Riken Yamamoto exhibition at Yokosuka Museum of 
 
 <p>I do not know whether she forgave me. But in the direction she was facing, beyond the sea breeze, was the Yokosuka Museum of Art where we had just been.</p>
 
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
 <p>If I had to sum up what Riken Yamamoto has been doing for fifty years, I would say this:</p>
 
 <p><strong>If there is a small in-between place, people can connect naturally.</strong></p>
@@ -408,6 +416,22 @@ excerpt: "A casual visit to the Riken Yamamoto exhibition at Yokosuka Museum of 
 <p>Maybe we can make thresholds almost anywhere.</p>
 
 <p>That is what I felt the two-centimeter people in Yokosuka had taught me.</p>
+
+<p>I have also read that Yamamoto still speaks about how Tokyo's redevelopment is damaging the heart of the city.</p>
+
+<p>Even for a man in his 50s who was just staring at models, I feel like I can understand that a little now.</p>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<p>You do not need to know much about architecture to enjoy a museum freely.</p>
+
+<p>You do not have to memorize every title, and you do not have to understand every technical term.</p>
+
+<p>"This feels good."<br>"This model is incredibly detailed."<br>"What would it be like to live here?"</p>
+
+<p>Even simple impressions like that are enough to enjoy architecture.</p>
+
+<p>For me, the Riken Yamamoto exhibition was less a time to study architecture and more a time to rethink, just a little, the distance between people.</p>
 
 <figure class="wp-block-image size-large">
   <img src="/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-rooftop-terrace-sea.jpg?v=20260519" alt="The rooftop terrace of Yokosuka Museum of Art facing Tokyo Bay under a cloudy sky" loading="lazy"/>
