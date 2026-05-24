@@ -124,7 +124,7 @@ excerpt: "A 50-something man, his wife, and their Shiba Inu Momiji visited Atsug
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px;align-items:start;">
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/05/atsugi-kodomo-no-mori-pond-sign.jpg" alt="Information board for the pond below the forest corridor" class="wp-image-6208"/><figcaption class="wp-element-caption">The pond sign below. This is where I realized the corridor was not exactly low</figcaption></figure>
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/05/atsugi-kodomo-no-mori-pond-view.jpg" alt="A pond surrounded by forest inside Atsugi Kodomo no Mori Park" class="wp-image-6209"/><figcaption class="wp-element-caption">A pond surrounded by forest. This feels more like satoyama than an urban playground</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/05/atsugi-kodomo-no-mori-pond-view.jpg" alt="A flooded rice paddy field surrounded by forest inside the park" class="wp-image-6209"/><figcaption class="wp-element-caption">A rice paddy surrounded by forest. This feels more like satoyama than an urban playground</figcaption></figure>
 </div>
 
 <p>We could also see rice paddies. Real rice paddies inside the park. The area is used for nature and farming programs, and the fields are arranged along the valley.</p>
@@ -207,7 +207,7 @@ excerpt: "A 50-something man, his wife, and their Shiba Inu Momiji visited Atsug
 
 <p>A large kunugi oak stood there with a thick trunk and wide branches. Beneath it was a bench. The grass was bright, the forest stood beyond it, and the ridge line in the distance looked soft under the sky.</p>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/05/atsugi-kodomo-no-mori-lawn-momiji.jpg" alt="Shiba Inu Momiji walking across a grassy open area" class="wp-image-6215"/><figcaption class="wp-element-caption">When the path opened into grass, Momiji's step seemed to get lighter</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/05/atsugi-kodomo-no-mori-kunugi-hill.jpg" alt="Kunugi Hill: a large oak tree, a bench beneath it, wife walking ahead, Momiji in the foreground, and mountain ridgeline beyond" class="wp-image-6215"/><figcaption class="wp-element-caption">Kunugi Hill. One large oak tree, standing there like it owned the place</figcaption></figure>
 
 <p>My wife walked slowly ahead. Momiji stood beside me, looking up toward the tree.</p>
 
