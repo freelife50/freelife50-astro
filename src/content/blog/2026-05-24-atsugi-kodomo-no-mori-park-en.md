@@ -207,7 +207,7 @@ excerpt: "A 50-something man, his wife, and their Shiba Inu Momiji visited Atsug
 
 <p>A large kunugi oak stood there with a thick trunk and wide branches. Beneath it was a bench. The grass was bright, the forest stood beyond it, and the ridge line in the distance looked soft under the sky.</p>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/05/atsugi-kodomo-no-mori-kunugi-hill.jpg" alt="Kunugi Hill: a large oak tree, a bench beneath it, wife walking ahead, Momiji in the foreground, and mountain ridgeline beyond" class="wp-image-6215"/><figcaption class="wp-element-caption">Kunugi Hill. One large oak tree, standing there like it owned the place</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/05/atsugi-kodomo-no-mori-kunugi-v2.jpg" alt="Kunugi Hill: a large oak tree, a bench beneath it, wife walking ahead, Momiji in the foreground, and mountain ridgeline beyond" class="wp-image-6215"/><figcaption class="wp-element-caption">Kunugi Hill. One large oak tree, standing there like it owned the place</figcaption></figure>
 
 <p>My wife walked slowly ahead. Momiji stood beside me, looking up toward the tree.</p>
 
