@@ -218,8 +218,8 @@ excerpt: "A 50-something man, his wife, and their Shiba Inu Momiji visited Atsug
 <p>A little earlier, I had been praying in front of a slide. Now I was standing quietly on a hill. Maybe these small, good moments are not as rare as we think. Maybe they are just lying around somewhere, waiting for us to stop under a tree.</p>
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px;align-items:start;">
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/05/atsugi-kodomo-no-mori-paddy.jpg" alt="Rice paddy area inside Atsugi Kodomo no Mori Park" class="wp-image-6216"/><figcaption class="wp-element-caption">There are real rice paddies inside the park. It is more satoyama experience than playground</figcaption></figure>
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/05/atsugi-kodomo-no-mori-paddy-view.jpg" alt="Rice paddy and forest scenery inside the park" class="wp-image-6217"/><figcaption class="wp-element-caption">Forest, rice paddies, and sky. The balance feels just right</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/05/atsugi-kodomo-no-mori-paddy.jpg" alt="An irrigation pond enclosed by chain-link fencing inside the park" class="wp-image-6216"/><figcaption class="wp-element-caption">An irrigation pond tucked inside the park. The satoyama water system is carefully managed</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/05/atsugi-kodomo-no-mori-paddy-view.jpg" alt="Agricultural area and small hut surrounded by forest" class="wp-image-6217"/><figcaption class="wp-element-caption">Forest, agricultural fields, and sky. The balance feels just right</figcaption></figure>
 </div>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
