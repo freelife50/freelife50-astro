@@ -309,6 +309,14 @@ export default {
     const path = url.pathname;
     const tagRedirect = normalizeTagUrl(url, host, path);
     if (tagRedirect) return tagRedirect;
+    const normalizedPath = path.endsWith('/') ? path : path + '/';
+
+    if (normalizedPath === '/go/atsugi/') {
+      if (host === 'en.freelife50.com') {
+        return Response.redirect('https://en.freelife50.com/atsugi-kodomo-no-mori-park-en/' + url.search, 301);
+      }
+      return Response.redirect('https://freelife50.com/atsugi-kodomo-no-mori-park/' + url.search, 301);
+    }
 
     // -----------------------------------------------------------------------
     // en.freelife50.com へのアクセス
@@ -336,7 +344,6 @@ export default {
       }
 
       const enStaticPaths = new Set(['/privacy-policy/', '/contact/', '/profile/', '/disclaimer/']);
-      const normalizedPath = path.endsWith('/') ? path : path + '/';
       if (enStaticPaths.has(normalizedPath)) {
         return env.ASSETS.fetch(new Request('https://freelife50.com/en' + normalizedPath + url.search, {
           method: request.method,
