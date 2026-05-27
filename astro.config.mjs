@@ -1,7 +1,7 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
-import { existsSync, readdirSync, statSync, writeFileSync } from 'fs';
+import { existsSync, readFileSync, readdirSync, statSync, writeFileSync } from 'fs';
 import { fileURLToPath } from 'url';
 import { join } from 'path';
 
@@ -14,6 +14,20 @@ import { join } from 'path';
 // freelife50.com/[en-slug]  → en.freelife50.com/[en-slug] に 301 リダイレクト
 // その他 → 通常の静的配信（env.ASSETS.fetch）
 // ---------------------------------------------------------------------------
+// ---------------------------------------------------------------------------
+// 自前短縮URL テーブル
+// X投稿時は https://freelife50.com/go/[key]/ または
+//             https://en.freelife50.com/go/[key]/ を使うこと
+// TinyURL・bit.ly 等の外部短縮URL禁止
+// ---------------------------------------------------------------------------
+const GO_REDIRECTS = {
+  atsugi: {
+    ja: '/atsugi-kodomo-no-mori-park/',
+    en: '/atsugi-kodomo-no-mori-park-en/',
+  },
+  // 例: riken: { ja: '/riken-yamamoto-yokosuka-museum/', en: '/riken-yamamoto-yokosuka-museum-en/' },
+};
+
 const EN_SLUGS = [
   // ── 2026-04 以降（-en サフィックス付き・初期8件）──────────────────
   'komachi-shrine-takamatsu-hiking-en',
@@ -194,6 +208,12 @@ const EN_SLUGS = [
   'i-cancelled-all-my-insurance-at-50-what-coverage-do-you-really-need-en',
 ];
 
+function loadRRedirects(baseDir) {
+  const jsonPath = join(baseDir, 'src', 'data', 'r-redirects.json');
+  if (!existsSync(jsonPath)) return {};
+  return JSON.parse(readFileSync(jsonPath, 'utf-8'));
+}
+
 function xmlEscape(value) {
   return value
     .replace(/&/g, '&amp;')
@@ -228,6 +248,7 @@ function generateEnglishSitemaps(distPath) {
   const enDir = join(distPath, 'en');
 
   for (const route of collectIndexRoutes(enDir, '/en')) {
+    if (/^\/en\/(?:tag|category|page)\//.test(route)) continue;
     if (route === '/en/') {
       routes.add('/');
     } else if (/^\/en\/(privacy-policy|contact|profile|disclaimer)\/$/.test(route)) {
@@ -263,7 +284,7 @@ function generateEnglishSitemaps(distPath) {
   writeFileSync(join(distPath, 'en-robots.txt'), robots, 'utf-8');
 }
 
-function generateWorkerCode(enSlugs) {
+function generateWorkerCode(enSlugs, goRedirects, rRedirects) {
   return `/**
  * freelife50.com / en.freelife50.com
  * Cloudflare Pages Advanced Mode Worker
@@ -271,6 +292,23 @@ function generateWorkerCode(enSlugs) {
  * 手動編集禁止 — ソースは astro.config.mjs の EN_SLUGS 配列を更新すること
  */
 const EN_SLUGS = new Set(${JSON.stringify(enSlugs)});
+const ADS_TXT = 'google.com, pub-6812936495637250, DIRECT, f08c47fec0942fa0\\n';
+const QUALITY_REDIRECTS = {
+  '__trashed': '/health-check-running/',
+  '__trashed-2': '/改革のふりをした搾取-ふるさと納税ポイ/',
+  '__trashed-3': '/the-illusion-of-reform-the-hidden-truth-behind-the-ban-on-furusato-tax-points/',
+  'タイトル': '/keep-blogging-even-if-no-one-reads/',
+  'タイトル-50代ビール好き-健康管理は無理し': '/beer-lovers-gentle-health-routine/',
+  'タイトル-激しい雷雨の日に-僕が-守ること': '/heavy-rain-workplace-protection/',
+  'タイトル案-ランゴ兄さんって誰やねん': '/rango-bro-middle-aged-empathy/',
+};
+const QUALITY_REDIRECT_SLUGS = new Set(Object.keys(QUALITY_REDIRECTS));
+
+// 自前短縮URL テーブル（astro.config.mjs の GO_REDIRECTS から自動生成）
+const GO_REDIRECTS = ${JSON.stringify(goRedirects, null, 2)};
+
+// /r/ID 短縮URLテーブル（public/_redirects から自動生成）
+const R_REDIRECTS = ${JSON.stringify(rRedirects)};
 
 function slugifyTagSegment(value) {
   return value
@@ -301,6 +339,33 @@ function normalizeTagUrl(url, host, path) {
   return Response.redirect(origin + prefix + slug + '/' + url.search, 301);
 }
 
+function robotsResponse(sitemapUrl) {
+  const body = [
+    'User-agent: *',
+    'Content-Signal: search=yes,ai-train=no',
+    'Allow: /',
+    '',
+    'Sitemap: ' + sitemapUrl,
+    '',
+  ].join('\\n');
+
+  return new Response(body, {
+    headers: {
+      'content-type': 'text/plain; charset=utf-8',
+      'cache-control': 'public, max-age=3600',
+    },
+  });
+}
+
+function plainTextResponse(body) {
+  return new Response(body, {
+    headers: {
+      'content-type': 'text/plain; charset=utf-8',
+      'cache-control': 'public, max-age=3600',
+    },
+  });
+}
+
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
@@ -310,25 +375,57 @@ export default {
     const tagRedirect = normalizeTagUrl(url, host, path);
     if (tagRedirect) return tagRedirect;
     const normalizedPath = path.endsWith('/') ? path : path + '/';
+    let currentSlug = normalizedPath.replace(/^\\/|\\/$/g, '');
+    try {
+      currentSlug = decodeURIComponent(currentSlug);
+    } catch {
+      // 壊れたURLエンコードの場合は、元の文字列のまま判定する
+    }
 
-    if (normalizedPath === '/go/atsugi/') {
+    if (QUALITY_REDIRECT_SLUGS.has(currentSlug)) {
+      const origin = host === 'en.freelife50.com' ? 'https://en.freelife50.com' : 'https://freelife50.com';
+      return Response.redirect(origin + QUALITY_REDIRECTS[currentSlug] + url.search, 301);
+    }
+
+    if (path === '/robots.txt') {
       if (host === 'en.freelife50.com') {
-        return Response.redirect('https://en.freelife50.com/atsugi-kodomo-no-mori-park-en/' + url.search, 301);
+        return robotsResponse('https://en.freelife50.com/sitemap-index.xml');
       }
-      return Response.redirect('https://freelife50.com/atsugi-kodomo-no-mori-park/' + url.search, 301);
+      return robotsResponse('https://freelife50.com/sitemap-index.xml');
+    }
+
+    if (path === '/ads.txt') {
+      return plainTextResponse(ADS_TXT);
+    }
+
+    // -----------------------------------------------------------------------
+    // 自前短縮URL: /go/[key]/ → 301リダイレクト
+    // -----------------------------------------------------------------------
+    const goMatch = normalizedPath.match(/^\\/go\\/([^/]+)\\/$/);
+    if (goMatch) {
+      const goKey = goMatch[1];
+      const goTarget = GO_REDIRECTS[goKey];
+      if (goTarget) {
+        if (host === 'en.freelife50.com') {
+          return Response.redirect('https://en.freelife50.com' + goTarget.en + url.search, 301);
+        }
+        return Response.redirect('https://freelife50.com' + goTarget.ja + url.search, 301);
+      }
+    }
+
+    // -----------------------------------------------------------------------
+    // 自前短縮URL: /r/[id] → 302リダイレクト（_redirectsの100ルール制限回避）
+    // -----------------------------------------------------------------------
+    const rMatch = path.match(/^\\/r\\/(\\d+)\\/?$/);
+    if (rMatch) {
+      const rTarget = R_REDIRECTS[rMatch[1]];
+      if (rTarget) return Response.redirect(rTarget, 302);
     }
 
     // -----------------------------------------------------------------------
     // en.freelife50.com へのアクセス
     // -----------------------------------------------------------------------
     if (host === 'en.freelife50.com') {
-      if (path === '/robots.txt') {
-        return env.ASSETS.fetch(new Request('https://freelife50.com/en-robots.txt', {
-          method: request.method,
-          headers: request.headers,
-        }));
-      }
-
       if (path === '/sitemap-index.xml' || path === '/sitemap.xml') {
         return env.ASSETS.fetch(new Request('https://freelife50.com/en-sitemap-index.xml', {
           method: request.method,
@@ -409,8 +506,10 @@ const cloudflareWorkerPlugin = {
     'astro:build:done': ({ dir }) => {
       const distPath = fileURLToPath(dir);
       const workerPath = join(distPath, '_worker.js');
+      const baseDir = fileURLToPath(new URL('.', import.meta.url));
+      const rRedirects = loadRRedirects(baseDir);
       generateEnglishSitemaps(distPath);
-      writeFileSync(workerPath, generateWorkerCode(EN_SLUGS), 'utf-8');
+      writeFileSync(workerPath, generateWorkerCode(EN_SLUGS, GO_REDIRECTS, rRedirects), 'utf-8');
       console.log('[en-sitemap] dist/en-sitemap-index.xml と dist/en-sitemap-0.xml を生成しました');
       console.log('[cloudflare-worker] dist/_worker.js を生成しました');
     },
@@ -423,7 +522,10 @@ export default defineConfig({
     sitemap({
       // 英語記事（/en/配下のパス）は sitemap-index から除外
       // en.freelife50.com 用の sitemap は将来的に追加予定
-      filter: (page) => !page.includes('/en/'),
+      filter: (page) => (
+        !page.includes('/en/')
+        && !/\/(?:tag|category|page)\//.test(page)
+      ),
     }),
     cloudflareWorkerPlugin,
   ],

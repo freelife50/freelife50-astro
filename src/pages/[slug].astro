@@ -1,22 +1,20 @@
 ---
 import { getCollection, render } from 'astro:content';
 import PostLayout from '../layouts/PostLayout.astro';
+import { getPublicPosts } from '../utils/posts';
 
 export async function getStaticPaths() {
-  const posts = await getCollection('blog');
-  // __trashedなど無効なスラッグを除外
-  return posts
-    .filter(post => post.data.slug && !post.data.slug.startsWith('__'))
-    .map(post => ({
-      params: { slug: post.data.slug },
-      props: { post },
-    }));
+  const posts = getPublicPosts(await getCollection('blog'));
+  return posts.map(post => ({
+    params: { slug: post.data.slug },
+    props: { post },
+  }));
 }
 
 const { post } = Astro.props;
 const { Content } = await render(post);
 
-const allPosts = await getCollection('blog');
+const allPosts = getPublicPosts(await getCollection('blog'));
 const postsBySlug = new Map(allPosts.map(item => [item.data.slug, item]));
 const slug = post.data.slug;
 const alternateSlug = post.data.alternateSlug

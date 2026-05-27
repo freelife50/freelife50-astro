@@ -4,17 +4,20 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import PostCard from '../../components/PostCard.astro';
 import Sidebar from '../../components/Sidebar.astro';
 import Pagination from '../../components/Pagination.astro';
+import { getPublicPosts, languageMatches, sortByNewest } from '../../utils/posts';
 
 const PAGE_SIZE = 10;
 
-const allPosts = await getCollection('blog');
+const allPosts = getPublicPosts(await getCollection('blog'));
 // en.freelife50.com は英語記事のみ（lang: en）
-const sorted = allPosts
-  .filter(p => p.data.lang === 'en')
-  .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
+const sorted = sortByNewest(allPosts.filter(p => languageMatches(p, 'en')));
 
 const posts = sorted.slice(0, PAGE_SIZE);
 const totalPages = Math.ceil(sorted.length / PAGE_SIZE);
+const popularSlugs = ['atsugi-kodomo-no-mori-park-en'];
+const popularPosts = popularSlugs
+  .map(slug => sorted.find(post => post.data.slug === slug))
+  .filter(Boolean);
 ---
 <BaseLayout
   title="Ramen, Beer &amp; Blog — English Articles"
@@ -24,6 +27,22 @@ const totalPages = Math.ceil(sorted.length / PAGE_SIZE);
 >
   <div class="layout-wrap">
     <div>
+      {popularPosts.length > 0 && (
+        <section class="home-highlight" aria-labelledby="popular-heading">
+          <div>
+            <p class="home-highlight__label">Reader activity</p>
+            <h1 id="popular-heading">Popular English reads</h1>
+            <p class="home-highlight__lead">Start with the English article that is already getting visits, then keep browsing from the latest posts.</p>
+          </div>
+          <ul class="home-highlight__list">
+            {popularPosts.map(post => (
+              <li>
+                <a href={`/${post.data.slug}/`}>{post.data.title}</a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
       <h1 style="font-size:1.1rem;color:#666;margin-bottom:20px;">Latest Articles</h1>
       {posts.map(post => (
         <PostCard

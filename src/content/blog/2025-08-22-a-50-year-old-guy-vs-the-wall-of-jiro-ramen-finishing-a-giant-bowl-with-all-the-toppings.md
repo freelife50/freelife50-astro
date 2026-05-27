@@ -179,7 +179,7 @@ excerpt: "Can a 50-year-old finish a Ramen Jiro large bowl with all toppings? A 
 </div>
 </div>
 
-<p>📍 Location: <a href="https://tinyurl.com/yvd2a7fk" target="_blank" rel="noreferrer noopener">See on Google Maps</a></p>
+<p>📍 Location: <a href="https://www.google.com/maps/place/%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E4%BA%8C%E9%83%8E+%E3%82%81%E3%81%98%E3%82%8D%E5%8F%B0%E5%BA%97/@35.6390012,139.3096319,17z/data=!3m1!4b1!4m6!3m5!1s0x60191c3ae083c955:0xf17416369cdeb7e!8m2!3d35.6390012!4d139.3122068!16s%2Fg%2F11g7z7g9d5?entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D" target="_blank" rel="noreferrer noopener">See on Google Maps</a></p>
 
 <ul class="wp-block-list"><li><strong>Hours</strong><br>Mon–Wed, Fri, Sat: 11:00–14:30 / 17:30–20:30<br>Sun: 11:00–15:00<br>Closed Thursday</li>
 

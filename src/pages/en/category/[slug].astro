@@ -3,18 +3,17 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import PostCard from '../../../components/PostCard.astro';
 import Sidebar from '../../../components/Sidebar.astro';
+import { getPublicPosts, languageMatches, sortByNewest } from '../../../utils/posts';
 
 export async function getStaticPaths() {
-  const allPosts = await getCollection('blog');
+  const allPosts = getPublicPosts(await getCollection('blog'));
   // en.freelife50.com は英語記事のみ（lang: en）
-  const enPosts = allPosts.filter(p => p.data.lang === 'en');
+  const enPosts = allPosts.filter(p => languageMatches(p, 'en'));
   const cats = new Set(enPosts.flatMap(p => p.data.categories));
   return Array.from(cats).map(cat => ({
     params: { slug: cat },
     props: {
-      posts: enPosts
-        .filter(p => p.data.categories.includes(cat))
-        .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()),
+      posts: sortByNewest(enPosts.filter(p => p.data.categories.includes(cat))),
       cat,
     },
   }));
@@ -34,7 +33,7 @@ const catNames: Record<string, string> = {
 
 const catName = catNames[cat] || cat;
 ---
-<BaseLayout title={`Category: ${catName}`} lang="en">
+<BaseLayout title={`Category: ${catName}`} lang="en" noindex>
   <div class="layout-wrap">
     <div>
       <h1 class="archive-heading">Category: <span>{catName}</span></h1>

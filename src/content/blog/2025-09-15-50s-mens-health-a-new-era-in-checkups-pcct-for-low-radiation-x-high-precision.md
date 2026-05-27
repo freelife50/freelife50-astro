@@ -28,7 +28,7 @@ excerpt: "This article will take about 8–10 minutes to read. ■ This article 
 
 <p>🎥 <strong>A 25-second YouTube Short to get the gist!</strong><br>Watch this quick video first — it will give you a clear image before diving into the full article.</p>
 
-<p>👉 <a href="https://tinyurl.com/2s47unzu">Watch the video here</a></p>
+<p>👉 <a href="https://www.youtube.com/shorts/lG86lN_REuc">Watch the video here</a></p>
 
 <p>■<strong>Introduction: That Nervous Feeling—It Might Finally Be Reduced</strong></p>
 

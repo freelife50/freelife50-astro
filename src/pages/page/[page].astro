@@ -4,13 +4,12 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import PostCard from '../../components/PostCard.astro';
 import Sidebar from '../../components/Sidebar.astro';
 import Pagination from '../../components/Pagination.astro';
+import { getPublicPosts, languageMatches, sortByNewest } from '../../utils/posts';
 
 export async function getStaticPaths({ paginate }: { paginate: Function }) {
-  const allPosts = await getCollection('blog');
+  const allPosts = getPublicPosts(await getCollection('blog'));
   // freelife50.com は日本語記事のみ（lang: en を除外）
-  const sorted = allPosts
-    .filter(p => p.data.lang !== 'en')
-    .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
+  const sorted = sortByNewest(allPosts.filter(p => languageMatches(p, 'ja')));
 
   // paginate() が /page/1, /page/2 ... を生成するが、
   // 1ページ目は index.astro が担当するので除外
@@ -24,7 +23,7 @@ const { page } = Astro.props as { page: any };
 const prevUrl = page.currentPage === 2 ? '/' : page.url.prev;
 const nextUrl = page.url.next;
 ---
-<BaseLayout title={`最新記事 ${page.currentPage}ページ目 | ラーメンとビールと時々ブログ`}>
+<BaseLayout title={`最新記事 ${page.currentPage}ページ目 | ラーメンとビールと時々ブログ`} noindex>
   <div class="layout-wrap">
     <div>
       <h1 style="font-size:1.1rem;color:#666;margin-bottom:20px;">最新記事</h1>

@@ -26,9 +26,52 @@ const {
   snsImage,
   excerpt,
   lang = 'ja',
+  slug,
   hreflangJaUrl,
   hreflangEnUrl,
 } = Astro.props;
+
+const JA_SITE = 'https://freelife50.com';
+const EN_SITE = 'https://en.freelife50.com';
+const canonicalBase = lang === 'en' ? EN_SITE : JA_SITE;
+const canonicalUrl = slug ? `${canonicalBase}/${slug}/` : canonicalBase;
+const imageUrl = snsImage
+  ? new URL(snsImage, canonicalBase).toString()
+  : eyecatch
+    ? new URL(eyecatch, canonicalBase).toString()
+    : undefined;
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BlogPosting',
+  headline: title,
+  ...(excerpt ? { description: excerpt } : {}),
+  datePublished: date,
+  dateModified: date,
+  author: {
+    '@type': 'Person',
+    name: lang === 'en' ? 'Hiroshi' : 'ひろし',
+    url: lang === 'en' ? `${EN_SITE}/profile/` : `${JA_SITE}/profile/`,
+  },
+  publisher: {
+    '@type': 'Organization',
+    name: 'ラーメンとビールと時々ブログ',
+    url: lang === 'en' ? EN_SITE : JA_SITE,
+    logo: {
+      '@type': 'ImageObject',
+      url: `${JA_SITE}/images/wp-content/uploads/2025/04/8d3acb8ac16d829c946f739ad4181f54.png`,
+    },
+  },
+  url: canonicalUrl,
+  mainEntityOfPage: {
+    '@type': 'WebPage',
+    '@id': canonicalUrl,
+  },
+  ...(imageUrl ? { image: imageUrl } : {}),
+  ...(lang === 'en'
+    ? { inLanguage: 'en' }
+    : { inLanguage: 'ja' }),
+};
 
 const catNames: Record<string, string> = {
   'blog-sidejob': 'ブログ運営と副業',
@@ -71,6 +114,9 @@ const formattedDate = new Date(date).toLocaleDateString(dateLocale, {
   hreflangJaUrl={hreflangJaUrl}
   hreflangEnUrl={hreflangEnUrl}
 >
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+  </Fragment>
   <div class="layout-wrap">
     <article>
       <header class="post-header">

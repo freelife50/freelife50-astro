@@ -30,7 +30,7 @@ excerpt: "🌟 For the Tired Adults Out There Work drains you. Smartphones drain
 
 <p>Before reading, here’s a quick 15-second look at the atmosphere.</p>
 
-<p>👉 <strong><a href="https://tinyurl.com/4upbyzcp">https://tinyurl.com/4upbyzcp</a></strong></p>
+<p>👉 <strong><a href="https://www.youtube.com/shorts/dVhrRiuY4nI">https://www.youtube.com/shorts/dVhrRiuY4nI</a></strong></p>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 

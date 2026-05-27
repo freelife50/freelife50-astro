@@ -1,16 +1,25 @@
 ---
 import { getCollection } from 'astro:content';
+import { getPublicPosts, languageMatches, sortByNewest } from '../utils/posts';
 
 interface Props {
   lang?: 'ja' | 'en';
 }
 const { lang = 'ja' } = Astro.props;
 
-const allPosts = await getCollection('blog');
-const published = allPosts.sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
+const allPosts = getPublicPosts(await getCollection('blog'));
+const published = sortByNewest(allPosts);
 
 const isEn = lang === 'en';
-const recent = published.filter(p => isEn ? p.data.lang === 'en' : p.data.lang !== 'en').slice(0, 5);
+const recent = published.filter(p => languageMatches(p, lang)).slice(0, 5);
+const languagePosts = published.filter(p => languageMatches(p, lang));
+const popularSlugs = isEn
+  ? ['atsugi-kodomo-no-mori-park-en']
+  : ['atsugi-kodomo-no-mori-park', 'coconala-phone-fortune-telling-50s', 'zama-serizawa-park-underground-factory'];
+const popular = popularSlugs
+  .map(slug => languagePosts.find(post => post.data.slug === slug))
+  .filter(Boolean)
+  .slice(0, 4);
 
 const categories = [
   { slug: 'blog-sidejob', name: 'ブログ運営と副業', nameEn: 'Blogging & Side Hustles' },
@@ -25,7 +34,7 @@ const categories = [
 // カテゴリ別記事数（言語でフィルタ）
 const catCount: Record<string, number> = {};
 for (const post of published) {
-  if (isEn ? post.data.lang === 'en' : post.data.lang !== 'en') {
+  if (languageMatches(post, lang)) {
     for (const cat of post.data.categories) {
       catCount[cat] = (catCount[cat] || 0) + 1;
     }
@@ -37,10 +46,24 @@ const categoryBase = isEn ? '/en/category/' : '/category/';
 <aside class="sidebar">
   <div class="sidebar-widget sidebar-search">
     <h3>{isEn ? 'Search' : '検索'}</h3>
-    <form action={isEn ? '/en/search/' : '/search/'} method="get">
-      <input type="text" name="q" placeholder={isEn ? 'Search...' : 'キーワードを入力...'} />
+    <form action="https://www.google.com/search" method="get">
+      <input type="hidden" name="sitesearch" value={isEn ? 'en.freelife50.com' : 'freelife50.com'} />
+      <input type="text" name="q" placeholder={isEn ? 'Search English articles...' : 'サイト内を検索...'} autocomplete="search" />
     </form>
   </div>
+
+  {popular.length > 0 && (
+    <div class="sidebar-widget sidebar-popular">
+      <h3>{isEn ? 'Popular Reads' : 'よく読まれている記事'}</h3>
+      <ul>
+        {popular.map(post => (
+          <li>
+            <a href={`/${post.data.slug}/`}>{post.data.title}</a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  )}
 
   <div class="sidebar-widget">
     <h3>{isEn ? 'Recent Posts' : '最近の投稿'}</h3>

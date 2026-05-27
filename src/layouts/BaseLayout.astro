@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+import GoogleAdSense from '../components/GoogleAdSense.astro';
 import GoogleAnalytics from '../components/GoogleAnalytics.astro';
 import sharp from 'sharp';
 import { existsSync } from 'fs';
@@ -20,6 +21,8 @@ interface Props {
    * Worker のリライトで実際の URL と Astro の pathname がずれる場合に使用。
    */
   canonicalOverride?: string;
+  /** タグ・カテゴリ・ページ送りなど、検索評価に混ぜたくない一覧ページ用 */
+  noindex?: boolean;
 }
 
 const {
@@ -31,6 +34,7 @@ const {
   hreflangJaUrl,
   hreflangEnUrl,
   canonicalOverride,
+  noindex = false,
 } = Astro.props;
 const siteTitle = 'ラーメンとビールと時々ブログ';
 
@@ -94,6 +98,7 @@ const navCategoryBase = isEn ? '/en/category/' : '/category/';
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{title === siteTitle ? title : `${title} | ${siteTitle}`}</title>
   <meta name="description" content={description} />
+  {noindex && <meta name="robots" content="noindex,follow" />}
   <link rel="canonical" href={canonicalUrl} />
   <meta property="og:title" content={title} />
   <meta property="og:description" content={description} />
@@ -125,6 +130,19 @@ const navCategoryBase = isEn ? '/en/category/' : '/category/';
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet" />
   <GoogleAnalytics />
+  <GoogleAdSense />
+  <slot name="head" />
+  {ogType === 'website' && (
+    <script type="application/ld+json" set:html={JSON.stringify({
+      '@context': 'https://schema.org',
+      '@type': 'WebSite',
+      name: lang === 'en' ? 'Ramen, Beer & Blog' : 'ラーメンとビールと時々ブログ',
+      alternateName: lang === 'en' ? 'ラーメンとビールと時々ブログ' : 'Ramen, Beer & Blog',
+      url: canonicalBase,
+      description: description,
+      inLanguage: lang === 'en' ? 'en' : 'ja',
+    })} />
+  )}
 </head>
 <body>
   <header class="site-header">

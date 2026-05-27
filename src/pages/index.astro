@@ -4,21 +4,40 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from '../components/PostCard.astro';
 import Sidebar from '../components/Sidebar.astro';
 import Pagination from '../components/Pagination.astro';
+import { getPublicPosts, languageMatches, sortByNewest } from '../utils/posts';
 
 const PAGE_SIZE = 10;
 
-const allPosts = await getCollection('blog');
+const allPosts = getPublicPosts(await getCollection('blog'));
 // freelife50.com は日本語記事のみ（lang: en を除外）
-const sorted = allPosts
-  .filter(p => p.data.lang !== 'en')
-  .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
+const sorted = sortByNewest(allPosts.filter(p => languageMatches(p, 'ja')));
 
 const posts = sorted.slice(0, PAGE_SIZE);
 const totalPages = Math.ceil(sorted.length / PAGE_SIZE);
+const popularSlugs = ['atsugi-kodomo-no-mori-park', 'coconala-phone-fortune-telling-50s', 'zama-serizawa-park-underground-factory'];
+const popularPosts = popularSlugs
+  .map(slug => sorted.find(post => post.data.slug === slug))
+  .filter(Boolean);
 ---
 <BaseLayout title="ラーメンとビールと時々ブログ">
   <div class="layout-wrap">
     <div>
+      {popularPosts.length > 0 && (
+        <section class="home-highlight" aria-labelledby="popular-heading">
+          <div>
+            <p class="home-highlight__label">読者が見ている記事</p>
+            <h1 id="popular-heading">いま読まれている記事</h1>
+            <p class="home-highlight__lead">公園歩き、副業、50代の暮らし。最近アクセスが集まっている記事からどうぞ。</p>
+          </div>
+          <ul class="home-highlight__list">
+            {popularPosts.map(post => (
+              <li>
+                <a href={`/${post.data.slug}/`}>{post.data.title}</a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
       <h1 style="font-size:1.1rem;color:#666;margin-bottom:20px;">最新記事</h1>
       {posts.map(post => (
         <PostCard
