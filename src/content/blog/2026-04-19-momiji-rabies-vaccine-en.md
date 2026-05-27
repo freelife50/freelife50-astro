@@ -33,8 +33,8 @@ excerpt: "Our Shiba Inu Momiji was perfectly happy greeting other dogs in the pa
 <p>Japan has had zero domestic rabies cases since 1957, thanks to the Rabies Prevention Act (enacted 1950), which mandates vaccination, registration, and ID tag requirements for all dog owners.</p>
 <p>Three legal obligations every dog owner in Japan must follow:</p>
 <ol class="wp-block-list"><li><strong>Dog registration</strong> (once in a lifetime)</li><li><strong>Annual rabies vaccination</strong></li><li><strong>Wear the registration tag and vaccination tag on the collar at all times</strong></li></ol>
-<p>Failure to comply can result in a fine of up to ¥200,000.</p>
-<p>Vaccinations are available at municipal mass vaccination events (April–June) or at your local vet year-round. Typical cost: ¥2,500–3,100 for the shot, plus a ¥550 tag issuance fee.</p>
+<p>Failure to comply can result in a fine of up to ¥200,000 (approx. $1,333).</p>
+<p>Vaccinations are available at municipal mass vaccination events (April–June) or at your local vet year-round. Typical cost: ¥2,500–3,100 (approx. $16.67–$20.67) for the shot, plus a ¥550 (approx. $3.67) tag issuance fee.</p>
 <p>The tag color changes every year — 2026's color is red. Some municipalities now issue cute bone-shaped or paw-print-shaped tags.</p>
 <h2 id="we-headed-to-the-mass-vaccination-event" class="wp-block-heading">We Headed to the Mass Vaccination Event</h2>
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/04/upload_3282-1.jpg" alt="Momiji cheerfully greeting other dogs in line." class="wp-image-3994"/></figure>

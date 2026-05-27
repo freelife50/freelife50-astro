@@ -139,6 +139,6 @@ excerpt: "A 50-something who cancelled every insurance policy shares what covera
 
 <p><strong>Related posts you might enjoy:</strong></p>
 
-<ul class="wp-block-list"><li><a href="https://en.freelife50.com/switching-to-budget-sim-saved-our-family-4500-yen-a-month-en/">How Switching to a Budget SIM Saved Our Family ¥4,500 a Month</a></li>
+<ul class="wp-block-list"><li><a href="https://en.freelife50.com/switching-to-budget-sim-saved-our-family-4500-yen-a-month-en/">How Switching to a Budget SIM Saved Our Family ¥4,500 (approx. $30) a Month</a></li>
 <li><a href="https://en.freelife50.com/hi-there-ive-started-a-blog-about-ramen-beer-and-a-bit-of-blogging-en/">Hello! My Blog About Ramen, Beer, and a Side Hustle</a></li>
 </ul>

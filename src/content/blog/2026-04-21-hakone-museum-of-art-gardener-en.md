@@ -65,7 +65,7 @@ excerpt: "About 7 minutes Hi, I&#8217;m Hiroshi. You know that feeling when you&
 
 <p><strong>Hakone Museum of Art — Basic Info</strong></p>
 
-<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td>Location</td><td>1300 Gora, Hakone, Kanagawa</td></tr><tr><td>Access</td><td>1 min walk from Koen-kami Station (Hakone Tozan Cable Car)</td></tr><tr><td>Admission</td><td>¥1,430 / approx. $9.50 (discount with Hakone Freepass)</td></tr><tr><td>Hours</td><td>9:30 AM – 4:30 PM (until 4:00 PM Dec–Mar)</td></tr><tr><td>Closed</td><td>Every Thursday (open daily in November)</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td>Location</td><td>1300 Gora, Hakone, Kanagawa</td></tr><tr><td>Access</td><td>1 min walk from Koen-kami Station (Hakone Tozan Cable Car)</td></tr><tr><td>Admission</td><td>¥1,430 (approx. $9.50) (discount with Hakone Freepass)</td></tr><tr><td>Hours</td><td>9:30 AM – 4:30 PM (until 4:00 PM Dec–Mar)</td></tr><tr><td>Closed</td><td>Every Thursday (open daily in November)</td></tr></tbody></table></figure>
 
 <p><a href="https://www.google.com/maps/place/%E7%AE%B1%E6%A0%B9%E7%BE%8E%E8%A1%93%E9%A4%A8/@35.2481942,139.0401188,17z/" target="_blank" rel="noreferrer noopener">View on Google Maps</a></p>
 

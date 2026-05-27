@@ -16,7 +16,7 @@ excerpt: "I’ve never bought anything from Workman, but I kept hearing about th
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<blockquote class="wp-block-quote"><p><strong>Is Workman really a smart choice for men in their 50s?</strong><br>With its affordable, high-performance gear, Workman is gaining attention — even among those who've never stepped into the store.<br>From stylish upgrades under the “Workman Colors” brand to surprisingly functional underwear for under ¥500, there’s a lot to explore.<br>In this article, I dive into comparisons with Uniqlo, Montbell, and The North Face — and share why Workman might just be the best “innerwear pick” for the modern middle-aged man.</p>
+<blockquote class="wp-block-quote"><p><strong>Is Workman really a smart choice for men in their 50s?</strong><br>With its affordable, high-performance gear, Workman is gaining attention — even among those who've never stepped into the store.<br>From stylish upgrades under the “Workman Colors” brand to surprisingly functional underwear for under ¥500, (approx. $3.33) there’s a lot to explore.<br>In this article, I dive into comparisons with Uniqlo, Montbell, and The North Face — and share why Workman might just be the best “innerwear pick” for the modern middle-aged man.</p>
 </blockquote>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>

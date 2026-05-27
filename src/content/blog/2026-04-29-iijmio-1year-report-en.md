@@ -91,7 +91,7 @@ excerpt: "A year ago, I wrote that our family of four pays around $30/month for 
 
 <p>When they switch up to the 35GB plan, the bill jumps by about $2.71. That's part of the "mystery gap" explained.</p>
 
-<p>The other variable is <strong>voice call charges</strong>. IIJmio bills calls separately at ¥11 per 30 seconds. Months with more phone calls — doctor's offices, government offices — show up clearly in the bill.</p>
+<p>The other variable is <strong>voice call charges</strong>. IIJmio bills calls separately at ¥11 (approx. $0.07) per 30 seconds. Months with more phone calls — doctor's offices, government offices — show up clearly in the bill.</p>
 
 <p>Think of it like a utility bill — it varies a little, but it never spikes unpredictably. Once I stopped thinking "what's the monthly number?" and started thinking "what's the annual number?", the anxiety disappeared.</p>
 

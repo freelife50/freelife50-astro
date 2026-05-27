@@ -50,7 +50,7 @@ excerpt: "Chigasaki Satoyama Park is a hidden gem in Kanagawa — a peaceful nat
 
 <p><strong>Parking lots:</strong></p>
 
-<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th>Lot</th><th>Capacity</th><th>Weekday</th><th>Weekend</th></tr></thead><tbody><tr><td>East</td><td>42 cars</td><td>¥200</td><td>¥410</td></tr><tr><td>West</td><td>260 cars</td><td>¥200</td><td>¥410</td></tr><tr><td>North</td><td>99 cars</td><td><strong>Free</strong></td><td><strong>Free</strong></td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th>Lot</th><th>Capacity</th><th>Weekday</th><th>Weekend</th></tr></thead><tbody><tr><td>East</td><td>42 cars</td><td>¥200 (approx. $1.33)</td><td>¥410 (approx. $2.73)</td></tr><tr><td>West</td><td>260 cars</td><td>¥200 (approx. $1.33)</td><td>¥410 (approx. $2.73)</td></tr><tr><td>North</td><td>99 cars</td><td><strong>Free</strong></td><td><strong>Free</strong></td></tr></tbody></table></figure>
 
 <p>Tip: the North lot is free all week and is closest to the BBQ area and walking trails — it's where I park.</p>
 

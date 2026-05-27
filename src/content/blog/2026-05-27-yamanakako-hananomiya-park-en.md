@@ -35,7 +35,7 @@ excerpt: "A 50-something on a motorcycle arrived at the hot spring one hour too 
 <li>Motorcycle riders who cruise the Doshu Road toward Lake Yamanaka</li>
 <li>Anyone who has heard of Hananomiya Park but never quite made it there</li>
 <li>People planning a half-day combining flowers and an onsen near Lake Yamanaka</li>
-<li>Anyone wondering whether the ¥600 paid admission is worth it</li>
+<li>Anyone wondering whether the ¥600 (approx. $4) paid admission is worth it</li>
 <li>People who enjoy reading about a middle-aged man scaring himself alone in an underground lava cave</li>
 </ul>
 
@@ -45,7 +45,7 @@ excerpt: "A 50-something on a motorcycle arrived at the hot spring one hour too 
 
 <p><strong>"Maybe I'll skip it" is almost always the wrong call.</strong></p>
 
-<p>The waterfall sounded exactly like a real waterfall should. The triple waterwheel was exactly as impressive as its name implies. The lava cave underground was significantly scarier than it looks on video. And the ¥600 admission was absolutely worth it.</p>
+<p>The waterfall sounded exactly like a real waterfall should. The triple waterwheel was exactly as impressive as its name implies. The lava cave underground was significantly scarier than it looks on video. And the ¥600 (approx. $4) admission was absolutely worth it.</p>
 
 <p>An accidental failure — arriving at the hot spring an hour early — led me to a park I'd skipped for ten years. <strong>The days that don't go to plan are the ones I remember most.</strong></p>
 
@@ -122,9 +122,9 @@ excerpt: "A 50-something on a motorcycle arrived at the hot spring one hour too 
 
 <p><strong>Admission fees</strong></p>
 
-<figure class="wp-block-table"><table><thead><tr><th>Zone</th><th>Adults</th><th>Junior/Middle School</th><th>Notes</th></tr></thead><tbody><tr><td>Flower fields &amp; farm (free zone)</td><td><strong>Free</strong></td><td>Free</td><td>Always accessible</td></tr><tr><td>Seiryu no Sato &amp; Floral Dome Furara (paid zone)</td><td><strong>¥600</strong></td><td>¥240</td><td>Free Dec 1 – Mar 15</td></tr><tr><td>Under elementary school age</td><td><strong>Free</strong></td><td>—</td><td>—</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table><thead><tr><th>Zone</th><th>Adults</th><th>Junior/Middle School</th><th>Notes</th></tr></thead><tbody><tr><td>Flower fields &amp; farm (free zone)</td><td><strong>Free</strong></td><td>Free</td><td>Always accessible</td></tr><tr><td>Seiryu no Sato &amp; Floral Dome Furara (paid zone)</td><td><strong>¥600 (approx. $4)</strong></td><td>¥240 (approx. $1.60)</td><td>Free Dec 1 – Mar 15</td></tr><tr><td>Under elementary school age</td><td><strong>Free</strong></td><td>—</td><td>—</td></tr></tbody></table></figure>
 
-<p><strong>Parking</strong>: Passenger cars ¥300, buses ¥1,000. Around 220 spaces. On weekday mornings, plenty of room.</p>
+<p><strong>Parking</strong>: Passenger cars ¥300 (approx. $2), buses ¥1,000 (approx. $6.67). Around 220 spaces. On weekday mornings, plenty of room.</p>
 
 <p><strong>What's in bloom in May</strong></p>
 
@@ -144,7 +144,7 @@ excerpt: "A 50-something on a motorcycle arrived at the hot spring one hour too 
 
 <p>"Flowers plus Fuji" makes this park worth 1.5x as much as "flowers alone." Knowing this before you go changes how you plan your morning.</p>
 
-<p><strong>What's included in the ¥600 paid zone</strong></p>
+<p><strong>What's included in the ¥600 (approx. $4) paid zone</strong></p>
 
 <ul class="wp-block-list">
 <li>Triple Waterwheel</li>
@@ -155,7 +155,7 @@ excerpt: "A 50-something on a motorcycle arrived at the hot spring one hour too 
 <li>Water play area (summer only)</li>
 </ul>
 
-<p>Six attractions for ¥600. Worth it. I'll explain with my body later.</p>
+<p>Six attractions for ¥600 (approx. $4). Worth it. I'll explain with my body later.</p>
 
 <p><strong>⚠️ 2026 facility closure notice (important)</strong></p>
 
@@ -171,7 +171,7 @@ excerpt: "A 50-something on a motorcycle arrived at the hot spring one hour too 
 
 <p><strong>The reason my decade-long streak of skipping it finally ended was that I arrived at a hot spring one hour too early.</strong> Not exactly a heroic motivation — but that's the truth.</p>
 
-<p>I paid ¥300 for parking and walked toward the entrance.</p>
+<p>I paid ¥300 (approx. $2) for parking and walked toward the entrance.</p>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
@@ -187,25 +187,13 @@ excerpt: "A 50-something on a motorcycle arrived at the hot spring one hour too 
 
 <p>That was my honest first impression.</p>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/05/yamanakako-hananomiya-park-nemophila.jpg" alt="Close-up of nemophila flowers in pale blue-purple. Five delicate petals with intricate markings at the center" class="wp-image-6303"/><figcaption class="wp-element-caption">Nemophila. Unremarkable alone. In a field, they look like they're made of sky</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/05/yamanakako-hananomiya-park-fuji-field.jpg" alt="Mount Fuji visible beyond farmland with clouds partially covering the peak" class="wp-image-6306"/><figcaption class="wp-element-caption">Fuji through the clouds, beyond the farmland. Just that silhouette was enough.</figcaption></figure>
 
-<p>The free zone had <strong>nemophila in bloom</strong> — masses of small blue-purple flowers spreading across the ground.</p>
+<p>Past the entrance bridge, the farmland opened up. Mount Fuji was visible through a gap in the clouds — just the outline, the silhouette.</p>
 
-<p>One flower is easy to overlook. Together, they produce a color that blurs into the sky. I crouched down to look closely. Five petals, detailed markings at the center.</p>
+<p>That was enough.</p>
 
-<p>Twenty-year-old me never would have crouched to look at a flower. Too much to do, too many "more impressive" things to find.</p>
-
-<p><strong>Somewhere in my fifties, I started being able to actually see small things.</strong></p>
-
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/05/yamanakako-hananomiya-park-white-flower.jpg" alt="A field of small white flowers stretching to the horizon" class="wp-image-6304"/><figcaption class="wp-element-caption">White flowers filling the field. From a distance, the ground looks like it's floating</figcaption></figure>
-
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/05/yamanakako-hananomiya-park-white-flower2.jpg" alt="Wide-angle view of the white flower field with green trees in the background" class="wp-image-6305"/><figcaption class="wp-element-caption">This is all in the free zone — no admission needed</figcaption></figure>
-
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/05/yamanakako-hananomiya-park-fuji-field.jpg" alt="Mount Fuji visible beyond farmland with clouds partially covering the peak" class="wp-image-6306"/><figcaption class="wp-element-caption">Fuji through the clouds, beyond the fields. Just that silhouette was enough</figcaption></figure>
-
-<p>There was also a white flower field — countless tiny blooms covering the ground like snow. I stood there for a while. Mount Fuji was visible through a gap in the clouds — just the outline, the silhouette. That was enough.</p>
-
-<p>📷 <strong>Photo tip</strong>: You can shoot "flowers + Fuji" from the free zone. Crouch down, put nemophila in the foreground, Fuji in the background. Do this first thing — Fuji tends to cloud over as the morning goes on.</p>
+<p>📷 <strong>Photo tip</strong>: Mount Fuji is visible from the farmland area near the entrance. Fuji tends to cloud over as the morning goes on — check early.</p>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
@@ -215,13 +203,29 @@ excerpt: "A 50-something on a motorcycle arrived at the hot spring one hour too 
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/05/yamanakako-hananomiya-park-seiryu-gate.jpg" alt="The entrance building to Seiryu no Sato, with a large sign showing the name of the paid zone" class="wp-image-6308"/><figcaption class="wp-element-caption">Seiryu no Sato entrance. This is where the paid zone begins</figcaption></figure>
 
-<p>I paused at the entrance sign. "Seiryu no Sato &amp; Floral Dome Furara — Adults ¥600."</p>
+<p>I paused at the entrance sign. "Seiryu no Sato &amp; Floral Dome Furara — Adults ¥600 (approx. $4)."</p>
 
-<p>Reaching for my wallet, I thought: <em>"¥600 for what was supposed to be killing time…"</em></p>
+<p>Reaching for my wallet, I thought: <em>"¥600 (approx. $4) for what was supposed to be killing time…"</em></p>
 
 <p>I paid. <strong>"That was the right call."</strong> That's what I thought after.</p>
 
 <p>Skipping the paid zone means skipping the Triple Waterwheel, Myojin Falls, the Floral Dome, and the lava cave. Everything that comes next in this article. <strong>That's too much to leave on the table.</strong></p>
+
+<p>The first thing I noticed entering the paid zone was the flower fields.</p>
+
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/05/yamanakako-hananomiya-park-nemophila.jpg" alt="Close-up of nemophila flowers in pale blue-purple. Five delicate petals with intricate markings at the center" class="wp-image-6303"/><figcaption class="wp-element-caption">Nemophila. Unremarkable alone. In a field, they look like they're made of sky.</figcaption></figure>
+
+<p><strong>Nemophila</strong> — masses of small blue-purple flowers across the ground. One flower is easy to overlook. Together, they produce a color that blurs into the sky.</p>
+
+<p>I crouched down to look closely. Five petals, detailed markings at the center.</p>
+
+<p>Twenty-year-old me never would have crouched to look at a flower. <strong>Somewhere in my fifties, I started being able to actually see small things.</strong></p>
+
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/05/yamanakako-hananomiya-park-white-flower.jpg" alt="A field of small white flowers stretching to the horizon" class="wp-image-6304"/><figcaption class="wp-element-caption">White flowers filling the field. From a distance, the ground looks like it's floating.</figcaption></figure>
+
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/05/yamanakako-hananomiya-park-white-flower2.jpg" alt="Wide-angle view of the white flower field with green trees in the background" class="wp-image-6305"/><figcaption class="wp-element-caption">All of this is inside the paid zone — and you see it right after entering.</figcaption></figure>
+
+<p>📷 <strong>Photo tip</strong>: Right after entering the paid zone, you can shoot nemophila with Fuji in the background. Crouch down, put nemophila in the foreground. Fuji tends to cloud over as the morning goes on — shoot this early.</p>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
@@ -261,7 +265,7 @@ excerpt: "A 50-something on a motorcycle arrived at the hot spring one hour too 
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/05/yamanakako-hananomiya-park-fulala-pink.jpg" alt="Inside Floral Dome Furara: pink phalaenopsis orchids and palm trees create a tropical atmosphere" class="wp-image-6313"/><figcaption class="wp-element-caption">Pink orchids and palm trees. Overcast outside? Doesn't matter in here.</figcaption></figure>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/05/yamanakako-hananomiya-park-fulala-red.jpg" alt="Inside Floral Dome Furara: an abundance of deep red geraniums in full bloom" class="wp-image-6314"/><figcaption class="wp-element-caption">A wall of red geraniums. All of this is inside your ¥600 admission.</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/05/yamanakako-hananomiya-park-fulala-red.jpg" alt="Inside Floral Dome Furara: an abundance of deep red geraniums in full bloom" class="wp-image-6314"/><figcaption class="wp-element-caption">A wall of red geraniums. All of this is inside your ¥600 (approx. $4) admission.</figcaption></figure>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/05/yamanakako-hananomiya-park-fulala-purple.jpg" alt="Inside Floral Dome Furara: purple daisies and tropical plants" class="wp-image-6315"/><figcaption class="wp-element-caption">Step inside and the cold May air outside becomes a memory</figcaption></figure>
 
@@ -277,13 +281,15 @@ excerpt: "A 50-something on a motorcycle arrived at the hot spring one hour too 
 
 <p>Of everything in the paid zone, <strong>Myojin Falls was the highlight.</strong></p>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/05/yamanakako-hananomiya-park-myojin-taki.jpg" alt="Myojin Falls — white water cascading down a moss-covered rock face" class="wp-image-6317"/><figcaption class="wp-element-caption">Myojin Falls. Moss-covered rock. Water threading down like a thread. Real.</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/05/yamanakako-hananomiya-park-myojin-taki.jpg" alt="Myojin Falls — wide rock face with multiple streams of white water falling into a pale green pool below" class="wp-image-6317"/><figcaption class="wp-element-caption">Myojin Falls. 80 meters wide. Multiple streams, green pool at the base. Bigger than I expected.</figcaption></figure>
 
-<p>White water threading down a moss-covered rock face. The rock turned green by the moss. Only the sound of water.</p>
+<p>It was wider than I'd imagined.</p>
 
-<p>Not a rush or a roar — something finer, a clear and thin trickle.</p>
+<p>Multiple streams of white water fell down a broad rock face. The pool at the bottom was a pale green, the rock pattern visible through the water. Only the sound of water.</p>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/05/yamanakako-hananomiya-park-taki-suisha.jpg" alt="A view showing both the waterfall and the waterwheel through green trees" class="wp-image-6318"/><figcaption class="wp-element-caption">From this spot you can see both the falls and the waterwheel. ¥600 well spent.</figcaption></figure>
+<p>Not a rush or a roar — surprisingly quiet for something that wide. Clear and steady.</p>
+
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/05/yamanakako-hananomiya-park-taki-suisha.jpg" alt="A view showing both the waterfall and the waterwheel through green trees" class="wp-image-6318"/><figcaption class="wp-element-caption">From this spot you can see both the falls and the waterwheel. ¥600 (approx. $4) well spent.</figcaption></figure>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/05/yamanakako-hananomiya-park-iwa.jpg" alt="The Iwashimizu Falls area — mossy rocks and trees" class="wp-image-6319"/><figcaption class="wp-element-caption">Iwashimizu Falls area. Quiet, damp, and completely still.</figcaption></figure>
 
@@ -353,7 +359,7 @@ excerpt: "A 50-something on a motorcycle arrived at the hot spring one hour too 
 
 <p><strong>Hananomiya Park + Beniuji no Yu: Complete Half-Day Timetable</strong></p>
 
-<figure class="wp-block-table"><table><thead><tr><th>Time</th><th>Activity</th><th>Notes</th></tr></thead><tbody><tr><td>8:30</td><td><strong>Enter Hananomiya Park at opening</strong></td><td>Fuji is clearest in the morning</td></tr><tr><td>8:30–9:00</td><td>Free zone (flower fields)</td><td>Shoot nemophila + Fuji first while visibility is best</td></tr><tr><td>9:00</td><td>Enter paid zone (¥600)</td><td></td></tr><tr><td>9:00–9:30</td><td>Triple Waterwheel</td><td>Step back far enough to fit all three wheels in frame</td></tr><tr><td>9:30–10:00</td><td><strong>Myojin Falls + Iwashimizu Falls</strong></td><td>Don't rush — take time to just listen</td></tr><tr><td>10:00–10:30</td><td>Floral Dome Furara</td><td>Weather-proof — great even on cloudy days</td></tr><tr><td>10:30–10:45</td><td><strong>Lava Tree Mold Underground Zone</strong></td><td><strong>Don't go alone. Prepare yourself mentally.</strong></td></tr><tr><td>10:45–11:00</td><td>Gift shop / light snack / rest</td><td></td></tr><tr><td>11:00</td><td>Leave the park</td><td></td></tr><tr><td>11:05</td><td><strong>Arrive at Beniuji no Yu hot spring</strong></td><td>About 4 min / 1.7km by car or bike</td></tr><tr><td>–12:30</td><td>Soak at leisure</td><td></td></tr><tr><td>12:30+</td><td>Head home via Doshu Road</td><td></td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table><thead><tr><th>Time</th><th>Activity</th><th>Notes</th></tr></thead><tbody><tr><td>8:30</td><td><strong>Enter Hananomiya Park at opening</strong></td><td>Fuji is clearest in the morning</td></tr><tr><td>8:30–9:00</td><td>Free zone (entrance &amp; farmland area)</td><td>Cross the entrance bridge, check Fuji from the farmland — clearest in the morning</td></tr><tr><td>9:00</td><td>Enter paid zone (¥600, approx. $4)</td><td>Shoot nemophila + Fuji right after entering</td></tr><tr><td>9:00–9:30</td><td>Triple Waterwheel</td><td>Step back far enough to fit all three wheels in frame</td></tr><tr><td>9:30–10:00</td><td><strong>Myojin Falls + Iwashimizu Falls</strong></td><td>Don't rush — take time to just listen</td></tr><tr><td>10:00–10:30</td><td>Floral Dome Furara</td><td>Weather-proof — great even on cloudy days</td></tr><tr><td>10:30–10:45</td><td><strong>Lava Tree Mold Underground Zone</strong></td><td><strong>Don't go alone. Prepare yourself mentally.</strong></td></tr><tr><td>10:45–11:00</td><td>Gift shop / light snack / rest</td><td></td></tr><tr><td>11:00</td><td>Leave the park</td><td></td></tr><tr><td>11:05</td><td><strong>Arrive at Beniuji no Yu hot spring</strong></td><td>About 4 min / 1.7km by car or bike</td></tr><tr><td>–12:30</td><td>Soak at leisure</td><td></td></tr><tr><td>12:30+</td><td>Head home via Doshu Road</td><td></td></tr></tbody></table></figure>
 
 <p><strong>Beniuji no Yu (紅富士の湯) — basic info</strong></p>
 
@@ -366,7 +372,7 @@ excerpt: "A 50-something on a motorcycle arrived at the hot spring one hour too 
 <ul class="wp-block-list">
 <li>Gear: At 1,000m elevation in May, it can feel nearly 10°C cooler than lowland areas. <strong>Bring a windbreaker or leather jacket.</strong></li>
 <li>Doshu Road access: Low traffic, natural extension of a great ride. Highly recommended.</li>
-<li>Parking: ¥300 for passenger vehicles. On weekday mornings, completely empty.</li>
+<li>Parking: ¥300 (approx. $2) for passenger vehicles. On weekday mornings, completely empty.</li>
 <li>Best time: Weekday mornings — fewer crowds, better chance of seeing Fuji.</li>
 </ul>
 
