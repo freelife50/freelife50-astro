@@ -281,7 +281,7 @@ excerpt: "A 50-something on a motorcycle arrived at the hot spring one hour too 
 
 <p>Of everything in the paid zone, <strong>Myojin Falls was the highlight.</strong></p>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/05/yamanakako-hananomiya-park-myojin-taki.jpg" alt="Myojin Falls — wide rock face with multiple streams of white water falling into a pale green pool below" class="wp-image-6317"/><figcaption class="wp-element-caption">Myojin Falls. 80 meters wide. Multiple streams, green pool at the base. Bigger than I expected.</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/05/yamanakako-hananomiya-park-myojin-taki-v2.jpg" alt="Myojin Falls — wide rock face with multiple streams of white water falling into a pale green pool below" class="wp-image-6317"/><figcaption class="wp-element-caption">Myojin Falls. 80 meters wide. Multiple streams, green pool at the base. Bigger than I expected.</figcaption></figure>
 
 <p>It was wider than I'd imagined.</p>
 
