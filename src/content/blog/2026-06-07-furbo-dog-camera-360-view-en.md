@@ -45,7 +45,7 @@ excerpt: "If you worry about leaving your dog home alone, here are a few things 
 
 <p>Furbo may look like a camera for dogs, but in some ways, it may also be a tool for calming the owner's heart.</p>
 
-<p style="text-align:center;"><a href="https://furbo.com/jp/products/furbo-dog-camera?utm_source=A8&amp;utm_medium=Affiliate" target="_blank" rel="nofollow sponsored noopener"><strong>See the Furbo Dog Camera official page</strong></a></p>
+<p style="text-align:center;"><a href="https://shopjp.furbo.com/?utm_source=A8&amp;utm_medium=Affiliate" target="_blank" rel="nofollow sponsored noopener"><strong>See the Furbo Dog Camera official page</strong></a></p>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
@@ -209,7 +209,7 @@ excerpt: "If you worry about leaving your dog home alone, here are a few things 
 
 <p>It is listed as giving 2,000 yen off at purchase. However, it may not apply during certain sale periods, so check the official page price and coupon status before buying.</p>
 
-<p style="text-align:center;"><a href="https://furbo.com/jp/products/furbo-dog-camera?utm_source=A8&amp;utm_medium=Affiliate" target="_blank" rel="nofollow sponsored noopener"><strong>Check Furbo pricing and coupon availability</strong></a></p>
+<p style="text-align:center;"><a href="https://shopjp.furbo.com/?utm_source=A8&amp;utm_medium=Affiliate" target="_blank" rel="nofollow sponsored noopener"><strong>Check Furbo pricing and coupon availability</strong></a></p>
 
 <h2 id="ending">Final Thoughts</h2>
 
