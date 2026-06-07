@@ -61,7 +61,7 @@ excerpt: "犬の留守番が心配な人へ。カメラを買う前に試した�
 <li><a href="#check-before-buy">買う前に確認しときたいこと</a></li>
 <li><a href="#coupon">クーポンについて</a></li>
 <li><a href="#ending">おわりに</a></li>
-<li><a href="#related">内部リンク</a></li>
+<li><a href="#related">あわせて読みたい</a></li>
 </ol>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
@@ -223,7 +223,7 @@ excerpt: "犬の留守番が心配な人へ。カメラを買う前に試した�
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 id="related">内部リンク</h2>
+<h2 id="related">あわせて読みたい</h2>
 
 <ul class="wp-block-list">
 <li><a href="https://freelife50.com/momiji-rabies-vaccine/">もみじ、察してたんやろな。狂犬病注射に行ってきた話</a></li>

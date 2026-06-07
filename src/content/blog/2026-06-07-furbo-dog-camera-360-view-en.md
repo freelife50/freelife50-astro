@@ -61,7 +61,7 @@ excerpt: "If you worry about leaving your dog home alone, here are a few things 
 <li><a href="#check-before-buy">Things to Check Before Buying</a></li>
 <li><a href="#coupon">About the Coupon Code</a></li>
 <li><a href="#ending">Final Thoughts</a></li>
-<li><a href="#related">Internal Links</a></li>
+<li><a href="#related">Related Articles</a></li>
 </ol>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
@@ -225,7 +225,7 @@ excerpt: "If you worry about leaving your dog home alone, here are a few things 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<h2 id="related">Internal Links</h2>
+<h2 id="related">Related Articles</h2>
 
 <ul class="wp-block-list">
 <li><a href="https://en.freelife50.com/momiji-rabies-vaccine-en/">Momiji Knew. Taking My Shiba Inu for Her Annual Rabies Vaccine</a></li>
