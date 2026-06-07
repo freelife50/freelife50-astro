@@ -6,7 +6,7 @@ categories: ["life-with-momiji"]
 tags: ["shiba-inu", "dog-home-alone", "dog-camera", "separation-anxiety", "furbo"]
 lang: "en"
 alternateSlug: "furbo-dog-camera-360-view"
-eyecatch: "/images/wp-content/uploads/2026/06/furbo-dog-camera-360-view-eyecatch.jpg"
+eyecatch: "/images/wp-content/uploads/2026/06/furbo-dog-camera-360-view-eyecatch.jpg?v=20260607a"
 sns_image_url: "/images/wp-content/uploads/2026/06/furbo-dog-camera-360-view-sns.jpg"
 excerpt: "If you worry about leaving your dog home alone, here are a few things to try before buying a camera, plus what I found while looking into the Furbo Dog Camera 360° View."
 ---
@@ -27,7 +27,7 @@ excerpt: "If you worry about leaving your dog home alone, here are a few things 
 
 <p>When your dog seems uneasy about being left alone, there are quite a few things you can try before buying a camera. I'll go through them in order, so you can think about what might apply to your own home.</p>
 
-<figure class="wp-block-image aligncenter"><img src="/images/wp-content/uploads/2026/06/furbo-dog-camera-360-view-eyecatch.jpg" alt="Momiji the Shiba Inu lying down indoors and looking toward the camera" loading="lazy"/></figure>
+<figure class="wp-block-image aligncenter"><img src="/images/wp-content/uploads/2026/06/furbo-dog-camera-360-view-eyecatch.jpg?v=20260607a" alt="Momiji the Shiba Inu lying down indoors and looking toward the camera" loading="lazy"/></figure>
 
 <p><strong>This article is for you if:</strong></p>
 
