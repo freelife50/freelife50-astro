@@ -45,7 +45,7 @@ excerpt: "犬の留守番が心配な人へ。カメラを買う前に試した�
 
 <p>Furboは、犬のためのカメラという顔をしてるけど、ほんまは飼い主の心を落ち着けるための道具でもあるんかもしれません。</p>
 
-<p style="text-align:center;"><a href="https://shopjp.furbo.com/?utm_source=A8&amp;utm_medium=Affiliate" target="_blank" rel="nofollow sponsored noopener"><strong>Furboドッグカメラの公式ページを見てみる</strong></a></p>
+<p style="text-align:center;"><a href="https://furbo.com/jp/products/furbo-dog-camera?utm_source=A8&amp;utm_medium=Affiliate" target="_blank" rel="nofollow sponsored noopener"><strong>Furboドッグカメラの公式ページを見てみる</strong></a></p>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
@@ -209,7 +209,7 @@ excerpt: "犬の留守番が心配な人へ。カメラを買う前に試した�
 
 <p>入力すると2,000円引きになるとのこと。ただ、不定期のセール期間中などは使えへんこともあるみたいやから、実際に買うときは公式ページの価格表示とクーポンの適用状況を確認してな。</p>
 
-<p style="text-align:center;"><a href="https://shopjp.furbo.com/?utm_source=A8&amp;utm_medium=Affiliate" target="_blank" rel="nofollow sponsored noopener"><strong>Furboドッグカメラの価格とクーポン対象を確認する</strong></a></p>
+<p style="text-align:center;"><a href="https://furbo.com/jp/products/furbo-dog-camera?utm_source=A8&amp;utm_medium=Affiliate" target="_blank" rel="nofollow sponsored noopener"><strong>Furboドッグカメラの価格とクーポン対象を確認する</strong></a></p>
 
 <h2 id="ending">おわりに</h2>
 
