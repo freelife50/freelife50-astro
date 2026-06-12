@@ -1,5 +1,5 @@
 ---
-title: "On the 80th Postwar Anniversary, I Couldn't Run — But I Walked Through Layers of Peace, Culture, and Memory"
+title: "Walking Through Peace and Memory on the 80th Postwar Anniversary"
 date: "2025-04-27"
 slug: "on-the-80th-postwar-anniversary-i-couldnt-runbut-i-walked-through-en"
 categories: ["society-issues-thoughts"]

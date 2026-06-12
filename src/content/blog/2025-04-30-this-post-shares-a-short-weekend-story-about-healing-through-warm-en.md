@@ -1,5 +1,5 @@
 ---
-title: "This post shares a short weekend story about healing through warm water, quiet sento culture, and a little moment with Momiji."
+title: "A Local Sento, Back Pain, and a Small Weekend Reset"
 date: "2025-04-30"
 slug: "this-post-shares-a-short-weekend-story-about-healing-through-warm-en"
 categories: ["healing-walks"]
@@ -7,20 +7,20 @@ tags: ["sento-life-in-japan", "ordinary-everyday", "relieving-back-pain", "toast
 eyecatch: "/images/wp-content/uploads/2025/04/PXL_20250429_071620825-1-scaled.jpg"
 sns_image_url: "/images/wp-content/uploads/2025/04/PXL_20250429_071620825-1-scaled.jpg"
 lang: "en"
-excerpt: "Yesterday, I took my bike and headed out to a local public bathhouse, \"Machida Sakura no Yu,\" to ease my lower back pain. It’s about a 10–15 minute ride from..."
+excerpt: "A short weekend visit to Machida Sakura no Yu, where warm water, local sento culture, and Momiji helped ease both my back and my mood."
 ---
 <h2 id="main-content">Main Text</h2>
 
 
 <p> Yesterday, I took my bike and headed out to a local public bathhouse, "Machida Sakura no Yu," to ease my lower back pain. It’s about a 10–15 minute ride from home. The weather was perfect for a casual outing.</p>
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/images/wp-content/uploads/2025/04/image-59.png" alt="" class="wp-image-260" style="width:473px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/images/wp-content/uploads/2025/04/image-59.jpg" alt="" class="wp-image-260" style="width:473px;height:auto"/></figure>
 
 <p> When you hear “public bathhouse,” you might picture something old and worn, but this place was surprisingly clean and spacious. I even wondered, “Is this really city-run?” Everything felt fresh and well-maintained.</p>
 
 <p> In the sauna, an older man joked, "I heard the women's side is nearly empty. Too bad we can’t switch sides!" These casual conversations are part of the charm of sento culture.</p>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/04/9dd3ce3ff2e833454d5da1ab28c09691.png" alt="" class="wp-image-267"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/04/9dd3ce3ff2e833454d5da1ab28c09691.jpg" alt="" class="wp-image-267"/></figure>
 
 <p> What really surprised me was learning that the bathwater here is heated using thermal energy from the waste treatment facility across the street. It felt like such a uniquely Japanese, quiet kind of eco-friendly innovation.</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "This post traces a quiet journey on a Super Cub through Dshi,"
+title: "A Super Cub Ride Through Doshi Road to Lake Yamanaka"
 date: "2025-05-04"
 slug: "this-post-traces-a-quiet-journey-on-a-super-cub-through-dshi-en"
 categories: ["healing-walks"]
@@ -7,7 +7,7 @@ tags: ["super-cub-journey", "doshi-road", "mt-fuji-and-lake-yamanaka", "water-so
 eyecatch: "/images/wp-content/uploads/2025/05/PXL_20250504_004823239-scaled.jpg"
 sns_image_url: "/images/wp-content/uploads/2025/05/PXL_20250504_004823239-scaled.jpg"
 lang: "en"
-excerpt: "Have you ever stopped to think about that?"
+excerpt: "A quiet Golden Week ride from Sagamihara through Doshi Road to Lake Yamanaka, following the forests and water that connect the mountains to Yokohama."
 ---
 <h2 id="main-content">Main Text</h2>
 
@@ -102,7 +102,7 @@ excerpt: "Have you ever stopped to think about that?"
 
 <p>Your “just because” kind of day might lead to something unexpectedly meaningful.<br>Take a slow ride, and let Dōshi’s forest remind you of the quiet connections that shape our lives.</p>
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/images/wp-content/uploads/2025/05/image-3.png" alt="" class="wp-image-363" style="width:384px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/images/wp-content/uploads/2025/05/image-3.jpg" alt="" class="wp-image-363" style="width:384px;height:auto"/></figure>
 
 <blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
 <ul class="wp-block-list">

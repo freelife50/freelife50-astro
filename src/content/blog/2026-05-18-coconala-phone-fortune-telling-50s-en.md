@@ -1,5 +1,5 @@
 ---
-title: "At 20, a Fortune Teller Said I Had Trouble With Women. Now in My 50s, I Looked Into Phone Fortune Telling"
+title: "Trying Phone Fortune Telling in My 50s After an Old Warning"
 date: "2026-05-18"
 slug: "coconala-phone-fortune-telling-50s-en"
 categories: ["shumi-taiken-etc"]
@@ -219,4 +219,3 @@ excerpt: "A man in his 50s looks back on being told he had trouble with women at
 <li><a href="https://freelife50.com/getting-back-into-training-for-my-health-check-en/">Getting Back Into Training for My Health Check</a></li>
 <li><a href="https://freelife50.com/a-man-in-his-50s-torn-between-ai-subscriptions/">ChatGPT vs Gemini vs Claude: How a 50-Year-Old Found the Best AI Subscription Split</a></li>
 </ul>
-

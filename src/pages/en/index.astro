@@ -27,6 +27,21 @@ const popularPosts = popularSlugs
 >
   <div class="layout-wrap">
     <div>
+      <section class="home-intro" aria-labelledby="site-intro-heading">
+        <p class="home-intro__label">Real stories from life in Japan after 50</p>
+        <h1 id="site-intro-heading">Ramen, Beer &amp; Blog</h1>
+        <p>
+          This personal blog is written by Hiroshi, a Japanese blogger in his 50s.
+          It shares real experiences from walks, hikes, ramen shops, everyday health choices,
+          life with the Shiba Inu Momiji, and the small decisions that shape life after 50.
+        </p>
+        <nav class="home-intro__links" aria-label="Site guide">
+          <a href="https://en.freelife50.com/category/healing-walks/">Walks and hikes</a>
+          <a href="https://en.freelife50.com/category/food-nostalgia/">Ramen and food</a>
+          <a href="https://en.freelife50.com/category/blog-sidejob/">Blogging</a>
+          <a href="https://en.freelife50.com/profile/">About the Operator</a>
+        </nav>
+      </section>
       {popularPosts.length > 0 && (
         <section class="home-highlight" aria-labelledby="popular-heading">
           <div>

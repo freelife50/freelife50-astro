@@ -4,8 +4,8 @@ date: "2025-05-14"
 slug: "the-night-a-red-book-stirred-my-heart-what-a-first-gen-fan-thinks-of-en"
 categories: ["shumi-taiken-etc"]
 tags: ["gundamgquuuuuux", "firstgengundamfan", "nonfightinggundam", "rewriteyourstory", "whatiftimeline"]
-eyecatch: "/images/wp-content/uploads/2025/05/d353654b9e06bd793563a30faf90f04d.png"
-sns_image_url: "/images/wp-content/uploads/2025/05/d353654b9e06bd793563a30faf90f04d.png"
+eyecatch: "/images/wp-content/uploads/2025/05/d353654b9e06bd793563a30faf90f04d.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/05/d353654b9e06bd793563a30faf90f04d.jpg"
 lang: "en"
 excerpt: "A first-generation Gundam fan watches the 2025 spin-off GQuuuuuuX and finds something unexpected — not in the battles, but in a quiet red book tucked in the corner of the screen."
 ---
@@ -50,7 +50,7 @@ excerpt: "A first-generation Gundam fan watches the 2025 spin-off GQuuuuuuX and 
 
 <h2 id="nyaans-room-and-zeon-institute-of-techno" class="wp-block-heading">📕 Nyaan's Room and "Zeon Institute of Technology"</h2>
 
-<figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/05/5922d81a44776a6d5839d6d0eeaa05a6.png" alt="" class="wp-image-710"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/05/5922d81a44776a6d5839d6d0eeaa05a6.jpg" alt="" class="wp-image-710"/></figure>
 
 <p>It caught my eye almost by accident — a red book in the corner of the scene.<br>On its spine: <em>Zeon Institute of Technology</em>.</p>
 
@@ -70,7 +70,7 @@ excerpt: "A first-generation Gundam fan watches the 2025 spin-off GQuuuuuuX and 
 
 <h2 id="the-timeline-where-char-didnt-pull-the-t" class="wp-block-heading">🔁 The Timeline Where Char Didn't Pull the Trigger</h2>
 
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/91f3223ad4935cf8506ad6d53aeefa59.png" alt="" class="wp-image-706"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/91f3223ad4935cf8506ad6d53aeefa59.jpg" alt="" class="wp-image-706"/></figure>
 
 <p>In the original Gundam, Kycilia shoots her brother Gihren to seize control of the Zabi family — and in that same moment, Char fires a bazooka into her shuttle.<br>She's gone in an instant.</p>
 
@@ -103,7 +103,7 @@ excerpt: "A first-generation Gundam fan watches the 2025 spin-off GQuuuuuuX and 
 
 <h2 id="what-in-your-life-would-you-rewrite" class="wp-block-heading">📝 What in Your Life Would You Rewrite?</h2>
 
-<figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/05/1b580ddbc9da138d7101aa16f6f54311.png" alt="" class="wp-image-708"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/05/1b580ddbc9da138d7101aa16f6f54311.jpg" alt="" class="wp-image-708"/></figure>
 
 <p>Even Gundam — the canonical timeline itself — is being rewritten and pushed forward.</p>
 

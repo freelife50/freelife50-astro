@@ -1,11 +1,11 @@
 ---
-title: "🚨 “They say a big quake might hit, but if there’s no water, even the toilet won’t work”"
+title: "Earthquake Prep in Japan: Why Water Matters Most"
 date: "2025-06-01"
 slug: "they-say-a-big-quake-might-hit-but-if-theres-no-water-even-the-toilet-en"
 categories: ["prepared-life"]
 tags: ["防災対策", "ローリングストック", "水の備え", "備える暮らし", "50代ライフ"]
-eyecatch: "/images/wp-content/uploads/2025/06/Gemini_Generated_Image_xcnwpxcnwpxcnwpx.png"
-sns_image_url: "/images/wp-content/uploads/2025/06/Gemini_Generated_Image_xcnwpxcnwpxcnwpx.png"
+eyecatch: "/images/wp-content/uploads/2025/06/Gemini_Generated_Image_xcnwpxcnwpxcnwpx.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/06/Gemini_Generated_Image_xcnwpxcnwpxcnwpx.jpg"
 lang: "en"
 excerpt: "Recently, keywords like “Shindo 6-strong” (seismic intensity level) started trending on social media in Japan. Although no major earthquake actually occurred,..."
 ---
@@ -35,7 +35,7 @@ excerpt: "Recently, keywords like “Shindo 6-strong” (seismic intensity level
 
 <h2 id="chapter-1-why-are-people-talking-about-e">📝 Chapter 1: Why Are People Talking About Earthquakes Again?</h2>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_es1js3es1js3es1j.png" alt="" class="wp-image-1491"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_es1js3es1js3es1j.jpg" alt="" class="wp-image-1491"/></figure>
 
 <blockquote class="wp-block-quote"><p>“Shindo 6-strong” suddenly started trending on social media.<br>No major quake actually happened, but it caught people’s attention.<br>And just like that, everyone forgot the next day.<br>It made me wonder—why are we always so quick to move on from these warnings</p>
 </blockquote>
@@ -44,7 +44,7 @@ excerpt: "Recently, keywords like “Shindo 6-strong” (seismic intensity level
 
 <h2 id="chapter-2-the-first-step-in-preparedness">🥫 Chapter 2: The First Step in Preparedness—Rolling Stock</h2>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_4a9z7n4a9z7n4a9z.png" alt="" class="wp-image-1492"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_4a9z7n4a9z7n4a9z.jpg" alt="" class="wp-image-1492"/></figure>
 
 <blockquote class="wp-block-quote"><p>Ever realized your emergency food expired?<br>That’s where the idea of “rolling stock” comes in.<br>Use a little bit in everyday life, and restock as needed.<br>No need to hoard; just blend it into your routine.<br>This way, you’ll be prepared without stress—and waste nothing.</p>
 </blockquote>
@@ -53,7 +53,7 @@ excerpt: "Recently, keywords like “Shindo 6-strong” (seismic intensity level
 
 <h2 id="chapter-3-to-be-honest-i-wasnt-prepared">🫣 Chapter 3: To Be Honest, I Wasn’t Prepared</h2>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_2x61vc2x61vc2x61.png" alt="" class="wp-image-1494"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_2x61vc2x61vc2x61.jpg" alt="" class="wp-image-1494"/></figure>
 
 <blockquote class="wp-block-quote"><p>When the 2011 earthquake hit, even though we were far from the epicenter, I thought,<br>“Well, we’ll manage somehow.”<br>And we did—water was fine, shops were open.<br>But maybe that false sense of security came from not being directly affected.<br>If my area had been the center of the disaster?<br>I can’t even imagine.</p>
 
@@ -62,7 +62,7 @@ excerpt: "Recently, keywords like “Shindo 6-strong” (seismic intensity level
 
 <h2 id="chapter-4-water-isnt-a-given">💧 Chapter 4: Water Isn’t a Given</h2>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_h1fsxjh1fsxjh1fs.png" alt="" class="wp-image-1495"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_h1fsxjh1fsxjh1fs.jpg" alt="" class="wp-image-1495"/></figure>
 
 <blockquote class="wp-block-quote"><p>Japan is one of the few countries where tap water is drinkable.<br>We often take it for granted.<br>But when disaster hits and water stops—<br>You can’t drink, wash, or flush.<br>That’s when it hits:<br>Water is life.<br>And one or two bottles just won’t cut it.</p>
 </blockquote>
@@ -71,14 +71,14 @@ excerpt: "Recently, keywords like “Shindo 6-strong” (seismic intensity level
 
 <h2 id="chapter-5-well-figure-it-out-later-is-a-">🤔 Chapter 5: “We’ll Figure It Out Later” Is a Trap</h2>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_vqzicevqzicevqzi.png" alt="" class="wp-image-1496"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_vqzicevqzicevqzi.jpg" alt="" class="wp-image-1496"/></figure>
 
 <blockquote class="wp-block-quote"><p>“I’m fine now.”<br>“I’ll deal with it if something happens.”<br>That kind of thinking just delays the inevitable.<br>Even companies hesitate to spend a few hundred yen on supplies.<br>But when disaster strikes, panic buying begins—and nothing is left.<br>That’s why just doing a little bit now makes a big difference later.</p>
 </blockquote>
 
 <h2 id="final-thoughts-preparedness-doesnt-have-">🧭 Final Thoughts: Preparedness Doesn’t Have to Be Overwhelming</h2>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_cjwwrfcjwwrfcjww.png" alt="" class="wp-image-1497"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_cjwwrfcjwwrfcjww.jpg" alt="" class="wp-image-1497"/></figure>
 
 <blockquote class="wp-block-quote"><p>When earthquake talk trends, most people think,<br>“Well, we’ll be okay.”<br>And I get it.</p>
 

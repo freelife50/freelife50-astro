@@ -4,10 +4,10 @@ date: "2025-05-11"
 slug: "what-does-it-mean-to-be-strong-en"
 categories: ["society-issues-thoughts"]
 tags: ["六方一座", "WIND_BREAKER", "強さとは", "静かな強さ", "roppou-ichiza"]
-eyecatch: "/images/wp-content/uploads/2025/05/1e1a6eef2865272b0b6ffe0d9b8352bb.png"
-sns_image_url: "/images/wp-content/uploads/2025/05/1e1a6eef2865272b0b6ffe0d9b8352bb.png"
+eyecatch: "/images/wp-content/uploads/2025/05/1e1a6eef2865272b0b6ffe0d9b8352bb.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/05/1e1a6eef2865272b0b6ffe0d9b8352bb.jpg"
 lang: "en"
-excerpt: "💬 What does it mean to be strong?To stand up for someone. To protect without being seen.Maybe we've known that kind of strength all along."
+excerpt: "What does it mean to be strong? A quiet reflection on standing up for someone and protecting others without being seen."
 ---
 <h2 id="main-content">Main Text</h2>
 
@@ -28,7 +28,7 @@ excerpt: "💬 What does it mean to be strong?To stand up for someone. To protec
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/05/8e728bf1dca02888737c13b31073c563.png" alt="" class="wp-image-562"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/05/8e728bf1dca02888737c13b31073c563.jpg" alt="" class="wp-image-562"/></figure>
 
 <p><strong>💬 Back then, heroes didn’t boast—they stood in silence, fists ready.</strong><br><strong>Strength meant protecting the weak, not overpowering others.</strong></p>
 
@@ -38,7 +38,7 @@ excerpt: "💬 What does it mean to be strong?To stand up for someone. To protec
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/05/83ee9ca08906e09b908f00a3303c8a46.png" alt="" class="wp-image-557"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/05/83ee9ca08906e09b908f00a3303c8a46.jpg" alt="" class="wp-image-557"/></figure>
 
 <p><strong>💬 Kanji Nakamura doesn’t talk much, but his back says it all.</strong><br><strong>He moves first, gets hurt first—and never complains. That’s leadership born from duty.</strong></p>
 
@@ -52,7 +52,7 @@ excerpt: "💬 What does it mean to be strong?To stand up for someone. To protec
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/image-6.png" alt="" class="wp-image-555"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/image-6.jpg" alt="" class="wp-image-555"/></figure>
 
 <p><strong>💬 Strength isn’t about muscle, age, or status.</strong><br><strong>It’s about showing up—even when no one sees.</strong><br><strong>If you’ve stood up for someone today… maybe you are Roppou Ichiza, too.</strong></p>
 

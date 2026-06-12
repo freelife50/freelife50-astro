@@ -4,8 +4,8 @@ date: "2025-05-16"
 slug: "what-began-as-a-mix-up-about-chicken-skin-led-to-unexpected-en"
 categories: ["shumi-taiken-etc"]
 tags: ["chiikawareview", "chiikawahealing", "animethatmovedme", "learnfromcharacters", "over50blog"]
-eyecatch: "/images/wp-content/uploads/2025/05/ad91ecf51f286e6d53adfe6eb0c863cc.png"
-sns_image_url: "/images/wp-content/uploads/2025/05/ad91ecf51f286e6d53adfe6eb0c863cc.png"
+eyecatch: "/images/wp-content/uploads/2025/05/ad91ecf51f286e6d53adfe6eb0c863cc.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/05/ad91ecf51f286e6d53adfe6eb0c863cc.jpg"
 lang: "en"
 excerpt: "I thought 'Chiikawa' was a crispy chicken skin menu at McDonald's. I was very wrong. What began as embarrassing workplace laughter turned into unexpected reflections on life, resilience, and getting back up."
 ---
@@ -45,7 +45,7 @@ excerpt: "I thought 'Chiikawa' was a crispy chicken skin menu at McDonald's. I w
 
 <h3 id="chapter-1-chiikawa-i-thought-it-was-chic" class="wp-block-heading">Chapter 1: "Chiikawa?" I Thought It Was Chicken Skin</h3>
 
-<figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/05/9be3f90004d8bc99f395e25d6bd80bf2.png" alt="" class="wp-image-759"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/05/9be3f90004d8bc99f395e25d6bd80bf2.jpg" alt="" class="wp-image-759"/></figure>
 
 <p>I was browsing trending topics for blog ideas when a colleague at work — everyone else there is from the Kanto region — said casually:<br>"McDonald's was so packed because of Chiikawa!"</p>
 
@@ -63,7 +63,7 @@ excerpt: "I thought 'Chiikawa' was a crispy chicken skin menu at McDonald's. I w
 
 <h3 id="chapter-2-so-what-is-chiikawa-exactly" class="wp-block-heading">Chapter 2: So What Is Chiikawa, Exactly?</h3>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/5cd49cf1a0934a9703d7f24b6b759119.png" alt="" class="wp-image-773"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/5cd49cf1a0934a9703d7f24b6b759119.jpg" alt="" class="wp-image-773"/></figure>
 
 <p>Turns out, <em>Chiikawa</em> — short for "nanka chiisakute kawaii yatsu" (something small and cute) — started as a 4-panel comic on social media by illustrator Nagano. It exploded into anime, merchandise, cafe collabs, McDonald's promotions, and a full-blown cultural phenomenon.</p>
 
@@ -73,7 +73,7 @@ excerpt: "I thought 'Chiikawa' was a crispy chicken skin menu at McDonald's. I w
 
 <h3 id="chapter-3-why-do-adults-fall-for-it" class="wp-block-heading">Chapter 3: Why Do Adults Fall for It?</h3>
 
-<figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/05/65c3160a22de7963395e1b4986f8ab19.png" alt="" class="wp-image-760"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/05/65c3160a22de7963395e1b4986f8ab19.jpg" alt="" class="wp-image-760"/></figure>
 
 <p>So why did a guy like me — who initially dismissed it as "kids' stuff" — end up writing a full blog post about it?</p>
 
@@ -91,7 +91,7 @@ excerpt: "I thought 'Chiikawa' was a crispy chicken skin menu at McDonald's. I w
 
 <h3 id="chapter-4-the-moment-you-see-yourself-in" class="wp-block-heading">Chapter 4: The Moment You See Yourself in a Character</h3>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/e2b819e1775eedca2f7eaf68a8eb62da.png" alt="" class="wp-image-761"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/e2b819e1775eedca2f7eaf68a8eb62da.jpg" alt="" class="wp-image-761"/></figure>
 
 <p>Chiikawa fails the weed-pulling exam and cries.<br>Meanwhile, Hachiware passes and gets a pay bump.<br>Working hard and still falling short — that's real life, isn't it.</p>
 
@@ -104,7 +104,7 @@ excerpt: "I thought 'Chiikawa' was a crispy chicken skin menu at McDonald's. I w
 
 <h3 id="chapter-5-what-chiikawa-taught-me--beyon" class="wp-block-heading">Chapter 5: What Chiikawa Taught Me — Beyond the Cute Face</h3>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/e9f255fab60f4e16d17c2df2e4d23a7c.png" alt="" class="wp-image-771"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/e9f255fab60f4e16d17c2df2e4d23a7c.jpg" alt="" class="wp-image-771"/></figure>
 
 <p>I used to think "small = cute." But Chiikawa is packed with effort, struggle, hope, and kindness.</p>
 
@@ -120,7 +120,7 @@ excerpt: "I thought 'Chiikawa' was a crispy chicken skin menu at McDonald's. I w
 
 <h3 id="chapter-6-the-characters--and-the-lives-" class="wp-block-heading">Chapter 6: The Characters — and the Lives They Reflect</h3>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/7768e0c15a342dde8eca28ab4af69321-2.png" alt="" class="wp-image-765"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/7768e0c15a342dde8eca28ab4af69321-2.jpg" alt="" class="wp-image-765"/></figure>
 
 <p>🐤 <strong>Chiikawa</strong> — Easily moved to tears, a little timid. But brave when it comes to protecting friends. Fails the exam, tries again anyway. A tiny warrior.</p>
 
@@ -149,7 +149,7 @@ excerpt: "I thought 'Chiikawa' was a crispy chicken skin menu at McDonald's. I w
 
 <h3 id="what-i-wanted-to-say-in-this-post" class="wp-block-heading">What I Wanted to Say in This Post</h3>
 
-<figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/05/db1c9c616e39f25b827d21527ef178c9.png" alt="" class="wp-image-764"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/05/db1c9c616e39f25b827d21527ef178c9.jpg" alt="" class="wp-image-764"/></figure>
 
 <p>The world of Chiikawa has both light and shadow.<br>That's precisely why their smiles shine so brightly.</p>
 
@@ -159,7 +159,7 @@ excerpt: "I thought 'Chiikawa' was a crispy chicken skin menu at McDonald's. I w
 
 <blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
 <ul class="wp-block-list">
-<li><a href="https://freelife50.com/i-didnt-even-watch-it-but-i-cried-anyway-a-50-something-loners-story-en/">I Didnt Even Watch It, But I Cried Anyway  A 50-Something Loners Story</a></li>
+<li><a href="https://freelife50.com/i-didnt-even-watch-it-but-i-cried-anyway-a-50-something-loners-story-en/">I Didn't Even Watch It, But I Cried Anyway: A 50-Something Loner's Story</a></li>
 <li><a href="https://freelife50.com/a-man-in-his-50s-goes-to-see-avatar/">Avatar Movie Review: A 50-Year-Old's Honest Take — Mild Emotions, Rich Experience</a></li>
 <li><a href="https://freelife50.com/a-50-year-old-man-becoming-the-pillar-of-sake-breathing-showdown-in-my-wifes-infinity-castle/">Demon Slayer Parody: A 50-Year-Old Becomes the Sake Breathing Pillar</a></li>
 </ul></blockquote>

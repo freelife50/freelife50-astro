@@ -1,11 +1,11 @@
 ---
-title: "“From Jogging to Beer: One Guy’s 50s Fitness Comeback”"
+title: "From Jogging to Beer: One Guy's 50s Fitness Comeback"
 date: "2025-04-18"
 slug: "from-jogging-to-beer-one-guys-50s-fitness-comeback-en"
 categories: ["prepared-life"]
 tags: ["50代からの挑戦", "ジム習慣はじめました", "フルマラソン再挑戦", "無理しない健康づくり", "運動後のビール最高"]
-eyecatch: "/images/wp-content/uploads/2025/04/image-1-e1744931885735.png"
-sns_image_url: "/images/wp-content/uploads/2025/04/image-1-e1744931885735.png"
+eyecatch: "/images/wp-content/uploads/2025/04/image-1-e1744931885735.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/04/image-1-e1744931885735.jpg"
 lang: "en"
 excerpt: "Hi there!Yesterday, I hit the gym for a light workout:"
 ---
@@ -19,7 +19,7 @@ excerpt: "Hi there!Yesterday, I hit the gym for a light workout:"
 <h2 id="main-content">Main Text</h2>
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/images/wp-content/uploads/2025/04/image.png" alt="" class="wp-image-56" style="width:276px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/images/wp-content/uploads/2025/04/image.jpg" alt="" class="wp-image-56" style="width:276px;height:auto"/></figure>
 
 <p>Hi there!<br>Yesterday, I hit the gym for a light workout:</p>
 
@@ -40,7 +40,7 @@ excerpt: "Hi there!Yesterday, I hit the gym for a light workout:"
 
 <p>If you’re reading this and thinking, “Maybe I could try something too,” then this blog is doing its job.</p>
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/images/wp-content/uploads/2025/04/image-1-e1744931885735.png" alt="" class="wp-image-57" style="width:328px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/images/wp-content/uploads/2025/04/image-1-e1744931885735.jpg" alt="" class="wp-image-57" style="width:328px;height:auto"/></figure>
 
 <p>Oh, and here’s my current favorite beer —<br><strong>Asahi THE BITTER-IST.</strong><br>Bold and bitter. Perfect after a workout (in moderation, of course! 🍺).</p>
 
@@ -48,7 +48,7 @@ excerpt: "Hi there!Yesterday, I hit the gym for a light workout:"
 
 <p>It’s never too late to change.<br>Even small steps count — as long as they’re forward.</p>
 
-<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2025/04/image-2.png" alt="" class="wp-image-58" style="width:294px;height:auto"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2025/04/image-2.jpg" alt="" class="wp-image-58" style="width:294px;height:auto"/></figure>
 
 <blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
 <ul class="wp-block-list">

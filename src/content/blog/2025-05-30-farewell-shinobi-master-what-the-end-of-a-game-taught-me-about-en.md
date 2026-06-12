@@ -4,16 +4,16 @@ date: "2025-05-30"
 slug: "farewell-shinobi-master-what-the-end-of-a-game-taught-me-about-en"
 categories: ["shumi-taiken-etc"]
 tags: ["シノビマスター", "ゲーム文化", "承認欲求", "居場所", "デジタル時代のつながり"]
-eyecatch: "/images/wp-content/uploads/2025/05/Gemini_Generated_Image_oi43j4oi43j4oi43.png"
-sns_image_url: "/images/wp-content/uploads/2025/05/Gemini_Generated_Image_oi43j4oi43j4oi43.png"
+eyecatch: "/images/wp-content/uploads/2025/05/Gemini_Generated_Image_oi43j4oi43j4oi43.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/05/Gemini_Generated_Image_oi43j4oi43j4oi43.jpg"
 lang: "en"
-excerpt: "I came across the name Shinobi Master: Senran Kagura NEW LINK just a few days ago.To be honest, I had no idea what kind of game it was—its characters, story,..."
+excerpt: "A late discovery of Shinobi Master: Senran Kagura NEW LINK became a small reflection on games, endings, and the memories players leave behind."
 ---
 
 <p>🕒 About 3 minutes to read.</p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/Gemini_Generated_Image_ixxgwdixxgwdixxg.png" alt="" class="wp-image-1288"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/Gemini_Generated_Image_ixxgwdixxgwdixxg.jpg" alt="" class="wp-image-1288"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
@@ -32,7 +32,7 @@ excerpt: "I came across the name Shinobi Master: Senran Kagura NEW LINK just a f
 
 
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/Gemini_Generated_Image_5nvw165nvw165nvw.png" alt="" class="wp-image-1289"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/Gemini_Generated_Image_5nvw165nvw165nvw.jpg" alt="" class="wp-image-1289"/></figure>
 
 <h3 id="chapter-1-a-game-id-never-heard-of-but-s">Chapter 1: A Game I’d Never Heard Of, But So Many Loved Deeply</h3>
 
@@ -44,7 +44,7 @@ excerpt: "I came across the name Shinobi Master: Senran Kagura NEW LINK just a f
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/Gemini_Generated_Image_lfazmhlfazmhlfaz.png" alt="" class="wp-image-1292"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/Gemini_Generated_Image_lfazmhlfazmhlfaz.jpg" alt="" class="wp-image-1292"/></figure>
 
 <h3 id="chapter-2-by-raising-a-character-they-ra">Chapter 2: By Raising a Character, They Raised Themselves</h3>
 
@@ -56,7 +56,7 @@ excerpt: "I came across the name Shinobi Master: Senran Kagura NEW LINK just a f
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/Gemini_Generated_Image_6pilb76pilb76pil.png" alt="" class="wp-image-1291"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/Gemini_Generated_Image_6pilb76pilb76pil.jpg" alt="" class="wp-image-1291"/></figure>
 
 <h3 id="chapter-3-i-had-no-place-in-high-school-">Chapter 3: I Had No Place in High School, Either</h3>
 
@@ -70,7 +70,7 @@ excerpt: "I came across the name Shinobi Master: Senran Kagura NEW LINK just a f
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/Gemini_Generated_Image_oi43j4oi43j4oi43.png" alt="" class="wp-image-1287"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/Gemini_Generated_Image_oi43j4oi43j4oi43.jpg" alt="" class="wp-image-1287"/></figure>
 
 <h3 id="chapter-4-a-place-to-escape-a-way-to-con">Chapter 4: A Place to Escape, A Way to Connect</h3>
 
@@ -82,7 +82,7 @@ excerpt: "I came across the name Shinobi Master: Senran Kagura NEW LINK just a f
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/Gemini_Generated_Image_ah8fgvah8fgvah8f.png" alt="" class="wp-image-1293"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/Gemini_Generated_Image_ah8fgvah8fgvah8f.jpg" alt="" class="wp-image-1293"/></figure>
 
 <h3 id="chapter-5-we-cry-because-it-ended-but-we">Chapter 5: We Cry Because It Ended, But We Loved Because It Existed</h3>
 
@@ -94,7 +94,7 @@ excerpt: "I came across the name Shinobi Master: Senran Kagura NEW LINK just a f
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/Gemini_Generated_Image_tekc9ztekc9ztekc.png" alt="" class="wp-image-1294"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/Gemini_Generated_Image_tekc9ztekc9ztekc.jpg" alt="" class="wp-image-1294"/></figure>
 
 <h3 id="final-thoughts-a-world-i-didnt-knowbut-n">Final Thoughts: A World I Didn’t Know—But Now I Understand, Just a Little</h3>
 

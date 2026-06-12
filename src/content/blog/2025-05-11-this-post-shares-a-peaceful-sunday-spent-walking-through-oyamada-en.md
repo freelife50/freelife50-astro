@@ -1,5 +1,5 @@
 ---
-title: "This post shares a peaceful Sunday spent walking through Oyamada Green Park, capturing how nature and a quiet routine with my Shiba Inu, Momiji, gently reset the heart."
+title: "A Sunday Walk Through Oyamada Green Park with Momiji"
 date: "2025-05-11"
 slug: "this-post-shares-a-peaceful-sunday-spent-walking-through-oyamada-en"
 categories: ["healing-walks"]
@@ -7,7 +7,7 @@ tags: ["日曜日の過ごし方", "柴犬もみじ", "心を整える時間", "
 eyecatch: "/images/wp-content/uploads/2025/05/PXL_20250511_020405923-scaled.jpg"
 sns_image_url: "/images/wp-content/uploads/2025/05/PXL_20250511_020405923-scaled.jpg"
 lang: "en"
-excerpt: "Taking a breath in nature can sometimes loosen the weight we didn’t even realize we were carrying. Having a nearby place like this might be what gives us the..."
+excerpt: "A quiet Sunday walk through Oyamada Green Park with Momiji, followed by small routines that helped reset my mood."
 ---
 
 <p>🕒 About 2 minutes to read.</p>

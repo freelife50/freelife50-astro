@@ -1,19 +1,19 @@
 ---
-title: "This is a quiet essay about rediscovering passion in your 50s, inspired by a random anime moment. If youve ever wondered if its too late to start overmaybe this story is for you."
+title: "Rediscovering Passion in Your 50s Through a Random Anime Moment"
 date: "2025-05-10"
 slug: "this-is-a-quiet-essay-about-rediscovering-passion-in-your-50s-en"
 categories: ["shumi-taiken-etc"]
 tags: ["spira-spica", "my-dress-up-darling", "anime-inspiration", "parenting-in50s", "life-reflection"]
-eyecatch: "/images/wp-content/uploads/2025/05/60958cd5e355355d45a758ef37984c76.png"
-sns_image_url: "/images/wp-content/uploads/2025/05/60958cd5e355355d45a758ef37984c76.png"
+eyecatch: "/images/wp-content/uploads/2025/05/60958cd5e355355d45a758ef37984c76.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/05/60958cd5e355355d45a758ef37984c76.jpg"
 lang: "en"
-excerpt: "📘 English reflection：A boy making doll heads. A girl who loves cosplay.Two people from different worlds, united by passion.It’s not just about romance—it’s..."
+excerpt: "A quiet reflection on passion, anime, and the feeling that it may not be too late to start again in your 50s."
 ---
 <h2 id="main-content">Main Text</h2>
 
 
 <p>🕒 About 1 minutes to read.</p>
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/363b989149fc7e35f94e1bd6467010b3.png" alt="" class="wp-image-461"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/363b989149fc7e35f94e1bd6467010b3.jpg" alt="" class="wp-image-461"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
@@ -36,7 +36,7 @@ excerpt: "📘 English reflection：A boy making doll heads. A girl who loves co
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/253d6edf868e11132c76e89b4ac4de20.png" alt="" class="wp-image-462"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/253d6edf868e11132c76e89b4ac4de20.jpg" alt="" class="wp-image-462"/></figure>
 
 <p><strong>📘 English reflection：</strong><br>He took risks I was too afraid to take.<br>He chose passion over safety.<br>And when I see him now—growing, creating, thriving—I feel something between admiration and quiet regret.</p>
 
@@ -46,13 +46,13 @@ excerpt: "📘 English reflection：A boy making doll heads. A girl who loves co
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/fb2e217a824a289e8180ea2389c22278.png" alt="" class="wp-image-463"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/fb2e217a824a289e8180ea2389c22278.jpg" alt="" class="wp-image-463"/></figure>
 
 <p><strong>📘 English reflection：</strong><br>This wasn’t meant to be advice. Just a small story from someone who’s still learning.<br>But if it gave you even a little courage—to revisit a dream, or to start something new—<br>then maybe this quiet morning meant more than I thought.</p>
 
 <blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
 <ul class="wp-block-list">
-<li><a href="https://freelife50.com/i-didnt-even-watch-it-but-i-cried-anyway-a-50-something-loners-story-en/">I Didnt Even Watch It, But I Cried Anyway  A 50-Something Loners Story</a></li>
+<li><a href="https://freelife50.com/i-didnt-even-watch-it-but-i-cried-anyway-a-50-something-loners-story-en/">I Didn't Even Watch It, But I Cried Anyway: A 50-Something Loner's Story</a></li>
 <li><a href="https://freelife50.com/a-man-in-his-50s-goes-to-see-avatar/">Avatar Movie Review: A 50-Year-Old's Honest Take — Mild Emotions, Rich Experience</a></li>
 <li><a href="https://freelife50.com/a-50-year-old-man-becoming-the-pillar-of-sake-breathing-showdown-in-my-wifes-infinity-castle/">Demon Slayer Parody: A 50-Year-Old Becomes the Sake Breathing Pillar</a></li>
 </ul></blockquote>

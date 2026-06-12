@@ -1,11 +1,11 @@
 ---
-title: "[Shocking Crash Through a Beginners Eyes!] Yuki Tsunodas Major Crash &amp; Incredible Life-Saving Safety Tech  Answering Why Do They Risk It All?"
+title: "Yuki Tsunoda's Major Crash Through a Beginner's Eyes: Why Drivers Still Take the Risk"
 date: "2025-05-18"
 slug: "shocking-crash-through-a-beginners-eyes-yuki-tsunodas-major-crash-amp-en"
 categories: ["society-issues-thoughts"]
 tags: ["yuki-tsunoda", "safety-technology", "beginner-view", "life-saving", "from-japan"]
-eyecatch: "/images/wp-content/uploads/2025/05/aee1e3cf9dafbf735620316563aec2f9.png"
-sns_image_url: "/images/wp-content/uploads/2025/05/aee1e3cf9dafbf735620316563aec2f9.png"
+eyecatch: "/images/wp-content/uploads/2025/05/aee1e3cf9dafbf735620316563aec2f9.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/05/aee1e3cf9dafbf735620316563aec2f9.jpg"
 lang: "en"
 excerpt: "—[Shocking Crash Through a Beginner’s Eyes!] Yuki Tsunoda’s Major Crash &amp; Incredible Life-Saving Safety Tech — Answering “Why Do They Risk It All?”"
 ---
@@ -14,7 +14,7 @@ excerpt: "—[Shocking Crash Through a Beginner’s Eyes!] Yuki Tsunoda’s Majo
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/40cf935bde2a2f546d243448ce93ef46.png" alt="" class="wp-image-829"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/40cf935bde2a2f546d243448ce93ef46.jpg" alt="" class="wp-image-829"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
@@ -42,7 +42,7 @@ excerpt: "—[Shocking Crash Through a Beginner’s Eyes!] Yuki Tsunoda’s Majo
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/155c649acf81f2168afc91b430a4f45d.png" alt="" class="wp-image-830"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/155c649acf81f2168afc91b430a4f45d.jpg" alt="" class="wp-image-830"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
@@ -54,10 +54,10 @@ excerpt: "—[Shocking Crash Through a Beginner’s Eyes!] Yuki Tsunoda’s Majo
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/4cb92af1964f3ba2ff0d93dc6eab3ca1-2.png" alt="" class="wp-image-840"/></figure>
+<div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/4cb92af1964f3ba2ff0d93dc6eab3ca1-2.jpg" alt="" class="wp-image-840"/></figure>
 </div>
 
-<div class="wp-block-column"><figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/9dd6e797b09e0b59faae287f36e08dd5-1.png" alt="" class="wp-image-841"/></figure>
+<div class="wp-block-column"><figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/9dd6e797b09e0b59faae287f36e08dd5-1.jpg" alt="" class="wp-image-841"/></figure>
 </div>
 </div>
 
@@ -80,7 +80,7 @@ excerpt: "—[Shocking Crash Through a Beginner’s Eyes!] Yuki Tsunoda’s Majo
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/237525313477e7ac34dfd4dc851317a1.png" alt="" class="wp-image-833"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/237525313477e7ac34dfd4dc851317a1.jpg" alt="" class="wp-image-833"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
@@ -92,7 +92,7 @@ excerpt: "—[Shocking Crash Through a Beginner’s Eyes!] Yuki Tsunoda’s Majo
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/df69f6a710cef3babd63d14a0a5987f5.png" alt="" class="wp-image-834"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/df69f6a710cef3babd63d14a0a5987f5.jpg" alt="" class="wp-image-834"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 

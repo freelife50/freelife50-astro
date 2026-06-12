@@ -1,13 +1,13 @@
 ---
-title: "Its a reflection on cultural heritage, the meaning of home, and the invisible threads that connect us to our past."
+title: "Okutama, Kashima Odori, and the Meaning of Home"
 date: "2025-05-20"
 slug: "its-a-reflection-on-cultural-heritage-the-meaning-of-home-and-the-en"
 categories: ["healing-walks"]
 tags: ["鹿島踊り", "伝統芸能", "日本の文化", "無形文化遺産", "ユネスコ登録"]
-eyecatch: "/images/wp-content/uploads/2025/05/3a38784f303640fd2ed6f3c63cac89ed.png"
-sns_image_url: "/images/wp-content/uploads/2025/05/3a38784f303640fd2ed6f3c63cac89ed.png"
+eyecatch: "/images/wp-content/uploads/2025/05/3a38784f303640fd2ed6f3c63cac89ed.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/05/3a38784f303640fd2ed6f3c63cac89ed.jpg"
 lang: "en"
-excerpt: "It was one of those days where the ride just felt perfect.The air was fresh, the scenery stunning. My Super Cub glided smoothly through the mountain curves."
+excerpt: "A Super Cub ride through Okutama becomes a reflection on Kashima Odori, local memory, and the invisible threads that connect people to home."
 ---
 
 <p>🕒 About 8 minutes to read.</p>
@@ -83,7 +83,7 @@ excerpt: "It was one of those days where the ride just felt perfect.The air was 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/133bf7e8e9ab999a364df78949a7415c.png" alt="" class="wp-image-885"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/133bf7e8e9ab999a364df78949a7415c.jpg" alt="" class="wp-image-885"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
@@ -103,7 +103,7 @@ excerpt: "It was one of those days where the ride just felt perfect.The air was 
 
 <p>Sometimes, the quietest things echo the loudest—<br>you just have to lean in close enough to hear them.</p>
 
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/3e9444df9895d5e3d6e9bac063f26326.png" alt="" class="wp-image-886"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/3e9444df9895d5e3d6e9bac063f26326.jpg" alt="" class="wp-image-886"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
@@ -125,7 +125,7 @@ excerpt: "It was one of those days where the ride just felt perfect.The air was 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/d355c197bbe6dcd1bea1e30dc5a083d0.png" alt="" class="wp-image-887"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/d355c197bbe6dcd1bea1e30dc5a083d0.jpg" alt="" class="wp-image-887"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
@@ -155,7 +155,7 @@ excerpt: "It was one of those days where the ride just felt perfect.The air was 
 
 <p>That…<br>is power.</p>
 
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/2edb0a9ae281477a10cd600b8d4931fa.png" alt="" class="wp-image-888"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/2edb0a9ae281477a10cd600b8d4931fa.jpg" alt="" class="wp-image-888"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
@@ -203,7 +203,7 @@ excerpt: "It was one of those days where the ride just felt perfect.The air was 
 
 <p>Sometimes, you don’t need a grand plan.<br>You just need to <strong>pause in the right place</strong>—<br>and let the story find you.</p>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/c3861d034470cd0139f9c2f2d5919442.png" alt="" class="wp-image-892"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/c3861d034470cd0139f9c2f2d5919442.jpg" alt="" class="wp-image-892"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
@@ -233,7 +233,7 @@ excerpt: "It was one of those days where the ride just felt perfect.The air was 
 
 <p>We all carry places like that.<br>Tiny worlds we never really leave.</p>
 
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/32a707912b3a2710bf4ebf2dab392a83.png" alt="" class="wp-image-891"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/32a707912b3a2710bf4ebf2dab392a83.jpg" alt="" class="wp-image-891"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 

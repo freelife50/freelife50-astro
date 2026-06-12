@@ -1,11 +1,11 @@
 ---
-title: "What a Sudden Downpour Taught Me About Protection  A Workplace Near Miss and Today's Weather Warnings"
+title: "A Sudden Downpour, a Workplace Near Miss, and Weather Warnings"
 date: "2025-05-27"
 slug: "what-a-sudden-downpour-taught-me-about-protection-a-workplace-near-en"
 categories: ["prepared-life"]
 tags: ["disaster-preparedness", "disaster-experience", "heavy-rain", "workplace-crisis-response", "actions-that-protect-life"]
-eyecatch: "/images/wp-content/uploads/2025/05/c3691aa9fd90b27e241d2994f549d6ba.png"
-sns_image_url: "/images/wp-content/uploads/2025/05/c3691aa9fd90b27e241d2994f549d6ba.png"
+eyecatch: "/images/wp-content/uploads/2025/05/c3691aa9fd90b27e241d2994f549d6ba.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/05/c3691aa9fd90b27e241d2994f549d6ba.jpg"
 lang: "en"
 excerpt: "What a Sudden Downpour Taught Me About Protection — A Workplace Near Miss and Today's Weather Warnings"
 ---
@@ -29,7 +29,7 @@ excerpt: "What a Sudden Downpour Taught Me About Protection — A Workplace Near
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/111291e82c7141626968297362982dcf.png" alt="" class="wp-image-1077"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/111291e82c7141626968297362982dcf.jpg" alt="" class="wp-image-1077"/></figure>
 
 <p>I didn’t hesitate. I shut down every power source, every machine. It felt like the only thing I could do to protect them. I didn’t know if it would work—but I knew doing nothing would be worse. Sometimes, responsibility means making a decision, even while your hands shake.</p>
 
@@ -39,13 +39,13 @@ excerpt: "What a Sudden Downpour Taught Me About Protection — A Workplace Near
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/d21540dfaf21460bccea85e5cc12f6aa.png" alt="" class="wp-image-1079"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/d21540dfaf21460bccea85e5cc12f6aa.jpg" alt="" class="wp-image-1079"/></figure>
 
 <p>After the incident, the company installed a barrier outside the window. It was a small change, but an important one. Sometimes, change only comes after something goes wrong. But at least we changed. And next time, we’ll be ready.</p>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/1a8085b495bf5812f7eb1ab54c47b6a4.png" alt="" class="wp-image-1080"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/1a8085b495bf5812f7eb1ab54c47b6a4.jpg" alt="" class="wp-image-1080"/></figure>
 
 <p>Today, heavy rain is trending in the news again. We live in a country where disasters happen often—yet each time, people act surprised. Maybe that’s the danger: we get used to it. But every soaked station, flooded street, and delayed train reminds us—we’re never really ready. Let today’s headlines be a quiet warning: prepare.</p>
 

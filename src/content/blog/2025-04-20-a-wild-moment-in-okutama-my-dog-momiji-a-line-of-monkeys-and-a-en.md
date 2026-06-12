@@ -1,11 +1,11 @@
 ---
-title: "！？ A Wild Moment in Okutama: My Dog Momiji, a Line of Monkeys, and a Surprise Repost by Horiemon!?"
+title: "A Wild Moment in Okutama: Momiji, Monkeys, and a Horiemon Repost"
 date: "2025-04-20"
 slug: "a-wild-moment-in-okutama-my-dog-momiji-a-line-of-monkeys-and-a-en"
 categories: ["healing-walks"]
 tags: ["okutama-hiking", "shiba-inu-momiji", "wildlife-encounter", "monkey-on-the-wire", "reposted-by-horiemon"]
-eyecatch: "/images/wp-content/uploads/2025/04/IMG_20250420_093638_6452.png"
-sns_image_url: "/images/wp-content/uploads/2025/04/IMG_20250420_093638_6452.png"
+eyecatch: "/images/wp-content/uploads/2025/04/IMG_20250420_093638_6452.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/04/IMG_20250420_093638_6452.jpg"
 lang: "en"
 excerpt: "Honestly, I had filmed it without much thought. At the time, I just thought, \"Oh, monkeys on a wire.\""
 ---
@@ -30,7 +30,7 @@ excerpt: "Honestly, I had filmed it without much thought. At the time, I just th
 <blockquote class="wp-block-quote"><p>To me, Horiemon has always been someone from another world—like a celebrity on TV. It felt surreal.</p>
 </blockquote>
 
-<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2025/04/image-18.png" alt="" class="wp-image-100" style="width:272px;height:auto"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2025/04/image-18.jpg" alt="" class="wp-image-100" style="width:272px;height:auto"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 

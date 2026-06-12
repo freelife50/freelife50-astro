@@ -1,13 +1,13 @@
 ---
-title: "As a man in his 50s who once viewed horoscopes with mild skepticism, Id like to share how reading it unexpectedly lightened my heartand why it might do the same for you."
+title: "Why Shiitake Uranai Felt Surprisingly Comforting After 50"
 date: "2025-06-02"
 slug: "as-a-man-in-his-50s-who-once-viewed-horoscopes-with-mild-skepticism-en"
 categories: ["society-issues-thoughts"]
 tags: ["shiitake-uranai", "gentle-horoscope", "healing-words", "empathetic-blogging", "gen-x-perspective"]
-eyecatch: "/images/wp-content/uploads/2025/06/Gemini_Generated_Image_wqmut6wqmut6wqmu.png"
-sns_image_url: "/images/wp-content/uploads/2025/06/Gemini_Generated_Image_wqmut6wqmut6wqmu.png"
+eyecatch: "/images/wp-content/uploads/2025/06/Gemini_Generated_Image_wqmut6wqmut6wqmu.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/06/Gemini_Generated_Image_wqmut6wqmut6wqmu.jpg"
 lang: "en"
-excerpt: "This article is for those who’ve ever wondered, “What exactly is Shiitake Uranai?”As a man in his 50s who once viewed horoscopes with mild skepticism, I’d like..."
+excerpt: "A personal look at Shiitake Uranai, gentle words, and why a horoscope can sometimes feel more like quiet philosophy than fortune-telling."
 ---
 
 <p>🕒 About 6 minutes to read.</p>
@@ -16,7 +16,7 @@ excerpt: "This article is for those who’ve ever wondered, “What exactly is S
 <p>Shiitake Uranai feels less like fortune-telling and more like gentle philosophy in disguise.<br>Here, I explore its quiet power through the lenses of healing, empathy, and inner awareness.</p>
 </blockquote>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_8l4byv8l4byv8l4b.png" alt="" class="wp-image-1531"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_8l4byv8l4byv8l4b.jpg" alt="" class="wp-image-1531"/></figure>
 
 <blockquote class="wp-block-quote"><p>Have you ever heard of something called “Shiitake Uranai”?</p>
 
@@ -58,7 +58,7 @@ excerpt: "This article is for those who’ve ever wondered, “What exactly is S
 
 <h2 id="chapter-1-what-kind-of-name-is-that-i-th">🟦 Chapter 1: “What kind of name is that?!” I thought.</h2>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_7a9zlk7a9zlk7a9z.png" alt="" class="wp-image-1533"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_7a9zlk7a9zlk7a9z.jpg" alt="" class="wp-image-1533"/></figure>
 
 <blockquote class="wp-block-quote"><p>When I first heard the name <em>Shiitake Uranai</em>, I honestly laughed.<br>“Shiitake? As in the mushroom? What kind of name is that?”</p>
 
@@ -73,7 +73,7 @@ excerpt: "This article is for those who’ve ever wondered, “What exactly is S
 
 <h2 id="chapter-2-i-didnt-not-believe-but-still">🟨 Chapter 2: I didn’t not believe… but still.</h2>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_jvc2zdjvc2zdjvc2.png" alt="" class="wp-image-1535"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_jvc2zdjvc2zdjvc2.jpg" alt="" class="wp-image-1535"/></figure>
 
 <blockquote class="wp-block-quote"><p>Back when I was younger, there was this unspoken vibe—<br>like people who believed in horoscopes were just weak or naive.<br>I kind of went along with that attitude.</p>
 
@@ -90,7 +90,7 @@ excerpt: "This article is for those who’ve ever wondered, “What exactly is S
 
 <h2 id="chapter-3-a-kindness-that-felt-almost-li">🟩 Chapter 3: A kindness that felt almost like philosophy</h2>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_ou48p8ou48p8ou48.png" alt="" class="wp-image-1536"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_ou48p8ou48p8ou48.jpg" alt="" class="wp-image-1536"/></figure>
 
 <blockquote class="wp-block-quote"><p>What surprised me most about <em>Shiitake Uranai</em> was how gentle the writing was.<br>There was no scolding, no fake cheerleading.<br>Just quiet, compassionate words—like someone sitting beside you and saying,<br>“If you’re tired right now, it’s okay. You don’t have to push yourself.”</p>
 
@@ -109,7 +109,7 @@ excerpt: "This article is for those who’ve ever wondered, “What exactly is S
 
 <h2 id="chapter-4-for-the-days-you-just-made-it-">🟥 Chapter 4: For the days you just… made it through</h2>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_75ao8x75ao8x75ao.png" alt="" class="wp-image-1537"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_75ao8x75ao8x75ao.jpg" alt="" class="wp-image-1537"/></figure>
 
 <blockquote class="wp-block-quote"><p>Everyone has their own timing for reading <em>Shiitake Uranai</em>, I think.<br>For me, it’s often late at night, after work,<br>when I’m winding down and just casually scrolling on my phone.</p>
 
@@ -126,7 +126,7 @@ excerpt: "This article is for those who’ve ever wondered, “What exactly is S
 
 <h2 id="conclusion-shiitake-uranai-is-a-gentle-m">🟩 Conclusion: Shiitake Uranai is a gentle medicine—made of words</h2>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_7fqm037fqm037fqm.png" alt="" class="wp-image-1538"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_7fqm037fqm037fqm.jpg" alt="" class="wp-image-1538"/></figure>
 
 <blockquote class="wp-block-quote"><p><em>Shiitake Uranai</em> isn’t just a rundown of lucky colors or weekly fortunes.<br>It’s more like a set of quiet hints about how to live—written by someone who’s studied philosophy, but chooses kindness over complexity.</p>
 

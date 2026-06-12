@@ -1,13 +1,13 @@
 ---
-title: "It offers helpful insights especially for middle-aged and older adults dealing with issues like high blood pressure, blood sugar, and liver functionshowing how konjac can gently support a healthier lifestyle."
+title: "Konjac, Buddhist Cuisine, and a Gentler Way to Eat"
 date: "2025-05-30"
 slug: "it-offers-helpful-insights-especially-for-middle-aged-and-older-en"
 categories: ["food-nostalgia"]
 tags: ["buddhistculture", "healthyliving", "japanesefoodtradition", "konjac", "mindfuleating"]
-eyecatch: "/images/wp-content/uploads/2025/05/Gemini_Generated_Image_px3ljcpx3ljcpx3l.png"
-sns_image_url: "/images/wp-content/uploads/2025/05/Gemini_Generated_Image_px3ljcpx3ljcpx3l.png"
+eyecatch: "/images/wp-content/uploads/2025/05/Gemini_Generated_Image_px3ljcpx3ljcpx3l.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/05/Gemini_Generated_Image_px3ljcpx3ljcpx3l.jpg"
 lang: "en"
-excerpt: "In Buddhist cuisine, konjac became the ultimate stand-in for meat—chewy, pure, and full of meaning.It wasn’t just a substitute. It was a symbol of living with..."
+excerpt: "A look at konjac in Buddhist cuisine, its role as a meat substitute, and why this humble food still feels meaningful in everyday life."
 ---
 <h2 id="main-content">Main Text</h2>
 
@@ -22,42 +22,42 @@ excerpt: "In Buddhist cuisine, konjac became the ultimate stand-in for meat—ch
 </ul>
 </nav>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/Gemini_Generated_Image_9tjzm89tjzm89tjz.png" alt="" class="wp-image-1274"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/Gemini_Generated_Image_9tjzm89tjzm89tjz.jpg" alt="" class="wp-image-1274"/></figure>
 
 <blockquote class="wp-block-quote"><p><em>In Buddhist cuisine, konjac became the ultimate stand-in for meat—chewy, pure, and full of meaning.<br>It wasn’t just a substitute. It was a symbol of living with intention and restraint.</em></p>
 </blockquote>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/Gemini_Generated_Image_p5lvbjp5lvbjp5lv.png" alt="" class="wp-image-1275"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/Gemini_Generated_Image_p5lvbjp5lvbjp5lv.jpg" alt="" class="wp-image-1275"/></figure>
 
 <blockquote class="wp-block-quote"><p><em>Originally used as medicine, konjac was a gift from ancient monks—a cleanser for the body and soul.<br>A reminder that true healing often begins from within.</em></p>
 </blockquote>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/Gemini_Generated_Image_77m3wc77m3wc77m3.png" alt="" class="wp-image-1276"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/Gemini_Generated_Image_77m3wc77m3wc77m3.jpg" alt="" class="wp-image-1276"/></figure>
 
 <blockquote class="wp-block-quote"><p><em>Thanks to clever merchants and mindful monks, konjac slowly moved from temples to towns.<br>It became a people’s food—humble, versatile, and quietly powerful.</em></p>
 </blockquote>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/Gemini_Generated_Image_glps04glps04glps.png" alt="" class="wp-image-1277"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/Gemini_Generated_Image_glps04glps04glps.jpg" alt="" class="wp-image-1277"/></figure>
 
 <blockquote class="wp-block-quote"><p><em>It’s true—rich, salty foods always taste better.<br>But konjac, in its quiet way, reminds me that food isn’t just for pleasure—it’s for peace of mind too.</em></p>
 </blockquote>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/Gemini_Generated_Image_9wd4m39wd4m39wd4.png" alt="" class="wp-image-1278"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/Gemini_Generated_Image_9wd4m39wd4m39wd4.jpg" alt="" class="wp-image-1278"/></figure>
 
 <blockquote class="wp-block-quote"><p><em>Konjac isn’t just for healing the body—it’s a quiet ritual.<br>A reset button in our loud, busy, indulgent lives.</em></p>
 </blockquote>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/Gemini_Generated_Image_tfqt5htfqt5htfqt.png" alt="" class="wp-image-1279"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/Gemini_Generated_Image_tfqt5htfqt5htfqt.jpg" alt="" class="wp-image-1279"/></figure>
 
 <blockquote class="wp-block-quote"><p><em>From temple kitchens to trendy diet menus, konjac has traveled far.<br>But behind its soft, jiggly face is a thousand years of spiritual wisdom.</em></p>
 </blockquote>

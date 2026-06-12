@@ -4,10 +4,10 @@ date: "2025-05-27"
 slug: "my-save-data-began-with-dragon-quest-i-a-journey-i-remember-at-50-en"
 categories: ["shumi-taiken-etc"]
 tags: ["RPGの思い出", "セーブデータの重み", "ドラクエ1", "ドラクエの日", "ファミコン時代の体験"]
-eyecatch: "/images/wp-content/uploads/2025/05/23df04e4df77714a53b747683f4c8616.png"
-sns_image_url: "/images/wp-content/uploads/2025/05/23df04e4df77714a53b747683f4c8616.png"
+eyecatch: "/images/wp-content/uploads/2025/05/23df04e4df77714a53b747683f4c8616.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/05/23df04e4df77714a53b747683f4c8616.jpg"
 lang: "en"
-excerpt: "I never got to play Dragon Quest myself—but I still felt like I was part of the adventure.Watching from behind, I imagined myself in that world.Maybe that’s..."
+excerpt: "A memory of Dragon Quest I, childhood imagination, and how a game I watched from behind still became part of my own save data."
 ---
 
 <p>🕒 About 2 minutes to read.</p>
@@ -32,7 +32,7 @@ excerpt: "I never got to play Dragon Quest myself—but I still felt like I was 
 
 <p>I never got to play Dragon Quest myself—but I still felt like I was part of the adventure.<br>Watching from behind, I imagined myself in that world.<br>Maybe that’s what made it so special.</p>
 
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/62b428ad805926dd7e37fc51f9d3cb29.png" alt="" class="wp-image-1089"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/62b428ad805926dd7e37fc51f9d3cb29.jpg" alt="" class="wp-image-1089"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
@@ -42,7 +42,7 @@ excerpt: "I never got to play Dragon Quest myself—but I still felt like I was 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/05/e49720854474a22c75f002b81345ad79.png" alt="" class="wp-image-1091"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/05/e49720854474a22c75f002b81345ad79.jpg" alt="" class="wp-image-1091"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
@@ -52,7 +52,7 @@ excerpt: "I never got to play Dragon Quest myself—but I still felt like I was 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/dfa8d59674f321a3709e1f33a7ca1e8f.png" alt="" class="wp-image-1092"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/dfa8d59674f321a3709e1f33a7ca1e8f.jpg" alt="" class="wp-image-1092"/></figure>
 
 <h3 id="chapter-4-what-is-dragon-quest-day">🏰 Chapter 4: What Is Dragon Quest Day?</h3>
 
@@ -60,7 +60,7 @@ excerpt: "I never got to play Dragon Quest myself—but I still felt like I was 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/9a4b8e973a1512fabc7b5e59262cc4e7.png" alt="" class="wp-image-1097"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/9a4b8e973a1512fabc7b5e59262cc4e7.jpg" alt="" class="wp-image-1097"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
@@ -98,7 +98,7 @@ excerpt: "I never got to play Dragon Quest myself—but I still felt like I was 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/3098e373e15a669fe883f8305777fd00.png" alt="" class="wp-image-1095"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/3098e373e15a669fe883f8305777fd00.jpg" alt="" class="wp-image-1095"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 

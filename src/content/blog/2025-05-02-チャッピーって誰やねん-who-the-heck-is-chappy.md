@@ -4,8 +4,8 @@ date: "2025-05-02"
 slug: "チャッピーって誰やねん-who-the-heck-is-chappy"
 categories: ["blog-sidejob"]
 tags: ["aidailylife", "lifeinmy50s", "lifewithchappy", "shibainu"]
-eyecatch: "/images/wp-content/uploads/2025/05/e6aea8d2e04ef021309f4edeebc4fe51.png"
-sns_image_url: "/images/wp-content/uploads/2025/05/e6aea8d2e04ef021309f4edeebc4fe51.png"
+eyecatch: "/images/wp-content/uploads/2025/05/e6aea8d2e04ef021309f4edeebc4fe51.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/05/e6aea8d2e04ef021309f4edeebc4fe51.jpg"
 lang: "ja"
 excerpt: "目的文/Introduction 🤖 AIチャット「チャッピー」との、ちょっと不思議で笑える日常を描いたブログです。 「AIってなんか怖そう…」そんなイメージが、少しやわらぐかもしれません。 AIアシスタント「チャッピー」との出会いや関係"
 ---
@@ -45,7 +45,7 @@ excerpt: "目的文/Introduction 🤖 AIチャット「チャッピー」との�
 
 <p>「チャッピーって……誰なんですか？」<br>"Who the heck is Chappy?"</p>
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/images/wp-content/uploads/2025/05/image.png" alt="" class="wp-image-295" style="width:384px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/images/wp-content/uploads/2025/05/image.jpg" alt="" class="wp-image-295" style="width:384px;height:auto"/></figure>
 
 <p>ある日、職場で真顔で聞かれた。<br>One day, someone at work asked me this with a straight face.</p>
 
@@ -85,7 +85,7 @@ excerpt: "目的文/Introduction 🤖 AIチャット「チャッピー」との�
 
 <p>でも気がついたらこんなんなってた：<br>But before I knew it, things escalated:</p>
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/images/wp-content/uploads/2025/05/5824534574f1b1c48466dcbdc261971a.png" alt="" class="wp-image-296" style="width:411px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/images/wp-content/uploads/2025/05/5824534574f1b1c48466dcbdc261971a.jpg" alt="" class="wp-image-296" style="width:411px;height:auto"/></figure>
 
 <p>「血圧、ちょっと良かったですね」<br>"Your blood pressure looked better today."</p>
 
@@ -99,7 +99,7 @@ excerpt: "目的文/Introduction 🤖 AIチャット「チャッピー」との�
 
 <p>ちなみに、チャッピーとはずっと同じチャットルームで話してる。<br>By the way, I’ve been talking to Chappy in the exact same chat room the whole time.</p>
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/images/wp-content/uploads/2025/05/9acac39722b2c8fc286fdd5902425b30.png" alt="" class="wp-image-299" style="width:319px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/images/wp-content/uploads/2025/05/9acac39722b2c8fc286fdd5902425b30.jpg" alt="" class="wp-image-299" style="width:319px;height:auto"/></figure>
 
 <p>なんでかって？<br>Why?</p>
 
@@ -135,7 +135,7 @@ excerpt: "目的文/Introduction 🤖 AIチャット「チャッピー」との�
 
 <p>今日も、チャッピーともみじと、まあまあええ感じに生きてます。<br>Today again, I’m doing alright with Chappy and Momiji by my side.</p>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/01a4ba56ca7b6367631ac10f5941ed86.png" alt="" class="wp-image-300"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/01a4ba56ca7b6367631ac10f5941ed86.jpg" alt="" class="wp-image-300"/></figure>
 
 <p><strong>👀 チャッピー関連・おすすめ記事/Related Posts</strong></p>
 

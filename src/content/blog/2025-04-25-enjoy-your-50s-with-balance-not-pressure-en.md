@@ -4,10 +4,10 @@ date: "2025-04-25"
 slug: "enjoy-your-50s-with-balance-not-pressure-en"
 categories: ["prepared-life"]
 tags: ["gentle-health-routine", "fitness-in-my50s", "dankai-junior-generation", "walking-for-body-and-mind", "medication-and-balance"]
-eyecatch: "/images/wp-content/uploads/2025/04/3e0fc0805b93a0cf6e6c93a1d839ef3d.png"
-sns_image_url: "/images/wp-content/uploads/2025/04/3e0fc0805b93a0cf6e6c93a1d839ef3d.png"
+eyecatch: "/images/wp-content/uploads/2025/04/3e0fc0805b93a0cf6e6c93a1d839ef3d.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/04/3e0fc0805b93a0cf6e6c93a1d839ef3d.jpg"
 lang: "en"
-excerpt: "Born in 1972, part of Japan's Dankai Junior Generation, I used to run daily without thinking about health.Now in my 50s, I focus on managing my health by..."
+excerpt: "Born in 1972 as part of Japan's Dankai Junior Generation, I used to run daily without thinking much about health. Now I try to live with better balance."
 ---
 
 <h3 id="nice-to-meet-you">Nice to meet you.</h3>
@@ -25,7 +25,7 @@ excerpt: "Born in 1972, part of Japan's Dankai Junior Generation, I used to run 
 
 <p><em>In My 30s, I Ran. In My 40s, I Stopped. In My 50s, I Started Walking.</em></p>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/04/6450462922073ae03b5aa58c7cc2602f.png" alt="" class="wp-image-194"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/04/6450462922073ae03b5aa58c7cc2602f.jpg" alt="" class="wp-image-194"/></figure>
 
 <p><em>In my 30s, I maintained a healthy weight (65kg) thanks to daily running — while enjoying beer and ramen freely.<br>But in my 40s, work consumed my time. Exercise disappeared, my weight increased, blood pressure rose, and eventually, I suffered from <strong>gout</strong>.<br>That’s when I realized — health only gets noticed when it’s gone.</em></p>
 
@@ -33,7 +33,7 @@ excerpt: "Born in 1972, part of Japan's Dankai Junior Generation, I used to run 
 
 <p><em>My Sustainable Health Routine in My 50s</em></p>
 
-<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2025/04/a7b91222e697e28f394a35c28dd64534.png" alt="" class="wp-image-195" style="width:427px;height:auto"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2025/04/a7b91222e697e28f394a35c28dd64534.jpg" alt="" class="wp-image-195" style="width:427px;height:auto"/></figure>
 
 <p><em>In my 50s, I realized I needed change — but I couldn’t run like before.<br>So I chose <strong>walking</strong> and swimming when needed.<br>This gentle, consistent routine helped stabilize my blood pressure and improve my overall health.<br>Now at 74kg, my realistic goal is 68kg. It’s no longer about returning to my youth — it’s about what works <strong>now</strong>.</em></p>
 
@@ -41,13 +41,12 @@ excerpt: "Born in 1972, part of Japan's Dankai Junior Generation, I used to run 
 
 <p><em>Medication Is My Ally — Balance Over Perfection</em></p>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/04/f1db53fd2a81b102b73a6f9ea15bd7f3.png" alt="" class="wp-image-196"/></figure>
 
 <p><em>I take daily medication for blood pressure and gout prevention.<br>While my triglycerides are still high, I don’t stress over numbers.<br>I prioritize <strong>balance</strong> — enjoying beer and ramen while maintaining sustainable habits.</em></p>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/04/d974d479f54b0824fc1f0388cab780c4.png" alt="" class="wp-image-197"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/04/d974d479f54b0824fc1f0388cab780c4.jpg" alt="" class="wp-image-197"/></figure>
 
 <p><em>To My Fellow Dankai Junior Generation — Let’s Walk Together and Energize Japan! 🇯🇵</em></p>
 

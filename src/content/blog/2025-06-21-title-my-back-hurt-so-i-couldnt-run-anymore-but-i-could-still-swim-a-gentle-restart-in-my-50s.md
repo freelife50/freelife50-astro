@@ -56,7 +56,7 @@ excerpt: "Subtitle: You don’t have to push yourself to the limit. Just floatin
 
 <h2 id="chapter-2-if-you-cant-run-just-float--my" class="wp-block-heading"><strong><em>💧 Chapter 2: If You Can't Run, Just Float — My Pool Days Begin</em></strong></h2>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/e6dbcd4173eae3a03d37927bb7cccdc0.png" alt="" class="wp-image-1791"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/e6dbcd4173eae3a03d37927bb7cccdc0.jpg" alt="" class="wp-image-1791"/></figure>
 
 <p><em>The idea didn’t come as a decision. It just... appeared.</em><em><br></em><em> I wasn’t planning to start swimming. I wasn’t even thinking about exercise. I was just tired—mentally, physically, and maybe emotionally, too.</em></p>
 
@@ -82,7 +82,7 @@ excerpt: "Subtitle: You don’t have to push yourself to the limit. Just floatin
 
 <h2 id="chapter-3-change-is-slow-but-it-happens" class="wp-block-heading"><strong><em>🌱 Chapter 3: Change Is Slow, but It Happens</em></strong></h2>
 
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/06/2867bf29d796098d808b9eb71251fddb.png" alt="" class="wp-image-1792"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/06/2867bf29d796098d808b9eb71251fddb.jpg" alt="" class="wp-image-1792"/></figure>
 
 <p><em>It’s only been a few weeks since I started swimming.</em><em><br></em><em> But already, something feels different. Not dramatic, not obvious—but present. Quiet, subtle changes, like spring waking up beneath winter ground.</em></p>
 
@@ -132,7 +132,7 @@ excerpt: "Subtitle: You don’t have to push yourself to the limit. Just floatin
 
 <h2 id="final-thoughts-start-small-like-sauna-sm" class="wp-block-heading"><strong><em>🧖‍♂️ Final Thoughts: Start Small. Like, Sauna Small.</em></strong></h2>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/22ef65b8a01accd075686d56f8414b5e.png" alt="" class="wp-image-1794"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/22ef65b8a01accd075686d56f8414b5e.jpg" alt="" class="wp-image-1794"/></figure>
 
 <p><em>This story doesn’t end with a big win.</em><em><br></em><em> There’s no before-and-after photo.</em><em><br></em><em> No “I lost 10 kilograms” badge.</em><em><br></em><em> Just a quiet, floating man in his 50s who decided not to give up.</em></p>
 

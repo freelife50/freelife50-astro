@@ -1,13 +1,13 @@
 ---
-title: "From the perspective of someone in their 50s who grew up without the internet or social media,"
+title: "BeReal, Gen Z, and What Social Media Feels Like After 50"
 date: "2025-06-08"
 slug: "from-the-perspective-of-someone-in-their-50s-who-grew-up-without-the-en"
 categories: ["society-issues-thoughts"]
 tags: ["sns-culture", "gen-x-on-social-media", "authentic-online-presence", "social-media-fatigue", "z-generation-values"]
-eyecatch: "/images/wp-content/uploads/2025/05/e107fc29eb554a9a3ef7f82b8148868f.png"
-sns_image_url: "/images/wp-content/uploads/2025/05/e107fc29eb554a9a3ef7f82b8148868f.png"
+eyecatch: "/images/wp-content/uploads/2025/05/e107fc29eb554a9a3ef7f82b8148868f.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/05/e107fc29eb554a9a3ef7f82b8148868f.jpg"
 lang: "en"
-excerpt: "This article explores the rising popularity of BeReal, a no-filter social media app embraced by Gen Z.From the perspective of someone in their 50s who grew up..."
+excerpt: "A 50-something blogger looks at BeReal, Gen Z, and the shift from looking good online to simply being real."
 ---
 
 <blockquote class="wp-block-quote"><p>This article explores the rising popularity of <em>BeReal</em>, a no-filter social media app embraced by Gen Z.<br>From the perspective of someone in their 50s who grew up without the internet or social media,<br>we reflect on why younger generations are choosing to share their unfiltered selves—and what that says about our digital age.</p>
@@ -34,7 +34,7 @@ excerpt: "This article explores the rising popularity of BeReal, a no-filter soc
 
 <h2 id="looking-good-vs-being-real">“Looking Good” vs. Being Real</h2>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_v7ws0dv7ws0dv7ws.png" alt="" class="wp-image-1626"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_v7ws0dv7ws0dv7ws.jpg" alt="" class="wp-image-1626"/></figure>
 
 <blockquote class="wp-block-quote"><p>In the world of social media, it’s almost normal to “look better than you are.”<br>We add filters, post only the good parts, and chase likes without really knowing why.</p>
 
@@ -53,7 +53,7 @@ excerpt: "This article explores the rising popularity of BeReal, a no-filter soc
 
 <h2 id="why-gen-z-chooses-unfiltered-connections">Why Gen Z Chooses “Unfiltered” Connections</h2>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_5na2lp5na2lp5na2.png" alt="" class="wp-image-1627"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_5na2lp5na2lp5na2.jpg" alt="" class="wp-image-1627"/></figure>
 
 <blockquote class="wp-block-quote"><p>When I was young, taking a photo meant using film—and we didn’t share every little thing with others.<br>There were no likes, no filters, no need to “look good.”<br>Just being there, in the moment, was enough.</p>
 
@@ -81,7 +81,7 @@ excerpt: "This article explores the rising popularity of BeReal, a no-filter soc
 
 <h2 id="why-being-real-matters-now">Why “Being Real” Matters Now</h2>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_1u8u5h1u8u5h1u8u.png" alt="" class="wp-image-1628"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_1u8u5h1u8u5h1u8u.jpg" alt="" class="wp-image-1628"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
@@ -108,7 +108,7 @@ excerpt: "This article explores the rising popularity of BeReal, a no-filter soc
 
 <h2 id="im-in-my-50sso-honestly-i-dont-really-ge">I’m in My 50s—So Honestly, I Don’t Really Get It. But…</h2>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_2bsbz52bsbz52bsb.png" alt="" class="wp-image-1629"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_2bsbz52bsbz52bsb.jpg" alt="" class="wp-image-1629"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
@@ -135,9 +135,9 @@ excerpt: "This article explores the rising popularity of BeReal, a no-filter soc
 
 <h2 id="so-what-is-real-anyway">So, What Is “Real,” Anyway?</h2>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_fnz191fnz191fnz1.png" alt="" class="wp-image-1630"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_fnz191fnz191fnz1.jpg" alt="" class="wp-image-1630"/></figure>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_2tmwxt2tmwxt2tmw.png" alt="" class="wp-image-1631"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_2tmwxt2tmwxt2tmw.jpg" alt="" class="wp-image-1631"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 

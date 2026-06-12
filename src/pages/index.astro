@@ -19,9 +19,26 @@ const popularPosts = popularSlugs
   .map(slug => sorted.find(post => post.data.slug === slug))
   .filter(Boolean);
 ---
-<BaseLayout title="ラーメンとビールと時々ブログ">
+<BaseLayout
+  title="ラーメンとビールと時々ブログ"
+  description="50代のひろしが、ラーメン、ビール、散歩、ハイキング、柴犬もみじとの暮らし、副業や健康の実体験を記録する個人ブログです。"
+>
   <div class="layout-wrap">
     <div>
+      <section class="home-intro" aria-labelledby="site-intro-heading">
+        <p class="home-intro__label">50代の暮らしを、実体験から</p>
+        <h1 id="site-intro-heading">ラーメンとビールと時々ブログ</h1>
+        <p>
+          このブログは、50代のひろしが実際に歩いた場所、食べたもの、試した道具、健康診断や副業で感じたことを記録する個人ブログです。
+          読者が「今度行ってみよう」「自分も見直してみよう」と思えるように、体験談を中心にまとめています。
+        </p>
+        <nav class="home-intro__links" aria-label="サイト案内">
+          <a href="/category/healing-walks/">散歩とハイキング</a>
+          <a href="/category/food-nostalgia/">ラーメンと食</a>
+          <a href="/category/blog-sidejob/">ブログ運営と副業</a>
+          <a href="/profile/">運営者情報</a>
+        </nav>
+      </section>
       {popularPosts.length > 0 && (
         <section class="home-highlight" aria-labelledby="popular-heading">
           <div>

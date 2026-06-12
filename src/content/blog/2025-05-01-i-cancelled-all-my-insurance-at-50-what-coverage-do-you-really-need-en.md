@@ -4,8 +4,8 @@ date: "2025-05-01"
 slug: "i-cancelled-all-my-insurance-at-50-what-coverage-do-you-really-need-en"
 categories: ["prepared-life"]
 tags: ["reevaluating-insurance", "optimize-fixed-costs", "budgeting-in-your50s", "build-your-own-pension", "high-cost-medical-relief"]
-eyecatch: "/images/wp-content/uploads/2025/05/22c5f6a6c2363ad31476b4584654c4e2.png"
-sns_image_url: "/images/wp-content/uploads/2025/05/22c5f6a6c2363ad31476b4584654c4e2.png"
+eyecatch: "/images/wp-content/uploads/2025/05/22c5f6a6c2363ad31476b4584654c4e2.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/05/22c5f6a6c2363ad31476b4584654c4e2.jpg"
 lang: "en"
 excerpt: "A 50-something who cancelled every insurance policy shares what coverage you actually need — and how simplifying your premiums can clear both your budget and your mind."
 ---

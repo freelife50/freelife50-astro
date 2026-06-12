@@ -1,11 +1,11 @@
 ---
-title: "I Didnt Even Watch It, But I Cried Anyway  A 50-Something Loners Story"
+title: "I Didn't Even Watch It, But I Cried Anyway: A 50-Something Loner's Story"
 date: "2025-05-25"
 slug: "i-didnt-even-watch-it-but-i-cried-anyway-a-50-something-loners-story-en"
 categories: ["shumi-taiken-etc"]
 tags: ["bocchi", "Rock!", "anime", "reflection", "high"]
-eyecatch: "/images/wp-content/uploads/2025/05/21dc3edb8a5b711a67e0350b9082122d.png"
-sns_image_url: "/images/wp-content/uploads/2025/05/21dc3edb8a5b711a67e0350b9082122d.png"
+eyecatch: "/images/wp-content/uploads/2025/05/21dc3edb8a5b711a67e0350b9082122d.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/05/21dc3edb8a5b711a67e0350b9082122d.jpg"
 lang: "en"
 excerpt: "I Didn’t Even Watch It, But I Cried Anyway — A 50-Something Loner’s Story"
 ---
@@ -44,7 +44,7 @@ excerpt: "I Didn’t Even Watch It, But I Cried Anyway — A 50-Something Loner�
 
 <p><strong>🌍 English Reflection:</strong><br>Watching Bocchi-chan try, fail, and still keep going…<br>I felt like I was watching a younger version of myself.<br>She didn't try to be someone else—she just took one small step.<br>That was enough to open up a new world.<br>And maybe, that’s all it takes for us too.</p>
 
-<figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/05/efb6bda1016137a335c5ad018dd461dd.png" alt="" class="wp-image-1055"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/05/efb6bda1016137a335c5ad018dd461dd.jpg" alt="" class="wp-image-1055"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 

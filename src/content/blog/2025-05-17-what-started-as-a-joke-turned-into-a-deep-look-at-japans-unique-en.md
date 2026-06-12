@@ -1,19 +1,19 @@
 ---
-title: "What started as a joke turned into a deep look at Japans unique overly caring hospitality style and clever customer engagement strategy. Its not just about grilled meat  its about how experience can elevate even casual dining."
+title: "Yakiniku Police and Japan's Overly Caring Hospitality"
 date: "2025-05-17"
 slug: "what-started-as-a-joke-turned-into-a-deep-look-at-japans-unique-en"
 categories: ["food-nostalgia"]
 tags: ["customerservice", "japanesehospitality", "yakinikuking", "yakinikupolice"]
-eyecatch: "/images/wp-content/uploads/2025/05/95ddca884c88dbfc0512cc274cadc00c.png"
-sns_image_url: "/images/wp-content/uploads/2025/05/95ddca884c88dbfc0512cc274cadc00c.png"
+eyecatch: "/images/wp-content/uploads/2025/05/95ddca884c88dbfc0512cc274cadc00c.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/05/95ddca884c88dbfc0512cc274cadc00c.jpg"
 lang: "en"
-excerpt: "📌 This blog includes an English afterword at the end.If you're reading in English, please scroll down and enjoy!"
+excerpt: "A playful look at Yakiniku King's customer experience and the very Japanese charm of being cared for almost too much."
 ---
 
 <p>🕒 About 2 minutes to read.</p>
 <p>📌 <strong>This blog includes an English afterword at the end.<br>If you're reading in English, please scroll down and enjoy!</strong></p>
 
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/678656ceb7632c57ba7546634bc24996.png" alt="" class="wp-image-798"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/678656ceb7632c57ba7546634bc24996.jpg" alt="" class="wp-image-798"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
@@ -24,19 +24,19 @@ excerpt: "📌 This blog includes an English afterword at the end.If you're read
 </ul>
 </nav>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/967862d9db896fbe8da36ff31dc10a92.png" alt="" class="wp-image-803"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/967862d9db896fbe8da36ff31dc10a92.jpg" alt="" class="wp-image-803"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/341560d0806f2acbec3c9c7b7433cf59.png" alt="" class="wp-image-800"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/341560d0806f2acbec3c9c7b7433cf59.jpg" alt="" class="wp-image-800"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/ceb15549d2991aa17e4416034c1fe5c3.png" alt="" class="wp-image-801"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/ceb15549d2991aa17e4416034c1fe5c3.jpg" alt="" class="wp-image-801"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/05/99ad341eab055b96697fe97d9faa9d2d.png" alt="" class="wp-image-802"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/05/99ad341eab055b96697fe97d9faa9d2d.jpg" alt="" class="wp-image-802"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 

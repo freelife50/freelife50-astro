@@ -4,8 +4,8 @@ date: "2025-04-16"
 slug: "hi-there-ive-started-a-blog-about-ramen-beer-and-a-bit-of-blogging-en"
 categories: ["blog-sidejob"]
 tags: ["new-blog-journey", "starting-side-hustle", "challenge-in-my50s", "ramen-lover", "beer-lover"]
-eyecatch: "/images/wp-content/uploads/2025/04/8d3acb8ac16d829c946f739ad4181f54.png"
-sns_image_url: "/images/wp-content/uploads/2025/04/8d3acb8ac16d829c946f739ad4181f54.png"
+eyecatch: "/images/wp-content/uploads/2025/04/8d3acb8ac16d829c946f739ad4181f54.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/04/8d3acb8ac16d829c946f739ad4181f54.jpg"
 lang: "en"
 excerpt: "Hello! I'm Hiroshi, a Gen X'er in my 50s who loves ramen and beer. Welcome to my little corner of the internet — I'll be writing about daily life, health, and relaxed side hustle adventures."
 ---

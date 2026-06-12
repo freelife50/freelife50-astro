@@ -1,13 +1,13 @@
 ---
-title: "This unique spot offers a rare combination of retro charm, cost-effective gourmet experience, and a time-travel-like immersion into both nostalgia and new discoveries."
+title: "Shin-Yokohama Ramen Museum: Retro Flavor, Mini Bowls, and Time Travel"
 date: "2025-06-02"
 slug: "this-unique-spot-offers-a-rare-combination-of-retro-charm-cost-en"
 categories: ["food-nostalgia"]
 tags: ["ramen-museum", "mini-ramen", "showa-retro", "shin-yokohama", "ramen-travel"]
-eyecatch: "/images/wp-content/uploads/2025/06/Gemini_Generated_Image_vqgrx6vqgrx6vqgr.png"
-sns_image_url: "/images/wp-content/uploads/2025/06/Gemini_Generated_Image_vqgrx6vqgrx6vqgr.png"
+eyecatch: "/images/wp-content/uploads/2025/06/Gemini_Generated_Image_vqgrx6vqgrx6vqgr.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/06/Gemini_Generated_Image_vqgrx6vqgrx6vqgr.jpg"
 lang: "en"
-excerpt: "In this article, I explore why the Shin-Yokohama Ramen Museum is once again drawing attention—through the eyes of someone from Japan's “Dankai Junior”..."
+excerpt: "A visit to the Shin-Yokohama Ramen Museum through the eyes of a 50-something ramen fan, from retro streets to mini bowls."
 ---
 
 <p>🕒 About 4 minutes to read.</p>
@@ -31,7 +31,7 @@ excerpt: "In this article, I explore why the Shin-Yokohama Ramen Museum is once 
 
 <h2 id="chapter-1-so-why-is-everyone-talking-abo">🍜 Chapter 1: So Why Is Everyone Talking About the Ramen Museum Again?</h2>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_v68s7sv68s7sv68s.png" alt="" class="wp-image-1512"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_v68s7sv68s7sv68s.jpg" alt="" class="wp-image-1512"/></figure>
 
 <blockquote class="wp-block-quote"><p>Let’s be honest—did you think the Ramen Museum was long gone?<br>Yeah, me too.<br>But in 2025, it’s suddenly trending again. Why?<br>One big reason: its 30th anniversary in 2024.<br>That means it opened in 1994—the same era many of us Gen Xers were stepping into adulthood.<br>It was the job-hunting ice age. Eating out was a treat, and ramen felt like a small luxury.<br>So when a “museum of ramen” opened, it felt like a dream—even if some people doubted it.</p>
 
@@ -44,7 +44,7 @@ excerpt: "In this article, I explore why the Shin-Yokohama Ramen Museum is once 
 
 <h2 id="chapter-2-a-ramen-trip-around-japanall-i">🧳 Chapter 2: A Ramen Trip Around Japan—All in One Day</h2>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_7kifxz7kifxz7kif.png" alt="" class="wp-image-1513"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_7kifxz7kifxz7kif.jpg" alt="" class="wp-image-1513"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
@@ -70,7 +70,7 @@ excerpt: "In this article, I explore why the Shin-Yokohama Ramen Museum is once 
 
 <h2 id="chapter-3-step-into-1958a-showa-era-town">🏮 Chapter 3: Step Into 1958—A Showa-Era Town You Can Walk Through</h2>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_pm0u27pm0u27pm0u.png" alt="" class="wp-image-1515"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_pm0u27pm0u27pm0u.jpg" alt="" class="wp-image-1515"/></figure>
 
 <blockquote class="wp-block-quote"><p>Step underground at the Ramen Museum, and you’ll find yourself in 1958 Japan.<br>Faded signs, narrow alleys, bathhouse chimneys, retro movie posters—it’s all there.<br>It feels like walking into the world of <em>Always: Sunset on Third Street</em>.</p>
 
@@ -83,7 +83,7 @@ excerpt: "In this article, I explore why the Shin-Yokohama Ramen Museum is once 
 
 <h2 id="chapter-4-why-a-museum-for-ramen-now">🧠 Chapter 4: Why a “Museum” for Ramen, Now?</h2>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_4xnda64xnda64xnd-1.png" alt="" class="wp-image-1518"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_4xnda64xnda64xnd-1.jpg" alt="" class="wp-image-1518"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
@@ -105,7 +105,7 @@ excerpt: "In this article, I explore why the Shin-Yokohama Ramen Museum is once 
 <p>Here, ramen isn’t just food—it’s a full-sensory journey through time and taste.</p>
 </blockquote>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_m8lbnzm8lbnzm8lb.png" alt="" class="wp-image-1517"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_m8lbnzm8lbnzm8lb.jpg" alt="" class="wp-image-1517"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 

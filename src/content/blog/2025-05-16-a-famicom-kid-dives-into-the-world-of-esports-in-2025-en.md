@@ -4,10 +4,10 @@ date: "2025-05-16"
 slug: "a-famicom-kid-dives-into-the-world-of-esports-in-2025-en"
 categories: ["shumi-taiken-etc"]
 tags: ["eスポーツ", "reject", "ウメハラ", "ファミコン世代", "高橋名人"]
-eyecatch: "/images/wp-content/uploads/2025/05/c55b5dbacc58142b4fb8937cc3f7c186.png"
-sns_image_url: "/images/wp-content/uploads/2025/05/c55b5dbacc58142b4fb8937cc3f7c186.png"
+eyecatch: "/images/wp-content/uploads/2025/05/c55b5dbacc58142b4fb8937cc3f7c186.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/05/c55b5dbacc58142b4fb8937cc3f7c186.jpg"
 lang: "en"
-excerpt: "🔤 Afterthought in EnglishAt first, I really thought someone got rejected. But instead, I found a whole world I never knew—where “REJECT” is not about denial,..."
+excerpt: "A Famicom-era blogger discovers modern esports, the REJECT team, and a competitive gaming world far deeper than expected."
 ---
 
 <p>🕒 About 2 minutes to read.</p>
@@ -21,7 +21,7 @@ excerpt: "🔤 Afterthought in EnglishAt first, I really thought someone got rej
 </ul>
 </nav>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/621cba254df9a51c5f1901b73ecdabd7.png" alt="" class="wp-image-752"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/621cba254df9a51c5f1901b73ecdabd7.jpg" alt="" class="wp-image-752"/></figure>
 
 <p><strong>🔤 Afterthought in English</strong><br>At first, I really thought someone got rejected. But instead, I found a whole world I never knew—where “REJECT” is not about denial, but about rising to the top in a new kind of battlefield.</p>
 
@@ -31,7 +31,7 @@ excerpt: "🔤 Afterthought in EnglishAt first, I really thought someone got rej
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/05/0a74d26a5ca14050e8e402d8a8813e9e.png" alt="" class="wp-image-750"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/05/0a74d26a5ca14050e8e402d8a8813e9e.jpg" alt="" class="wp-image-750"/></figure>
 
 <p><strong>🔤 Afterthought in English</strong><br>Back then, rapid-fire skills were everything. We had our heroes, our tournaments—just in the living room. I never realized how those childhood dreams evolved into global stages.</p>
 
@@ -41,7 +41,7 @@ excerpt: "🔤 Afterthought in EnglishAt first, I really thought someone got rej
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/05/202719bd98e57b78d5a61a00af410a9c.png" alt="" class="wp-image-751"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/05/202719bd98e57b78d5a61a00af410a9c.jpg" alt="" class="wp-image-751"/></figure>
 
 <p><strong>🔤 Afterthought in English</strong><br>Watching “EVO Moment #37” gave me chills. That wasn’t just gaming—it was art, it was drama, it was heart. No wonder they call him a legend.</p>
 
@@ -65,7 +65,7 @@ excerpt: "🔤 Afterthought in EnglishAt first, I really thought someone got rej
 
 <h3 id="if-i-hadn-t-looked-it-up-i-would-ve-missed-out">If I Hadn’t Looked It Up, I Would’ve Missed Out</h3>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/47dc7792cd1bfa154e0b0fedda3862d8.png" alt="" class="wp-image-754"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/47dc7792cd1bfa154e0b0fedda3862d8.jpg" alt="" class="wp-image-754"/></figure>
 
 <p><strong>🔤 Final Words in English</strong><br>I almost dismissed the name "REJECT" with a shrug.<br>But behind that name, I found warriors who live with passion.<br>From being scolded for dreaming—to being celebrated for it.</p>
 

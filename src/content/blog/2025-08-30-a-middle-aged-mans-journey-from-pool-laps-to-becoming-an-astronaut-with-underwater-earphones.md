@@ -76,10 +76,10 @@ excerpt: "Reading Time: about 8 minutes This article is for people who… Feel b
 
 <h2 id="a-savior-appears" class="wp-block-heading">A Savior Appears</h2>
 
-<div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2025/08/image-9.png" alt="" class="wp-image-2199" style="width:346px;height:auto"/></figure>
+<div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large is-resized"><img src="/images/wp-content/uploads/2025/08/image-9.jpg" alt="" class="wp-image-2199" style="width:346px;height:auto"/></figure>
 </div>
 
-<div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/08/image-8.png" alt="" class="wp-image-2198"/></figure>
+<div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/08/image-8.jpg" alt="" class="wp-image-2198"/></figure>
 </div>
 </div>
 

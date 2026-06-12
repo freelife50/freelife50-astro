@@ -5,8 +5,8 @@ slug: "if-smart-rings-could-care-6-future-features-we-quietly-wish-for"
 categories: ["prepared-life"]
 tags: ["smart-ring", "wearable-tech", "health-monitoring", "fall-detection", "future-gadgets"]
 lang: "en"
-eyecatch: "/images/wp-content/uploads/2025/06/image-2.png"
-sns_image_url: "/images/wp-content/uploads/2025/06/image-2.png"
+eyecatch: "/images/wp-content/uploads/2025/06/image-2.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/06/image-2.jpg"
 excerpt: "Not just tech — a gentle wishlist from someone in his 50s, written with a bit of imagination and a lot of heart. 🌱 Who"
 ---
 
@@ -70,7 +70,7 @@ excerpt: "Not just tech — a gentle wishlist from someone in his 50s, written w
 
 <h2 id="1-what-if-i-died-at-home" class="wp-block-heading"><strong>🟦 1. What if I died at home?</strong></h2>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/image-1-1.png" alt="" class="wp-image-1823"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/image-1-1.jpg" alt="" class="wp-image-1823"/></figure>
 
 <p><em>A ring that tells someone when you’re gone</em></p>
 
@@ -98,7 +98,7 @@ excerpt: "Not just tech — a gentle wishlist from someone in his 50s, written w
 
 <h2 id="2-the-night-my-child-didnt-come-home" class="wp-block-heading"><strong>🟩 2. The night my child didn’t come home</strong></h2>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/image-2-1.png" alt="" class="wp-image-1824"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/image-2-1.jpg" alt="" class="wp-image-1824"/></figure>
 
 <p><em>Peace of mind through quiet location tracking</em></p>
 
@@ -136,7 +136,7 @@ excerpt: "Not just tech — a gentle wishlist from someone in his 50s, written w
 
 <h2 id="3-breathing-beating-being-watched--in-a-" class="wp-block-heading"><strong>🟥 3. Breathing, beating, being watched — in a good way</strong></h2>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/image-3.png" alt="" class="wp-image-1825"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/image-3.jpg" alt="" class="wp-image-1825"/></figure>
 
 <p><em>Early signs from your sleeping body</em></p>
 
@@ -172,7 +172,7 @@ excerpt: "Not just tech — a gentle wishlist from someone in his 50s, written w
 
 <h2 id="4-she-didnt-return-from-the-mountain" class="wp-block-heading"><strong>🟨 4. She didn’t return from the mountain</strong></h2>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/image-4.png" alt="" class="wp-image-1826"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/image-4.jpg" alt="" class="wp-image-1826"/></figure>
 
 <p><em>For hikers, wanderers, and those who may forget their way</em></p>
 
@@ -208,7 +208,7 @@ excerpt: "Not just tech — a gentle wishlist from someone in his 50s, written w
 
 <h2 id="5-when-my-mother-stood-up-in-the-dark" class="wp-block-heading"><strong>🟧 5. When my mother stood up in the dark</strong></h2>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/image-5.png" alt="" class="wp-image-1827"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/image-5.jpg" alt="" class="wp-image-1827"/></figure>
 
 <p><em>A silent guard against falls and wandering</em></p>
 
@@ -242,7 +242,7 @@ excerpt: "Not just tech — a gentle wishlist from someone in his 50s, written w
 
 <h2 id="6-the-train-the-beer-and-the-alarm-i-did" class="wp-block-heading"><strong>🟪 6. The train, the beer, and the alarm I didn’t hear</strong></h2>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/image-6.png" alt="" class="wp-image-1828"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/image-6.jpg" alt="" class="wp-image-1828"/></figure>
 
 <p><em>A wake-up call that only your finger feels</em></p>
 
@@ -276,7 +276,7 @@ excerpt: "Not just tech — a gentle wishlist from someone in his 50s, written w
 
 <h2 id="7-maybe-the-ai-is-my-other-self" class="wp-block-heading"><strong>🟫 7. Maybe the AI is my other self</strong></h2>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/image-7.png" alt="" class="wp-image-1829"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/image-7.jpg" alt="" class="wp-image-1829"/></figure>
 
 <p><em>When a smart ring becomes the hand of your digital companion</em></p>
 

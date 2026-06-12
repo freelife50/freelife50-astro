@@ -1,13 +1,13 @@
 ---
-title: "🌊 Mountains, Sea, My Dog, and My Wife — Plus Fried Fish and Beer"
+title: "Mountains, Sea, Momiji, and a Simple Fried Fish Reward"
 date: "2025-04-19"
 slug: "mountains-sea-my-dog-and-my-wife-plus-fried-fish-and-beer-en"
 categories: ["healing-walks"]
 tags: ["azumayama-hike", "shiba-inu-momiji", "weekend-in-our50s", "spring-scenery-walk", "aji-fry-is-life"]
-eyecatch: "/images/wp-content/uploads/2025/04/image-15.png"
-sns_image_url: "/images/wp-content/uploads/2025/04/image-15.png"
+eyecatch: "/images/wp-content/uploads/2025/04/image-15.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/04/image-15.jpg"
 lang: "en"
-excerpt: "A quiet day with my wife and our Shiba Inu Momiji — surrounded by mountains, cherry blossoms, and the sea.Sometimes, the best rewards are simple: crispy fried..."
+excerpt: "A quiet day with my wife and our Shiba Inu Momiji, surrounded by mountains, cherry blossoms, and the sea."
 ---
 <nav id="toc" class="post-toc">
 <p><strong>Table of Contents</strong></p>
@@ -27,13 +27,13 @@ excerpt: "A quiet day with my wife and our Shiba Inu Momiji — surrounded by mo
 
 <p><em>Lately, I’ve been craving somewhere that offers both the sea and the mountains. So we visited Azumayama Park in Ninomiya, just the three of us: my wife, our Shiba Inu Momiji, and me.</em></p>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/04/image-14.png" alt="" class="wp-image-85"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/04/image-14.jpg" alt="" class="wp-image-85"/></figure>
 
 <p><em>Momiji loves water.</em> <em>But when it comes to hiking uphill, she tends to look at me like, “Can we go home yet?”</em> <em>Once she sees the sea or a stream, though, she flips a switch — full sprint, full joy!</em></p>
 
 <p><em>The cherry blossoms were in full bloom under the warm spring sun.</em> <em>Children’s laughter echoed across the park — a peaceful moment that felt almost luxurious.</em></p>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/04/image-15.png" alt="" class="wp-image-86"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/04/image-15.jpg" alt="" class="wp-image-86"/></figure>
 
 <p><em>These days, I struggle to keep up with my wife during hikes.</em> <em>She walks ahead, seemingly tireless.</em></p>
 
@@ -47,7 +47,7 @@ excerpt: "A quiet day with my wife and our Shiba Inu Momiji — surrounded by mo
 
 <p><em>My target is 65kg, but I’d settle for 68kg.</em></p>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/04/image-16.png" alt="" class="wp-image-87"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/04/image-16.jpg" alt="" class="wp-image-87"/></figure>
 
 <p><em>We headed home via the expressway in our Prius, which has now clocked over 190,000 km.</em></p>
 
@@ -59,7 +59,7 @@ excerpt: "A quiet day with my wife and our Shiba Inu Momiji — surrounded by mo
 
 <p><em><strong>“I walked a lot today, so it’s fine” </strong>— classic 50s thinking.</em></p>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/04/image-17.png" alt="" class="wp-image-88"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/04/image-17.jpg" alt="" class="wp-image-88"/></figure>
 
 <p><em>Now I’m wondering where to go next.</em> <em>Hopefully I’ll be a little stronger next time — enough to enjoy another walk with my wife and Momiji.</em></p>
 

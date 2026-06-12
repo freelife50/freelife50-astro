@@ -1,11 +1,11 @@
 ---
-title: "Japan's Agriculture Minister Said He Never Buys Rice — While the Rest of Us Are Stretching Every Yen"
+title: "When Japan's Agriculture Minister Said He Never Buys Rice"
 date: "2025-05-19"
 slug: "in-may-2025-japans-minister-of-agriculture-casually-said-en"
 categories: ["society-issues-thoughts"]
 tags: ["rice-controversy", "japanese-politics", "political-gaffe", "voice-of-the-people", "lost-30-years"]
-eyecatch: "/images/wp-content/uploads/2025/05/b088345b3524fdc10fc1e76bebedfa4a.png"
-sns_image_url: "/images/wp-content/uploads/2025/05/b088345b3524fdc10fc1e76bebedfa4a.png"
+eyecatch: "/images/wp-content/uploads/2025/05/b088345b3524fdc10fc1e76bebedfa4a.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/05/b088345b3524fdc10fc1e76bebedfa4a.jpg"
 lang: "en"
 excerpt: "Japan's Minister of Agriculture casually mentioned he never buys rice — while ordinary people were using hometown tax just to afford it. A frustrated blogger in his 50s responds."
 ---
@@ -38,7 +38,7 @@ excerpt: "Japan's Minister of Agriculture casually mentioned he never buys rice 
 
 <h2 id="opening-rant-the-era-where-buying-rice-m" class="wp-block-heading">🍚 Opening Rant: The Era Where Buying Rice Makes You Impressive</h2>
 
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/4cef5e30d0471c5d0547323e7266440d.png" alt="" class="wp-image-864"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/4cef5e30d0471c5d0547323e7266440d.jpg" alt="" class="wp-image-864"/></figure>
 
 <p>I buy rice through Japan's hometown tax system. You know why? <strong>Because buying it outright is too expensive these days.</strong></p>
 
@@ -77,7 +77,7 @@ excerpt: "Japan's Minister of Agriculture casually mentioned he never buys rice 
 
 <h2 id="what-people-were-saying-online" class="wp-block-heading">💬 What People Were Saying Online</h2>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/248de8a61ec674c954ee90e784dbc085.png" alt="" class="wp-image-866"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/248de8a61ec674c954ee90e784dbc085.jpg" alt="" class="wp-image-866"/></figure>
 
 <p>The comments on X (formerly Twitter) were a mix of sharp anger and pitch-perfect sarcasm:</p>
 
@@ -96,7 +96,7 @@ excerpt: "Japan's Minister of Agriculture casually mentioned he never buys rice 
 
 <h2 id="getting-serious-for-a-moment-the-lost-30" class="wp-block-heading">🧠 Getting Serious for a Moment: The Lost 30 Years — Whose Fault Is It?</h2>
 
-<figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/05/6bc72dfbe2a5957be57d1def1756e4cd.png" alt="" class="wp-image-867"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/05/6bc72dfbe2a5957be57d1def1756e4cd.jpg" alt="" class="wp-image-867"/></figure>
 
 <p>You've heard of Japan's "Lost 30 Years" — the long economic stagnation after the bubble burst, during which Japan became the one major economy where both wages and prices stubbornly refused to rise.</p>
 
@@ -117,7 +117,7 @@ excerpt: "Japan's Minister of Agriculture casually mentioned he never buys rice 
 
 <h2 id="summary-japan-is-this-really-where-we-ar" class="wp-block-heading">📉 Summary: Japan, Is This Really Where We Are?</h2>
 
-<figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/05/013ad5cdd5691db73fcdcccf892595b1.png" alt="" class="wp-image-868"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/05/013ad5cdd5691db73fcdcccf892595b1.jpg" alt="" class="wp-image-868"/></figure>
 
 <p>This whole viral moment started with one casual sentence:</p>
 

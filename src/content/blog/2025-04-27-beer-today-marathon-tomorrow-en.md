@@ -1,11 +1,11 @@
 ---
-title: "Beer today, marathon tomorrow?"
+title: "Beer Today, Marathon Tomorrow: A 50s Fitness Comeback"
 date: "2025-04-27"
 slug: "beer-today-marathon-tomorrow-en"
 categories: ["prepared-life"]
 tags: ["living-with-back-pain", "pre-marathon-night", "craft-beer-festival", "enjoying-life-in50s", "gentle-way-of-living"]
-eyecatch: "/images/wp-content/uploads/2025/04/72c35020d1cafcb569a41f7209d0772d.png"
-sns_image_url: "/images/wp-content/uploads/2025/04/72c35020d1cafcb569a41f7209d0772d.png"
+eyecatch: "/images/wp-content/uploads/2025/04/72c35020d1cafcb569a41f7209d0772d.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/04/72c35020d1cafcb569a41f7209d0772d.jpg"
 lang: "en"
 excerpt: "I arrived at the venue and was immediately shocked."
 ---

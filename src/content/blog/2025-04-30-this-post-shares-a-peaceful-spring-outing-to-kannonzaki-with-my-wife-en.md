@@ -1,5 +1,5 @@
 ---
-title: "This post shares a peaceful spring outing to Kannonzaki with my wife and our Shiba Inu, Momiji."
+title: "A Spring Day at Kannonzaki with Momiji"
 date: "2025-04-30"
 slug: "this-post-shares-a-peaceful-spring-outing-to-kannonzaki-with-my-wife-en"
 categories: ["life-with-momiji"]
@@ -7,7 +7,7 @@ tags: ["kannonzaki-views", "shiba-inu-momiji", "spring-by-the-sea", "lighthouse-
 eyecatch: "/images/wp-content/uploads/2025/04/PXL_20250430_032628184-scaled.jpg"
 sns_image_url: "/images/wp-content/uploads/2025/04/PXL_20250430_032628184-scaled.jpg"
 lang: "en"
-excerpt: "This post shares a peaceful spring outing to Kannonzaki with my wife and our Shiba Inu, Momiji.If you're in need of a gentle breeze for your heart, this story..."
+excerpt: "A gentle spring outing to Kannonzaki with my wife and our Shiba Inu, Momiji, full of sea breeze, quiet views, and small moments of calm."
 ---
 <h2 id="main-content">Main Text</h2>
 
@@ -22,7 +22,7 @@ excerpt: "This post shares a peaceful spring outing to Kannonzaki with my wife a
 </ul>
 </nav>
 
-<blockquote class="wp-block-quote"><p><strong>This post shares a peaceful spring outing to Kannonzaki with my wife and our Shiba Inu, Momiji.</strong><br>If you're in need of a gentle breeze for your heart, this story might be the perfect break.</p></blockquote>
+<blockquote class="wp-block-quote"><p><strong>A peaceful spring outing to Kannonzaki with my wife and our Shiba Inu, Momiji.</strong><br>If you're in need of a gentle breeze for your heart, this story might be the perfect break.</p></blockquote>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
@@ -94,5 +94,5 @@ excerpt: "This post shares a peaceful spring outing to Kannonzaki with my wife a
 <ul class="wp-block-list">
 <li><a href="https://freelife50.com/doggyman-white-vs-green-which-whident-chew-is-best/">DoggyMan White vs Green Whident Chew Review: Which Is Best for Your Dog?</a></li>
 <li><a href="https://freelife50.com/a-quiet-goodbye-a-quiet-hello-en/">A Quiet Goodbye, A Quiet Hello</a></li>
-<li><a href="https://freelife50.com/what-i-thought-about-protecting-life-on-japans-cat-protection-day-en/">What I Thought About Protecting Life on Japans Cat Protection Day</a></li>
+<li><a href="https://freelife50.com/what-i-thought-about-protecting-life-on-japans-cat-protection-day-en/">What Japan's Cat Protection Day Made Me Think About Life</a></li>
 </ul></blockquote>

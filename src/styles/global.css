@@ -78,6 +78,43 @@ img { max-width: 100%; height: auto; display: block; }
 }
 
 /* Post card */
+.home-intro {
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+  background: #fff;
+  padding: 20px;
+  margin-bottom: 24px;
+}
+.home-intro h1 {
+  font-size: 1.55rem;
+  line-height: 1.45;
+  margin-bottom: 10px;
+}
+.home-intro p {
+  color: var(--color-text-light);
+  font-size: .95rem;
+  line-height: 1.8;
+}
+.home-intro__label {
+  color: var(--color-primary);
+  font-size: .8rem;
+  font-weight: 700;
+  margin-bottom: 5px;
+}
+.home-intro__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 14px;
+}
+.home-intro__links a {
+  border: 1px solid var(--color-border);
+  border-radius: 4px;
+  background: var(--color-bg-light);
+  padding: 5px 10px;
+  font-size: .86rem;
+  font-weight: 700;
+}
 .home-highlight {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(220px, 42%);

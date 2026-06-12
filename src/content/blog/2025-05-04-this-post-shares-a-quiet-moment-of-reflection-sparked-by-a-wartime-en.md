@@ -1,18 +1,18 @@
 ---
-title: "This post shares a quiet moment of reflection sparked by a wartime photo seen on Constitution Memorial Day."
+title: "A Wartime Photo and a Quiet Thought on Peace"
 date: "2025-05-04"
 slug: "this-post-shares-a-quiet-moment-of-reflection-sparked-by-a-wartime-en"
 categories: ["society-issues-thoughts"]
 tags: ["everyday-peace", "memory-of-war", "quiet-compassion", "constitution-memorial-day", "pass-it-on"]
-eyecatch: "/images/wp-content/uploads/2025/05/b66b32b03c1bffe5a2b71a1d9279ee2b.png"
-sns_image_url: "/images/wp-content/uploads/2025/05/b66b32b03c1bffe5a2b71a1d9279ee2b.png"
+eyecatch: "/images/wp-content/uploads/2025/05/b66b32b03c1bffe5a2b71a1d9279ee2b.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/05/b66b32b03c1bffe5a2b71a1d9279ee2b.jpg"
 lang: "en"
-excerpt: "📘 English Reflection:This post shares a quiet moment of reflection sparked by a wartime photo seen on Constitution Memorial Day.Even without deep political..."
+excerpt: "A quiet reflection on peace, memory, and a wartime photo that stayed with me on Constitution Memorial Day."
 ---
 <h2 id="main-content">Main Text</h2>
 
 
-<blockquote class="wp-block-quote"><p><strong>📘 English Reflection:</strong><br>This post shares a quiet moment of reflection sparked by a wartime photo seen on Constitution Memorial Day.<br>Even without deep political knowledge, we can still value peace—and ask ourselves what we can quietly carry forward.</p></blockquote>
+<blockquote class="wp-block-quote"><p><strong>📘 English Reflection:</strong><br>A wartime photo I saw on Constitution Memorial Day stayed with me.<br>Even without deep political knowledge, we can still value peace and ask ourselves what we can quietly carry forward.</p></blockquote>
 
 <p>🕒 This blog takes about 3 to 4 minutes to read.</strong></span></p>
 
@@ -33,10 +33,10 @@ excerpt: "📘 English Reflection:This post shares a quiet moment of reflection 
 
 <p><strong>In 1945, during a suicide mission, the Battleship Yamato was sunk. Of its 3,332 crew members, 3,056 perished. In the photo were young men, smiling freely.</strong></p>
 
-<div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/0df7c045cdcae7c7f88bf0c219ba9881.png" alt="" class="wp-image-341"/></figure>
+<div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/0df7c045cdcae7c7f88bf0c219ba9881.jpg" alt="" class="wp-image-341"/></figure>
 </div>
 
-<div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/0fbb7269cc32b97e93ecf83e2ad6d301.png" alt="" class="wp-image-342"/></figure>
+<div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/0fbb7269cc32b97e93ecf83e2ad6d301.jpg" alt="" class="wp-image-342"/></figure>
 </div>
 </div>
 
@@ -56,7 +56,7 @@ excerpt: "📘 English Reflection:This post shares a quiet moment of reflection 
 
 <p><strong>Honestly, I’m not well-versed in politics or constitutional law. But whenever I hear the voices of those who died in war—or those who lived long after—I realize how precious my peaceful days with ramen and walks with Momiji are.</strong></p>
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/images/wp-content/uploads/2025/05/570386b54b3cb2771f189ff9bf9b75d6.png" alt="" class="wp-image-347" style="width:441px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/images/wp-content/uploads/2025/05/570386b54b3cb2771f189ff9bf9b75d6.jpg" alt="" class="wp-image-347" style="width:441px;height:auto"/></figure>
 
 <p><strong>Today’s world is full of uncertainties—climate change, economic struggles, division.</strong></p>
 
@@ -74,7 +74,7 @@ excerpt: "📘 English Reflection:This post shares a quiet moment of reflection 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/images/wp-content/uploads/2025/05/a131dade5bd1b2ff23467955af15756d.png" alt="" class="wp-image-348" style="width:496px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/images/wp-content/uploads/2025/05/a131dade5bd1b2ff23467955af15756d.jpg" alt="" class="wp-image-348" style="width:496px;height:auto"/></figure>
 
 <p><strong>Today, the sky was clear. In the spring sunlight, Momiji napped peacefully.</strong></p>
 

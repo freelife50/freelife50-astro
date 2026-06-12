@@ -4,8 +4,8 @@ date: "2025-05-06"
 slug: "while-rohan-kishibe-goes-to-the-louvre-i-was-at-a-hakata-ramen-shop-en"
 categories: ["food-nostalgia"]
 tags: ["hakata-ramen", "jojo-bizarre-adventure", "golden-week", "ramen-obsession", "life-in-my50s"]
-eyecatch: "/images/wp-content/uploads/2025/05/6fda5e0ce89968d33f2a8e335f9aae0e.png"
-sns_image_url: "/images/wp-content/uploads/2025/05/6fda5e0ce89968d33f2a8e335f9aae0e.png"
+eyecatch: "/images/wp-content/uploads/2025/05/6fda5e0ce89968d33f2a8e335f9aae0e.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/05/6fda5e0ce89968d33f2a8e335f9aae0e.jpg"
 lang: "en"
 excerpt: "On the last day of Golden Week, 'Rohan Kishibe Goes to the Louvre' was trending. I hadn't seen it. What I had done was eat Hakata ramen, order two extra noodles, and quietly wonder if I'd gone too far. A very Gen X reflection."
 ---
@@ -20,7 +20,7 @@ excerpt: "On the last day of Golden Week, 'Rohan Kishibe Goes to the Louvre' was
 
 <p>Meanwhile, I was at a Hakata ramen shop. Ordering my second round of extra noodles.</p>
 
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/97e847ef695714369cbe70fdc1afea06.png" alt="" class="wp-image-404"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/97e847ef695714369cbe70fdc1afea06.jpg" alt="" class="wp-image-404"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
@@ -35,7 +35,7 @@ excerpt: "On the last day of Golden Week, 'Rohan Kishibe Goes to the Louvre' was
 
 <p>We both have no self-control when it comes to our obsessions. The difference is that Rohan's takes him to Paris. Mine takes me to the counter stool of a tiny ramen shop on a Sunday afternoon.</p>
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/images/wp-content/uploads/2025/05/a654d5b879b06cba27467c42d5a4419d.png" alt="" class="wp-image-401" style="width:590px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/images/wp-content/uploads/2025/05/a654d5b879b06cba27467c42d5a4419d.jpg" alt="" class="wp-image-401" style="width:590px;height:auto"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
@@ -43,7 +43,7 @@ excerpt: "On the last day of Golden Week, 'Rohan Kishibe Goes to the Louvre' was
 
 <p>That's the sinful beauty of it. No curse, no dark painting required.</p>
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/images/wp-content/uploads/2025/05/be51ce2107ec160baf37f59017e4bf63.png" alt="" class="wp-image-405" style="width:541px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/images/wp-content/uploads/2025/05/be51ce2107ec160baf37f59017e4bf63.jpg" alt="" class="wp-image-405" style="width:541px;height:auto"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
@@ -51,7 +51,7 @@ excerpt: "On the last day of Golden Week, 'Rohan Kishibe Goes to the Louvre' was
 
 <p>But right at that moment? I was more grateful for the bowl I'd had at noon. Simple, hot, a little too much — and completely worth it.</p>
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/images/wp-content/uploads/2025/05/9eb6efd72eec784e84694945d6a2055c.png" alt="" class="wp-image-407" style="width:556px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/images/wp-content/uploads/2025/05/9eb6efd72eec784e84694945d6a2055c.jpg" alt="" class="wp-image-407" style="width:556px;height:auto"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
@@ -59,7 +59,7 @@ excerpt: "On the last day of Golden Week, 'Rohan Kishibe Goes to the Louvre' was
 
 <p>Rohan, if you ever tire of hunting evil paintings in Paris, there's a bowl of tonkotsu waiting for you here in Japan. I think you'd appreciate it.</p>
 
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/67b9cf983f8f48113a45f45bf250262f.png" alt="" class="wp-image-406"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/67b9cf983f8f48113a45f45bf250262f.jpg" alt="" class="wp-image-406"/></figure>
 
 <blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
 <ul class="wp-block-list">

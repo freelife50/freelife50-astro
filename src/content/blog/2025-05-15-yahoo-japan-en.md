@@ -4,8 +4,8 @@ date: "2025-05-15"
 slug: "hanakimi-anime-2025-en"
 categories: ["shumi-taiken-etc"]
 tags: ["hanazakari-no-kimitachi-e", "anime-adaptation", "shojo-manga", "nostalgic-drama", "life-reflections-in-my-50s"]
-eyecatch: "/images/wp-content/uploads/2025/05/2d746b30b5a977a1250be21185295675.png"
-sns_image_url: "/images/wp-content/uploads/2025/05/2d746b30b5a977a1250be21185295675.png"
+eyecatch: "/images/wp-content/uploads/2025/05/2d746b30b5a977a1250be21185295675.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/05/2d746b30b5a977a1250be21185295675.jpg"
 lang: "en"
 excerpt: "In 2025, the beloved shojo manga Hanazakari no Kimitachi e is finally getting its first anime adaptation — 20 years after it ended. As a total beginner, I did some digging."
 ---
@@ -34,7 +34,7 @@ excerpt: "In 2025, the beloved shojo manga Hanazakari no Kimitachi e is finally 
 
 <h2 id="what-is-hanazakari-no-kimitachi-e">What Is Hanazakari no Kimitachi e?</h2>
 
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/6f8a40c80614c5981b2b73e47f64a9bc.png" alt="" class="wp-image-722"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/6f8a40c80614c5981b2b73e47f64a9bc.jpg" alt="" class="wp-image-722"/></figure>
 
 <p><em>Hanazakari no Kimitachi e</em> (花ざかりの君たちへ) is a shojo manga by Hisaya Nakajo, serialized from 1996 to 2004 in <em>Hana to Yume</em> magazine. With over 17 million copies sold, it became a massive hit across Japan and Asia.</p>
 
@@ -54,13 +54,13 @@ excerpt: "In 2025, the beloved shojo manga Hanazakari no Kimitachi e is finally 
 
 <h2 id="2025-finally-the-first-anime-adaptation">2025: Finally, the First Anime Adaptation</h2>
 
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/002ff346c43cbf8dd63c5df962e3a53f.png" alt="" class="wp-image-723"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/002ff346c43cbf8dd63c5df962e3a53f.jpg" alt="" class="wp-image-723"/></figure>
 
 <p>Nearly 20 years after the manga concluded—it's finally getting an anime. The cast features rising voice actors, and a teaser PV has already been released.</p>
 
 <p>Notably, the original author Hisaya Nakajo passed away in 2023. This anime adaptation is also a tribute to her legacy and the fans who never stopped loving the series.</p>
 
-<figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/05/d530ce553a330488c5100145c4c80f3d.png" alt="" class="wp-image-724"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/05/d530ce553a330488c5100145c4c80f3d.jpg" alt="" class="wp-image-724"/></figure>
 
 <p>Back when this drama aired 20 years ago, I was in my early 30s—completely absorbed in playing Final Fantasy XI. Now here I am in my 50s, looking up what "Hanakimi" was actually about. Life is funny like that.</p>
 
@@ -68,7 +68,7 @@ excerpt: "In 2025, the beloved shojo manga Hanazakari no Kimitachi e is finally 
 
 <h2 id="a-note-to-the-reader">A Note to the Reader</h2>
 
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/6f3a1668148111d31c0541d24ae55165.png" alt="" class="wp-image-725"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/6f3a1668148111d31c0541d24ae55165.jpg" alt="" class="wp-image-725"/></figure>
 
 <p>If you're like me—you've heard the name but never really explored the series—I hope this post gives you a gentle nudge to check it out when the anime premieres.</p>
 
@@ -80,7 +80,7 @@ excerpt: "In 2025, the beloved shojo manga Hanazakari no Kimitachi e is finally 
 
 <blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
 <ul class="wp-block-list">
-<li><a href="https://freelife50.com/i-didnt-even-watch-it-but-i-cried-anyway-a-50-something-loners-story-en/">I Didnt Even Watch It, But I Cried Anyway  A 50-Something Loners Story</a></li>
+<li><a href="https://freelife50.com/i-didnt-even-watch-it-but-i-cried-anyway-a-50-something-loners-story-en/">I Didn't Even Watch It, But I Cried Anyway: A 50-Something Loner's Story</a></li>
 <li><a href="https://freelife50.com/a-man-in-his-50s-goes-to-see-avatar/">Avatar Movie Review: A 50-Year-Old's Honest Take — Mild Emotions, Rich Experience</a></li>
-<li><a href="https://freelife50.com/this-is-a-quiet-essay-about-rediscovering-passion-in-your-50s-en/">This is a quiet essay about rediscovering passion in your 50s, inspired by a random anime moment. If youve ever wondered if its too late to start overmaybe this story is for you.</a></li>
+<li><a href="https://freelife50.com/this-is-a-quiet-essay-about-rediscovering-passion-in-your-50s-en/">Rediscovering Passion in Your 50s Through a Random Anime Moment</a></li>
 </ul></blockquote>

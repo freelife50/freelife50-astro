@@ -5,8 +5,8 @@ slug: "the-50s-decision-im-not-worth-1-an-hour-why-i-chose-to-save-my-life-not-j
 categories: ["prepared-life"]
 tags: ["automation", "bank-auto-debit", "financial-wellness", "life-in-your-50s", "mental-clarity"]
 lang: "en"
-eyecatch: "/images/wp-content/uploads/2025/04/3e0fc0805b93a0cf6e6c93a1d839ef3d.png"
-sns_image_url: "/images/wp-content/uploads/2025/04/3e0fc0805b93a0cf6e6c93a1d839ef3d.png"
+eyecatch: "/images/wp-content/uploads/2025/04/3e0fc0805b93a0cf6e6c93a1d839ef3d.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/04/3e0fc0805b93a0cf6e6c93a1d839ef3d.jpg"
 excerpt: "From saving money to saving time, mental energy, and peace of mind. 📖 Read Time: Approx. 12 minutes 💡 Who This Article"
 ---
 

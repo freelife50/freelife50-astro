@@ -1,5 +1,5 @@
 ---
-title: "Back Pain, Leeches, and Morning Ramen  A Fully Loaded Children's Day Hike"
+title: "Back Pain, Leeches, and Morning Ramen: A Children's Day Hike"
 date: "2025-05-05"
 slug: "back-pain-leeches-and-morning-ramen-a-fully-loaded-childrens-day-hike-en"
 categories: ["healing-walks"]
@@ -22,7 +22,7 @@ excerpt: "🍜Back Pain, Leeches, and Morning Ramen – A Fully Loaded Children'
 <p>🕒 About 2 minutes to read.</p>
 <p>🍜Back Pain, Leeches, and Morning Ramen – A Fully Loaded Children's Day Hike</p>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/9a554d41d808f8f2014d73e20c0fe656.png" alt="" class="wp-image-376"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/05/9a554d41d808f8f2014d73e20c0fe656.jpg" alt="" class="wp-image-376"/></figure>
 
 <p><em>Before the hike, for some reason, I had morning ramen.<br>Not just one bowl—two extra servings of noodles and rice on the side.<br>It was the ultimate guilty full course.<br>My heart felt satisfied, but my body was weighed down.</em></p>
 
@@ -45,7 +45,7 @@ excerpt: "🍜Back Pain, Leeches, and Morning Ramen – A Fully Loaded Children'
 
 <figure class="wp-block-image aligncenter size-large is-resized"><img src="/images/wp-content/uploads/2025/05/PXL_20250505_014954307-scaled.jpg" alt="" class="wp-image-381" style="width:444px;height:auto"/></figure>
 
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/image-4.png" alt="" class="wp-image-382"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/image-4.jpg" alt="" class="wp-image-382"/></figure>
 
 <p><em>At the summit, a cool breeze swept over us.<br>I suddenly noticed—“Wait, my back… it feels a bit better?”<br>Was it shock therapy? Just mental? Or maybe, moving really helped?</em></p>
 

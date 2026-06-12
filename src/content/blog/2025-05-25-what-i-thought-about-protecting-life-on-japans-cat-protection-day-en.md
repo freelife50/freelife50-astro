@@ -1,13 +1,13 @@
 ---
-title: "What I Thought About Protecting Life on Japans Cat Protection Day"
+title: "What Japan's Cat Protection Day Made Me Think About Life"
 date: "2025-05-25"
 slug: "what-i-thought-about-protecting-life-on-japans-cat-protection-day-en"
 categories: ["life-with-momiji"]
 tags: ["essay", "cat", "protection", "day", "family"]
-eyecatch: "/images/wp-content/uploads/2025/05/0fbf91c99d128435aa9d71dd6c4eac8a.png"
-sns_image_url: "/images/wp-content/uploads/2025/05/0fbf91c99d128435aa9d71dd6c4eac8a.png"
+eyecatch: "/images/wp-content/uploads/2025/05/0fbf91c99d128435aa9d71dd6c4eac8a.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/05/0fbf91c99d128435aa9d71dd6c4eac8a.jpg"
 lang: "en"
-excerpt: "What I Thought About “Protecting Life” on Japan’s Cat Protection Day— For Sakura Then, and for Momiji Now"
+excerpt: "A personal reflection on protecting life, remembering Sakura, and caring for Momiji now."
 ---
 <h2 id="main-content">Main Text</h2>
 
@@ -72,7 +72,7 @@ excerpt: "What I Thought About “Protecting Life” on Japan’s Cat Protection
 
 <p>People in those days didn’t take life lightly.<br>They were simply forced to make hard choices—out of survival, not cruelty.</p>
 
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/aae975acca508bedccf74e1321da7ffe.png" alt="" class="wp-image-1071"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/aae975acca508bedccf74e1321da7ffe.jpg" alt="" class="wp-image-1071"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
@@ -124,7 +124,7 @@ excerpt: "What I Thought About “Protecting Life” on Japan’s Cat Protection
 
 <p>Thank you, Momiji, for being with me.<br>Just that alone makes this ordinary day feel a little warmer.</p>
 
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/8c4ccc51f341d9954d5614731eec831c.png" alt="" class="wp-image-1067"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/8c4ccc51f341d9954d5614731eec831c.jpg" alt="" class="wp-image-1067"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 

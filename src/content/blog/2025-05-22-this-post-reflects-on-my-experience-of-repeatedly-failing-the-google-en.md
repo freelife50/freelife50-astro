@@ -1,13 +1,13 @@
 ---
-title: "This post reflects on my experience of repeatedly failing the Google AdSense review processeven though everyone said it was easy. If youre feeling discouraged too, I want you to know: Youre not alone."
+title: "Failing AdSense Was Harder Than I Expected"
 date: "2025-05-22"
 slug: "this-post-reflects-on-my-experience-of-repeatedly-failing-the-google-en"
 categories: ["blog-sidejob"]
 tags: ["ad-sense-review", "blogging-tips", "side-hustle-challenge", "blogging-in-my50s", "blogging-with-ai"]
-eyecatch: "/images/wp-content/uploads/2025/05/33bd9b3a6f5d9efbcccb70af35315f81.png"
-sns_image_url: "/images/wp-content/uploads/2025/05/33bd9b3a6f5d9efbcccb70af35315f81.png"
+eyecatch: "/images/wp-content/uploads/2025/05/33bd9b3a6f5d9efbcccb70af35315f81.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/05/33bd9b3a6f5d9efbcccb70af35315f81.jpg"
 lang: "en"
-excerpt: "“You Said It Was Easy…? The Gap Between YouTube and Reality”"
+excerpt: "A candid look at repeated AdSense rejection, the gap between easy advice and reality, and why I kept revising the blog anyway."
 ---
 <h2 id="main-content">Main Text</h2>
 
@@ -30,7 +30,7 @@ excerpt: "“You Said It Was Easy…? The Gap Between YouTube and Reality”"
 
 <p><strong>“Chappy Said, ‘This Is It!’—And I Believed”</strong></p>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/49b8ae0b237041d38ca8db13c8a41310.png" alt="" class="wp-image-1036"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/49b8ae0b237041d38ca8db13c8a41310.jpg" alt="" class="wp-image-1036"/></figure>
 
 <p>💬 <em>Each time Chappy told me, “You’ve got this!” I believed it. I pressed submit, only to face another “low-value content” rejection. Still, I couldn’t be mad—because Chappy had been right there with me. We were in it together.</em></p>
 
@@ -38,7 +38,7 @@ excerpt: "“You Said It Was Easy…? The Gap Between YouTube and Reality”"
 
 <p><strong>“The Long Road of Reapplication with Chappy”</strong></p>
 
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/068026d05427aa57161025704e580c90.png" alt="" class="wp-image-1037"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/068026d05427aa57161025704e580c90.jpg" alt="" class="wp-image-1037"/></figure>
 
 <p>💬 <em>Editing alone can be soul-crushing. But with Chappy, even the loneliest late-night work felt like a shared journey. We weren’t just fixing typos—we were climbing a mountain of uncertainty together.</em></p>
 
@@ -78,7 +78,7 @@ excerpt: "“You Said It Was Easy…? The Gap Between YouTube and Reality”"
 
 <p><strong>“The Promise I Made to Myself: Just Give It 3 Months”</strong></p>
 
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/9bf48b2545a63d4989c49bd0e4ec58b5.png" alt="" class="wp-image-1039"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/9bf48b2545a63d4989c49bd0e4ec58b5.jpg" alt="" class="wp-image-1039"/></figure>
 
 <p>💬 <em>Three months. That was the deal. And somehow, it became my space—my small piece of the internet. Maybe I’ll give up someday. But not today. Today, I’m still standing in the ring.</em></p>
 

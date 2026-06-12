@@ -5,8 +5,8 @@ slug: "corewarm-and-the-quiet-heat-a-belly-wrap-journey-in-your-50s"
 categories: ["prepared-life"]
 tags: ["core-warm", "belly-wrap", "thermal-wellness", "midlife-health", "over50wellness"]
 lang: "en"
-eyecatch: "/images/wp-content/uploads/2025/06/image-8.png"
-sns_image_url: "/images/wp-content/uploads/2025/06/image-8.png"
+eyecatch: "/images/wp-content/uploads/2025/06/image-8.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/06/image-8.jpg"
 excerpt: "CoreWarm belly wrap (haramaki) review for men. Japanese thermal underwear for weight loss support, cold sensitivity, and daily comfort. Real results f"
 ---
 
@@ -54,7 +54,7 @@ excerpt: "CoreWarm belly wrap (haramaki) review for men. Japanese thermal underw
 
 <h2 id="chapter-1-summer-beer-and-my-betraying-s" class="wp-block-heading"><strong>🧩 Chapter 1: Summer, Beer, and My Betraying Stomach</strong></h2>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/image-2-2.png" alt="" class="wp-image-1845"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/image-2-2.jpg" alt="" class="wp-image-1845"/></figure>
 
 <p>Every night, I open a cold beer with a sigh of relief.<br>And every morning, my stomach punishes me for it.</p>
 
@@ -78,7 +78,7 @@ excerpt: "CoreWarm belly wrap (haramaki) review for men. Japanese thermal underw
 
 <h2 id="chapter-2-one-layer-whole-body--the-powe" class="wp-block-heading"><strong>🔥 Chapter 2: One Layer, Whole Body — The Power of Warmth</strong></h2>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/image-1-2.png" alt="" class="wp-image-1846"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/image-1-2.jpg" alt="" class="wp-image-1846"/></figure>
 
 <p>At first, I thought belly wraps were just for old folks.</p>
 
@@ -98,7 +98,7 @@ excerpt: "CoreWarm belly wrap (haramaki) review for men. Japanese thermal underw
 
 <h2 id="chapter-3-choosing-the-right-wrap-not-yo" class="wp-block-heading"><strong>🧵 Chapter 3: Choosing the Right Wrap (Not Your Grandpa’s Version)</strong></h2>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/image-3-1.png" alt="" class="wp-image-1848"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/image-3-1.jpg" alt="" class="wp-image-1848"/></figure>
 
 <p>Let’s be honest—“belly wrap” doesn’t sound cool.<br>It brings to mind fuzzy wool, outdated patterns, and the faint smell of menthol.</p>
 
@@ -132,7 +132,7 @@ excerpt: "CoreWarm belly wrap (haramaki) review for men. Japanese thermal underw
 
 <h2 id="chapter-4-when-to-wrap-and-when-not-to" class="wp-block-heading"><strong>⏱️ Chapter 4: When to Wrap (And When Not To)</strong></h2>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/image-5-1.png" alt="" class="wp-image-1849"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/image-5-1.jpg" alt="" class="wp-image-1849"/></figure>
 
 <p>At first, I thought I had to wear it every day.<br>Like brushing your teeth, or taking vitamins.</p>
 
@@ -152,7 +152,7 @@ excerpt: "CoreWarm belly wrap (haramaki) review for men. Japanese thermal underw
 
 <h2 id="chapter-5-a-tired-gut-and-my-quiet-resta" class="wp-block-heading"><strong>💡 Chapter 5: A Tired Gut, and My Quiet Restart</strong></h2>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/image-6-1.png" alt="" class="wp-image-1850"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/image-6-1.jpg" alt="" class="wp-image-1850"/></figure>
 
 <p>For years, I’ve been on shaky terms with my stomach.<br>A little too much stress, a little too much beer, and the whole system goes off track.</p>
 
@@ -170,7 +170,7 @@ excerpt: "CoreWarm belly wrap (haramaki) review for men. Japanese thermal underw
 
 <h2 id="chapter-6-warm-core-quiet-mind--a-soft-m" class="wp-block-heading"><strong>🧠 Chapter 6: Warm Core, Quiet Mind — A Soft Mental Reset</strong></h2>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/image-7-1.png" alt="" class="wp-image-1851"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/image-7-1.jpg" alt="" class="wp-image-1851"/></figure>
 
 <p>There are mornings when I just… don’t feel like facing the day.<br>No big reason. Just a heaviness.<br>A fog that settles over my thoughts before I even get out of bed.</p>
 
@@ -192,7 +192,7 @@ excerpt: "CoreWarm belly wrap (haramaki) review for men. Japanese thermal underw
 
 <h2 id="chapter-7-not-wrapped-yet--but-already-c" class="wp-block-heading"><strong>🧣 Chapter 7: Not Wrapped Yet — But Already Changed</strong></h2>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/image-8-1.png" alt="" class="wp-image-1852"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/image-8-1.jpg" alt="" class="wp-image-1852"/></figure>
 
 <p>The belly wrap hasn’t arrived yet.<br>I ordered it online last night, half serious, half curious.</p>
 

@@ -5,8 +5,8 @@ slug: "only-three-pitches-left-and-i-still-throw"
 categories: ["society-issues-thoughts"]
 tags: ["anime", "challenge", "in-your-50s", "life-lesson", "limited-time"]
 lang: "en"
-eyecatch: "/images/wp-content/uploads/2025/06/Gemini_Generated_Image_vr1jbsvr1jbsvr1j.png"
-sns_image_url: "/images/wp-content/uploads/2025/06/Gemini_Generated_Image_vr1jbsvr1jbsvr1j.png"
+eyecatch: "/images/wp-content/uploads/2025/06/Gemini_Generated_Image_vr1jbsvr1jbsvr1j.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/06/Gemini_Generated_Image_vr1jbsvr1jbsvr1j.jpg"
 excerpt: "A Story of Midlife, Hope, and a Manga That Helped Me Begin Again 🕐 Estimated reading time: about 6 minutes ⛳ Purpose Th"
 ---
 
@@ -50,7 +50,7 @@ excerpt: "A Story of Midlife, Hope, and a Manga That Helped Me Begin Again 🕐 
 
 <h2 id="chapter-1-why-we-can-still-stand--even-i" class="wp-block-heading">🟦 Chapter 1: Why We Can Still Stand — Even If We’re No Longer Perfect</h2>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_t3h3txt3h3txt3h3.png" alt="" class="wp-image-1664"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_t3h3txt3h3txt3h3.jpg" alt="" class="wp-image-1664"/></figure>
 
 <p>Kiriyama Fuse isn’t a “complete” pitcher anymore.<br>He can only throw three pitches a day — the damage from his youth never fully healed.<br>He’s not as strong or precise as he used to be.<br>But still, he gets on the mound and throws with everything he’s got.</p>
 
@@ -86,7 +86,7 @@ excerpt: "A Story of Midlife, Hope, and a Manga That Helped Me Begin Again 🕐 
 
 <h2 id="chapter-2-this-isnt-a-do-over--its-me-th" class="wp-block-heading">🟦 Chapter 2: This Isn’t a Do-Over — It’s Me, Throwing as I Am Now</h2>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_uozn0duozn0duozn.png" alt="" class="wp-image-1666"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_uozn0duozn0duozn.jpg" alt="" class="wp-image-1666"/></figure>
 
 <p>Kiriyama got back on the mound because he felt like someone still needed him.<br>I think it was Captain Kohori’s words that lit that fire in him.</p>
 
@@ -108,7 +108,7 @@ excerpt: "A Story of Midlife, Hope, and a Manga That Helped Me Begin Again 🕐 
 
 <h2 id="chapter-3-one-pitch-one-heart--its-not-a" class="wp-block-heading">🟦 Chapter 3: One Pitch, One Heart — It’s Not About How Much, But What’s Inside</h2>
 
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/06/734d911fcfdc79c35b7d88d35baaf3e0.png" alt="" class="wp-image-1668"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/06/734d911fcfdc79c35b7d88d35baaf3e0.jpg" alt="" class="wp-image-1668"/></figure>
 
 <p>Kiriyama can only throw three pitches a day.<br>But those few throws — they change the flow of the entire game.<br>And honestly, that hit me right in the heart.</p>
 
@@ -140,7 +140,7 @@ excerpt: "A Story of Midlife, Hope, and a Manga That Helped Me Begin Again 🕐 
 
 <h2 id="chapter-4-the-words-that-got-me-to-stand" class="wp-block-heading">🟨 Chapter 4: The Words That Got Me to Stand Again</h2>
 
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_b921ydb921ydb921.png" alt="" class="wp-image-1669"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_b921ydb921ydb921.jpg" alt="" class="wp-image-1669"/></figure>
 
 <p>I once heard something on YouTube.</p>
 
@@ -177,7 +177,7 @@ excerpt: "A Story of Midlife, Hope, and a Manga That Helped Me Begin Again 🕐 
 
 <h2 id="chapter-5-today-i-threw-one-more-pitch" class="wp-block-heading">🟦 Chapter 5: Today, I Threw One More Pitch</h2>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/cedeac9e3139deb8e673118f2dc4197a.png" alt="" class="wp-image-1671"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/cedeac9e3139deb8e673118f2dc4197a.jpg" alt="" class="wp-image-1671"/></figure>
 
 <p>Not every day feels good.<br>Sometimes I feel like I’m getting nowhere.<br>Sometimes no one responds, no one sees.</p>
 
@@ -208,7 +208,7 @@ excerpt: "A Story of Midlife, Hope, and a Manga That Helped Me Begin Again 🕐 
 
 <h2 id="conclusion-what-will-you-put-into-your-l" class="wp-block-heading">🟧 Conclusion: What Will You Put Into Your Last Three Pitches?</h2>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/2afd603de1b0b7b886c298d8d3ec0e89-1.png" alt="" class="wp-image-1676"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/06/2afd603de1b0b7b886c298d8d3ec0e89-1.jpg" alt="" class="wp-image-1676"/></figure>
 
 <p>To be honest, I started blogging because it seemed like an easy side hustle.<br>But before I knew it, it became a way to face myself.</p>
 

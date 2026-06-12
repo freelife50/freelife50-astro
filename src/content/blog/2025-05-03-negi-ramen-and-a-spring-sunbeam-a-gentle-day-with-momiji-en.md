@@ -1,5 +1,5 @@
 ---
-title: "Negi Ramen and a Spring Sunbeam  A Gentle Day with Momiji."
+title: "Negi Ramen and a Spring Sunbeam: A Gentle Day with Momiji"
 date: "2025-05-03"
 slug: "negi-ramen-and-a-spring-sunbeam-a-gentle-day-with-momiji-en"
 categories: ["life-with-momiji"]
@@ -57,7 +57,7 @@ excerpt: "Negi Ramen and a Spring Sunbeam – A Gentle Day with Momiji."
 
 <blockquote class="wp-block-quote"><p><strong>Related Articles</strong></p>
 <ul class="wp-block-list">
-<li><a href="https://freelife50.com/what-i-thought-about-protecting-life-on-japans-cat-protection-day-en/">What I Thought About Protecting Life on Japans Cat Protection Day</a></li>
+<li><a href="https://freelife50.com/what-i-thought-about-protecting-life-on-japans-cat-protection-day-en/">What Japan's Cat Protection Day Made Me Think About Life</a></li>
 <li><a href="https://freelife50.com/grands-grain-free-dog-food-review-shiba-inu-en/">I Did the Research for My Shiba Inu: Is GRANDS Grain-Free Dog Food Worth It?</a></li>
 <li><a href="https://freelife50.com/momiji-rabies-vaccine-en/">Momiji Knew. Taking My Shiba Inu for Her Annual Rabies Vaccine</a></li>
 </ul></blockquote>

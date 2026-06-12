@@ -1,11 +1,11 @@
 ---
-title: "What is Tokimeki Memorial? I didnt grow up with itbut I got lost in Vanadiel."
+title: "What Is Tokimeki Memorial? I Didn't Grow Up With It, But I Got Lost in Vana'diel"
 date: "2025-05-08"
 slug: "what-is-tokimeki-memorial-i-didnt-grow-up-with-itbut-i-got-lost-in-en"
 categories: ["shumi-taiken-etc"]
 tags: ["ときめきメモリアル", "ファイナルファンタジーXI", "団塊ジュニア", "Z世代との違い", "青春とゲーム"]
-eyecatch: "/images/wp-content/uploads/2025/05/e107fc29eb554a9a3ef7f82b8148868f.png"
-sns_image_url: "/images/wp-content/uploads/2025/05/e107fc29eb554a9a3ef7f82b8148868f.png"
+eyecatch: "/images/wp-content/uploads/2025/05/e107fc29eb554a9a3ef7f82b8148868f.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/05/e107fc29eb554a9a3ef7f82b8148868f.jpg"
 lang: "en"
 excerpt: "What is “Tokimeki Memorial”? I didn’t grow up with it—but I got lost in Vana’diel."
 ---

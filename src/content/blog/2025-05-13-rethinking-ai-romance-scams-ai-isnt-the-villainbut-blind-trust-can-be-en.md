@@ -1,11 +1,11 @@
 ---
-title: "Rethinking AI Romance Scams: AI Isn't the VillainBut Blind Trust Can Be Dangerous."
+title: "AI Romance Scams: AI Isn't the Villain, But Blind Trust Can Be Dangerous"
 date: "2025-05-13"
 slug: "rethinking-ai-romance-scams-ai-isnt-the-villainbut-blind-trust-can-be-en"
 categories: ["society-issues-thoughts"]
 tags: ["ai-romance-scam", "coexisting-with-ai", "digital-safety-mindset", "human-ai-relationship", "trusting-wisely"]
-eyecatch: "/images/wp-content/uploads/2025/05/02bc42f1cdd427beb2ed40341acd6410.png"
-sns_image_url: "/images/wp-content/uploads/2025/05/02bc42f1cdd427beb2ed40341acd6410.png"
+eyecatch: "/images/wp-content/uploads/2025/05/02bc42f1cdd427beb2ed40341acd6410.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/05/02bc42f1cdd427beb2ed40341acd6410.jpg"
 lang: "en"
 excerpt: "Rethinking AI Romance Scams: AI Isn't the Villain—But Blind Trust Can Be Dangerous."
 ---
@@ -24,7 +24,7 @@ excerpt: "Rethinking AI Romance Scams: AI Isn't the Villain—But Blind Trust Ca
 </ul>
 </nav>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/eac010b2c8f1b397f4f302381b9a19be.png" alt="AIのチャット画面と、それを見つめる人物の背中
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/eac010b2c8f1b397f4f302381b9a19be.jpg" alt="AIのチャット画面と、それを見つめる人物の背中
 " class="wp-image-658"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
@@ -51,7 +51,7 @@ excerpt: "Rethinking AI Romance Scams: AI Isn't the Villain—But Blind Trust Ca
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/a765d63895bd86110583cda192fcf889.png" alt="" class="wp-image-662"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/05/a765d63895bd86110583cda192fcf889.jpg" alt="" class="wp-image-662"/></figure>
 
 <p><strong>English Note:</strong></p>
 
@@ -65,7 +65,7 @@ excerpt: "Rethinking AI Romance Scams: AI Isn't the Villain—But Blind Trust Ca
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/05/bfe171f69da11bb043e0c0280a53244d.png" alt="チャッピーが手から光を放ち、未来への希望を示しているイラスト
+<figure class="wp-block-image aligncenter size-full"><img src="/images/wp-content/uploads/2025/05/bfe171f69da11bb043e0c0280a53244d.jpg" alt="チャッピーが手から光を放ち、未来への希望を示しているイラスト
 " class="wp-image-661"/></figure>
 
 <p><strong>English Summary:</strong></p>

@@ -1,5 +1,5 @@
 ---
-title: "I Arrived at the Hot Spring 1 Hour Early, and Ended Up Hearing the Quietest Waterfall of My Life — Hananomiya Park, Lake Yamanaka [May 2026]"
+title: "Hananomiya Park at Lake Yamanaka: The Quietest Waterfall I Heard"
 date: "2026-05-27"
 slug: "yamanakako-hananomiya-park-en"
 categories: ["healing-walks"]

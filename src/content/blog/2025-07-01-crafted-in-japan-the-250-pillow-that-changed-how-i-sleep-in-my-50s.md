@@ -5,8 +5,8 @@ slug: "crafted-in-japan-the-250-pillow-that-changed-how-i-sleep-in-my-50s"
 categories: ["prepared-life"]
 tags: ["sleep-better", "luxury-pillow", "made-in-japan", "neck-pain-relief", "back-pain-support"]
 lang: "en"
-eyecatch: "/images/wp-content/uploads/2025/07/image.png"
-sns_image_url: "/images/wp-content/uploads/2025/07/image.png"
+eyecatch: "/images/wp-content/uploads/2025/07/image.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/07/image.jpg"
 excerpt: "Honest review of a premium Japanese pillow for stiff necks and better sleep. Is a $250 pillow worth it for a 50-year-old? Real experience, pros and co"
 ---
 
@@ -53,7 +53,7 @@ excerpt: "Honest review of a premium Japanese pillow for stiff necks and better 
 
 <h2 id="chapter-1-i-didnt-expect-much-from-a-pil" class="wp-block-heading"><strong>🛏️ Chapter 1: I Didn't Expect Much from a Pillow—Until I Found This One</strong></h2>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/07/image-1.png" alt="" class="wp-image-1866"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/07/image-1.jpg" alt="" class="wp-image-1866"/></figure>
 
 <p>I’ve always been the kind of guy who thinks,<br><strong>“A pillow’s a pillow. As long as I can sleep, who cares?”</strong></p>
 
@@ -79,7 +79,7 @@ excerpt: "Honest review of a premium Japanese pillow for stiff necks and better 
 
 <h2 id="chapter-2-what-makes-the-makura-special" class="wp-block-heading"><strong>Chapter 2: What Makes THE MAKURA Special?</strong></h2>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/07/image-2.png" alt="" class="wp-image-1868"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/07/image-2.jpg" alt="" class="wp-image-1868"/></figure>
 
 <p>Let’s get one thing straight—this isn’t just a fancy pillow with a big price tag.<br>It’s got real reasons behind that ¥40,000.</p>
 
@@ -111,7 +111,7 @@ excerpt: "Honest review of a premium Japanese pillow for stiff necks and better 
 
 <h2 id="chapter-3-still-not-mine--but-somehow-i-" class="wp-block-heading"><strong>Chapter 3: Still Not Mine — But Somehow, I Feel a Shift Coming</strong></h2>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/07/image-3.png" alt="" class="wp-image-1869"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/07/image-3.jpg" alt="" class="wp-image-1869"/></figure>
 
 <p>To be honest, I haven’t bought <em>THE MAKURA</em> yet.</p>
 
@@ -178,7 +178,7 @@ excerpt: "Honest review of a premium Japanese pillow for stiff necks and better 
 
 <h2 id="chapter-4-maybe-its-time--to-treat-sleep" class="wp-block-heading"><strong>Chapter 4: Maybe It’s Time — To Treat Sleep Like It Matters</strong></h2>
 
-<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/07/image-4.png" alt="" class="wp-image-1870"/></figure>
+<figure class="wp-block-image size-full"><img src="/images/wp-content/uploads/2025/07/image-4.jpg" alt="" class="wp-image-1870"/></figure>
 
 <p>I never used to think much about pillows.</p>
 

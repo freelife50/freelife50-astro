@@ -5,8 +5,8 @@ slug: "in-my-50s-i-asked-myself-is-this-really-it-and-took-a-step-with-blogging"
 categories: ["blog-sidejob", "society-issues-thoughts"]
 tags: ["blogging-with-ai", "emotional-wellness", "life-in-your-50s", "living-with-chatgpt", "midlife-reflection"]
 lang: "en"
-eyecatch: "/images/wp-content/uploads/2025/06/Gemini_Generated_Image_v9fhnsv9fhnsv9fh.png"
-sns_image_url: "/images/wp-content/uploads/2025/06/Gemini_Generated_Image_v9fhnsv9fhnsv9fh.png"
+eyecatch: "/images/wp-content/uploads/2025/06/Gemini_Generated_Image_v9fhnsv9fhnsv9fh.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/06/Gemini_Generated_Image_v9fhnsv9fhnsv9fh.jpg"
 excerpt: "”Even with More Free Time, Something Felt Missing — Why I Chose to Take Action in My 50s” 🕐 This article takes about 6"
 ---
 
@@ -34,13 +34,13 @@ excerpt: "”Even with More Free Time, Something Felt Missing — Why I Chose to
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<figure class="wp-block-image aligncenter"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_9cgcrf9cgcrf9cgc.png" alt="" class="wp-image-1635"/></figure>
+<figure class="wp-block-image aligncenter"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_9cgcrf9cgcrf9cgc.jpg" alt="" class="wp-image-1635"/></figure>
 
 <p>One day, I realized—I didn’t have anything to do on my day off anymore.<br>Back then, I was always busy with work or things around the house.<br>When the kids were little, weekends were filled with park visits and errands.<br>But now, the kids have moved out, and my wife enjoys her own time.<br>As for me—<br>I write a bit of blog, take a walk in the park,<br>and by noon, I’m cracking open a beer.<br>After a few days like that, it suddenly hit me:<br>“…Is this really how I want to spend my life?”<br>I was supposed to have more freedom, but my heart still felt cloudy.<br>It wasn’t anxiety or despair.<br>Just a quiet weight building deep in my chest—a sense of nothingness.<br>Even when I laughed at TV or felt the breeze on my walk,<br>there was this subtle hole in my heart.<br>I didn’t reach out for help.<br>I didn’t vent on social media.<br>I just sat with my thoughts in silence.<br>“Am I just going to keep aging like this…?”<br>“What do I want to do with the rest of my life?”<br>That was the moment I truly faced myself again.</p>
 
 <h2 id="2：why-i-chose-blogging-from-all-the-side" class="wp-block-heading"><strong>🌱 2：Why I Chose Blogging from All the Side Hustles — I Had No Money or Skills, but I Just Wanted to Try</strong></h2>
 
-<figure class="wp-block-image"><img src="/images/wp-content/uploads/2025/06/198e47a297167571457fd9189ee2d302.png" alt="" class="wp-image-1637"/></figure>
+<figure class="wp-block-image"><img src="/images/wp-content/uploads/2025/06/198e47a297167571457fd9189ee2d302.jpg" alt="" class="wp-image-1637"/></figure>
 
 <p>At first, I just had this vague feeling like, “Maybe I should start doing&nbsp;<em>something</em>…”<br>So I searched for side hustles—reselling? Video editing? Programming?<br>They all seemed complicated or expensive to start, and none of them clicked.<br>Then I found blogging.<br>All you had to do was write, and if you had a laptop, you could begin right away.<br>It didn’t cost much, and I didn’t need any special skills.<br>I thought, “Maybe… I could actually do this.”</p>
 
@@ -56,7 +56,7 @@ excerpt: "”Even with More Free Time, Something Felt Missing — Why I Chose to
 
 <h2 id="3：time-wont-wait-but-i-still-have-a-chan" class="wp-block-heading">🟧 3：<strong>Time Won’t Wait, but I Still Have a Chance — That’s What I Chose to Believe</strong></h2>
 
-<figure class="wp-block-image"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_mnoqrmmnoqrmmnoq.png" alt="" class="wp-image-1638"/></figure>
+<figure class="wp-block-image"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_mnoqrmmnoqrmmnoq.jpg" alt="" class="wp-image-1638"/></figure>
 
 <p>I don’t have endless time like I did when I was younger.<br>If there’s something I want to do, I need to do it while my body still works.<br>I’m in my 50s now.<br>I can still go wherever I want on my own two feet.<br>…Okay, my brain’s a little shakier these days (lol), but I’ll manage.</p>
 
@@ -66,7 +66,7 @@ excerpt: "”Even with More Free Time, Something Felt Missing — Why I Chose to
 
 <h2 id="4：i-thought-i-was-writing-to-help-others" class="wp-block-heading">🟧 4：<strong>I Thought I Was Writing to Help Others, but Maybe I Was Really Writing for Myself</strong></h2>
 
-<figure class="wp-block-image aligncenter"><img src="/images/wp-content/uploads/2025/06/56bfacb4256e792a6a12dd00c52ecd9a.png" alt="" class="wp-image-1640"/></figure>
+<figure class="wp-block-image aligncenter"><img src="/images/wp-content/uploads/2025/06/56bfacb4256e792a6a12dd00c52ecd9a.jpg" alt="" class="wp-image-1640"/></figure>
 
 <p>When I decided to start a blog, I figured—if I’m doing this, might as well try to monetize it.<br>I applied for Google AdSense and even wrote articles based on trending topics.<br>But at some point, I caught myself wondering:<br>“Is this really what I want to write about?”<br>Researching topics I didn’t care much about and putting together words—it just didn’t feel right.</p>
 
@@ -76,7 +76,7 @@ excerpt: "”Even with More Free Time, Something Felt Missing — Why I Chose to
 
 <h2 id="5：i-hope-this-feeling-reaches-someone" class="wp-block-heading"><strong>🟪 5：I Hope This Feeling Reaches Someone</strong></h2>
 
-<figure class="wp-block-image"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_w3bsuhw3bsuhw3bs.png" alt="" class="wp-image-1641"/></figure>
+<figure class="wp-block-image"><img src="/images/wp-content/uploads/2025/06/Gemini_Generated_Image_w3bsuhw3bsuhw3bs.jpg" alt="" class="wp-image-1641"/></figure>
 
 <p>If there’s someone out there feeling the same as I do—<br>like there’s “nothing left to do”…<br>If you’re in your 50s and hesitating before taking a step forward—<br>I may not have anything grand to say,<br>but at least I can say this:<br>“I felt the same. And honestly, I still feel lost sometimes.”</p>
 

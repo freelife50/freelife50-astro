@@ -1,5 +1,5 @@
 ---
-title: "🏃‍♂️ Getting Back into Training for My Health Check!"
+title: "Getting Back Into Training Before My Health Check"
 date: "2025-04-17"
 slug: "getting-back-into-training-for-my-health-check-en"
 categories: ["prepared-life"]

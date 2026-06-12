@@ -1,5 +1,5 @@
 ---
-title: "I Waited Four Hours at the Sagamihara Giant Kite Festival. My Wife Went Home First, My Face Turned Red, and It Was Still Worth It"
+title: "Four Hours at the Sagamihara Giant Kite Festival"
 date: "2026-05-06"
 slug: "sagamihara-oodako-matsuri-2025-en"
 categories: ["healing-walks"]

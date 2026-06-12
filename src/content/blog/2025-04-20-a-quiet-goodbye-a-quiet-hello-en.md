@@ -4,10 +4,10 @@ date: "2025-04-20"
 slug: "a-quiet-goodbye-a-quiet-hello-en"
 categories: ["life-with-momiji"]
 tags: ["memories-of-sakura", "shiba-inu-momiji", "beyond-pet-loss", "cycle-of-life-and-love", "quiet-new-beginning"]
-eyecatch: "/images/wp-content/uploads/2025/04/image-19.png"
-sns_image_url: "/images/wp-content/uploads/2025/04/image-19.png"
+eyecatch: "/images/wp-content/uploads/2025/04/image-19.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/04/image-19.jpg"
 lang: "en"
-excerpt: "Through loss comes new light.This is a quiet story of parting, healing, and the warmth that returns with time."
+excerpt: "Through loss comes new light. A quiet story of parting, healing, and the warmth that returns with time."
 ---
 <h2 id="main-content">Main Text</h2>
 
@@ -24,10 +24,10 @@ excerpt: "Through loss comes new light.This is a quiet story of parting, healing
 
 <p>In 2023, she passed away at the age of 19.</p>
 
-<div class="wp-block-group"><div class="wp-block-columns"><div class="wp-block-column" style="flex-basis:100%"><div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/04/image-19.png" alt="" class="wp-image-106"/></figure>
+<div class="wp-block-group"><div class="wp-block-columns"><div class="wp-block-column" style="flex-basis:100%"><div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/04/image-19.jpg" alt="" class="wp-image-106"/></figure>
 </div>
 
-<div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/04/image-20.png" alt="" class="wp-image-107"/></figure>
+<div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/04/image-20.jpg" alt="" class="wp-image-107"/></figure>
 </div>
 </div>
 </div>
@@ -47,10 +47,10 @@ excerpt: "Through loss comes new light.This is a quiet story of parting, healing
 
 <p>A few weeks after saying goodbye to Sakura, we came across a discounted Shiba Inu left unsold at a pet store.</p>
 
-<div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/04/image-21.png" alt="" class="wp-image-108"/></figure>
+<div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/04/image-21.jpg" alt="" class="wp-image-108"/></figure>
 </div>
 
-<div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/04/image-22.png" alt="" class="wp-image-109"/></figure>
+<div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/04/image-22.jpg" alt="" class="wp-image-109"/></figure>
 </div>
 </div>
 
@@ -62,19 +62,19 @@ excerpt: "Through loss comes new light.This is a quiet story of parting, healing
 
 <p>Her first walk was in one of our favorite parks. She was nervous, tugging gently on the leash — it was all so new for her.</p>
 
-<div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/04/image-23.png" alt="" class="wp-image-110"/></figure>
+<div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/04/image-23.jpg" alt="" class="wp-image-110"/></figure>
 </div>
 
 <div class="wp-block-column"><p></p>
 
-<div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/04/image-25.png" alt="" class="wp-image-112"/></figure>
+<div class="wp-block-columns"><div class="wp-block-column"><figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/04/image-25.jpg" alt="" class="wp-image-112"/></figure>
 </div>
 
 <div class="wp-block-column"><p></p>
 
 <p></p>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/04/image-26.png" alt="" class="wp-image-113"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/04/image-26.jpg" alt="" class="wp-image-113"/></figure>
 </div>
 </div>
 </div>
@@ -82,7 +82,7 @@ excerpt: "Through loss comes new light.This is a quiet story of parting, healing
 
 <p>Now, she’s truly one of us. She naps peacefully on her favorite beanbag, completely at ease.</p>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/04/image-27.png" alt="" class="wp-image-114"/></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2025/04/image-27.jpg" alt="" class="wp-image-114"/></figure>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 

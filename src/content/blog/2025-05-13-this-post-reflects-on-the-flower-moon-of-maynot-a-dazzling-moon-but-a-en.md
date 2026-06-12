@@ -1,13 +1,13 @@
 ---
-title: "This post reflects on the Flower Moon of Maynot a dazzling moon, but a quiet, humble one that still shines."
+title: "The Flower Moon and the Quiet Beauty of an Ordinary Night"
 date: "2025-05-13"
 slug: "this-post-reflects-on-the-flower-moon-of-maynot-a-dazzling-moon-but-a-en"
 categories: ["healing-walks"]
 tags: ["flower-moon", "full-moon-vibes", "quiet-moments", "subtle-beauty", "evening-with-dog"]
-eyecatch: "/images/wp-content/uploads/2025/05/c7c4b8e96cfebf0b8e9ec9c7d26ed477.png"
-sns_image_url: "/images/wp-content/uploads/2025/05/c7c4b8e96cfebf0b8e9ec9c7d26ed477.png"
+eyecatch: "/images/wp-content/uploads/2025/05/c7c4b8e96cfebf0b8e9ec9c7d26ed477.jpg"
+sns_image_url: "/images/wp-content/uploads/2025/05/c7c4b8e96cfebf0b8e9ec9c7d26ed477.jpg"
 lang: "en"
-excerpt: "Isn't a full moon supposed to be bright and dazzling?"
+excerpt: "A short reflection on the May Flower Moon, quiet light, and the kind of beauty that does not need to be dramatic."
 ---
 <h2 id="main-content">Main Text</h2>
 
@@ -24,7 +24,7 @@ excerpt: "Isn't a full moon supposed to be bright and dazzling?"
 
 <p><strong>Isn't a full moon supposed to be bright and dazzling?</strong></p>
 
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/c7c4b8e96cfebf0b8e9ec9c7d26ed477.png" alt="" class="wp-image-640"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/c7c4b8e96cfebf0b8e9ec9c7d26ed477.jpg" alt="" class="wp-image-640"/></figure>
 
 <p><strong>Maybe this Flower Moon is like that.</strong><br>Not loud, not showy, but quietly waiting its turn.<br>Even if no one notices, it's still there.<br>And somehow, that presence alone is enough.</p>
 
@@ -38,7 +38,7 @@ excerpt: "Isn't a full moon supposed to be bright and dazzling?"
 
 <p><strong>Kind of like my relationship with my wife.</strong></p>
 
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/6d887c91f1aece1ece3bcfa403e56f11.png" alt="" class="wp-image-641"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/6d887c91f1aece1ece3bcfa403e56f11.jpg" alt="" class="wp-image-641"/></figure>
 
 <p><strong>Maybe this Flower Moon is a lot like that.</strong><br>Nothing flashy, nothing loud. Just quietly being there.<br>Sometimes, that quiet presence makes the night feel warmer.<br>And maybe, that’s more than enough.</p>
 
@@ -52,7 +52,7 @@ excerpt: "Isn't a full moon supposed to be bright and dazzling?"
 
 <p><strong>☀️ Why not look up at the sky tonight?</strong></p>
 
-<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/6a251e674494326142c4151f4f36f34f.png" alt="" class="wp-image-642"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/images/wp-content/uploads/2025/05/6a251e674494326142c4151f4f36f34f.jpg" alt="" class="wp-image-642"/></figure>
 
 <p><strong>Something that stays quietly by your side without making a sound—</strong><br><strong>you realize it’s more important than you thought.</strong></p>
 
