@@ -267,3 +267,5 @@ excerpt: "A 50-something man, his wife, and their Shiba Inu Momiji visited Atsug
 <li><a href="/ninomiya-sodegaura-hiking-en/">A Quiet Coastal Walk in Ninomiya with My Dog</a></li>
 <li><a href="/yokohama-kodomo-shizen-park-firefly-en/">Yokohama Kodomo Shizen Park and a Quiet Nature Walk</a></li>
 </ul>
+
+<p><strong>Related:</strong> <a href="/kanagawa-dog-friendly-parks-10-en/">10 Dog-Friendly Parks &amp; Easy Hikes in Kanagawa — All Tested with My Shiba Inu</a></p>

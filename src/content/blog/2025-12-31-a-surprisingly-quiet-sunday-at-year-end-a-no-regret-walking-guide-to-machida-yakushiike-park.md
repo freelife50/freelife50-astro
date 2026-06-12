@@ -368,3 +368,5 @@ excerpt: "(Parking / Lunch / Footwear / Dog-Friendly Tips) Reading time: About 1
 <li><a href="https://freelife50.com/%e2%ad%90-a-50-year-olds-secret-sanctuary-the-sagamihara-planetarium-3-50-is-a-hidden-gem/">⭐ A 50-Year-Old’s Secret Sanctuary — The Sagamihara Planetarium ($3.50!) Is a Hidden Gem</a></li>
 </ul>
 </blockquote>
+
+<p><strong>Related:</strong> <a href="/kanagawa-dog-friendly-parks-10-en/">10 Dog-Friendly Parks &amp; Easy Hikes in Kanagawa — All Tested with My Shiba Inu</a></p>

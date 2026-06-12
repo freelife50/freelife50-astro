@@ -263,3 +263,5 @@ excerpt: "神奈川県厚木市のあつぎこどもの森公園へ、妻とも�
 <li><a href="/ninomiya-sodegaura-hiking/">二宮果樹公園から袖ヶ浦海岸へ。愛犬ともみじ色の休日</a></li>
 <li><a href="/yokohama-kodomo-shizen-park-firefly/">横浜・こども自然公園を歩いた日</a></li>
 </ul>
+
+<p><strong>あわせて読みたい：</strong><a href="/kanagawa-dog-friendly-parks-10/">神奈川の犬連れOK公園・低山10選｜柴犬と全部歩いた実測まとめ</a></p>

@@ -206,3 +206,5 @@ excerpt: "Hi, I&#8217;m Hiroshi. Lately, I&#8217;ve been dealing with some frict
 <p>If you&#8217;re in Kanagawa and need a reset, it&#8217;s free, dog-friendly, and worth half a day of your time.</p>
 
 <p>Old Japan is still here. You just have to know where to walk.</p>
+
+<p><strong>Related:</strong> <a href="/kanagawa-dog-friendly-parks-10-en/">10 Dog-Friendly Parks &amp; Easy Hikes in Kanagawa — All Tested with My Shiba Inu</a></p>
