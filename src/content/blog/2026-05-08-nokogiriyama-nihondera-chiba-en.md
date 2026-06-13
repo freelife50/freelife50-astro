@@ -1,5 +1,5 @@
 ---
-title: "Hiking Mt. Nokogiri's Nihon-ji Temple in the Fog — and Spraining My Ankle in Chiba's Gandhara"
+title: "Is Mt. Nokogiri Dog-Friendly? Nihon-ji Temple Hike Time, Difficulty & Ropeway Fees — Tested by a 50-Something"
 date: "2026-05-08"
 slug: "nokogiriyama-nihondera-chiba-en"
 categories: ["healing-walks"]
@@ -7,7 +7,7 @@ tags: ["Nokogiriyama", "Nihon-ji", "Chiba", "Momiji", "day trip", "Hell's Lookou
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/05/nokogiriyama-momiji-daibutsu.jpg"
 sns_image_url: "/images/wp-content/uploads/2026/05/nokogiriyama-sns.jpg"
-excerpt: "Mt. Nokogiriyama's Nihon-ji Temple in Chiba Prefecture — just two hours from Tokyo. Fog-covered ropeway, Japan's largest stone Buddha, Hell's Lookout, and yes, a sprained ankle in the 1,500 Rakan corridor. I hiked it all with my Shiba Inu Momiji."
+excerpt: "Can you bring your dog to Mt. Nokogiri and Nihon-ji Temple? Yes — leashed dogs are allowed on the temple grounds, and small dogs ride the ropeway for 300 yen. Hike time (2–2.5 hours), parking, fees, and how steep it really is, all tested in person with my Shiba Inu. One sprained ankle included for accuracy."
 ---
 
 <p><strong>Read time: About 8 minutes</strong></p>
@@ -38,9 +38,20 @@ excerpt: "Mt. Nokogiriyama's Nihon-ji Temple in Chiba Prefecture — just two ho
 <li>Anyone who has ever tripped on a mountain path and sprained their ankle (solidarity)</li>
 </ul>
 
-<p><strong>Bottom line upfront</strong></p>
+<p><strong>The answer first: Mt. Nokogiri with a dog, at a glance (visited May 2026)</strong></p>
 
-<p>Chiba's Gandhara is the real deal. I sprained my ankle. But I want to go back.</p>
+<figure class="wp-block-table"><table>
+<tbody>
+<tr><td><strong>Dog-friendly?</strong></td><td><strong>Yes — leashed dogs are allowed on the Nihon-ji temple grounds.</strong> The ropeway takes small dogs under 10 kg for 300 yen each way (our Shiba Inu just made the cut)</td></tr>
+<tr><td><strong>Time needed</strong></td><td><strong>2 to 2.5 hours</strong> to walk the Great Buddha, the 1,500 Rakan corridor, Hell's Lookout, the Hyakushaku Kannon, and the "Laputa Wall"</td></tr>
+<tr><td><strong>Difficulty</strong></td><td>Lots of stairs and steep, uneven stone paths. Doable in your 50s, but <strong>wear proper shoes</strong> (says the man who sprained his ankle)</td></tr>
+<tr><td><strong>Fees</strong></td><td>Ropeway round trip 1,200 yen + temple admission 700 yen</td></tr>
+<tr><td><strong>Parking</strong></td><td>Ropeway parking lot No. 1: 600 yen on weekends and holidays</td></tr>
+<tr><td><strong>Access</strong></td><td>Train: 8–9 min walk from JR Hamakanaya Station (about 2 hours from Tokyo). Car: Futtsu-Kanaya IC via the Aqua Line</td></tr>
+</tbody>
+</table></figure>
+
+<p>And the one-line verdict: <strong>Chiba's Gandhara is the real deal. I sprained my ankle. But I want to go back.</strong></p>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 

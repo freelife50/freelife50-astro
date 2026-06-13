@@ -1,5 +1,5 @@
 ---
-title: "I Went to an Architecture Exhibition, but Kept Looking at the Scenery"
+title: "Yokosuka Museum of Art: Visiting Riken Yamamoto's Seaside Masterpiece — Closure Info, Time Needed & Tips"
 date: "2026-05-19"
 slug: "riken-yamamoto-yokosuka-museum-en"
 categories: ["healing-walks"]
@@ -7,7 +7,7 @@ tags: ["Riken Yamamoto", "Yokosuka Museum of Art", "architecture", "scale models
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-eyecatch.jpg?v=20260519"
 sns_image_url: "/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-sns.jpg?v=20260519"
-excerpt: "A casual visit to the Riken Yamamoto exhibition at Yokosuka Museum of Art with my wife and our Shiba Inu, Momiji. I am no architecture expert, but the models, drawings, roof terrace, and sea view quietly taught me something about community."
+excerpt: "Yokosuka Museum of Art — designed by Pritzker Prize winner Riken Yamamoto — is closed for renovation until around August 2026. Here is what to expect when it reopens: how long a visit takes, parking, the rooftop terrace, and the seaside walk nearby, from a local 50-something who visited in person."
 ---
 
 <p><strong>Read time: About 10 minutes</strong></p>
@@ -41,6 +41,19 @@ excerpt: "A casual visit to the Riken Yamamoto exhibition at Yokosuka Museum of 
 <li>People who have heard Riken Yamamoto won the Pritzker Prize but are not sure what makes him special</li>
 <li>Anyone who goes out with their spouse and somehow ends up walking separately</li>
 </ul>
+
+<p><strong>The answer first: Yokosuka Museum of Art at a glance (visited October 2025)</strong></p>
+
+<figure class="wp-block-table"><table>
+<tbody>
+<tr><td><strong>Is it open?</strong></td><td><strong>Closed for renovation until around August 2026.</strong> Check the <a href="https://www.yokosuka-moa.jp/archive/news/2025/data-20251104-189.html" target="_blank" rel="noreferrer noopener">official closure notice</a> before visiting</td></tr>
+<tr><td><strong>Time needed</strong></td><td>About 1 hour for exhibitions + 30 minutes for the building and rooftop terrace. <strong>Plan on 1.5 hours</strong></td></tr>
+<tr><td><strong>Architect</strong></td><td>Riken Yamamoto, 2024 Pritzker Prize winner. <strong>The building itself is the main attraction</strong></td></tr>
+<tr><td><strong>Parking</strong></td><td>Underground parking lot on site (discounted with museum admission)</td></tr>
+<tr><td><strong>Dogs</strong></td><td>Not allowed inside. <strong>A seaside walking path toward Kannonzaki is right next door</strong></td></tr>
+<tr><td><strong>Location</strong></td><td><a href="https://www.google.com/maps/search/?api=1&query=Yokosuka+Museum+of+Art" target="_blank" rel="noreferrer noopener">Open in Google Maps</a> — Kamoi, Yokosuka, near Kannonzaki Park (and not far from the Navy base)</td></tr>
+</tbody>
+</table></figure>
 
 <p><strong>The short version</strong></p>
 

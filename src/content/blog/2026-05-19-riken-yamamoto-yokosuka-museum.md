@@ -1,5 +1,5 @@
 ---
-title: "建築展に来たのに、景色ばっかり見てた。それが正解やったと後で知った話"
+title: "横須賀美術館の休館はいつまで？山本理顕設計の見どころと所要時間を50代が実訪レポ"
 date: "2026-05-19"
 slug: "riken-yamamoto-yokosuka-museum"
 categories: ["healing-walks"]
@@ -7,7 +7,7 @@ tags: ["山本理顕", "横須賀美術館", "建築", "模型", "コミュニ�
 lang: "ja"
 eyecatch: "/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-eyecatch.jpg?v=20260519"
 sns_image_url: "/images/wp-content/uploads/2026/05/riken-yamamoto-yokosuka-museum/riken-yamamoto-yokosuka-museum-sns.jpg?v=20260519"
-excerpt: "妻ともみじと横須賀美術館へ。山本理顕展で模型やドローイングを見ながら、建築に詳しくない50代男性が「人と人のつながり方」を感じた一日の記録です。"
+excerpt: "横須賀美術館は改修工事のため2026年8月頃まで長期休館中。再開後に行く人へ、山本理顕設計の建物の見どころ・所要時間・地下駐車場・犬連れの注意点を、山本理顕展を実際に観た50代が実測レポートします。"
 ---
 
 <p><strong>読了時間：約10分</strong></p>
@@ -40,7 +40,20 @@ excerpt: "妻ともみじと横須賀美術館へ。山本理顕展で模型や�
 <li>妻と出かけると、気づいたら別行動になっている人（僕だけかもしれん）</li>
 </ul>
 
-<p><strong>結論（先に言うておきます）</strong></p>
+<p><strong>結論：横須賀美術館の基本情報（2025年10月実訪・実測）</strong></p>
+
+<figure class="wp-block-table"><table>
+<tbody>
+<tr><td><strong>休館はいつまで？</strong></td><td>改修工事のため<strong>2026年8月頃まで長期休館中</strong>。再開時期は<a href="https://www.yokosuka-moa.jp/archive/news/2025/data-20251104-189.html" target="_blank" rel="noreferrer noopener">公式の休館お知らせ</a>で要確認</td></tr>
+<tr><td><strong>所要時間</strong></td><td>展示ゆっくり見て約1時間＋建物・屋上テラス散策で30分。<strong>合計1時間半</strong>が目安</td></tr>
+<tr><td><strong>設計</strong></td><td>山本理顕（2024年プリツカー賞受賞）。<strong>建物そのものが最大の見どころ</strong></td></tr>
+<tr><td><strong>駐車場</strong></td><td>地下駐車場あり（美術館利用で割引）</td></tr>
+<tr><td><strong>犬連れ</strong></td><td>館内は不可。<strong>帰りに海沿いの散歩コースあり</strong>（観音崎方面）</td></tr>
+<tr><td><strong>場所</strong></td><td><a href="https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E9%A0%88%E8%B3%80%E7%BE%8E%E8%A1%93%E9%A4%A8" target="_blank" rel="noreferrer noopener">Googleマップで開く</a>（横須賀市鴨居・観音崎のすぐ近く）</td></tr>
+</tbody>
+</table></figure>
+
+<p><strong>結論その2（先に言うておきます）</strong></p>
 
 <p>山本理顕は、<strong>建物の形を設計してたんじゃなくて、人と人のつながり方を設計してた人</strong>やと思う。</p>
 

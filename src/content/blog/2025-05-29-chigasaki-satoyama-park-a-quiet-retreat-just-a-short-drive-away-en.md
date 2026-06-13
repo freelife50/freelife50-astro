@@ -1,5 +1,5 @@
 ---
-title: "Chigasaki Satoyama Park — A Quiet Retreat Just a Short Drive Away"
+title: "Is Chigasaki Satoyama Park Dog-Friendly? Free Parking, Trails & What to Expect — A Local's Guide"
 date: "2025-05-29"
 slug: "chigasaki-satoyama-park-a-quiet-retreat-just-a-short-drive-away-en"
 categories: ["healing-walks"]
@@ -7,10 +7,23 @@ tags: ["chigasaki-park", "nature-walk-japan", "dog-friendly-park-japan", "satoya
 eyecatch: "/images/wp-content/uploads/2025/05/PXL_20250528_011049719-scaled.jpg"
 sns_image_url: "/images/wp-content/uploads/2025/05/PXL_20250528_011049719-scaled.jpg"
 lang: "en"
-excerpt: "Chigasaki Satoyama Park is a hidden gem in Kanagawa — a peaceful nature park with forest trails, open fields, and even free parking at the north lot. A perfect half-day escape from the city without the crowds."
+excerpt: "Yes, Chigasaki Satoyama Park in Kanagawa is dog-friendly (leash required). Free entry, free parking at the north lot, forest trails, an old farmhouse, and a quiet shrine — all tested on foot with my Shiba Inu. Here is everything you need to know before you go."
 ---
 
 <p>Lately, I've been feeling a bit worn out — and craving a quiet walk in nature. Not a big trip, not something exhausting. Just a simple, peaceful place to breathe. While browsing the map one day, I spotted <strong>Chigasaki Satoyama Park</strong>. I decided to take my Shiba Inu, Momiji, and go for a drive. I didn't expect much… but what I found was more comforting than I imagined. If you're looking for a dog-friendly nature walk or an easy getaway from city life, this guide is for you.</p>
+
+<p><strong>The answer first: Chigasaki Satoyama Park at a glance (tested with my dog)</strong></p>
+
+<figure class="wp-block-table"><table>
+<tbody>
+<tr><td><strong>Dog-friendly?</strong></td><td><strong>Yes — leashed dogs welcome on all trails</strong> (not inside buildings)</td></tr>
+<tr><td><strong>Entry fee</strong></td><td>Free</td></tr>
+<tr><td><strong>Parking</strong></td><td>East (42 cars) and West (260 cars): 200 yen weekdays / 410 yen weekends. <strong>North lot (99 cars): free</strong></td></tr>
+<tr><td><strong>Time needed</strong></td><td>1–2 hours for a walk; half a day with a BBQ</td></tr>
+<tr><td><strong>Food</strong></td><td>No shop on site — vending machines only, so bring lunch</td></tr>
+<tr><td><strong>Access</strong></td><td>15 min by car from Samukawa-Kita IC (Ken-O Expressway), or bus from JR Chigasaki Station to "Serizawa Iriguchi" + 5 min walk</td></tr>
+</tbody>
+</table></figure>
 
 <p><strong>Table of Contents</strong></p>
 

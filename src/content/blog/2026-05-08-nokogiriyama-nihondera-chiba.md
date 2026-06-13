@@ -1,5 +1,5 @@
 ---
-title: "霧の鋸山日本寺を歩いてきた。千葉のガンダーラで捻挫した話"
+title: "鋸山・日本寺は犬連れOK？所要時間ときつさを50代が実測｜駐車場とロープウェイ料金"
 date: "2026-05-08"
 slug: "nokogiriyama-nihondera-chiba"
 categories: ["healing-walks"]
@@ -7,7 +7,7 @@ tags: ["鋸山", "日本寺", "千葉", "もみじ", "日帰り旅", "地獄の�
 lang: "ja"
 eyecatch: "/images/wp-content/uploads/2026/05/nokogiriyama-momiji-daibutsu.jpg"
 sns_image_url: "/images/wp-content/uploads/2026/05/nokogiriyama-sns.jpg"
-excerpt: "東京から日帰りで行ける千葉県の鋸山日本寺。霧の中のロープウェイ、日本最大級の石製大仏、地獄のぞき、そして千五百羅漢道での捻挫まで、もみじと歩いた半日を正直に書きます。"
+excerpt: "鋸山・日本寺は犬連れOK？（境内リード同伴可・ロープウェイは小型犬300円）。所要時間2時間〜2時間半、駐車場・拝観料・きつさまで、柴犬もみじと実際に歩いた50代が実測データで答えます。捻挫した本人が言う、靴だけはちゃんとしたのを履いてきてください。"
 ---
 
 <p><strong>読了時間：約8分</strong></p>
@@ -38,9 +38,20 @@ excerpt: "東京から日帰りで行ける千葉県の鋸山日本寺。霧の�
 <li>足元の悪い道で転んで捻挫した経験がある方（仲間がいます）</li>
 </ul>
 
-<p><strong>結論（先に言っておく）</strong></p>
+<p><strong>結論：鋸山・日本寺の実測データ（2026年5月・犬連れで全部歩いた）</strong></p>
 
-<p>千葉のガンダーラは本物やった。捻挫したけど、また来たいと思った。</p>
+<figure class="wp-block-table"><table>
+<tbody>
+<tr><td><strong>犬連れOK？</strong></td><td><strong>OK。境内はリード着用で同伴可。</strong>ロープウェイは10kg以下の小型犬のみ片道300円（柴犬もみじはギリギリ通過）</td></tr>
+<tr><td><strong>所要時間</strong></td><td>大仏・千五百羅漢道・地獄のぞき・百尺観音・ラピュタの壁を全部歩いて<strong>2時間〜2時間半</strong></td></tr>
+<tr><td><strong>きつさ</strong></td><td>階段と急坂が多く足元の悪い箇所あり。50代でも歩けるが<strong>歩きやすい靴は必須</strong>（実際に捻挫した本人談）</td></tr>
+<tr><td><strong>料金</strong></td><td>ロープウェイ往復1,200円＋日本寺拝観料700円</td></tr>
+<tr><td><strong>駐車場</strong></td><td>ロープウェイ第1駐車場：土日祝600円</td></tr>
+<tr><td><strong>アクセス</strong></td><td>電車：JR浜金谷駅から徒歩8〜9分。車：アクアライン経由・富津金谷IC</td></tr>
+</tbody>
+</table></figure>
+
+<p>そして感想を一言で言うと：<strong>千葉のガンダーラは本物やった。捻挫したけど、また来たいと思った。</strong></p>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
