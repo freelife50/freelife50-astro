@@ -1,7 +1,7 @@
 ---
 title: "A Spring Day at Kannonzaki with Momiji"
 date: "2025-04-30"
-slug: "this-post-shares-a-peaceful-spring-outing-to-kannonzaki-with-my-wife-en"
+slug: "kannonzaki-spring-walk-momiji-en"
 categories: ["life-with-momiji"]
 tags: ["kannonzaki-views", "shiba-inu-momiji", "spring-by-the-sea", "lighthouse-holiday", "outing-with-momiji"]
 eyecatch: "/images/wp-content/uploads/2025/04/PXL_20250430_032628184-scaled.jpg"

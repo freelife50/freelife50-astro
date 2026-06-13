@@ -3,7 +3,7 @@ title: "From Jogging to Beer: One Guy's 50s Fitness Comeback"
 date: "2025-04-18"
 slug: "from-jogging-to-beer-one-guys-50s-fitness-comeback-en"
 categories: ["prepared-life"]
-tags: ["50代からの挑戦", "ジム習慣はじめました", "フルマラソン再挑戦", "無理しない健康づくり", "運動後のビール最高"]
+tags: ["challenge-after-50", "gym-habit", "full-marathon", "gentle-health", "beer-after-workout"]
 eyecatch: "/images/wp-content/uploads/2025/04/image-1-e1744931885735.jpg"
 sns_image_url: "/images/wp-content/uploads/2025/04/image-1-e1744931885735.jpg"
 lang: "en"

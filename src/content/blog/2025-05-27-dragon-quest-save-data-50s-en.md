@@ -1,9 +1,9 @@
 ---
 title: "My Save Data Began with Dragon Quest I — A Journey I Remember at 50"
 date: "2025-05-27"
-slug: "my-save-data-began-with-dragon-quest-i-a-journey-i-remember-at-50-en"
+slug: "dragon-quest-save-data-50s-en"
 categories: ["shumi-taiken-etc"]
-tags: ["RPGの思い出", "セーブデータの重み", "ドラクエ1", "ドラクエの日", "ファミコン時代の体験"]
+tags: ["rpg-memories", "save-data", "dragon-quest-1", "dragon-quest-day", "famicom-era"]
 eyecatch: "/images/wp-content/uploads/2025/05/23df04e4df77714a53b747683f4c8616.jpg"
 sns_image_url: "/images/wp-content/uploads/2025/05/23df04e4df77714a53b747683f4c8616.jpg"
 lang: "en"

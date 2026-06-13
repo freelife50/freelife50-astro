@@ -1,7 +1,7 @@
 ---
 title: "A Local Sento, Back Pain, and a Small Weekend Reset"
 date: "2025-04-30"
-slug: "this-post-shares-a-short-weekend-story-about-healing-through-warm-en"
+slug: "sento-back-pain-weekend-reset-en"
 categories: ["healing-walks"]
 tags: ["sento-life-in-japan", "ordinary-everyday", "relieving-back-pain", "toast-with-momiji", "living-with-community"]
 eyecatch: "/images/wp-content/uploads/2025/04/PXL_20250429_071620825-1-scaled.jpg"

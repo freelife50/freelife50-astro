@@ -1,9 +1,9 @@
 ---
 title: "Farewell, Shinobi Master – What the End of a Game Taught Me About Goodbyes"
 date: "2025-05-30"
-slug: "farewell-shinobi-master-what-the-end-of-a-game-taught-me-about-en"
+slug: "farewell-shinobi-master-gaming-goodbye-en"
 categories: ["shumi-taiken-etc"]
-tags: ["シノビマスター", "ゲーム文化", "承認欲求", "居場所", "デジタル時代のつながり"]
+tags: ["shinobi-master", "game-culture", "online-community", "digital-belonging", "gaming-farewell"]
 eyecatch: "/images/wp-content/uploads/2025/05/Gemini_Generated_Image_oi43j4oi43j4oi43.jpg"
 sns_image_url: "/images/wp-content/uploads/2025/05/Gemini_Generated_Image_oi43j4oi43j4oi43.jpg"
 lang: "en"

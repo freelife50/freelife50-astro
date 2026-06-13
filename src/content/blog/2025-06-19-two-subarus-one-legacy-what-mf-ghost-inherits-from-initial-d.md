@@ -2,6 +2,7 @@
 title: "MF Ghost and Initial D Connection: Two Subarus, One Legacy for Takumi Fans"
 date: "2025-06-19"
 slug: "two-subarus-one-legacy-what-mf-ghost-inherits-from-initial-d"
+alternateSlug: "昴と彗星-に託されたmfゴーストの系譜-拓海"
 categories: ["shumi-taiken-etc"]
 tags: ["mfghost", "initial-d", "takumi-legacy", "car-manga", "street-racing-culture"]
 lang: "en"

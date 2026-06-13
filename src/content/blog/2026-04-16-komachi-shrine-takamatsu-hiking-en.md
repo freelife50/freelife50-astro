@@ -3,7 +3,7 @@ title: "Takamatsu-yama Hiking from Komachi Shrine | Atsugi, Kanagawa (Parking, T
 date: "2026-04-16"
 slug: "komachi-shrine-takamatsu-hiking-en"
 categories: ["healing-walks"]
-tags: ["ハイキング", "低山歩き", "厚木市", "小町神社", "小野小町"]
+tags: ["hiking", "low-mountain-walk", "atsugi", "komachi-shrine", "ono-no-komachi"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2026/04/IMG_2773.jpg"
 sns_image_url: "/images/wp-content/uploads/2026/04/IMG_2773.jpg"

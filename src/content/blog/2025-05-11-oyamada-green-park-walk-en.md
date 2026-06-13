@@ -1,9 +1,9 @@
 ---
 title: "A Sunday Walk Through Oyamada Green Park with Momiji"
 date: "2025-05-11"
-slug: "this-post-shares-a-peaceful-sunday-spent-walking-through-oyamada-en"
+slug: "oyamada-green-park-walk-en"
 categories: ["healing-walks"]
-tags: ["日曜日の過ごし方", "柴犬もみじ", "心を整える時間", "ピザとビール", "犬との暮らし"]
+tags: ["sunday-routine", "shiba-inu-momiji", "mental-reset", "pizza-and-beer", "life-with-dog"]
 eyecatch: "/images/wp-content/uploads/2025/05/PXL_20250511_020405923-scaled.jpg"
 sns_image_url: "/images/wp-content/uploads/2025/05/PXL_20250511_020405923-scaled.jpg"
 lang: "en"

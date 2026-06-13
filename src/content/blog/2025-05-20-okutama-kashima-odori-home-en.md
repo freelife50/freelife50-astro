@@ -1,9 +1,9 @@
 ---
 title: "Okutama, Kashima Odori, and the Meaning of Home"
 date: "2025-05-20"
-slug: "its-a-reflection-on-cultural-heritage-the-meaning-of-home-and-the-en"
+slug: "okutama-kashima-odori-home-en"
 categories: ["healing-walks"]
-tags: ["鹿島踊り", "伝統芸能", "日本の文化", "無形文化遺産", "ユネスコ登録"]
+tags: ["kashima-odori", "traditional-performing-arts", "japanese-culture", "intangible-cultural-heritage", "unesco"]
 eyecatch: "/images/wp-content/uploads/2025/05/3a38784f303640fd2ed6f3c63cac89ed.jpg"
 sns_image_url: "/images/wp-content/uploads/2025/05/3a38784f303640fd2ed6f3c63cac89ed.jpg"
 lang: "en"

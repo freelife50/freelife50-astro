@@ -1,9 +1,9 @@
 ---
 title: "Rainy Day Hiking in Tanzawa, Japan: Mountain Lodge Food & Workman Rain Gear Review"
 date: "2025-10-18"
-slug: "proved-in-the-rain-a-50s-hikers-challenge-in-tanzawa"
+slug: "tanzawa-hiking-workman-xshelter-en"
 categories: ["healing-walks"]
-tags: ["丹沢登山", "みやま山荘", "ワークマン", "xshelter", "50代の挑戦"]
+tags: ["tanzawa-hiking", "miyama-sanso", "workman", "xshelter", "50s-challenge"]
 lang: "en"
 eyecatch: "/images/wp-content/uploads/2025/10/PXL_20251016_200652211.jpg"
 sns_image_url: "/images/wp-content/uploads/2025/10/PXL_20251016_200652211.jpg"

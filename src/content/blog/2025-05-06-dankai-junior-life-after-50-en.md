@@ -1,9 +1,9 @@
 ---
 title: "Rebuilding Life After 50: Health, Money, and the Dankai Junior Generation"
 date: "2025-05-06"
-slug: "this-post-shares-personal-reflections-from-someone-in-japans-dankai-en"
+slug: "dankai-junior-life-after-50-en"
 categories: ["food-nostalgia"]
-tags: ["団塊ジュニア", "50代ライフ", "健康は資産", "お金の見える化", "サブスク見直し"]
+tags: ["dankai-junior", "life-after-50", "health-is-wealth", "money-management", "subscription-review"]
 eyecatch: "/images/wp-content/uploads/2025/05/644bb5b565bd9ca4c53b4603b2274b50.jpg"
 sns_image_url: "/images/wp-content/uploads/2025/05/644bb5b565bd9ca4c53b4603b2274b50.jpg"
 lang: "en"

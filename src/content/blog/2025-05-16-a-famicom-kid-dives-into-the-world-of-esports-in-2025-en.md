@@ -3,7 +3,7 @@ title: "A Famicom Kid Dives into the World of Esports in 2025"
 date: "2025-05-16"
 slug: "a-famicom-kid-dives-into-the-world-of-esports-in-2025-en"
 categories: ["shumi-taiken-etc"]
-tags: ["eスポーツ", "reject", "ウメハラ", "ファミコン世代", "高橋名人"]
+tags: ["esports", "reject", "daigo-umehara", "famicom-generation", "takahashi-meijin"]
 eyecatch: "/images/wp-content/uploads/2025/05/c55b5dbacc58142b4fb8937cc3f7c186.jpg"
 sns_image_url: "/images/wp-content/uploads/2025/05/c55b5dbacc58142b4fb8937cc3f7c186.jpg"
 lang: "en"

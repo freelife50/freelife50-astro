@@ -3,7 +3,7 @@ title: "Earthquake Prep in Japan: Why Water Matters Most"
 date: "2025-06-01"
 slug: "they-say-a-big-quake-might-hit-but-if-theres-no-water-even-the-toilet-en"
 categories: ["prepared-life"]
-tags: ["防災対策", "ローリングストック", "水の備え", "備える暮らし", "50代ライフ"]
+tags: ["disaster-preparedness", "rolling-stock", "water-supply", "preparedness-lifestyle", "life-after-50"]
 eyecatch: "/images/wp-content/uploads/2025/06/Gemini_Generated_Image_xcnwpxcnwpxcnwpx.jpg"
 sns_image_url: "/images/wp-content/uploads/2025/06/Gemini_Generated_Image_xcnwpxcnwpxcnwpx.jpg"
 lang: "en"

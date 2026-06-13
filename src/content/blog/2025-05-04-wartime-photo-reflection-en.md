@@ -1,7 +1,7 @@
 ---
 title: "A Wartime Photo and a Quiet Thought on Peace"
 date: "2025-05-04"
-slug: "this-post-shares-a-quiet-moment-of-reflection-sparked-by-a-wartime-en"
+slug: "wartime-photo-reflection-en"
 categories: ["society-issues-thoughts"]
 tags: ["everyday-peace", "memory-of-war", "quiet-compassion", "constitution-memorial-day", "pass-it-on"]
 eyecatch: "/images/wp-content/uploads/2025/05/b66b32b03c1bffe5a2b71a1d9279ee2b.jpg"

@@ -3,7 +3,7 @@ title: "What does it mean to be strong?"
 date: "2025-05-11"
 slug: "what-does-it-mean-to-be-strong-en"
 categories: ["society-issues-thoughts"]
-tags: ["六方一座", "WIND_BREAKER", "強さとは", "静かな強さ", "roppou-ichiza"]
+tags: ["roppo-ichiza", "wind-breaker", "what-is-strength", "quiet-strength", "manga-philosophy"]
 eyecatch: "/images/wp-content/uploads/2025/05/1e1a6eef2865272b0b6ffe0d9b8352bb.jpg"
 sns_image_url: "/images/wp-content/uploads/2025/05/1e1a6eef2865272b0b6ffe0d9b8352bb.jpg"
 lang: "en"
