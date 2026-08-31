@@ -109,7 +109,7 @@ excerpt: "Yadoriki Nanatsuboshi Dog Run in Matsuda Town, Kanagawa has 8 fenced a
 
 <p>Other dogs were enjoying it too. One big dog just stood chest-deep in the water, motionless, cooling off — honestly indistinguishable from a middle-aged man soaking in a cold bath at a sauna. Living the dream, buddy.</p>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/08/yadoriki-dogrun-pool-dogs.jpg" alt="Shiba Inu Momiji playing in the pool with a black dog" /><figcaption class="wp-block-element-caption">With a new black friend. Dogs are oddly peaceful in water</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/08/yadoriki-dogrun-ossan.jpg" alt="A Bernese Mountain Dog soaking chest-deep in the middle of the dog pool" /><figcaption class="wp-block-element-caption">The big senior, cooling off in this exact pose the whole time. Indistinguishable from a middle-aged man in a cold bath</figcaption></figure>
 
 <iframe width="100%" style="aspect-ratio:9/16;max-width:400px" src="https://www.youtube.com/embed/J8TSD4ckhT4" title="Shiba Inu Pool Party #Shorts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 

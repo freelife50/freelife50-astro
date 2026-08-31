@@ -109,7 +109,7 @@ excerpt: "神奈川県松田町の寄（やどりき）七つ星ドッグラン�
 
 <p>まわりには他の犬たち。でかい犬が、ずーっと水の中で涼んでました。いや、あれはもう水風呂につかってるおっさんや。気持ちよさそうやなー。</p>
 
-<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/08/yadoriki-dogrun-pool-dogs.jpg" alt="プールで遊ぶ柴犬もみじと黒い犬" /><figcaption class="wp-block-element-caption">黒いお友達と。犬同士、水の中では妙に平和です</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/08/yadoriki-dogrun-ossan.jpg" alt="プールの真ん中で胸まで水につかって涼むバーニーズ・マウンテン・ドッグ" /><figcaption class="wp-block-element-caption">ずーっとこの姿勢で涼む大きい先輩。完全に水風呂につかってるおっさんや</figcaption></figure>
 
 <iframe width="100%" style="aspect-ratio:9/16;max-width:400px" src="https://www.youtube.com/embed/J8TSD4ckhT4" title="犬たちと天然水プール！柴犬もみじの夏｜Shiba Inu Pool Party #Shorts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 
