@@ -13,9 +13,10 @@ const published = sortByNewest(allPosts);
 const isEn = lang === 'en';
 const recent = published.filter(p => languageMatches(p, lang)).slice(0, 5);
 const languagePosts = published.filter(p => languageMatches(p, lang));
+// GA4直近28日の実PV順（2026-08-27更新・毎月1日のスケジュールタスクで見直し）
 const popularSlugs = isEn
-  ? ['atsugi-kodomo-no-mori-park-en']
-  : ['atsugi-kodomo-no-mori-park', 'coconala-phone-fortune-telling-50s', 'zama-serizawa-park-underground-factory'];
+  ? ['kanagawa-dog-friendly-parks-10-en', 'wnv-dog-pool-price-en', 'yuhi-no-taki-parking-dog-en']
+  : ['yuhi-no-taki-parking-dog', 'nakamoto-hashimoto-hokkyoku-10bai', 'atsugi-kodomo-no-mori-park'];
 const popular = popularSlugs
   .map(slug => languagePosts.find(post => post.data.slug === slug))
   .filter(Boolean)

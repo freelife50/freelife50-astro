@@ -14,7 +14,8 @@ const sorted = sortByNewest(allPosts.filter(p => languageMatches(p, 'ja')));
 
 const posts = sorted.slice(0, PAGE_SIZE);
 const totalPages = Math.ceil(sorted.length / PAGE_SIZE);
-const popularSlugs = ['atsugi-kodomo-no-mori-park', 'coconala-phone-fortune-telling-50s', 'zama-serizawa-park-underground-factory'];
+// GA4直近28日の実PV順（2026-08-27更新・毎月1日のスケジュールタスクで見直し）
+const popularSlugs = ['yuhi-no-taki-parking-dog', 'nakamoto-hashimoto-hokkyoku-10bai', 'atsugi-kodomo-no-mori-park'];
 const popularPosts = popularSlugs
   .map(slug => sorted.find(post => post.data.slug === slug))
   .filter(Boolean);
