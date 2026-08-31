@@ -83,6 +83,10 @@ excerpt: "Yadoriki Nanatsuboshi Dog Run in Matsuda Town, Kanagawa has 8 fenced a
 
 <p>I had a small flashback at the entrance. At <a href="/wnv-dog-pool-price-en/">Wonderful Nature Village in Akiruno, the dog pool alone cost 2,500 yen per dog</a>. So I braced myself here — and found there's no pool fee line item at all. Just people and dog admission. I actually said "ooh, nice!" out loud.</p>
 
+<p>One near-miss, though. It turns out <strong>the riverside area next to the dog run costs an extra 800 yen</strong> to enter. Beyond the fence I could see people doing what looked like a barbecue. Looked fun. And here's the dangerous part: my ears heard "<strong>80 yen</strong>." What a bargain! I was one breath away from saying "we'll take the riverside too."</p>
+
+<p>I asked my wife, "Should we?" She said, "We don't really need it, do we?" That one sentence saved me. Only later did I realize: not 80 yen — 800. Close call 💦 Thank you, wife. In the end, the dog run and pool were more than enough for Momiji. But if you want the riverside barbecue experience, budget that extra 800 yen.</p>
+
 <h2 id="area">Eight Fenced Areas: The Layout</h2>
 
 <figure class="wp-block-image size-large"><img src="/images/wp-content/uploads/2026/08/yadoriki-dogrun-entrance.jpg" alt="Entrance gate with an arch reading Yadoriki Fureai Dog Run" /><figcaption class="wp-block-element-caption">12:55, the entrance gate. The moment we pass under the arch, Momiji's pace changes. She knows</figcaption></figure>
@@ -162,7 +166,7 @@ excerpt: "Yadoriki Nanatsuboshi Dog Run in Matsuda Town, Kanagawa has 8 fenced a
 <tr><td><strong>Address</strong></td><td>Yadoriki 5605, Matsuda Town, Ashigarakami District, Kanagawa, Japan</td></tr>
 <tr><td><strong>Access</strong></td><td>By car: ~15 min from Shin-Hadano IC (Shin-Tomei Expwy) or ~20 min from Oi-Matsuda IC (Tomei Expwy). By train/bus: bus from Odakyu Shin-Matsuda Station to Yatoguchibashi stop, then a 3–4 min walk</td></tr>
 <tr><td><strong>Parking</strong></td><td>Available, 500 yen per car (about 50 spaces)</td></tr>
-<tr><td><strong>Fees</strong></td><td>Adults 330 yen, children (3–17) 220 yen, dogs 440 yen each. Pool and stream included. Shower & blower 100 yen per 10 min (on-site signs, as of Aug 30, 2026)</td></tr>
+<tr><td><strong>Fees</strong></td><td>Adults 330 yen, children (3–17) 220 yen, dogs 440 yen each. Pool and stream included. Shower & blower 100 yen per 10 min. The adjacent riverside area costs an extra 800 yen (confirmed on site, Aug 30, 2026)</td></tr>
 <tr><td><strong>Hours</strong></td><td>Mar–Sep 9:00–17:00, Oct–Feb 9:00–16:00 (last entry 30 min before closing). Closed Tuesdays (open if a holiday) and Dec 29–Jan 3</td></tr>
 <tr><td><strong>Dog policy</strong></td><td>Dogs welcome, obviously. <strong>Membership registration and proof of rabies vaccination within one year are mandatory.</strong> Pool is seasonal (summer); weekends/holidays use a numbered-tag rotation (10–15 min per family)</td></tr>
 <tr><td><strong>Official info</strong></td><td><a href="https://yadoriki.com/spot-dogrun/" target="_blank" rel="noreferrer noopener">Yadoriki Nanatsuboshi Dog Run (Yadoriki area official site, Japanese)</a>. For same-day conditions, check their Instagram Stories or call 0465-89-3113</td></tr>
